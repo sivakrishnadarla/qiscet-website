@@ -7,6 +7,7 @@ import { organizationJsonLd, websiteJsonLd } from '@/lib/seo';
 import Header from '@/components/layout/Header';
 import Footer from '@/components/layout/Footer';
 import FloatingActions from '@/components/layout/FloatingActions';
+import SeatSetuWidget from '@/components/layout/SeatSetuWidget';
 import HideOnAdmin from '@/components/layout/HideOnAdmin';
 import JsonLd from '@/components/seo/JsonLd';
 
@@ -55,6 +56,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
         <HideOnAdmin>
           <Footer />
           <FloatingActions />
+          <SeatSetuWidget />
         </HideOnAdmin>
         {site.gtmId ? (
           <>
