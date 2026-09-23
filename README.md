@@ -1,7 +1,7 @@
 # QIS College of Engineering & Technology — website
 
 A rebuilt public website for [QISCET, Ongole](https://qiscet.edu.in/qiscet/): new layout and a navy + saffron design, with the college’s real pages, photographs, NAP and documents. Built as a monorepo so it can go straight into Git and onto Vercel.
-
+ 
 ```
 qiscet-website/
 ├── apps/web    Next.js 14 (React) — the website
