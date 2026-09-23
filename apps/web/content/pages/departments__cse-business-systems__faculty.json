@@ -1,0 +1,17 @@
+{
+ "slug": "departments/cse-business-systems/faculty",
+ "section": "departments",
+ "sectionTitle": "Departments",
+ "title": "Faculty – Computer Science & Engineering and Business Systems",
+ "legacy": "https://qiscet.edu.in/qiscet/DEPARTMENTS_cse_bs_faculty_list.php",
+ "summary": null,
+ "blocks": [
+  {
+   "type": "document",
+   "href": "https://qiscet.edu.in/qiscet/Faculty/QISCET%20-%20CSE%26BS%20-%20Faculty%20List.pdf",
+   "label": "View document (PDF)"
+  }
+ ],
+ "department": "cse-business-systems",
+ "pageTitle": "Faculty"
+}

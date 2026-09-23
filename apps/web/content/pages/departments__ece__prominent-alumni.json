@@ -1,0 +1,27 @@
+{
+ "slug": "departments/ece/prominent-alumni",
+ "section": "departments",
+ "sectionTitle": "Departments",
+ "title": "Prominent Alumni – Electronics & Communication Engineering",
+ "legacy": "https://qiscet.edu.in/qiscet/DEPARTMENTS_ece_Prominent_Alumni_Members.php",
+ "summary": null,
+ "blocks": [
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    {
+     "text": "Prominent Alumni Members",
+     "links": [
+      {
+       "label": "Prominent Alumni Members",
+       "href": "https://qiscet.edu.in/qiscet/departments/ece/Alumni%20data.pdf"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "department": "ece",
+ "pageTitle": "Prominent Alumni"
+}

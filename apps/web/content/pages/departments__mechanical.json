@@ -1,0 +1,310 @@
+{
+ "slug": "departments/mechanical",
+ "section": "departments",
+ "sectionTitle": "Departments",
+ "title": "Mechanical Engineering",
+ "legacy": "https://qiscet.edu.in/qiscet/DEPARTMENTS_me.php",
+ "summary": "The department of Mechanical Engineering was established in the year 1998. The department offers B.Tech (Mechanical Engineering) from the academic year 1998 – 1999, M.Tech (Machine Design) from the…",
+ "blocks": [
+  {
+   "type": "paragraph",
+   "text": "The department of Mechanical Engineering was established in the year 1998. The department offers B.Tech (Mechanical Engineering) from the academic year 1998 – 1999, M.Tech (Machine Design) from the academic year 2009 – 2010 and M.Tech (Thermal Engineering) from the academic year 2012 – 2013. The department became an approved research centre of JNTUK University in the year 2014. Our vision is to be an eminent Centre of Excellence in the field of Mechanical Engineering, where teaching, learning and research synergize to deliver technical education and scientific research for public good. Our mission is to create efficient Mechanical Engineers who can compete at the global level. We intend to do this by creating a research hub engaged in contemporary research in association with industries. The projects and hands-on activities are designed to foster a spirit of entrepreneurship among students and to enable a few to launch their own ventures"
+  },
+  {
+   "type": "paragraph",
+   "text": "The department has qualified and experienced faculty members; many of them are with Ph.D. degree. The faculty members actively engage in research and constantly publish papers in International and National Journals. The department regularly organizes technical workshops for the faculty members to expose them to emerging areas. The department has state-of-the art facilities for various laboratories, department library and classrooms to support e-learning. The department has a well-equipped centralized workshop facility which caters to the needs of various departments. Guest lectures and industrial visits are periodically arranged for the students to supplement their curriculum. We strive for all round excellence in students, encouraging them in all extracurricular activities."
+  },
+  {
+   "type": "heading",
+   "text": "Courses",
+   "level": 4
+  },
+  {
+   "type": "table",
+   "rows": [
+    [
+     {
+      "text": "Courses Offered"
+     },
+     {
+      "text": "Intake"
+     }
+    ],
+    [
+     {
+      "text": "B.Tech - ME (Mechanical Engineering)"
+     },
+     {
+      "text": "60"
+     }
+    ],
+    [
+     {
+      "text": "M.Tech - TE (THERMAL ENGINEERING)"
+     },
+     {
+      "text": "18"
+     }
+    ]
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "Vision",
+   "level": 4
+  },
+  {
+   "type": "paragraph",
+   "text": "The vision of the Department of Mechanical Engineering is to be globally recognized as a centre of excellence in providing mechanical engineering education leading to well qualified engineers with techno managerial skill who are innovative, industry ready successful in advanced studies and research, and cater to the needs of the society."
+  },
+  {
+   "type": "heading",
+   "text": "Mission",
+   "level": 4
+  },
+  {
+   "type": "list",
+   "ordered": true,
+   "items": [
+    {
+     "text": "To Provide the facilities and environment conductive to a high quality value based education, well grounding the students in the fundamental principles of engineering and preparing then for diverse careers."
+    },
+    {
+     "text": "To Provide impetus to industry institute relation, to imbibe social, ethical, managerial and entrepreneurial values in students."
+    },
+    {
+     "text": "To Engage in academic and scholarly activities, which strengthen the departmental's regional, national and international reputation."
+    },
+    {
+     "text": "To provide research that generates technically capable Mechanical Engineering professionals to serve the society with delight and gratification."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "B.Tech",
+   "level": 4
+  },
+  {
+   "type": "heading",
+   "text": "Programme Educational Objectives Of B.Tech (ME)",
+   "level": 4
+  },
+  {
+   "type": "list",
+   "ordered": true,
+   "items": [
+    {
+     "text": "LEARN AND INTEGRATE- Graduate shall have knowledge in applied and basic engineering sciences to understand engineering principles which is necessary to formulate and solve problems related to Mechanical Engineering."
+    },
+    {
+     "text": "THINK AND CREATE- Graduate shall have knowledge in experimentation, analysis and synthesis of Mechanical Engineering courses to Design/Innovate and create novel products/Solutions to real life problems."
+    },
+    {
+     "text": "PRACTICE CITIZENSHIP- Graduate shall have Managerial and entrepreneur skills, ethical and professional attitude in multidisciplinary approach to meet the needs of industry and society."
+    },
+    {
+     "text": "EXPERTISE- Graduate shall go for further studies, research, lifelong learning to adopt oneself in the phase of changing technologies to ensure the students to success in engineering position globally."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "Programme Outcomes Of B.Tech (ME)",
+   "level": 4
+  },
+  {
+   "type": "list",
+   "ordered": true,
+   "items": [
+    {
+     "text": "Engineering Knowledge: Apply the knowledge of mathematics, science, engineering fundamentals, and an engineering specialization to the solution of complex engineering problems."
+    },
+    {
+     "text": "Problem Analysis: Identify, formulate, review research literature, and analyze complex engineering problems reaching substantiated conclusions using first principles of mathematics, natural sciences, and engineering sciences."
+    },
+    {
+     "text": "Design/development of solutions: Design solutions for complex engineering problems and design system components or processes that meet the specified needs with appropriate consideration for the public health and safety, and the cultural, societal, and environmental considerations."
+    },
+    {
+     "text": "Conduct investigations of complex problems: Use research-based knowledge and research methods including design of experiments, analysis and interpretation of data, and synthesis of the information to provide valid conclusions."
+    },
+    {
+     "text": "Modern Tool Usage: Create, select, and apply appropriate techniques, resources, and modern engineering and IT tools including prediction and modeling to complex engineering activities with an understanding of the limitations."
+    },
+    {
+     "text": "The Engineer and Society: Apply reasoning informed by the contextual knowledge to assess societal, health, safety, legal and cultural issues and the consequent responsibilities relevant to the professional engineering practice."
+    },
+    {
+     "text": "Environment and Sustainability: Understand the impact of the professional engineering solutions in societal and environmental contexts, and demonstrate the knowledge of, and need for sustainable development."
+    },
+    {
+     "text": "Ethics: Apply ethical principles and commit to professional ethics and responsibilities and norms of the engineering practice."
+    },
+    {
+     "text": "Individual and Team work: Function effectively as an individual, and as a member or leader in diverse teams, and in multidisciplinary settings."
+    },
+    {
+     "text": "Communication: Communicate effectively on complex engineering activities with the engineering community and with society at large, such as, being able to comprehend and write effective reports and design documentation, make effective presentations, and give and receive clear instructions."
+    },
+    {
+     "text": "Project Management and Finance: Demonstrate knowledge and understanding of the engineering and management principles and apply these to one’s own work, as a member and leader in a team, to manage projects and in multidisciplinary environments."
+    },
+    {
+     "text": "Life-long Learning: Recognize the need for, and have the preparation and ability to engage in independent and life-long learning in the broadest context of technological change."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "Programme Specific Out Comes Of B.Tech (ME)",
+   "level": 4
+  },
+  {
+   "type": "list",
+   "ordered": true,
+   "items": [
+    {
+     "text": "MECHINICAL SOFTWARE'S CENTRIC DOMAIN:Able to function in a software industry in the areas of design and development of software tools such as AutoCAD, Solid works, CFD, ANSYS."
+    },
+    {
+     "text": "CORE TECHNICAL FIELD: Able to work in power plant and manufacturing industries in the sphere of operation and maintenance."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "M.Tech (TE)",
+   "level": 4
+  },
+  {
+   "type": "heading",
+   "text": "Programme Educational Objectives Of M.Tech (TE)",
+   "level": 4
+  },
+  {
+   "type": "list",
+   "ordered": true,
+   "items": [
+    {
+     "text": "To train students with in-depth and advanced knowledge to become professionals in the areas of thermal engineering and related fields capable of identifying, analysing and solving complex problems."
+    },
+    {
+     "text": "To enable graduates to carry out innovative and independent research work in academia/industry to develop thermal systems and processes and to disseminate the knowledge"
+    },
+    {
+     "text": "To prepare the students to exhibit a high level of professionalism, integrity, environmental and social responsibility, and life-long independent learning ability"
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "Programme Outcomes Of M.Tech (TE)",
+   "level": 4
+  },
+  {
+   "type": "list",
+   "ordered": true,
+   "items": [
+    {
+     "text": "An ability to acquire and apply advanced knowledge in the area of thermal sciences."
+    },
+    {
+     "text": "An ability to solve problems in the field of thermal sciences by using advanced techniques."
+    },
+    {
+     "text": "An ability to conduct independent research and generate new knowledge for the benefit of mankind."
+    },
+    {
+     "text": "An ability to use various numerical methods and software tools to model and analyse thermal engineering problems."
+    },
+    {
+     "text": "An ability to work effectively in interdisciplinary teams to develop efficient thermal systems for the society."
+    },
+    {
+     "text": "An ability to apply engineering and scientific principles for the effective management of thermal systems."
+    },
+    {
+     "text": "An ability to effectively communicate through technical reports, presentations and scientific publications with the engineering community as well as society at large."
+    },
+    {
+     "text": "An ability to engage in life-long independent learning with high level of enthusiasm and commitment"
+    },
+    {
+     "text": "An ability to maintain a high level of professional and intellectual integrity, ethics of research and scholarly standards."
+    },
+    {
+     "text": "An ability to examine critically the outcomes of one's actions and make corrective measures subsequently."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "M.Tech (MD)",
+   "level": 4
+  },
+  {
+   "type": "heading",
+   "text": "Programme Educational Objectives Of M.Tech (MD)",
+   "level": 4
+  },
+  {
+   "type": "list",
+   "ordered": true,
+   "items": [
+    {
+     "text": "To train students with in-depth and advanced knowledge to become highly skilled professionals in the areas of design and allied fields capable of analysing and solving complex engineering problems."
+    },
+    {
+     "text": "To enable graduates to carry out innovative and independent research work in academia/industry to enhance the design skills and to disseminate the knowledge."
+    },
+    {
+     "text": "To prepare the students to exhibit a high level of professionalism, integrity, social responsibility and life-long independent learning ability."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "Programme Outcomes Of M.Tech (MD)",
+   "level": 4
+  },
+  {
+   "type": "list",
+   "ordered": true,
+   "items": [
+    {
+     "text": "An ability to acquire and share in-depth knowledge in the area of desigjn engineering."
+    },
+    {
+     "text": "An ability to analyse complex problems in the field of design Engineering critically and arrive at optimal solutions."
+    },
+    {
+     "text": "An ability to conduct independent research and generate new knowledge for the benefit of society."
+    },
+    {
+     "text": "An ability to use modern computer/ software tools to model and analyse Design problems."
+    },
+    {
+     "text": "An ability to work effectively in interdisciplinary teams to develop and design useful products for mankind."
+    },
+    {
+     "text": "An ability to apply engineering and management principles for improving design systems."
+    },
+    {
+     "text": "\"An ability to effectively communicate through technical reports, presentations and scientific publications with the engineering community as well as society at large. \""
+    },
+    {
+     "text": "An ability to engage in life-long independent learning with high level of enthusiasm and commitment."
+    },
+    {
+     "text": "An ability to maintain a high level of professional and intellectual integrity, ethics of research and scholarly standards."
+    },
+    {
+     "text": "An ability to examine critically the outcomes of ones actions and make corrective measures subsequently."
+    }
+   ]
+  }
+ ],
+ "department": "mechanical",
+ "isDepartmentHome": true
+}

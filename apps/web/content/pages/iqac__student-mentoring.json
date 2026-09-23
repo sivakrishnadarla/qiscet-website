@@ -1,0 +1,15 @@
+{
+ "slug": "iqac/student-mentoring",
+ "section": "iqac",
+ "sectionTitle": "IQAC",
+ "title": "Student Mentoring",
+ "legacy": "https://qiscet.edu.in/qiscet/IQAC_student_mentoring.php",
+ "summary": null,
+ "blocks": [
+  {
+   "type": "document",
+   "href": "https://qiscet.edu.in/qiscet/iqac/Student%20Mentoring.pdf",
+   "label": "View document (PDF)"
+  }
+ ]
+}

@@ -1,0 +1,27 @@
+{
+ "slug": "departments/civil/student-enrollment",
+ "section": "departments",
+ "sectionTitle": "Departments",
+ "title": "Student Enrollment – Civil Engineering",
+ "legacy": "https://qiscet.edu.in/qiscet/DEPARTMENTS_ce_Admissions.php",
+ "summary": null,
+ "blocks": [
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    {
+     "text": "Student Enrollment",
+     "links": [
+      {
+       "label": "Student Enrollment",
+       "href": "https://qiscet.edu.in/qiscet/departments/civil/ADMISSIONS.pdf"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "department": "civil",
+ "pageTitle": "Student Enrollment"
+}

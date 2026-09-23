@@ -1,0 +1,43 @@
+{
+ "slug": "academics/disciplinary-regulations",
+ "section": "academics",
+ "sectionTitle": "Academics",
+ "title": "Disciplinary Regulations",
+ "legacy": "https://qiscet.edu.in/qiscet/ACADEMICS_Disciplinary_Regulations.php",
+ "summary": null,
+ "blocks": [
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    {
+     "text": "Disciplinary Regulations R23",
+     "links": [
+      {
+       "label": "Disciplinary Regulations R23",
+       "href": "https://qiscet.edu.in/qiscet/acadamics/R23_Disciplinary_Regulations.pdf"
+      }
+     ]
+    },
+    {
+     "text": "Disciplinary Regulations R20",
+     "links": [
+      {
+       "label": "Disciplinary Regulations R20",
+       "href": "https://qiscet.edu.in/qiscet/acadamics/Disciplinary%20Regulations%20R20.pdf"
+      }
+     ]
+    },
+    {
+     "text": "Disciplinary Regulations R18",
+     "links": [
+      {
+       "label": "Disciplinary Regulations R18",
+       "href": "https://qiscet.edu.in/qiscet/acadamics/Academic%20Regulations%20R18.pdf"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

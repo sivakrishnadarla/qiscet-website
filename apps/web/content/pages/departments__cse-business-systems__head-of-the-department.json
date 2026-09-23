@@ -1,0 +1,73 @@
+{
+ "slug": "departments/cse-business-systems/head-of-the-department",
+ "section": "departments",
+ "sectionTitle": "Departments",
+ "title": "Head of the Department – Computer Science & Engineering and Business Systems",
+ "legacy": "https://qiscet.edu.in/qiscet/DEPARTMENTS_cse_bs_hod.php",
+ "summary": null,
+ "blocks": [
+  {
+   "type": "table",
+   "rows": [
+    [
+     {
+      "text": "HOD Name:"
+     },
+     {
+      "text": "Dr. Kale Masthan rao"
+     }
+    ],
+    [
+     {
+      "text": "Designation:"
+     },
+     {
+      "text": "Asst. Professor & HOD"
+     }
+    ],
+    [
+     {
+      "text": "Qualification:"
+     },
+     {
+      "text": "M.Tech, Ph.D"
+     }
+    ],
+    [
+     {
+      "text": "Email:"
+     },
+     {
+      "text": "kale.masthan@qiscet.edu.in"
+     }
+    ],
+    [
+     {
+      "text": "Contact No:"
+     },
+     {
+      "text": "9247105525"
+     }
+    ],
+    [
+     {
+      "text": "Areas of Interest:"
+     },
+     {
+      "text": "Information Security, Image Processing, Machine Learning, Computer Networks"
+     }
+    ],
+    [
+     {
+      "text": "Experience:"
+     },
+     {
+      "text": "14 years"
+     }
+    ]
+   ]
+  }
+ ],
+ "department": "cse-business-systems",
+ "pageTitle": "Head of the Department"
+}

@@ -1,0 +1,170 @@
+{
+ "slug": "departments/mechanical/syllabus",
+ "section": "departments",
+ "sectionTitle": "Departments",
+ "title": "Syllabus – Mechanical Engineering",
+ "legacy": "https://qiscet.edu.in/qiscet/DEPARTMENTS_me_syllabus.php",
+ "summary": null,
+ "blocks": [
+  {
+   "type": "table",
+   "rows": [
+    [
+     {
+      "text": "Regulation"
+     },
+     {
+      "text": "B.Tech",
+      "colspan": 8
+     }
+    ],
+    [
+     {
+      "text": "R-23 Regulation"
+     },
+     {
+      "text": "B.Tech Syllabus",
+      "links": [
+       {
+        "label": "B.Tech Syllabus",
+        "href": "https://qiscet.edu.in/qiscet/departments/me/syl_reg/R23%20ME%20UG.pdf"
+       }
+      ],
+      "colspan": 8
+     }
+    ],
+    [
+     {
+      "text": "R-20 Regulation"
+     },
+     {
+      "text": "B.Tech Syllabus",
+      "links": [
+       {
+        "label": "B.Tech Syllabus",
+        "href": "https://qiscet.edu.in/qiscet/departments/me/data/R20%20ME%20UG.pdf"
+       }
+      ],
+      "colspan": 8
+     }
+    ],
+    [
+     {
+      "text": "R-18 Regulation"
+     },
+     {
+      "text": "B.Tech Syllabus",
+      "links": [
+       {
+        "label": "B.Tech Syllabus",
+        "href": "https://qiscet.edu.in/qiscet/departments/me/syl_reg/r18_ug_ME%20Book.pdf"
+       }
+      ],
+      "colspan": 8
+     }
+    ],
+    [
+     {
+      "text": "R-15 Regulation"
+     },
+     {
+      "text": "B.Tech Syllabus",
+      "links": [
+       {
+        "label": "B.Tech Syllabus",
+        "href": "https://qiscet.edu.in/qiscet/departments/me/syl_reg/R15%20me%20ug.pdf"
+       }
+      ],
+      "colspan": 8
+     }
+    ],
+    [
+     {
+      "text": "Regulation"
+     },
+     {
+      "text": "M.Tech",
+      "colspan": 8
+     }
+    ],
+    [
+     {
+      "text": "R-23 Regulation"
+     },
+     {
+      "text": "M.Tech Syllabus",
+      "links": [
+       {
+        "label": "M.Tech Syllabus",
+        "href": "https://qiscet.edu.in/qiscet/departments/me/syl_reg/R23%20ME%20PG.pdf"
+       }
+      ],
+      "colspan": 8
+     }
+    ],
+    [
+     {
+      "text": "R-20 Regulation"
+     },
+     {
+      "text": "MD Syllabus",
+      "links": [
+       {
+        "label": "MD Syllabus",
+        "href": "https://qiscet.edu.in/qiscet/departments/me/syl_reg/M.Tech%20R20%20Machine%20Design-Reg.pdf"
+       }
+      ],
+      "colspan": 8
+     }
+    ],
+    [
+     {
+      "text": "R-20 Regulation"
+     },
+     {
+      "text": "TE Syllabus",
+      "links": [
+       {
+        "label": "TE Syllabus",
+        "href": "https://qiscet.edu.in/qiscet/departments/me/syl_reg/M.Tech%20R20%20Thermal%20Engg%20Course%20structure-Reg.pdf"
+       }
+      ],
+      "colspan": 8
+     }
+    ],
+    [
+     {
+      "text": "R-18 Regulation"
+     },
+     {
+      "text": "MD Syllabus",
+      "links": [
+       {
+        "label": "MD Syllabus",
+        "href": "https://qiscet.edu.in/qiscet/departments/me/syl_reg/R18_ME_MD.pdf"
+       }
+      ],
+      "colspan": 8
+     }
+    ],
+    [
+     {
+      "text": "R-18 Regulation"
+     },
+     {
+      "text": "TE Syllabus",
+      "links": [
+       {
+        "label": "TE Syllabus",
+        "href": "https://qiscet.edu.in/qiscet/departments/me/syl_reg/R18_ME_TE.pdf"
+       }
+      ],
+      "colspan": 8
+     }
+    ]
+   ]
+  }
+ ],
+ "department": "mechanical",
+ "pageTitle": "Syllabus"
+}

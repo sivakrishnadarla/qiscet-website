@@ -1,0 +1,93 @@
+{
+ "slug": "student-life/nss-objectives",
+ "section": "student-life",
+ "sectionTitle": "Student Life",
+ "title": "NSS Objectives",
+ "legacy": "https://qiscet.edu.in/qiscet/ACADEMICS_Extra_Curricular_Activities_NSS_Objectives.php",
+ "summary": null,
+ "blocks": [
+  {
+   "type": "heading",
+   "text": "Objectives",
+   "level": 2
+  },
+  {
+   "type": "list",
+   "ordered": true,
+   "items": [
+    {
+     "text": "The main objectives of National Service Scheme (NSS) are : Understand the community in which they work Understand themselves in relation to their community Identify the needs and problems of the community and involve them in problem-solving Develop among themselves a sense of social and civic responsibility Utilize their knowledge in finding practical solutions to individual and community problems Develop competence required for group-living and sharing of responsibilities Gain skills in mobilising community participation Acquire leadership qualities and democratic attitudes Develop capacity to meet emergencies and natural disasters and practice national integration and social harmony"
+    },
+    {
+     "text": "The Motto"
+    },
+    {
+     "text": "NSS Symbol"
+    },
+    {
+     "text": "Composition of the Cell"
+    }
+   ]
+  },
+  {
+   "type": "table",
+   "rows": [
+    [
+     {
+      "text": "Sl. No."
+     },
+     {
+      "text": "Name"
+     },
+     {
+      "text": "Position"
+     }
+    ],
+    [
+     {
+      "text": "1"
+     },
+     {
+      "text": "Dr. Y.V. Hanumantha Rao"
+     },
+     {
+      "text": "Principal"
+     }
+    ],
+    [
+     {
+      "text": "2"
+     },
+     {
+      "text": "Dr.G.Navaneethakrishnan"
+     },
+     {
+      "text": "Dean -NSS"
+     }
+    ],
+    [
+     {
+      "text": "3"
+     },
+     {
+      "text": "Mrs S. Sirisha"
+     },
+     {
+      "text": "(NSS Programmer Officer-Unit 1) Member Secretary"
+     }
+    ],
+    [
+     {
+      "text": "4"
+     },
+     {
+      "text": "Mr P .Venugopal"
+     },
+     {
+      "text": "(NSS Programmer Officer-Unit 2) Member Secretary"
+     }
+    ]
+   ]
+  }
+ ]
+}

@@ -1,0 +1,45 @@
+{
+ "slug": "departments/basic-sciences-humanities/research-outcomes",
+ "section": "departments",
+ "sectionTitle": "Departments",
+ "title": "Research Outcomes – Basic Sciences & Humanities",
+ "legacy": "https://qiscet.edu.in/qiscet/DEPARTMENTS_hs_research.php",
+ "summary": null,
+ "blocks": [
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    {
+     "text": "Publications",
+     "links": [
+      {
+       "label": "Publications",
+       "href": "https://qiscet.edu.in/qiscet/departments/hs/data/Publications1.pdf"
+      }
+     ]
+    },
+    {
+     "text": "Books",
+     "links": [
+      {
+       "label": "Books",
+       "href": "https://qiscet.edu.in/qiscet/departments/hs/data/BSH%20Faculty%20Books.pdf"
+      }
+     ]
+    },
+    {
+     "text": "Patents",
+     "links": [
+      {
+       "label": "Patents",
+       "href": "https://qiscet.edu.in/qiscet/departments/hs/data/BSH%20Faculty%20Patents.pdf"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "department": "basic-sciences-humanities",
+ "pageTitle": "Research Outcomes"
+}

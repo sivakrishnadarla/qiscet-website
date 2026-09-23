@@ -1,0 +1,426 @@
+{
+ "slug": "departments/mba",
+ "section": "departments",
+ "sectionTitle": "Departments",
+ "title": "Master of Business Administration",
+ "legacy": "https://qiscet.edu.in/qiscet/DEPARTMENTS_mba.php",
+ "summary": "The Department of MBA has been established in the year 2006; renamed as School of Management studies after getting autonomous status to the college in the year 2015, and striving to meet the growing…",
+ "blocks": [
+  {
+   "type": "paragraph",
+   "text": "The Department of MBA has been established in the year 2006; renamed as School of Management studies after getting autonomous status to the college in the year 2015, and striving to meet the growing demands of industry and society. Our Department has well qualified and experienced faculty and state of the art Laboratory facilities. The Laboratories include Information Technology, BCSS Lab, Group discussion lab, Business incubation lab (proposed).After getting autonomous Status the School is offering dual specialization with the streams like Human resource management, Financial management ,Marketing management, Systems management, Operations and Logistics management, &Business entrepreneurship."
+  },
+  {
+   "type": "heading",
+   "text": "Courses",
+   "level": 4
+  },
+  {
+   "type": "table",
+   "rows": [
+    [
+     {
+      "text": "Course"
+     },
+     {
+      "text": "Intake"
+     }
+    ],
+    [
+     {
+      "text": "Master of Business Administration"
+     },
+     {
+      "text": "60"
+     }
+    ]
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "Vision",
+   "level": 4
+  },
+  {
+   "type": "paragraph",
+   "text": "To become a centre of excellence and an acknowledgeable leader in high quality management education, research, training and consultancy and become useful to the society in the region."
+  },
+  {
+   "type": "heading",
+   "text": "Mission",
+   "level": 4
+  },
+  {
+   "type": "paragraph",
+   "text": "Our mission is to create a new generation of management thinkers and problem solvers who are capable of appropriate risk takers and decision makers to contribute meaningfully to the growth and development of the region."
+  },
+  {
+   "type": "heading",
+   "text": "Programme Educational Objectives Of MBA",
+   "level": 4
+  },
+  {
+   "type": "list",
+   "ordered": true,
+   "items": [
+    {
+     "text": "To develop essential decision making, leadership and entrepreneurial abilities."
+    },
+    {
+     "text": "To train the students in problem solving through logical and practical approach who can respond in social and global context."
+    },
+    {
+     "text": "To develop appropriate risk takers through responsible risk management and sustainable value creation on the basis of environmental , social and governance of business."
+    },
+    {
+     "text": "To develop the team work, effective communication, critical thinking and problem solving skills."
+    },
+    {
+     "text": "To impart the managerial skills using contemporary technology."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "Programme Outcomes Of MBA",
+   "level": 4
+  },
+  {
+   "type": "paragraph",
+   "text": "Management Graduates will be able to:"
+  },
+  {
+   "type": "list",
+   "ordered": true,
+   "items": [
+    {
+     "text": "Apply the knowledge of Management Principles, Managerial Economics, Business Environment, Financial Management, Marketing Management, Human Resource Management, Quantitative Techniques fundamentals and Management Specializations to the solution of complex management problems."
+    },
+    {
+     "text": "Identify, formulate, review research literature and analyze complex management problems reaching substantiated conclusions using first principles of management."
+    },
+    {
+     "text": "Design solutions for management/entrepreneurial/economy problems and design system components or processes that need the specified needs with appropriate consideration for societal, environmental and business considerations."
+    },
+    {
+     "text": "Use research based knowledge and research methods including design of experiments, analysis and implementation of data and synthesis of the information to provide valid conclusions."
+    },
+    {
+     "text": "Create, select and apply appropriate techniques, resources and modern multidiscipline management techniques including prediction and modelling to complex management/events with an understanding of the limitations."
+    },
+    {
+     "text": "Apply reasoning informed by the contextual knowledge to assess societal, legal and cultural issues and consequent responsibilities relevant to the professional management practices."
+    },
+    {
+     "text": "Understand the impact of the professional of business solutions in societal and environmental context and demonstrate the knowledge of, and need for sustainable development."
+    },
+    {
+     "text": "Apply and ethical and moral principles and commit to professional ethics and responsibilities and norms of the management practices."
+    },
+    {
+     "text": "Function effectively as an individual and as a member or leader in diverse teams in multidisciplinary setting."
+    },
+    {
+     "text": "Communicate effectively on complex management activities with the business community and with society at large, such as being able to comprehend and write effective reports on policy planning and implementation, make effective presentations and give and receive clear directions."
+    },
+    {
+     "text": "Demonstrate knowledge and understanding of the technology and management principles and apply these to once own work as member and a leader in a team to manage projects and in multidisciplinary environment."
+    },
+    {
+     "text": "Recognize the need for, and have the preparation and ability to engaging independent and lifelong learning in the broadest context of technological and business changes."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "Programme Specific Out Comes Of MBA",
+   "level": 4
+  },
+  {
+   "type": "paragraph",
+   "text": "The present program aims at developing:"
+  },
+  {
+   "type": "list",
+   "ordered": true,
+   "items": [
+    {
+     "text": "Risk takers"
+    },
+    {
+     "text": "Problems solvers"
+    },
+    {
+     "text": "Decision makers"
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "SPECILIZATIONS OFFERED BY DEPARTMENT",
+   "level": 4
+  },
+  {
+   "type": "list",
+   "ordered": true,
+   "items": [
+    {
+     "text": "MARKETING MANAGEMENT"
+    },
+    {
+     "text": "FINANCIAL MANAGEMENT"
+    },
+    {
+     "text": "HUMAN RESOURCE MANAGENET"
+    },
+    {
+     "text": "SYSTEMS MANAGEMENT"
+    },
+    {
+     "text": "OPERATIONS AND LOGISTICS MANAGEMENT"
+    },
+    {
+     "text": "BUSINESS ENTREPRENEUSHIP"
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "STUDENT CLUBS",
+   "level": 4
+  },
+  {
+   "type": "list",
+   "ordered": true,
+   "items": [
+    {
+     "text": "SANSKRITI - Cultural Club"
+    },
+    {
+     "text": "VANIJYA - Marketing Club"
+    },
+    {
+     "text": "NIPUNYA - Finance Club"
+    },
+    {
+     "text": "PRERNA - HR Club"
+    },
+    {
+     "text": "SODHANA - Research Club"
+    },
+    {
+     "text": "SLOKA - Soft Skills Club"
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "MBA - Hospital and Healthcare Management",
+   "level": 1
+  },
+  {
+   "type": "paragraph",
+   "text": "The Department of Hospital and Healthcare Management (HHM) was established in the year 2024 and it has become the most dynamic aspirants of management program. The college conducts examinations, and the degree is awarded by JNTU Kakinada. This course is dedicated to preparing competent healthcare management professionals capable of addressing the dynamic challenges of the healthcare sector. The programme integrates core management principles with specialized knowledge in hospital administration, healthcare operations, patient care management, healthcare finance, quality management, health information systems, and healthcare policy. The curriculum is designed to meet industry requirements and incorporates emerging trends in digital health, healthcare analytics, patient safety, and quality assurance. Through case studies, internships, hospital-based learning, industry interaction, and research activities, students gain practical exposure to real-world healthcare management practices. The Department emphasizes leadership, ethical decision-making, innovation, and strategic thinking to develop professionals who can effectively manage hospitals, healthcare organizations, public health institutions, and allied healthcare services. The programme aims to contribute to the healthcare sector by producing skilled managers committed to improving healthcare quality, operational efficiency, and patient-centered care."
+  },
+  {
+   "type": "heading",
+   "text": "Courses",
+   "level": 4
+  },
+  {
+   "type": "table",
+   "rows": [
+    [
+     {
+      "text": "Course"
+     },
+     {
+      "text": "Intake"
+     }
+    ],
+    [
+     {
+      "text": "MBA - Hospital and Healthcare Management"
+     },
+     {
+      "text": "60"
+     }
+    ]
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "Vision",
+   "level": 4
+  },
+  {
+   "type": "paragraph",
+   "text": "To be a center of excellence in Hospital and Healthcare Management education, developing ethical, innovative, and competent healthcare leaders for sustainable healthcare systems and societal well-being."
+  },
+  {
+   "type": "heading",
+   "text": "Mission",
+   "level": 4
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    {
+     "text": "To provide quality education in Hospital and Healthcare Management."
+    },
+    {
+     "text": "To develop leadership, managerial, and analytical skills for healthcare professionals."
+    },
+    {
+     "text": "To encourage research, innovation, and technology-driven healthcare solutions."
+    },
+    {
+     "text": "To promote ethical practices, industry engagement, and community-oriented healthcare management."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "MBA - Artificial Intelligence and Data Science",
+   "level": 1
+  },
+  {
+   "type": "paragraph",
+   "text": "The Department of Artificial Intelligence and Data Science was established in the year 2025 and the college conducts examinations, and the degree is awarded by JNTU Kakinada. It is a future-focused program that blends management education with emerging technologies such as Artificial Intelligence, Machine Learning, Data Science, and Business Analytics. The program prepares students to make data-driven decisions, lead digital transformation, and solve complex business challenges in a technology-driven world. This course is committed to academic excellence, innovation, and ethical leadership, and it is to create a vibrant ecosystem that fosters entrepreneurship, critical thinking, problem-solving skills, and lifelong learning. The department aims to produce competent business leaders, analysts, consultants, entrepreneurs, and decision-makers who can successfully drive digital transformation across industries in the global economy."
+  },
+  {
+   "type": "heading",
+   "text": "Courses",
+   "level": 4
+  },
+  {
+   "type": "table",
+   "rows": [
+    [
+     {
+      "text": "Course"
+     },
+     {
+      "text": "Intake"
+     }
+    ],
+    [
+     {
+      "text": "MBA - Artificial Intelligence and Data Science"
+     },
+     {
+      "text": "60"
+     }
+    ]
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "Department Motto",
+   "level": 4
+  },
+  {
+   "type": "paragraph",
+   "text": "\"Leading Business through Intelligence and Innovation\""
+  },
+  {
+   "type": "heading",
+   "text": "Vision",
+   "level": 4
+  },
+  {
+   "type": "paragraph",
+   "text": "To be a premier center of excellence that nurtures innovative, ethically grounded, and data-driven business leaders who seamlessly bridge the gap between business strategy, Artificial Intelligence, and Data Science to drive global impactful transformations."
+  },
+  {
+   "type": "heading",
+   "text": "Mission",
+   "level": 4
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    {
+     "text": "M1: To deliver a rigorous, interdisciplinary curriculum combining cutting-edge data science technologies with core business management principles."
+    },
+    {
+     "text": "M2: To foster an ecosystem of research, innovation, and critical thinking that encourages students to solve real-world industry problems using AI."
+    },
+    {
+     "text": "M3: To cultivate strong partnerships with global tech and business organizations, ensuring students gain hands-on experiential learning and mentorship."
+    },
+    {
+     "text": "M4: To instill strong ethical values, sustainable mindsets, and leadership skills necessary for navigating the social impact of automation and AI."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "MBA - Corporate Communication and Event Management",
+   "level": 1
+  },
+  {
+   "type": "paragraph",
+   "text": "The Department of MBA - Corporate Communication and Event Management was established in the year 2025 and it has become the most dynamic candidates of management program. The college conducts examinations, and the degree is awarded by JNTU Kakinada. This course equips the students with comprehensive knowledge and practical skills in organizational communication, public relations, branding, media management, and event planning. The course emphasizes professional communication, stakeholder engagement, corporate reputation management, and the strategic planning and execution of events. Through case studies, simulations, workshops, internships, and live projects, students gain industry-relevant competencies required for careers in corporate communication, public relations, media management, and event management."
+  },
+  {
+   "type": "heading",
+   "text": "Courses",
+   "level": 4
+  },
+  {
+   "type": "table",
+   "rows": [
+    [
+     {
+      "text": "Course"
+     },
+     {
+      "text": "Intake"
+     }
+    ],
+    [
+     {
+      "text": "MBA - Corporate Communication and Event Management"
+     },
+     {
+      "text": "60"
+     }
+    ]
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "Vision",
+   "level": 4
+  },
+  {
+   "type": "paragraph",
+   "text": "To become a center of excellence in Corporate Communication and Event Management education by developing competent professionals with strong communication, leadership, public relations, and event management skills to meet global industry requirements."
+  },
+  {
+   "type": "heading",
+   "text": "Mission",
+   "level": 4
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    {
+     "text": "M1: To cultivate industry-ready professionals through excellence in Corporate Communication, Public Relations, Branding, and Event Management."
+    },
+    {
+     "text": "M2: To impart practical exposure through industry interactions, live projects, internships, and event execution."
+    },
+    {
+     "text": "M3: To nurture ethical, socially responsible, and innovative professionals capable of managing corporate reputation and events successfully."
+    }
+   ]
+  }
+ ],
+ "department": "mba",
+ "isDepartmentHome": true
+}

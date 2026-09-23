@@ -1,0 +1,27 @@
+{
+ "slug": "departments/ece/department-library",
+ "section": "departments",
+ "sectionTitle": "Departments",
+ "title": "Department Library – Electronics & Communication Engineering",
+ "legacy": "https://qiscet.edu.in/qiscet/DEPARTMENTS_ece_library.php",
+ "summary": null,
+ "blocks": [
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    {
+     "text": "List Of Books",
+     "links": [
+      {
+       "label": "List Of Books",
+       "href": "https://qiscet.edu.in/qiscet/departments/ece/data/eceBooks19-24.pdf"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "department": "ece",
+ "pageTitle": "Department Library"
+}

@@ -1,0 +1,27 @@
+{
+ "slug": "departments/mechanical/events",
+ "section": "departments",
+ "sectionTitle": "Departments",
+ "title": "Events – Mechanical Engineering",
+ "legacy": "https://qiscet.edu.in/qiscet/DEPARTMENTS_me_events.php",
+ "summary": null,
+ "blocks": [
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    {
+     "text": "ME Events Organized",
+     "links": [
+      {
+       "label": "ME Events Organized",
+       "href": "https://qiscet.edu.in/qiscet/departments/me/data/Events%20Organized.pdf"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "department": "mechanical",
+ "pageTitle": "Events"
+}

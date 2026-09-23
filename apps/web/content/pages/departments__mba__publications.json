@@ -1,0 +1,27 @@
+{
+ "slug": "departments/mba/publications",
+ "section": "departments",
+ "sectionTitle": "Departments",
+ "title": "Publications – Master of Business Administration",
+ "legacy": "https://qiscet.edu.in/qiscet/DEPARTMENTS_mba_publications.php",
+ "summary": null,
+ "blocks": [
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    {
+     "text": "Research Publications",
+     "links": [
+      {
+       "label": "Research Publications",
+       "href": "https://qiscet.edu.in/qiscet/departments/mba/mba%20Publications25.pdf"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "department": "mba",
+ "pageTitle": "Publications"
+}

@@ -1,0 +1,73 @@
+{
+ "slug": "departments/cse-ai-ml/head-of-the-department",
+ "section": "departments",
+ "sectionTitle": "Departments",
+ "title": "Head of the Department – CSE (Artificial Intelligence & Machine Learning)",
+ "legacy": "https://qiscet.edu.in/qiscet/DEPARTMENTS_CSE_AL_ML_HOD.php",
+ "summary": null,
+ "blocks": [
+  {
+   "type": "table",
+   "rows": [
+    [
+     {
+      "text": "HOD Name:"
+     },
+     {
+      "text": "Dr.M.SENTHIL"
+     }
+    ],
+    [
+     {
+      "text": "Designation:"
+     },
+     {
+      "text": "Professor & HOD"
+     }
+    ],
+    [
+     {
+      "text": "Qualification:"
+     },
+     {
+      "text": "M.E., Ph.D"
+     }
+    ],
+    [
+     {
+      "text": "Email:"
+     },
+     {
+      "text": "senthil.m@qiscet.edu.in"
+     }
+    ],
+    [
+     {
+      "text": "Contact No:"
+     },
+     {
+      "text": "8870599966"
+     }
+    ],
+    [
+     {
+      "text": "Areas of Interest:"
+     },
+     {
+      "text": "Wireless Networks, Body Sensor Networks, Artificial Intelligence, Machine Learning"
+     }
+    ],
+    [
+     {
+      "text": "Experience:"
+     },
+     {
+      "text": "21 years"
+     }
+    ]
+   ]
+  }
+ ],
+ "department": "cse-ai-ml",
+ "pageTitle": "Head of the Department"
+}

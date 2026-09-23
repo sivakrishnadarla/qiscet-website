@@ -1,0 +1,42 @@
+{
+ "slug": "about/principal",
+ "section": "about",
+ "sectionTitle": "About Us",
+ "title": "Principal Profile",
+ "legacy": "https://qiscet.edu.in/qiscet/ABOUT_US_principal.php",
+ "summary": null,
+ "blocks": [
+  {
+   "type": "image",
+   "src": "/images/images/cet_principal_h.jpg",
+   "alt": "QISCET PRINCIPAL"
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    {
+     "text": "Prof. Y.V.Hanumantha Rao graduated in mechanical engineering in the year 1992 and completed his Masters in Engineering in the year 1995 from JNTU Hyderabad. Prof. Rao has been awarded Ph.D in the faculty of mechanical engineering from JNTU Hyderabad in the year 2010."
+    },
+    {
+     "text": "Prof.Rao joined as a lecturer in the department of mechanical engineering in the year 1995 at Adhiyaman College of engineering Hosur. In the year 1998 he joined as a lecturer in K.L College of engineering at Vijayawada, In the subsequent years he was promoted as senior lecturer, Asst. professor and Professor. He occupied many administrative positions in K L College of engineering as HOD of mechanical engineering and Industrial production engineering, Director industrial practice school, Chief superindent of examinations, Convener of anti-ragging committee."
+    },
+    {
+     "text": "Prof. Rao received best teacher award for consecutive 5 academic years from 2014 to 2019 by KL University."
+    },
+    {
+     "text": "Prof. Rao took research degree in the field of alternate fuels and published over 45 scopus indexed journal papers and presented 10 papers in conferences. Prof. Rao attended many teacher training workshops conducted by IIT’s under Quality Improvement Program."
+    },
+    {
+     "text": "Prof. Rao is the reviewer of International Journal of Science and Technology and also for Journal of Petroleum Technology and Alternative Fuels."
+    },
+    {
+     "text": "Prof.Rao is a recognised Supervisor for Ph.D scholars under JNTU Hyderabad, JNTU-Ananthapur, JNTU Kakinada, KL University and VIT. He is also recoginised as Ph.D thesis reviewer for Ph.D thesis under Thermal Engg, of JNTU-Ananthapur. Prof. Rao has guided two research scholars for the award of Ph.d degree and 10 students are presently working under his guidance."
+    },
+    {
+     "text": "Prof.Rao has played a key role in organising Two International Conferences by the department of Mechanical Engg, KLCE / KLUniversity, he was instrumental in holding National Seminars on Alternate Fuels, Nano Materials, Supply Chain Management and Lifing / Optimisation. He has also organised various Student Technical festivals like MIPFEST, YANTRIK and SAMYAK in KLCE / KL University from 2007 onwards."
+    }
+   ]
+  }
+ ]
+}

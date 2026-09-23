@@ -1,0 +1,54 @@
+{
+ "slug": "departments/ece/student-co-curricular-activities",
+ "section": "departments",
+ "sectionTitle": "Departments",
+ "title": "Student Co-Curricular Activities – Electronics & Communication Engineering",
+ "legacy": "https://qiscet.edu.in/qiscet/DEPARTMENTS_ece_addcourses.php",
+ "summary": null,
+ "blocks": [
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    {
+     "text": "Student Workshops & Guest Lectures",
+     "links": [
+      {
+       "label": "Student Workshops & Guest Lectures",
+       "href": "https://qiscet.edu.in/qiscet/departments/ece/Student_Workshops.pdf"
+      }
+     ]
+    },
+    {
+     "text": "List Of Value Added Courses",
+     "links": [
+      {
+       "label": "List Of Value Added Courses",
+       "href": "https://qiscet.edu.in/qiscet/departments/ece/Value%20Added%20Courses%20list.pdf"
+      }
+     ]
+    },
+    {
+     "text": "Guest Lectures Consolidated",
+     "links": [
+      {
+       "label": "Guest Lectures Consolidated",
+       "href": "https://qiscet.edu.in/qiscet/departments/ece/data/Guest%20lectures%20consolidated.pdf"
+      }
+     ]
+    },
+    {
+     "text": "Internship & Mooc courses",
+     "links": [
+      {
+       "label": "Internship & Mooc courses",
+       "href": "https://qiscet.edu.in/qiscet/departments/ece/data/Internship%20%26%20Mooc%20courses.pdf"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "department": "ece",
+ "pageTitle": "Student Co-Curricular Activities"
+}

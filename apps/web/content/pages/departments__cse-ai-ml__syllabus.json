@@ -1,0 +1,53 @@
+{
+ "slug": "departments/cse-ai-ml/syllabus",
+ "section": "departments",
+ "sectionTitle": "Departments",
+ "title": "Syllabus – CSE (Artificial Intelligence & Machine Learning)",
+ "legacy": "https://qiscet.edu.in/qiscet/DEPARTMENTS_CSE_AL_ML_syllabus.php",
+ "summary": null,
+ "blocks": [
+  {
+   "type": "table",
+   "rows": [
+    [
+     {
+      "text": "Regulation"
+     },
+     {
+      "text": "B.Tech"
+     }
+    ],
+    [
+     {
+      "text": "R-23 Regulation"
+     },
+     {
+      "text": "CSE - AIML Syllabus",
+      "links": [
+       {
+        "label": "CSE - AIML Syllabus",
+        "href": "https://qiscet.edu.in/qiscet/departments/ai-ml/AIML_R23_SYLLABUS.pdf"
+       }
+      ]
+     }
+    ],
+    [
+     {
+      "text": "R-20 Regulation"
+     },
+     {
+      "text": "CSE - AIML Syllabus",
+      "links": [
+       {
+        "label": "CSE - AIML Syllabus",
+        "href": "https://qiscet.edu.in/qiscet/departments/ai-ml/AIML_R20_SYLLABUS.pdf"
+       }
+      ]
+     }
+    ]
+   ]
+  }
+ ],
+ "department": "cse-ai-ml",
+ "pageTitle": "Syllabus"
+}

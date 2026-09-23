@@ -1,0 +1,56 @@
+{
+ "slug": "departments/bca/syllabus",
+ "section": "departments",
+ "sectionTitle": "Departments",
+ "title": "Syllabus – Bachelor of Computer Applications",
+ "legacy": "https://qiscet.edu.in/qiscet/DEPARTMENTS_bca_syllabus.php",
+ "summary": null,
+ "blocks": [
+  {
+   "type": "table",
+   "rows": [
+    [
+     {
+      "text": "Regulation"
+     },
+     {
+      "text": "BCA",
+      "colspan": 8
+     }
+    ],
+    [
+     {
+      "text": "R-24 Regulation"
+     },
+     {
+      "text": "BCA Syllabus II-Sem",
+      "links": [
+       {
+        "label": "BCA Syllabus II-Sem",
+        "href": "https://qiscet.edu.in/qiscet/departments/bca/R24_BCA_Syllabus-IISem.pdf"
+       }
+      ],
+      "colspan": 8
+     }
+    ],
+    [
+     {
+      "text": "R-24 Regulation"
+     },
+     {
+      "text": "BCA Syllabus I-Sem",
+      "links": [
+       {
+        "label": "BCA Syllabus I-Sem",
+        "href": "https://qiscet.edu.in/qiscet/departments/bca/R24_BCA_Syllabus-ISem.pdf"
+       }
+      ],
+      "colspan": 8
+     }
+    ]
+   ]
+  }
+ ],
+ "department": "bca",
+ "pageTitle": "Syllabus"
+}

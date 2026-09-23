@@ -1,0 +1,98 @@
+{
+ "slug": "edc/startup-resources",
+ "section": "edc",
+ "sectionTitle": "Entrepreneurship Development Cell",
+ "title": "Start-up Resources",
+ "legacy": "https://qiscet.edu.in/qiscet/edc_startup_rec.php",
+ "summary": "There are a number of available programs to assist start-ups, micro businesses, and underserved or disadvantaged groups. The following resources provide information to help specialized audiences…",
+ "blocks": [
+  {
+   "type": "paragraph",
+   "text": "There are a number of available programs to assist start-ups, micro businesses, and underserved or disadvantaged groups. The following resources provide information to help specialized audiences start their own businesses."
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    {
+     "text": "Environmentally-Friendly \"Green\" Business"
+    },
+    {
+     "text": "Home-Based Business"
+    },
+    {
+     "text": "Online Business"
+    },
+    {
+     "text": "Self-Employment"
+    },
+    {
+     "text": "Minority Owned Business"
+    },
+    {
+     "text": "Veteran Owned Business"
+    },
+    {
+     "text": "Woman Owned Business"
+    }
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "You can save money when starting or expanding your business by using government surplus. From commercial real estate and cars, to furniture, computers and office equipment, find what you need for your business in one place any entrepreneurs were excited by the announcements made by Prime Minister Narendra Modi as part of the start-up India Action Plan. There's no doubt the measures were significant, but they do beg the question, are all the start-ups really eligible for the benefits that were announced."
+  },
+  {
+   "type": "paragraph",
+   "text": "Here's a quick analysis of the eligibility criteria (please note that the following flow chart is specifically applicable for start-ups seeking tax exemption):"
+  },
+  {
+   "type": "image",
+   "src": "/images/edc/strtpchart.jpg",
+   "alt": ""
+  },
+  {
+   "type": "heading",
+   "text": "In addition, for a start-up to be recognized as one,",
+   "level": 5
+  },
+  {
+   "type": "list",
+   "ordered": true,
+   "items": [
+    {
+     "text": "It must be an entity registered/incorporated as a: a.Private Limited Company under the Companies Act, 2013; or b.Registered Partnership firm under the Indian Partnership Act, 1932; or c.Limited Liability Partnership under the Limited Liability Partnership Act, 2008."
+    },
+    {
+     "text": "Five years must not have elapsed from the date of incorporation/registration."
+    },
+    {
+     "text": "Annual turnover (as defined in the Companies Act, 2013) in any preceding financial year must not exceed Rs. 25 crore."
+    },
+    {
+     "text": "Start-up must be working towards innovation, development, deployment or commercialisation of new products, processes or services driven by technology or intellectual property."
+    },
+    {
+     "text": "The start-up must aim to develop and commercialise: a new product or service or process; or a significantly improved existing product or service or process that will create or add value for customers or workflow."
+    },
+    {
+     "text": "The start-up must not merely be engaged in: developing products or services or processes which do not have potential for commercialisation; or undifferentiated products or services or processes; or products or services or processes with no or limited incremental value for customers or workflow"
+    },
+    {
+     "text": "The start-up must not be formed by splitting up, or reconstruction, of a business already in existence."
+    },
+    {
+     "text": "The start-up has obtained certification from the Inter-Ministerial Board, setup by DIPP to validate the innovative nature of the business, and a. be supported by a recommendation (with regard to innovative nature of business), in a format specified by DIPP, from an incubator established in a post-graduate college in India; or b. be supported by an incubator which is funded (in relation to the project) from GoI as part of any specified scheme to promote innovation; or c. be supported by a recommendation (with regard to innovative nature of business), in a format specified by DIPP, from an incubator recognized by GoI; or d. be funded by an Incubation Fund/Angel Fund/Private Equity Fund/Accelerator/Angel Network duly registered with SEBI* that endorses innovative nature of the business; or e. be funded by the Government of India as part of any specified scheme to promote innovation; or f. have a patent granted by the Indian Patent and Trademark Office in areas affiliated with the nature of business being promoted."
+    }
+   ]
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    {
+     "text": "DIPP may publish a negative list of funds which are not eligible for this initiative."
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,113 @@
+{
+ "slug": "departments/cse-business-systems/laboratories",
+ "section": "departments",
+ "sectionTitle": "Departments",
+ "title": "Laboratories – Computer Science & Engineering and Business Systems",
+ "legacy": "https://qiscet.edu.in/qiscet/DEPARTMENTS_cse_bs_labs.php",
+ "summary": null,
+ "blocks": [
+  {
+   "type": "table",
+   "rows": [
+    [
+     {
+      "text": "S. No"
+     },
+     {
+      "text": "Name of the Lab"
+     },
+     {
+      "text": "Details"
+     }
+    ],
+    [
+     {
+      "text": "1"
+     },
+     {
+      "text": "CENTRE FOR COMPUTING SYSTEMS LAB"
+     },
+     {
+      "text": "View",
+      "links": [
+       {
+        "label": "View",
+        "href": "https://qiscet.edu.in/qiscet/departments/cse%20bs/CENTRE%20FOR%20COMPUTING%20SYSTEMS%20LAB%20%28E001%29.pdf"
+       }
+      ]
+     }
+    ],
+    [
+     {
+      "text": "2"
+     },
+     {
+      "text": "CENTRE FOR COMPUTER SOFTWARE APPLICATIONS LAB"
+     },
+     {
+      "text": "View",
+      "links": [
+       {
+        "label": "View",
+        "href": "https://qiscet.edu.in/qiscet/departments/cse%20bs/CENTRE%20FOR%20COMPUTER%20SOFTWARE%20APPLICATIONS%20LAB%20%28D104%29.pdf"
+       }
+      ]
+     }
+    ],
+    [
+     {
+      "text": "3"
+     },
+     {
+      "text": "CENTRE FOR AI / ML / DS LAB"
+     },
+     {
+      "text": "View",
+      "links": [
+       {
+        "label": "View",
+        "href": "https://qiscet.edu.in/qiscet/departments/cse%20bs/CENTRE%20FOR%20AI%20ML%20DS%20LAB%20.pdf"
+       }
+      ]
+     }
+    ],
+    [
+     {
+      "text": "4"
+     },
+     {
+      "text": "CENTRE FOR CN, INFRA DEVELOPMENT & MANAGEMENT LAB"
+     },
+     {
+      "text": "View",
+      "links": [
+       {
+        "label": "View",
+        "href": "https://qiscet.edu.in/qiscet/departments/cse%20bs/CENTRE%20FOR%20CN%2C%20INFRA%20DEVELOPMENT%20%26%20MANAGEMENT%20LAB%20%28C104%29.pdf"
+       }
+      ]
+     }
+    ],
+    [
+     {
+      "text": "5"
+     },
+     {
+      "text": "CENTRE FOR C PROGRAMMING LAB"
+     },
+     {
+      "text": "View",
+      "links": [
+       {
+        "label": "View",
+        "href": "https://qiscet.edu.in/qiscet/departments/cse%20bs/CENTRE%20FOR%20C%20PROGRAMMING%20LAB.pdf"
+       }
+      ]
+     }
+    ]
+   ]
+  }
+ ],
+ "department": "cse-business-systems",
+ "pageTitle": "Laboratories"
+}

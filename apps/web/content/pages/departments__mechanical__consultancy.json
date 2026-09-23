@@ -1,0 +1,27 @@
+{
+ "slug": "departments/mechanical/consultancy",
+ "section": "departments",
+ "sectionTitle": "Departments",
+ "title": "Consultancy – Mechanical Engineering",
+ "legacy": "https://qiscet.edu.in/qiscet/DEPARTMENTS_me_consultancy.php",
+ "summary": null,
+ "blocks": [
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    {
+     "text": "Industry Consultancy",
+     "links": [
+      {
+       "label": "Industry Consultancy",
+       "href": "https://qiscet.edu.in/qiscet/departments/me/data/Consultancy.pdf"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "department": "mechanical",
+ "pageTitle": "Consultancy"
+}

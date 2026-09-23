@@ -1,0 +1,63 @@
+{
+ "slug": "innovation/idea-lab",
+ "section": "innovation",
+ "sectionTitle": "Centre for Innovation",
+ "title": "AICTE IDEA Lab",
+ "legacy": "https://qiscet.edu.in/qiscet/CENTRE_FOR_INNOVATION_idealab.php",
+ "summary": "The AICTE Idea Lab is an initiative by the All India Council for Technical Education (AICTE) to foster innovation, creativity, and hands-on learning in technical institutions across India. It serves…",
+ "blocks": [
+  {
+   "type": "paragraph",
+   "text": "The AICTE Idea Lab is an initiative by the All India Council for Technical Education (AICTE) to foster innovation, creativity, and hands-on learning in technical institutions across India. It serves as a maker space and innovation hub where students can develop prototypes, work on real-world problems, and enhance their practical skills."
+  },
+  {
+   "type": "heading",
+   "text": "Key features of AICTE Idea Lab:",
+   "level": 5
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    {
+     "text": "Provides modern tools and equipment like 3D printers, laser cutters, and IoT kits."
+    },
+    {
+     "text": "Encourages experiential learning through hands-on projects."
+    },
+    {
+     "text": "Supports entrepreneurial ventures by offering mentorship and funding opportunities."
+    },
+    {
+     "text": "Promotes multidisciplinary collaboration among students, faculty, and industry experts."
+    },
+    {
+     "text": "Helps institutions align with the National Education Policy (NEP) 2020, emphasizing"
+    },
+    {
+     "text": "practical and skill-based learning."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "Impact:",
+   "level": 5
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    {
+     "text": "Enhances innovation and research culture in colleges."
+    },
+    {
+     "text": "Bridges the gap between theoretical knowledge and industry needs."
+    },
+    {
+     "text": "Encourages students to participate in national and international competitions."
+    }
+   ]
+  }
+ ]
+}

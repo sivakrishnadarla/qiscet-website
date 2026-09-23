@@ -1,0 +1,27 @@
+{
+ "slug": "departments/cse/mous",
+ "section": "departments",
+ "sectionTitle": "Departments",
+ "title": "MoUs – Computer Science & Engineering",
+ "legacy": "https://qiscet.edu.in/qiscet/DEPARTMENTS_cse_mou.php",
+ "summary": null,
+ "blocks": [
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    {
+     "text": "List of MoU’s",
+     "links": [
+      {
+       "label": "List of MoU’s",
+       "href": "https://qiscet.edu.in/qiscet/departments/cse/syl_reg/cse_List%20of%20MOU.pdf"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "department": "cse",
+ "pageTitle": "MoUs"
+}

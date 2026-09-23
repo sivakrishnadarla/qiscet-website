@@ -1,0 +1,156 @@
+{
+ "slug": "departments/bca",
+ "section": "departments",
+ "sectionTitle": "Departments",
+ "title": "Bachelor of Computer Applications",
+ "legacy": "https://qiscet.edu.in/qiscet/DEPARTMENTS_bca.php",
+ "summary": "The Bachelor of Computer Application department offers BCA Program in computer Application and was introduced in the academic year 2024–25. The BCA Program is a new age degree course in the field of…",
+ "blocks": [
+  {
+   "type": "paragraph",
+   "text": "The Bachelor of Computer Application department offers BCA Program in computer Application and was introduced in the academic year 2024–25. The BCA Program is a new age degree course in the field of computer applications. The duration of the course is normally three years. The Bachelor of Computer Application (BCA) curriculum is designed as per AICTE and the New Education Policy (NEP) 2020 guidelines, benchmarks, and standards, as well as the recent developments in technology and imparting effective Outcome Based Education (OBE) under the guidelines of JNTU Kakinada. The college conducts the examinations, and the degree is awarded by JNTU Kakinada. University incorporates latest developments in Basic Computer Science, Programming, Application development, Communication, Datamining and Data warehousing and allied fields in a dynamic fashion so that the student is exposed to the latest technological advancements during the program. Bachelor of Computer Applications is a course that is customized for students wishing to shine in the field of computers and information technology."
+  },
+  {
+   "type": "paragraph",
+   "text": "The department follows best teaching practices, such as peer-to-peer learning, the use of ICT tools, project-based learning, etc., with activity or skill-based assessment. The department has a good combination of experienced and young faculties and supporting staff which works as a team to strengthen the department. The department is equipped with good infrastructure which consists of classrooms with smart interactive screen facility, well developed laboratories."
+  },
+  {
+   "type": "paragraph",
+   "text": "The study period of BCA includes various subjects such as Programming in C Language (Basic and Advanced), Networking, World-Wide-Web, Data Structure, Advanced C Language Programming, Database Management, Mathematics, Software Engineering, Object Oriented Programming using C++, Visual Basic, Programming using PHP, JAVA, Oracle, Operating Systems, Web Scripting and Development, etc. This course provides a lot of opportunities to the students who are interested in computer field and wants to work in the IT sector as programmer or software developer."
+  },
+  {
+   "type": "heading",
+   "text": "Courses",
+   "level": 4
+  },
+  {
+   "type": "table",
+   "rows": [
+    [
+     {
+      "text": "Course"
+     },
+     {
+      "text": "Intake"
+     }
+    ],
+    [
+     {
+      "text": "Bachelor of Computer Application"
+     },
+     {
+      "text": "60"
+     }
+    ]
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "Vision",
+   "level": 4
+  },
+  {
+   "type": "paragraph",
+   "text": "To empower students with cutting-edge technical expertise, ethical innovation, and interdisciplinary knowledge in computer applications, fostering globally competent professionals capable of driving technological advancements and solving real-world challenges."
+  },
+  {
+   "type": "heading",
+   "text": "Mission",
+   "level": 4
+  },
+  {
+   "type": "heading",
+   "text": "BCA",
+   "level": 4
+  },
+  {
+   "type": "heading",
+   "text": "Programme Educational Objectives Of BCA",
+   "level": 4
+  },
+  {
+   "type": "list",
+   "ordered": true,
+   "items": [
+    {
+     "text": "Technical Proficiency & Innovation: To equip graduates with a strong foundation in computer applications, programming, and electronics, enabling them to design, develop, and implement innovative software and hardware solutions aligned with industry demands."
+    },
+    {
+     "text": "Effective Communication & Teamwork: To cultivate exceptional communication skills and collaborative abilities in graduates, empowering them to lead multidisciplinary projects, articulate technical ideas effectively, and thrive in diverse professional environments."
+    },
+    {
+     "text": "Lifelong Learning & Ethical Practices: To instil a commitment to lifelong learning, ethical decision-making, and adaptability, preparing graduates to pursue advanced studies, certifications, or evolving IT careers while adhering to societal and professional ethics."
+    },
+    {
+     "text": "Societal Contribution & Sustainability: To empower graduates to leverage their technical expertise in addressing societal challenges, promoting sustainable technological solutions, and contributing to the digital transformation of industries and communities."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "Programme Outcomes Of BCA",
+   "level": 4
+  },
+  {
+   "type": "list",
+   "ordered": true,
+   "items": [
+    {
+     "text": "Engineering Knowledge: Apply the knowledge of mathematics, science, engineering fundamentals, and an engineering specialization to the solution of complex engineering problems."
+    },
+    {
+     "text": "Problem Analysis: Identify, formulate, review research literature, and analyze complex engineering problems reaching substantiated conclusions using first principles of mathematics, natural sciences, and engineering sciences."
+    },
+    {
+     "text": "Design/Development of Solutions: Design solutions for complex engineering problems and design system components or processes that meet the specified needs with appropriate consideration for the public health and safety, and the cultural, societal, and environmental considerations."
+    },
+    {
+     "text": "Conduct Investigations of Complex Problems: Use research-based knowledge and research methods including design of experiments, analysis and interpretation of data, and synthesis of the information to provide valid conclusions."
+    },
+    {
+     "text": "Modern Tool Usage: Create, select, and apply appropriate techniques, resources, and modern engineering and IT tools including prediction and modeling to complex engineering activities with an understanding of the limitations."
+    },
+    {
+     "text": "The Engineer and Society: Apply reasoning informed by the contextual knowledge to assess societal, health, safety, legal and cultural issues and the consequent responsibilities relevant to the professional engineering practice."
+    },
+    {
+     "text": "Environment and Sustainability: understand the impact of the professional engineering solutions in societal and environmental contexts, demonstrate the knowledge of, and need for sustainable development."
+    },
+    {
+     "text": "Ethics: Apply ethical principles and commit to professional ethics, responsibilities, and norms of the engineering practice."
+    },
+    {
+     "text": "Individual and Teamwork: Function effectively as an individual, and as a member or leader in diverse teams, and in multidisciplinary settings."
+    },
+    {
+     "text": "Communication: Communicate effectively on complex engineering activities with the engineering community and with society, such as, being able to comprehend and write effective reports and design documentation, make effective presentations, and give and receive clear instructions."
+    },
+    {
+     "text": "Project Management and Finance: Demonstrate knowledge and understanding of the engineering and management principles and apply these to one’s own work, as a member and leader in a team, to manage projects and in multidisciplinary environments."
+    },
+    {
+     "text": "Life-Long Learning: Recognize the need for and have the preparation and ability to engage in independent and life-long learning in the broadest context of technological change."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "Programme Specific Outcomes Of BCA",
+   "level": 4
+  },
+  {
+   "type": "list",
+   "ordered": true,
+   "items": [
+    {
+     "text": "Domain Knowledge: An ability to understand, analyze and develop computer programs in the areas related to Algorithms, System Software, Multimedia, Web Design, Big Data and Analytics and Networking for efficient design of computer- based systems of varying complexity to meet the need of the software industry."
+    },
+    {
+     "text": "Process Management: An Ability to organize and apply standard practices and strategies in software product development by managing and monitoring the resources and safeguarding the data."
+    }
+   ]
+  }
+ ],
+ "department": "bca",
+ "isDepartmentHome": true
+}

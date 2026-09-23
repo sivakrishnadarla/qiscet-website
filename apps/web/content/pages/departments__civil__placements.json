@@ -1,0 +1,81 @@
+{
+ "slug": "departments/civil/placements",
+ "section": "departments",
+ "sectionTitle": "Departments",
+ "title": "Placements – Civil Engineering",
+ "legacy": "https://qiscet.edu.in/qiscet/DEPARTMENTS_ce_Placements.php",
+ "summary": null,
+ "blocks": [
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    {
+     "text": "Placements 2023-24",
+     "links": [
+      {
+       "label": "Placements 2023-24",
+       "href": "https://qiscet.edu.in/qiscet/departments/civil/PLACEMENTS_ACADEMIC_YEAR_2023-24.pdf"
+      }
+     ]
+    },
+    {
+     "text": "Placements 2022-23",
+     "links": [
+      {
+       "label": "Placements 2022-23",
+       "href": "https://qiscet.edu.in/qiscet/departments/civil/PLACEMENTS_ACADEMIC_YEAR_2022-23.pdf"
+      }
+     ]
+    },
+    {
+     "text": "Placements 2019-21",
+     "links": [
+      {
+       "label": "Placements 2019-21",
+       "href": "https://qiscet.edu.in/qiscet/departments/civil/CE_PLACEMENT.pdf"
+      }
+     ]
+    },
+    {
+     "text": "Academic Year 2021-22",
+     "links": [
+      {
+       "label": "Academic Year 2021-22",
+       "href": "https://qiscet.edu.in/qiscet/departments/civil/STAAD.PRO.pdf"
+      }
+     ]
+    },
+    {
+     "text": "Academic Year 2020-21",
+     "links": [
+      {
+       "label": "Academic Year 2020-21",
+       "href": "https://qiscet.edu.in/qiscet/departments/civil/AUTOCAD%282D%29.pdf"
+      }
+     ]
+    },
+    {
+     "text": "Academic Year 2019-20",
+     "links": [
+      {
+       "label": "Academic Year 2019-20",
+       "href": "https://qiscet.edu.in/qiscet/departments/civil/PRINCIPLES%20OF%20TRANSPORTATION%20ENGINEERING.pdf"
+      }
+     ]
+    },
+    {
+     "text": "Academic Year 2018-19",
+     "links": [
+      {
+       "label": "Academic Year 2018-19",
+       "href": "https://qiscet.edu.in/qiscet/departments/civil/APPLIED%20SURVEYING.pdf"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "department": "civil",
+ "pageTitle": "Placements"
+}

@@ -1,0 +1,35 @@
+{
+ "slug": "accreditation/autonomous",
+ "section": "accreditation",
+ "sectionTitle": "Accreditation",
+ "title": "Autonomous Status",
+ "legacy": "https://qiscet.edu.in/qiscet/ACCRIDATION_PROCESS_autonomous.php",
+ "summary": null,
+ "blocks": [
+  {
+   "type": "table",
+   "rows": [
+    [
+     {
+      "text": "Cycle 1",
+      "links": [
+       {
+        "label": "Cycle 1",
+        "href": "https://qiscet.edu.in/qiscet/accredation/Autonomous_Cycle1.pdf"
+       }
+      ]
+     },
+     {
+      "text": "Cycle 2",
+      "links": [
+       {
+        "label": "Cycle 2",
+        "href": "https://qiscet.edu.in/qiscet/accredation/Autonomous_Cycle2.pdf"
+       }
+      ]
+     }
+    ]
+   ]
+  }
+ ]
+}

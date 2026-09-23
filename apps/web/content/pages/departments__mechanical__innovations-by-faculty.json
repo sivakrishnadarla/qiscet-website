@@ -1,0 +1,54 @@
+{
+ "slug": "departments/mechanical/innovations-by-faculty",
+ "section": "departments",
+ "sectionTitle": "Departments",
+ "title": "Innovations by Faculty – Mechanical Engineering",
+ "legacy": "https://qiscet.edu.in/qiscet/DEPARTMENTS_me_innovation.php",
+ "summary": null,
+ "blocks": [
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    {
+     "text": "Product Development",
+     "links": [
+      {
+       "label": "Product Development",
+       "href": "https://qiscet.edu.in/qiscet/departments/me/faculty_list/Product%20Development.pdf"
+      }
+     ]
+    },
+    {
+     "text": "Technical Megazines",
+     "links": [
+      {
+       "label": "Technical Megazines",
+       "href": "https://qiscet.edu.in/qiscet/DEPARTMENTS_me_technical.php"
+      }
+     ]
+    },
+    {
+     "text": "Instructional Materials",
+     "links": [
+      {
+       "label": "Instructional Materials",
+       "href": "https://qiscet.edu.in/qiscet/DEPARTMENTS_me_instructional.php"
+      }
+     ]
+    },
+    {
+     "text": "Online Lectures",
+     "links": [
+      {
+       "label": "Online Lectures",
+       "href": "https://qiscet.edu.in/qiscet/DEPARTMENTS_me_leactures.php"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "department": "mechanical",
+ "pageTitle": "Innovations by Faculty"
+}

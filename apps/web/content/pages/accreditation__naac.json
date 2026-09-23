@@ -1,0 +1,29 @@
+{
+ "slug": "accreditation/naac",
+ "section": "accreditation",
+ "sectionTitle": "Accreditation",
+ "title": "NAAC",
+ "legacy": "https://qiscet.edu.in/qiscet/ACCRIDATION_PROCESS_naac.php",
+ "summary": null,
+ "blocks": [
+  {
+   "type": "table",
+   "rows": [
+    [
+     {
+      "text": "Cycle 1",
+      "links": [
+       {
+        "label": "Cycle 1",
+        "href": "https://qiscet.edu.in/qiscet/naac/ssr/naac2016.pdf"
+       }
+      ]
+     },
+     {
+      "text": "Cycle 2"
+     }
+    ]
+   ]
+  }
+ ]
+}

@@ -1,0 +1,45 @@
+{
+ "slug": "departments/eee/research-outcomes",
+ "section": "departments",
+ "sectionTitle": "Departments",
+ "title": "Research Outcomes – Electrical & Electronics Engineering",
+ "legacy": "https://qiscet.edu.in/qiscet/DEPARTMENTS_eee_research.php",
+ "summary": null,
+ "blocks": [
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    {
+     "text": "Journals and publications",
+     "links": [
+      {
+       "label": "Journals and publications",
+       "href": "https://qiscet.edu.in/qiscet/DEPARTMENTS_eee_publications.php"
+      }
+     ]
+    },
+    {
+     "text": "Patents",
+     "links": [
+      {
+       "label": "Patents",
+       "href": "https://qiscet.edu.in/qiscet/DEPARTMENTS_eee_patent.php"
+      }
+     ]
+    },
+    {
+     "text": "Sponsored Research",
+     "links": [
+      {
+       "label": "Sponsored Research",
+       "href": "https://qiscet.edu.in/qiscet/DEPARTMENTS_eee_Sponsored_Research.php"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "department": "eee",
+ "pageTitle": "Research Outcomes"
+}

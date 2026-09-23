@@ -1,0 +1,73 @@
+{
+ "slug": "departments/ai-data-science/class-coordinators",
+ "section": "departments",
+ "sectionTitle": "Departments",
+ "title": "Class Coordinators – Artificial Intelligence & Data Science",
+ "legacy": "https://qiscet.edu.in/qiscet/DEPARTMENTS_ai_ds_class_teachers.php",
+ "summary": null,
+ "blocks": [
+  {
+   "type": "table",
+   "rows": [
+    [
+     {
+      "text": "S.No"
+     },
+     {
+      "text": "Class"
+     },
+     {
+      "text": "Section"
+     },
+     {
+      "text": "Name of the Staff"
+     }
+    ],
+    [
+     {
+      "text": "1"
+     },
+     {
+      "text": "III B.Tech (CSE -DS)"
+     },
+     {
+      "text": "1"
+     },
+     {
+      "text": "N Srinu"
+     }
+    ],
+    [
+     {
+      "text": "2"
+     },
+     {
+      "text": "II B.Tech (CSE -DS)"
+     },
+     {
+      "text": "1"
+     },
+     {
+      "text": "N Srinu"
+     }
+    ],
+    [
+     {
+      "text": "3"
+     },
+     {
+      "text": "II B.Tech (CSE -DS)"
+     },
+     {
+      "text": "2"
+     },
+     {
+      "text": "N Srinu"
+     }
+    ]
+   ]
+  }
+ ],
+ "department": "ai-data-science",
+ "pageTitle": "Class Coordinators"
+}

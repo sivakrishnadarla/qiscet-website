@@ -1,0 +1,87 @@
+{
+ "slug": "departments/basic-sciences-humanities/head-of-the-department",
+ "section": "departments",
+ "sectionTitle": "Departments",
+ "title": "Head of the Department – Basic Sciences & Humanities",
+ "legacy": "https://qiscet.edu.in/qiscet/DEPARTMENTS_hs_hod.php",
+ "summary": null,
+ "blocks": [
+  {
+   "type": "table",
+   "rows": [
+    [
+     {
+      "text": "HOD Name:"
+     },
+     {
+      "text": "Dr G Srinivasa Rao"
+     }
+    ],
+    [
+     {
+      "text": "Designation:"
+     },
+     {
+      "text": "Professor & HOD"
+     }
+    ],
+    [
+     {
+      "text": "Qualification:"
+     },
+     {
+      "text": "M.Sc., M.Phil., Ph.D"
+     }
+    ],
+    [
+     {
+      "text": "Email:"
+     },
+     {
+      "text": "shhod@qiscet.edu.in"
+     }
+    ],
+    [
+     {
+      "text": "Contact No:"
+     },
+     {
+      "text": "+91 9849031828"
+     }
+    ],
+    [
+     {
+      "text": "Areas of Interest:"
+     },
+     {
+      "text": "Thin films, Nano materials"
+     }
+    ],
+    [
+     {
+      "text": "Experience:"
+     },
+     {
+      "text": "29 years"
+     }
+    ],
+    [
+     {
+      "text": "Resume:"
+     },
+     {
+      "text": "Resume",
+      "links": [
+       {
+        "label": "Resume",
+        "href": "https://qiscet.edu.in/qiscet/departments/hs/GSR%20SIR.pdf"
+       }
+      ]
+     }
+    ]
+   ]
+  }
+ ],
+ "department": "basic-sciences-humanities",
+ "pageTitle": "Head of the Department"
+}

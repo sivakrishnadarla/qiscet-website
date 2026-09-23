@@ -1,0 +1,118 @@
+{
+ "slug": "departments/mca/laboratories",
+ "section": "departments",
+ "sectionTitle": "Departments",
+ "title": "Laboratories – Master of Computer Applications",
+ "legacy": "https://qiscet.edu.in/qiscet/DEPARTMENTS_mca_labs.php",
+ "summary": null,
+ "blocks": [
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    {
+     "text": "The department is equipped with the state of art equipment supporting latest software."
+    },
+    {
+     "text": "Internet facilities are provided for the benefit of the students & the staff"
+    },
+    {
+     "text": "Basic Progr. Lab: 63 computer systems."
+    },
+    {
+     "text": "All the clients are networked in LAN, in all the laboratories."
+    },
+    {
+     "text": "The softwares available include JAVA, IDE compilers, Oracle 10G, Rational Rose and C, Putty etc,NetBeans,Apache Tomcat,MySQL"
+    }
+   ]
+  },
+  {
+   "type": "table",
+   "rows": [
+    [
+     {
+      "text": "S.No"
+     },
+     {
+      "text": "Name of lab/workshop"
+     }
+    ],
+    [
+     {
+      "text": "1"
+     },
+     {
+      "text": "Data Structures through C"
+     }
+    ],
+    [
+     {
+      "text": "2"
+     },
+     {
+      "text": "Data Base Management Systems"
+     }
+    ],
+    [
+     {
+      "text": "3"
+     },
+     {
+      "text": "Operating Systems"
+     }
+    ],
+    [
+     {
+      "text": "4"
+     },
+     {
+      "text": "Probability and Statistical Application"
+     }
+    ],
+    [
+     {
+      "text": "5"
+     },
+     {
+      "text": "Unix Programing Lab"
+     }
+    ],
+    [
+     {
+      "text": "6"
+     },
+     {
+      "text": "Data mining & Business Analytics"
+     }
+    ],
+    [
+     {
+      "text": "7"
+     },
+     {
+      "text": "Python Programming"
+     }
+    ],
+    [
+     {
+      "text": "8"
+     },
+     {
+      "text": "Object Oriented Analysis & Design"
+     }
+    ],
+    [
+     {
+      "text": "9"
+     },
+     {
+      "text": "Software Testing Methodologies"
+     }
+    ]
+   ]
+  }
+ ],
+ "department": "mca",
+ "pageTitle": "Laboratories"
+}

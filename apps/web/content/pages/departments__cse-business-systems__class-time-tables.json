@@ -1,0 +1,27 @@
+{
+ "slug": "departments/cse-business-systems/class-time-tables",
+ "section": "departments",
+ "sectionTitle": "Departments",
+ "title": "Class Time Tables – Computer Science & Engineering and Business Systems",
+ "legacy": "https://qiscet.edu.in/qiscet/DEPARTMENTS_cse_bs_timetables.php",
+ "summary": null,
+ "blocks": [
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    {
+     "text": "III B.Tech CSE BS",
+     "links": [
+      {
+       "label": "III B.Tech CSE BS",
+       "href": "https://qiscet.edu.in/qiscet/departments/cse%20bs/III%20CSBS.pdf"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "department": "cse-business-systems",
+ "pageTitle": "Class Time Tables"
+}

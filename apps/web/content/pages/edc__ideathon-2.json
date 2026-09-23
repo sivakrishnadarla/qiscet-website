@@ -1,0 +1,104 @@
+{
+ "slug": "edc/ideathon-2",
+ "section": "edc",
+ "sectionTitle": "Entrepreneurship Development Cell",
+ "title": "Ideathon 2.0",
+ "legacy": "https://qiscet.edu.in/qiscet/edc_ideathon2.0.php",
+ "summary": "Total 20 ideas are received for Ideathon and 12 ideas are forwarded for further process. 1 idea is approved.",
+ "blocks": [
+  {
+   "type": "heading",
+   "text": "ENTREPRENEURSHIP DEVELOPMENT CELL",
+   "level": 3
+  },
+  {
+   "type": "heading",
+   "text": "THEMES OF THE EVENT",
+   "level": 4
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    {
+     "text": "Agriculture & Rural Development."
+    },
+    {
+     "text": "Education"
+    },
+    {
+     "text": "Food Processing/Nutrition/Biotech"
+    },
+    {
+     "text": "IoT based technologies (e.g. Security & Surveillance systems etc)"
+    },
+    {
+     "text": "Mining, Metals, Materials"
+    },
+    {
+     "text": "Renewable and affordable Energy."
+    },
+    {
+     "text": "Smart Vehicles/ Electric vehicle/ Electric vehicle motor and battery technology."
+    },
+    {
+     "text": "Software – Mobile & Web App Development"
+    },
+    {
+     "text": "Waste Management/Waste to Wealth Creation"
+    }
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "Total 20 ideas are received for Ideathon and 12 ideas are forwarded for further process. 1 idea is approved."
+  },
+  {
+   "type": "heading",
+   "text": "SUPPORT OFFERED FOR SELECTED TEAM",
+   "level": 4
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    {
+     "text": "Nominations of Validated Innovations from Institutions to take part in National Contests and Grand Challenges"
+    },
+    {
+     "text": "Mentoring and Training Support and Evaluations"
+    },
+    {
+     "text": "Funding Assistance and Incubation Linkage"
+    },
+    {
+     "text": "Acceleration and Investment Linkage Facilitation"
+    }
+   ]
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    {
+     "text": "List of proposal of Ideas",
+     "links": [
+      {
+       "label": "List of proposal of Ideas",
+       "href": "https://qiscet.edu.in/qiscet/edc/IDEATHON%202.0%20LIST.pdf"
+      }
+     ]
+    },
+    {
+     "text": "Approved Idea from Ideathon 2.0",
+     "links": [
+      {
+       "label": "Approved Idea from Ideathon 2.0",
+       "href": "https://qiscet.edu.in/qiscet/edc/ideathon%202.0.pdf"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

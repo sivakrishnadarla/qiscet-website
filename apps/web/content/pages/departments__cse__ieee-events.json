@@ -1,0 +1,27 @@
+{
+ "slug": "departments/cse/ieee-events",
+ "section": "departments",
+ "sectionTitle": "Departments",
+ "title": "IEEE Events – Computer Science & Engineering",
+ "legacy": "https://qiscet.edu.in/qiscet/DEPARTMENTS_cse_ieee_events.php",
+ "summary": null,
+ "blocks": [
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    {
+     "text": "IEEE Event",
+     "links": [
+      {
+       "label": "IEEE Event",
+       "href": "https://qiscet.edu.in/qiscet/departments/cse/data/AARAMBH.pdf"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "department": "cse",
+ "pageTitle": "IEEE Events"
+}

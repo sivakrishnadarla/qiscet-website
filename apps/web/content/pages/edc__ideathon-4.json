@@ -1,0 +1,95 @@
+{
+ "slug": "edc/ideathon-4",
+ "section": "edc",
+ "sectionTitle": "Entrepreneurship Development Cell",
+ "title": "Ideathon 4.0",
+ "legacy": "https://qiscet.edu.in/qiscet/edc_ideathon4.0.php",
+ "summary": "Total 27 ideas are received for Ideathon and 13 ideas are forwarded for further process.",
+ "blocks": [
+  {
+   "type": "heading",
+   "text": "ENTREPRENEURSHIP DEVELOPMENT CELL",
+   "level": 3
+  },
+  {
+   "type": "heading",
+   "text": "THEMES OF THE EVENT",
+   "level": 4
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    {
+     "text": "Agriculture & Rural Development."
+    },
+    {
+     "text": "Education"
+    },
+    {
+     "text": "Food Processing/Nutrition/Biotech"
+    },
+    {
+     "text": "IoT based technologies (e.g. Security & Surveillance systems etc)"
+    },
+    {
+     "text": "Mining, Metals, Materials"
+    },
+    {
+     "text": "Renewable and affordable Energy."
+    },
+    {
+     "text": "Smart Vehicles/ Electric vehicle/ Electric vehicle motor and battery technology."
+    },
+    {
+     "text": "Software – Mobile & Web App Development"
+    },
+    {
+     "text": "Waste Management/Waste to Wealth Creation"
+    }
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "Total 27 ideas are received for Ideathon and 13 ideas are forwarded for further process."
+  },
+  {
+   "type": "heading",
+   "text": "SUPPORT OFFERED FOR SELECTED TEAM",
+   "level": 4
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    {
+     "text": "Nominations of Validated Innovations from Institutions to take part in National Contests and Grand Challenges"
+    },
+    {
+     "text": "Mentoring and Training Support and Evaluations"
+    },
+    {
+     "text": "Funding Assistance and Incubation Linkage"
+    },
+    {
+     "text": "Acceleration and Investment Linkage Facilitation"
+    }
+   ]
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    {
+     "text": "List of proposal of Ideas",
+     "links": [
+      {
+       "label": "List of proposal of Ideas",
+       "href": "https://qiscet.edu.in/qiscet/edc/Ideathon%204.0.pdf"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

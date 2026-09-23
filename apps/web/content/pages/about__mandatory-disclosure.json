@@ -1,0 +1,34 @@
+{
+ "slug": "about/mandatory-disclosure",
+ "section": "about",
+ "sectionTitle": "About Us",
+ "title": "Mandatory Disclosure",
+ "legacy": "https://qiscet.edu.in/qiscet/ABOUT_US_Mandatory.php",
+ "summary": null,
+ "blocks": [
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    {
+     "text": "Mandatory Disclosure",
+     "links": [
+      {
+       "label": "Mandatory Disclosure",
+       "href": "https://qiscet.edu.in/qiscet/files/Mandetory.pdf"
+      }
+     ]
+    },
+    {
+     "text": "Audit Statements",
+     "links": [
+      {
+       "label": "Audit Statements",
+       "href": "/iqac/finance-audits"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

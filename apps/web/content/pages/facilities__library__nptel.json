@@ -1,0 +1,52 @@
+{
+ "slug": "facilities/library/nptel",
+ "section": "facilities",
+ "sectionTitle": "Facilities",
+ "title": "NPTEL Video Lectures",
+ "legacy": "https://qiscet.edu.in/qiscet/FACILITIES_library_NPTEL_Video_Lectures.php",
+ "summary": null,
+ "blocks": [
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    {
+     "text": "Details of NPTEL Video Lectures",
+     "links": [
+      {
+       "label": "Details of NPTEL Video Lectures",
+       "href": "https://qiscet.edu.in/qiscet/library/16-sep-2022/Details%20of%20NPTEL%20Video%20Lectures.pdf"
+      }
+     ]
+    },
+    {
+     "text": "NPTEL Video Lectures Phase-1",
+     "links": [
+      {
+       "label": "NPTEL Video Lectures Phase-1",
+       "href": "https://qiscet.edu.in/qiscet/library/pdfs/NPTEL/NPTEL%20Video%20Lectures%20Phase-1.pdf"
+      }
+     ]
+    },
+    {
+     "text": "NPTEL Video Lectures Phase-2",
+     "links": [
+      {
+       "label": "NPTEL Video Lectures Phase-2",
+       "href": "https://qiscet.edu.in/qiscet/library/pdfs/NPTEL/NPTEL%20Video%20Lectures%20Phase-2.pdf"
+      }
+     ]
+    },
+    {
+     "text": "CERTIFICATE",
+     "links": [
+      {
+       "label": "CERTIFICATE",
+       "href": "https://qiscet.edu.in/qiscet/library/16-sep-2022/CERTIFICATE.pdf"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

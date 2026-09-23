@@ -1,0 +1,63 @@
+{
+ "slug": "departments/eee/placements",
+ "section": "departments",
+ "sectionTitle": "Departments",
+ "title": "Placements – Electrical & Electronics Engineering",
+ "legacy": "https://qiscet.edu.in/qiscet/DEPARTMENTS_eee_placement.php",
+ "summary": null,
+ "blocks": [
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    {
+     "text": "2023 - 2024",
+     "links": [
+      {
+       "label": "2023 - 2024",
+       "href": "https://qiscet.edu.in/qiscet/departments/eee/placements/EEE%20Placement%20Data%202023-24%2020BATCH.pdf"
+      }
+     ]
+    },
+    {
+     "text": "2022 - 2023",
+     "links": [
+      {
+       "label": "2022 - 2023",
+       "href": "https://qiscet.edu.in/qiscet/departments/eee/placements/EEE%20Placement%20Data%202022-23%2019%20BATCH.pdf"
+      }
+     ]
+    },
+    {
+     "text": "2021 - 2022",
+     "links": [
+      {
+       "label": "2021 - 2022",
+       "href": "https://qiscet.edu.in/qiscet/departments/eee/placements/EEE%20Placement%20Data%202021-22%2018%20BATCH.pdf"
+      }
+     ]
+    },
+    {
+     "text": "2019 - 2021",
+     "links": [
+      {
+       "label": "2019 - 2021",
+       "href": "https://qiscet.edu.in/qiscet/departments/eee/placements/EEE_PLACEMENTS.pdf"
+      }
+     ]
+    },
+    {
+     "text": "2018 - 2019",
+     "links": [
+      {
+       "label": "2018 - 2019",
+       "href": "https://qiscet.edu.in/qiscet/departments/eee/placements/2018-19%20PLACEMENTS.pdf"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "department": "eee",
+ "pageTitle": "Placements"
+}

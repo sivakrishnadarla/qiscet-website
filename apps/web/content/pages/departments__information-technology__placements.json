@@ -1,0 +1,36 @@
+{
+ "slug": "departments/information-technology/placements",
+ "section": "departments",
+ "sectionTitle": "Departments",
+ "title": "Placements – Information Technology",
+ "legacy": "https://qiscet.edu.in/qiscet/DEPARTMENTS_it_Placements.php",
+ "summary": null,
+ "blocks": [
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    {
+     "text": "2019-21",
+     "links": [
+      {
+       "label": "2019-21",
+       "href": "https://qiscet.edu.in/qiscet/departments/it/placement/IT_PLACEMENTS.pdf"
+      }
+     ]
+    },
+    {
+     "text": "2018-19",
+     "links": [
+      {
+       "label": "2018-19",
+       "href": "https://qiscet.edu.in/qiscet/departments/it/placement/placement-2018-19.pdf"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "department": "information-technology",
+ "pageTitle": "Placements"
+}

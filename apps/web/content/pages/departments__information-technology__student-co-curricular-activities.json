@@ -1,0 +1,36 @@
+{
+ "slug": "departments/information-technology/student-co-curricular-activities",
+ "section": "departments",
+ "sectionTitle": "Departments",
+ "title": "Student Co-Curricular Activities – Information Technology",
+ "legacy": "https://qiscet.edu.in/qiscet/DEPARTMENTS_it_addcourses.php",
+ "summary": null,
+ "blocks": [
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    {
+     "text": "Yearly Wise Value Added Courses",
+     "links": [
+      {
+       "label": "Yearly Wise Value Added Courses",
+       "href": "https://qiscet.edu.in/qiscet/departments/it/Year-sheets-valueadded%20courses.pdf"
+      }
+     ]
+    },
+    {
+     "text": "List Of Value Added Courses",
+     "links": [
+      {
+       "label": "List Of Value Added Courses",
+       "href": "https://qiscet.edu.in/qiscet/departments/it/valueadded%20courses.pdf"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "department": "information-technology",
+ "pageTitle": "Student Co-Curricular Activities"
+}

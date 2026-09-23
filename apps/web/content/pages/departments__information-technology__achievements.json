@@ -1,0 +1,36 @@
+{
+ "slug": "departments/information-technology/achievements",
+ "section": "departments",
+ "sectionTitle": "Departments",
+ "title": "Achievements – Information Technology",
+ "legacy": "https://qiscet.edu.in/qiscet/DEPARTMENTS_it_achievements.php",
+ "summary": null,
+ "blocks": [
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    {
+     "text": "Faculty Achievements",
+     "links": [
+      {
+       "label": "Faculty Achievements",
+       "href": "https://qiscet.edu.in/qiscet/departments/it/Faculty%20Acheivements.pdf"
+      }
+     ]
+    },
+    {
+     "text": "Faculty Development Programme",
+     "links": [
+      {
+       "label": "Faculty Development Programme",
+       "href": "https://qiscet.edu.in/qiscet/DEPARTMENTS_it_fdp.php"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "department": "information-technology",
+ "pageTitle": "Achievements"
+}

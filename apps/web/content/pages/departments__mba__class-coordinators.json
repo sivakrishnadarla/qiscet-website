@@ -1,0 +1,59 @@
+{
+ "slug": "departments/mba/class-coordinators",
+ "section": "departments",
+ "sectionTitle": "Departments",
+ "title": "Class Coordinators – Master of Business Administration",
+ "legacy": "https://qiscet.edu.in/qiscet/DEPARTMENTS_mba_class_teachers.php",
+ "summary": null,
+ "blocks": [
+  {
+   "type": "table",
+   "rows": [
+    [
+     {
+      "text": "S.No"
+     },
+     {
+      "text": "Class"
+     },
+     {
+      "text": "Section"
+     },
+     {
+      "text": "Name of the Staff"
+     }
+    ],
+    [
+     {
+      "text": "1"
+     },
+     {
+      "text": "I MBA"
+     },
+     {
+      "text": "A"
+     },
+     {
+      "text": "Mr. CH. HEMANTH KUMAR"
+     }
+    ],
+    [
+     {
+      "text": "2"
+     },
+     {
+      "text": "II MBA"
+     },
+     {
+      "text": "A"
+     },
+     {
+      "text": "Mr. K.UMA MAHESWARA RAO"
+     }
+    ]
+   ]
+  }
+ ],
+ "department": "mba",
+ "pageTitle": "Class Coordinators"
+}

@@ -1,0 +1,63 @@
+{
+ "slug": "departments/cse/result-analysis",
+ "section": "departments",
+ "sectionTitle": "Departments",
+ "title": "Result Analysis – Computer Science & Engineering",
+ "legacy": "https://qiscet.edu.in/qiscet/DEPARTMENTS_cse_analysis.php",
+ "summary": null,
+ "blocks": [
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    {
+     "text": "2019-2020",
+     "links": [
+      {
+       "label": "2019-2020",
+       "href": "https://qiscet.edu.in/qiscet/DEPARTMENTS_cse_analysis_2019-20.php"
+      }
+     ]
+    },
+    {
+     "text": "2018-2019",
+     "links": [
+      {
+       "label": "2018-2019",
+       "href": "https://qiscet.edu.in/qiscet/DEPARTMENTS_cse_analysis_2018-19.php"
+      }
+     ]
+    },
+    {
+     "text": "2017-2018",
+     "links": [
+      {
+       "label": "2017-2018",
+       "href": "https://qiscet.edu.in/qiscet/DEPARTMENTS_cse_analysis_2017-18.php"
+      }
+     ]
+    },
+    {
+     "text": "2016-2017",
+     "links": [
+      {
+       "label": "2016-2017",
+       "href": "https://qiscet.edu.in/qiscet/DEPARTMENTS_cse_analysis_2016-17.php"
+      }
+     ]
+    },
+    {
+     "text": "2015-2016",
+     "links": [
+      {
+       "label": "2015-2016",
+       "href": "https://qiscet.edu.in/qiscet/DEPARTMENTS_cse_analysis_2015-16.php"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "department": "cse",
+ "pageTitle": "Result Analysis"
+}

@@ -1,0 +1,27 @@
+{
+ "slug": "departments/eee/student-enrollment",
+ "section": "departments",
+ "sectionTitle": "Departments",
+ "title": "Student Enrollment – Electrical & Electronics Engineering",
+ "legacy": "https://qiscet.edu.in/qiscet/DEPARTMENTS_eee_Admissions.php",
+ "summary": null,
+ "blocks": [
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    {
+     "text": "Student Enrollment List",
+     "links": [
+      {
+       "label": "Student Enrollment List",
+       "href": "https://qiscet.edu.in/qiscet/departments/eee/student_enrollement_2024.pdf"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "department": "eee",
+ "pageTitle": "Student Enrollment"
+}

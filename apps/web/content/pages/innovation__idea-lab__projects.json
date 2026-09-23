@@ -1,0 +1,135 @@
+{
+ "slug": "innovation/idea-lab/projects",
+ "section": "innovation",
+ "sectionTitle": "Centre for Innovation",
+ "title": "IDEA Lab Projects",
+ "legacy": "https://qiscet.edu.in/qiscet/CENTRE_FOR_INNOVATION_idealab_lab_projects.php",
+ "summary": null,
+ "blocks": [
+  {
+   "type": "table",
+   "rows": [
+    [
+     {
+      "text": "S.No"
+     },
+     {
+      "text": "Name of the Project"
+     }
+    ],
+    [
+     {
+      "text": "1"
+     },
+     {
+      "text": "Green House Monitoring and Controlling System",
+      "links": [
+       {
+        "label": "Green House Monitoring and Controlling System",
+        "href": "https://qiscet.edu.in/qiscet/idealab/idealab_projects/Green%20House%20Monitoring%20and%20Controlling%20System.pdf"
+       }
+      ]
+     }
+    ],
+    [
+     {
+      "text": "2"
+     },
+     {
+      "text": "Smart Environmental Control System for Buffalo Farm with Solar Powered Cooling",
+      "links": [
+       {
+        "label": "Smart Environmental Control System for Buffalo Farm with Solar Powered Cooling",
+        "href": "https://qiscet.edu.in/qiscet/idealab/idealab_projects/Smart%20Environmental%20Control%20System%20for%20Buffalo%20Farm%20with%20Solar%20Powered%20Cooling.pdf"
+       }
+      ]
+     }
+    ],
+    [
+     {
+      "text": "3"
+     },
+     {
+      "text": "DC To AC Converter Using Cmos Technology",
+      "links": [
+       {
+        "label": "DC To AC Converter Using Cmos Technology",
+        "href": "https://qiscet.edu.in/qiscet/idealab/idealab_projects/Dc%20To%20Ac%20Converter%20Using%20Cmos%20Technology.pdf"
+       }
+      ]
+     }
+    ],
+    [
+     {
+      "text": "4"
+     },
+     {
+      "text": "IOT Based Plant Moisture Monitoring System",
+      "links": [
+       {
+        "label": "IOT Based Plant Moisture Monitoring System",
+        "href": "https://qiscet.edu.in/qiscet/idealab/idealab_projects/IOT%20Based%20Plant%20Moisture%20Monitoring%20System.pdf"
+       }
+      ]
+     }
+    ],
+    [
+     {
+      "text": "5"
+     },
+     {
+      "text": "Smart Rain Water Harvesting with Integrated Mini Power System",
+      "links": [
+       {
+        "label": "Smart Rain Water Harvesting with Integrated Mini Power System",
+        "href": "https://qiscet.edu.in/qiscet/idealab/idealab_projects/Smart%20Rain%20Water%20Harvesting%20with%20Integrated%20Mini%20Power%20System..pdf"
+       }
+      ]
+     }
+    ],
+    [
+     {
+      "text": "6"
+     },
+     {
+      "text": "Smart Wearable Helmet for Environmental Safety Monitoring in Granite Mining Operations",
+      "links": [
+       {
+        "label": "Smart Wearable Helmet for Environmental Safety Monitoring in Granite Mining Operations",
+        "href": "https://qiscet.edu.in/qiscet/idealab/idealab_projects/Smart%20Wearable%20Helmet%20for%20Environmental%20Safety%20Monitoring%20in%20Granite%20Mining%20Operations.pdf"
+       }
+      ]
+     }
+    ],
+    [
+     {
+      "text": "7"
+     },
+     {
+      "text": "Integrations Of Sensor Network in Smart Plant Monitoring System",
+      "links": [
+       {
+        "label": "Integrations Of Sensor Network in Smart Plant Monitoring System",
+        "href": "https://qiscet.edu.in/qiscet/idealab/idealab_projects/Integrations%20Of%20Sensor%20Network%20in%20Smart%20Plant%20Monitoring%20System..pdf"
+       }
+      ]
+     }
+    ],
+    [
+     {
+      "text": "8"
+     },
+     {
+      "text": "Solar-Powered Smart Farm Protector Integrated Animal Deterrent Methods",
+      "links": [
+       {
+        "label": "Solar-Powered Smart Farm Protector Integrated Animal Deterrent Methods",
+        "href": "https://qiscet.edu.in/qiscet/idealab/idealab_projects/Solar-Powered%20Smart%20Farm%20Protector%20Integrated%20Animal%20Deterrent%20Methods.pdf"
+       }
+      ]
+     }
+    ]
+   ]
+  }
+ ]
+}

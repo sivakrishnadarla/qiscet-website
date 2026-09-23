@@ -1,0 +1,19 @@
+{
+ "slug": "facilities/wifi",
+ "section": "facilities",
+ "sectionTitle": "Facilities",
+ "title": "Wi-Fi Campus",
+ "legacy": "https://qiscet.edu.in/qiscet/FACILITIES_WIFI.php",
+ "summary": "The QIS campuses have Wi-Fi facility. The facility acts as the best technological companion to the students. They are able to procure academic richness depending on the global technological resources.",
+ "blocks": [
+  {
+   "type": "image",
+   "src": "/images/images/wifi-qiscet.jpg",
+   "alt": "canteen"
+  },
+  {
+   "type": "paragraph",
+   "text": "The QIS campuses have Wi-Fi facility. The facility acts as the best technological companion to the students. They are able to procure academic richness depending on the global technological resources."
+  }
+ ]
+}

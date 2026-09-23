@@ -1,0 +1,27 @@
+{
+ "slug": "departments/mechanical/awards",
+ "section": "departments",
+ "sectionTitle": "Departments",
+ "title": "Awards – Mechanical Engineering",
+ "legacy": "https://qiscet.edu.in/qiscet/DEPARTMENTS_me_awards.php",
+ "summary": null,
+ "blocks": [
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    {
+     "text": "Awards",
+     "links": [
+      {
+       "label": "Awards",
+       "href": "https://qiscet.edu.in/qiscet/departments/me/data/Awards.pdf"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "department": "mechanical",
+ "pageTitle": "Awards"
+}

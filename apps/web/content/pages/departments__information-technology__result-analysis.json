@@ -1,0 +1,45 @@
+{
+ "slug": "departments/information-technology/result-analysis",
+ "section": "departments",
+ "sectionTitle": "Departments",
+ "title": "Result Analysis – Information Technology",
+ "legacy": "https://qiscet.edu.in/qiscet/DEPARTMENTS_it_analysis.php",
+ "summary": null,
+ "blocks": [
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    {
+     "text": "2021-2022",
+     "links": [
+      {
+       "label": "2021-2022",
+       "href": "https://qiscet.edu.in/qiscet/departments/it/data/results%20analysis%202021-22.pdf"
+      }
+     ]
+    },
+    {
+     "text": "2020-2021",
+     "links": [
+      {
+       "label": "2020-2021",
+       "href": "https://qiscet.edu.in/qiscet/departments/it/data/results%20analysis%202020-21.pdf"
+      }
+     ]
+    },
+    {
+     "text": "2019-2020",
+     "links": [
+      {
+       "label": "2019-2020",
+       "href": "https://qiscet.edu.in/qiscet/departments/it/data/results%20analysis%202019-20.pdf"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "department": "information-technology",
+ "pageTitle": "Result Analysis"
+}

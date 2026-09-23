@@ -1,0 +1,1578 @@
+[
+ {
+  "source": "/qiscet/about_us_snes.php",
+  "destination": "/about/snes"
+ },
+ {
+  "source": "/qiscet/about_us_about_qiscet.php",
+  "destination": "/about/about-qiscet"
+ },
+ {
+  "source": "/qiscet/about_us_quality_policy.php",
+  "destination": "/about/quality-policy"
+ },
+ {
+  "source": "/qiscet/about_us_vision_mission.php",
+  "destination": "/about/vision-mission"
+ },
+ {
+  "source": "/qiscet/about_us_mandatory.php",
+  "destination": "/about/mandatory-disclosure"
+ },
+ {
+  "source": "/qiscet/about_us_organogram.php",
+  "destination": "/about/organogram"
+ },
+ {
+  "source": "/qiscet/about_us_governers.php",
+  "destination": "/about/board-of-governors"
+ },
+ {
+  "source": "/qiscet/about_us_principal.php",
+  "destination": "/about/principal"
+ },
+ {
+  "source": "/qiscet/about_us_press.php",
+  "destination": "/about/press"
+ },
+ {
+  "source": "/qiscet/about_us_qisfest_gal.php",
+  "destination": "/about/qis-fest-gallery"
+ },
+ {
+  "source": "/qiscet/about_us_sih-2022.php",
+  "destination": "/about/sih-2022-gallery"
+ },
+ {
+  "source": "/qiscet/index_admission_brochure.php",
+  "destination": "/admissions/brochure"
+ },
+ {
+  "source": "/qiscet/index_admission_procedure.php",
+  "destination": "/admissions/procedure"
+ },
+ {
+  "source": "/qiscet/academics_courses_offered.php",
+  "destination": "/admissions/courses-offered"
+ },
+ {
+  "source": "/qiscet/bcat_moreinfo.php",
+  "destination": "/admissions/b-category"
+ },
+ {
+  "source": "/qiscet/academics_council.php",
+  "destination": "/academics/academic-council"
+ },
+ {
+  "source": "/qiscet/academics_council_meeting.php",
+  "destination": "/academics/academic-council-meetings"
+ },
+ {
+  "source": "/qiscet/academics_calanders.php",
+  "destination": "/academics/academic-calendars"
+ },
+ {
+  "source": "/qiscet/academics_regulations.php",
+  "destination": "/academics/regulations-syllabus"
+ },
+ {
+  "source": "/qiscet/academics_disciplinary_regulations.php",
+  "destination": "/academics/disciplinary-regulations"
+ },
+ {
+  "source": "/qiscet/academics_administration.php",
+  "destination": "/academics/academic-administration"
+ },
+ {
+  "source": "/qiscet/academics_service_rules.php",
+  "destination": "/academics/service-rules"
+ },
+ {
+  "source": "/qiscet/common_ac_bos.php",
+  "destination": "/academics/common-bos-meeting"
+ },
+ {
+  "source": "/qiscet/academics_newsletters.php",
+  "destination": "/academics/newsletters"
+ },
+ {
+  "source": "/qiscet/bos.php",
+  "destination": "/academics/board-of-studies"
+ },
+ {
+  "source": "/qiscet/academics_extra_curricular_activities.php",
+  "destination": "/student-life/extra-curricular"
+ },
+ {
+  "source": "/qiscet/academics_extra_curricular_activities_nss.php",
+  "destination": "/student-life/nss"
+ },
+ {
+  "source": "/qiscet/academics_extra_curricular_activities_nss_objectives.php",
+  "destination": "/student-life/nss-objectives"
+ },
+ {
+  "source": "/qiscet/academics_extra_curricular_activities_nss_activities.php",
+  "destination": "/student-life/nss-activities"
+ },
+ {
+  "source": "/qiscet/academics_extra_curricular_activities_ncc.php",
+  "destination": "/student-life/ncc"
+ },
+ {
+  "source": "/qiscet/academics_extra_curricular_activities_cultural.php",
+  "destination": "/student-life/cultural"
+ },
+ {
+  "source": "/qiscet/academics_strategic_plan.php",
+  "destination": "/academics/institutional-development-plan"
+ },
+ {
+  "source": "/qiscet/academics_governing_council.php",
+  "destination": "/academics/governing-council"
+ },
+ {
+  "source": "/qiscet/facilities_atm.php",
+  "destination": "/facilities/bank-atm"
+ },
+ {
+  "source": "/qiscet/facilities_cafeteria.php",
+  "destination": "/facilities/cafeteria"
+ },
+ {
+  "source": "/qiscet/facilities_physical_education.php",
+  "destination": "/facilities/physical-education"
+ },
+ {
+  "source": "/qiscet/facilities_physical_education_staff.php",
+  "destination": "/facilities/physical-education/staff"
+ },
+ {
+  "source": "/qiscet/facilities_physical_education_counducted_events.php",
+  "destination": "/facilities/physical-education/events"
+ },
+ {
+  "source": "/qiscet/facilities_physical_education_pe_learlsinsports.php",
+  "destination": "/facilities/physical-education/laurels"
+ },
+ {
+  "source": "/qiscet/facilities_physical_education_support_students.php",
+  "destination": "/facilities/physical-education/student-support"
+ },
+ {
+  "source": "/qiscet/facilities_physical_education_community_activities.php",
+  "destination": "/facilities/physical-education/community"
+ },
+ {
+  "source": "/qiscet/facilities_physical_education_gallary.php",
+  "destination": "/facilities/physical-education/gallery"
+ },
+ {
+  "source": "/qiscet/facilities_divyangian.php",
+  "destination": "/facilities/divyangjan"
+ },
+ {
+  "source": "/qiscet/facilities_media_center.php",
+  "destination": "/facilities/media-centre"
+ },
+ {
+  "source": "/qiscet/facilities_hostel.php",
+  "destination": "/facilities/hostel"
+ },
+ {
+  "source": "/qiscet/facilities_foodcourt.php",
+  "destination": "/facilities/food-court"
+ },
+ {
+  "source": "/qiscet/facilities_minaralwater.php",
+  "destination": "/facilities/mineral-water"
+ },
+ {
+  "source": "/qiscet/facilities_transport.php",
+  "destination": "/facilities/transport"
+ },
+ {
+  "source": "/qiscet/facilities_medical.php",
+  "destination": "/facilities/medical"
+ },
+ {
+  "source": "/qiscet/facilities_wifi.php",
+  "destination": "/facilities/wifi"
+ },
+ {
+  "source": "/qiscet/facilities_fire_safty.php",
+  "destination": "/facilities/fire-safety"
+ },
+ {
+  "source": "/qiscet/facilities_library.php",
+  "destination": "/facilities/library"
+ },
+ {
+  "source": "/qiscet/facilities_library_about_librarian.php",
+  "destination": "/facilities/library/librarian"
+ },
+ {
+  "source": "/qiscet/facilities_library_staff_list.php",
+  "destination": "/facilities/library/staff"
+ },
+ {
+  "source": "/qiscet/facilities_library_committee.php",
+  "destination": "/facilities/library/committee"
+ },
+ {
+  "source": "/qiscet/facilities_library_mom.php",
+  "destination": "/facilities/library/minutes"
+ },
+ {
+  "source": "/qiscet/facilities_library_timetable.php",
+  "destination": "/facilities/library/timetable"
+ },
+ {
+  "source": "/qiscet/facilities_library_ebooks.php",
+  "destination": "/facilities/library/e-books"
+ },
+ {
+  "source": "/qiscet/facilities_library_ejournals.php",
+  "destination": "/facilities/library/e-journals"
+ },
+ {
+  "source": "/qiscet/facilities_library_print_journals_and_magazines.php",
+  "destination": "/facilities/library/print-journals"
+ },
+ {
+  "source": "/qiscet/facilities_library_rarebooks.php",
+  "destination": "/facilities/library/rare-books"
+ },
+ {
+  "source": "/qiscet/facilities_library_nptel_video_lectures.php",
+  "destination": "/facilities/library/nptel"
+ },
+ {
+  "source": "/qiscet/facilities_library_gallary.php",
+  "destination": "/facilities/library/gallery"
+ },
+ {
+  "source": "/qiscet/e-resources.php",
+  "destination": "/facilities/e-resources"
+ },
+ {
+  "source": "/qiscet/academics_centre_for_research.php",
+  "destination": "/research"
+ },
+ {
+  "source": "/qiscet/academics_centre_for_research_events.php",
+  "destination": "/research/awards"
+ },
+ {
+  "source": "/qiscet/academics_centre_for_research_facilities.php",
+  "destination": "/research/facilities"
+ },
+ {
+  "source": "/qiscet/academics_centre_for_research_centre_for_excellence.php",
+  "destination": "/research/centres-of-excellence"
+ },
+ {
+  "source": "/qiscet/index_randd_grants.php",
+  "destination": "/research/grants"
+ },
+ {
+  "source": "/qiscet/index_consultancy.php",
+  "destination": "/research/consultancy"
+ },
+ {
+  "source": "/qiscet/index_patents.php",
+  "destination": "/research/patents"
+ },
+ {
+  "source": "/qiscet/index_randd_pub.php",
+  "destination": "/research/publications"
+ },
+ {
+  "source": "/qiscet/academics_centre_for_research_list_of_equipment.php",
+  "destination": "/research/equipment"
+ },
+ {
+  "source": "/qiscet/placement_and_training_corporate_relations.php",
+  "destination": "/placements/about"
+ },
+ {
+  "source": "/qiscet/placement_and_training_chart.php",
+  "destination": "/placements/organisation-chart"
+ },
+ {
+  "source": "/qiscet/placement_and_training_charts.php",
+  "destination": "/placements/placement-details"
+ },
+ {
+  "source": "/qiscet/placement_and_training_policy.php",
+  "destination": "/placements/policy"
+ },
+ {
+  "source": "/qiscet/placement_and_training_recruiters.php",
+  "destination": "/placements/recruiters"
+ },
+ {
+  "source": "/qiscet/placement_and_training_training.php",
+  "destination": "/placements/training"
+ },
+ {
+  "source": "/qiscet/placement_and_training_industry.php",
+  "destination": "/placements/industry-linkages"
+ },
+ {
+  "source": "/qiscet/mous.php",
+  "destination": "/placements/mous"
+ },
+ {
+  "source": "/qiscet/placement_and_training_alumni.php",
+  "destination": "/alumni"
+ },
+ {
+  "source": "/qiscet/alumni_committee.php",
+  "destination": "/alumni/committee"
+ },
+ {
+  "source": "/qiscet/alumni_mom.php",
+  "destination": "/alumni/minutes"
+ },
+ {
+  "source": "/qiscet/alumni_circulars.php",
+  "destination": "/alumni/circulars"
+ },
+ {
+  "source": "/qiscet/aboutedc.php",
+  "destination": "/edc"
+ },
+ {
+  "source": "/qiscet/innovation_startup_policy.php",
+  "destination": "/edc/innovation-startup-policy"
+ },
+ {
+  "source": "/qiscet/enterpreneurslist.php",
+  "destination": "/edc/entrepreneurs"
+ },
+ {
+  "source": "/qiscet/top10enterpreneurs.php",
+  "destination": "/edc/top-entrepreneurs"
+ },
+ {
+  "source": "/qiscet/edcevents.php",
+  "destination": "/edc/events"
+ },
+ {
+  "source": "/qiscet/edc_ideathon.php",
+  "destination": "/edc/ideathon"
+ },
+ {
+  "source": "/qiscet/edc_ideathon2.0.php",
+  "destination": "/edc/ideathon-2"
+ },
+ {
+  "source": "/qiscet/edc_ideathon3.0.php",
+  "destination": "/edc/ideathon-3"
+ },
+ {
+  "source": "/qiscet/edc_ideathon4.0.php",
+  "destination": "/edc/ideathon-4"
+ },
+ {
+  "source": "/qiscet/startupindia.php",
+  "destination": "/edc/startup-india"
+ },
+ {
+  "source": "/qiscet/stepstostartbusiness.php",
+  "destination": "/edc/steps-to-start-a-business"
+ },
+ {
+  "source": "/qiscet/edc_startup_rec.php",
+  "destination": "/edc/startup-resources"
+ },
+ {
+  "source": "/qiscet/edc_reg_startup.php",
+  "destination": "/edc/startup-registration"
+ },
+ {
+  "source": "/qiscet/edc_startup_qis.php",
+  "destination": "/edc/qis-startups"
+ },
+ {
+  "source": "/qiscet/accridation_process_autonomous.php",
+  "destination": "/accreditation/autonomous"
+ },
+ {
+  "source": "/qiscet/accridation_process_naac.php",
+  "destination": "/accreditation/naac"
+ },
+ {
+  "source": "/qiscet/accridation_process_nba.php",
+  "destination": "/accreditation/nba"
+ },
+ {
+  "source": "/qiscet/ranking_atal.php",
+  "destination": "/rankings/atal"
+ },
+ {
+  "source": "/qiscet/ranking_nirf.php",
+  "destination": "/rankings/nirf"
+ },
+ {
+  "source": "/qiscet/ranking_iso.php",
+  "destination": "/rankings/iso"
+ },
+ {
+  "source": "/qiscet/centre_for_innovation_appliedskilling.php",
+  "destination": "/innovation/applied-skilling"
+ },
+ {
+  "source": "/qiscet/centre_for_innovation_appliedskilling_offereddomains.php",
+  "destination": "/innovation/applied-skilling/domains"
+ },
+ {
+  "source": "/qiscet/centre_for_innovation_appliedskilling_events.php",
+  "destination": "/innovation/applied-skilling/events"
+ },
+ {
+  "source": "/qiscet/centre_for_innovation_appliedskilling_outcomes.php",
+  "destination": "/innovation/applied-skilling/outcomes"
+ },
+ {
+  "source": "/qiscet/centre_for_innovation_idealab.php",
+  "destination": "/innovation/idea-lab"
+ },
+ {
+  "source": "/qiscet/centre_for_innovation_idealab_lab_facilities.php",
+  "destination": "/innovation/idea-lab/facilities"
+ },
+ {
+  "source": "/qiscet/centre_for_innovation_idealab_lab_equipments.php",
+  "destination": "/innovation/idea-lab/equipment"
+ },
+ {
+  "source": "/qiscet/centre_for_innovation_idealab_lab_events.php",
+  "destination": "/innovation/idea-lab/events"
+ },
+ {
+  "source": "/qiscet/centre_for_innovation_idealab_lab_projects.php",
+  "destination": "/innovation/idea-lab/projects"
+ },
+ {
+  "source": "/qiscet/centre_for_innovation_idealab_srichakra.php",
+  "destination": "/innovation/idea-lab/sri-chakra"
+ },
+ {
+  "source": "/qiscet/examinations_cell.php",
+  "destination": "/examinations"
+ },
+ {
+  "source": "/qiscet/examinations_faculty_list.php",
+  "destination": "/examinations/aces"
+ },
+ {
+  "source": "/qiscet/examinations_manual.php",
+  "destination": "/examinations/manual"
+ },
+ {
+  "source": "/qiscet/examinations_rules.php",
+  "destination": "/examinations/rules"
+ },
+ {
+  "source": "/qiscet/examinations_timetables.php",
+  "destination": "/examinations/time-tables"
+ },
+ {
+  "source": "/qiscet/examinations_notifications.php",
+  "destination": "/examinations/notifications"
+ },
+ {
+  "source": "/qiscet/examinations_toppers.php",
+  "destination": "/examinations/toppers"
+ },
+ {
+  "source": "/qiscet/studverify.php",
+  "destination": "/examinations/student-verification"
+ },
+ {
+  "source": "/qiscet/composition_of_iqac.php",
+  "destination": "/iqac"
+ },
+ {
+  "source": "/qiscet/naac_student_satisfaction_surveys.php",
+  "destination": "/iqac/student-satisfaction-surveys"
+ },
+ {
+  "source": "/qiscet/iqac_meeting_minutes.php",
+  "destination": "/iqac/meeting-minutes"
+ },
+ {
+  "source": "/qiscet/iqac_feedbacks.php",
+  "destination": "/iqac/feedbacks"
+ },
+ {
+  "source": "/qiscet/iqac_aqar.php",
+  "destination": "/iqac/aqar"
+ },
+ {
+  "source": "/qiscet/iqac_events.php",
+  "destination": "/iqac/events"
+ },
+ {
+  "source": "/qiscet/iqac_audits.php",
+  "destination": "/iqac/audits"
+ },
+ {
+  "source": "/qiscet/finance_audits.php",
+  "destination": "/iqac/finance-audits"
+ },
+ {
+  "source": "/qiscet/iqac_faculty_self.php",
+  "destination": "/iqac/faculty-self-appraisal"
+ },
+ {
+  "source": "/qiscet/iqac_student_mentoring.php",
+  "destination": "/iqac/student-mentoring"
+ },
+ {
+  "source": "/qiscet/iqac_best.php",
+  "destination": "/iqac/best-practices"
+ },
+ {
+  "source": "/qiscet/hrd.php",
+  "destination": "/careers/hr-director"
+ },
+ {
+  "source": "/qiscet/careers.php",
+  "destination": "/careers"
+ },
+ {
+  "source": "/qiscet/careers_dwnloads.php",
+  "destination": "/careers/downloads"
+ },
+ {
+  "source": "/qiscet/committies.php",
+  "destination": "/governance/committees"
+ },
+ {
+  "source": "/qiscet/anti_ragging.php",
+  "destination": "/governance/anti-ragging"
+ },
+ {
+  "source": "/qiscet/routs.php",
+  "destination": "/about/route-maps"
+ },
+ {
+  "source": "/qiscet/index_life_at_qis.php",
+  "destination": "/student-life"
+ },
+ {
+  "source": "/qiscet/departments_ai.php",
+  "destination": "/departments/artificial-intelligence"
+ },
+ {
+  "source": "/qiscet/departments_ai_ds.php",
+  "destination": "/departments/ai-data-science"
+ },
+ {
+  "source": "/qiscet/departments_ai_hod.php",
+  "destination": "/departments/artificial-intelligence/head-of-the-department"
+ },
+ {
+  "source": "/qiscet/departments_cse_ai_ml.php",
+  "destination": "/departments/cse-ai-ml"
+ },
+ {
+  "source": "/qiscet/departments_cse_al_ml_hod.php",
+  "destination": "/departments/cse-ai-ml/head-of-the-department"
+ },
+ {
+  "source": "/qiscet/departments_cse_al_ml_nptel.php",
+  "destination": "/departments/cse-ai-ml/nptel"
+ },
+ {
+  "source": "/qiscet/departments_cse_al_ml_faculty_list.php",
+  "destination": "/departments/cse-ai-ml/faculty"
+ },
+ {
+  "source": "/qiscet/departments_cse_al_ml_syllabus.php",
+  "destination": "/departments/cse-ai-ml/syllabus"
+ },
+ {
+  "source": "/qiscet/departments_cse_al_ml_teachers.php",
+  "destination": "/departments/cse-ai-ml/class-coordinators"
+ },
+ {
+  "source": "/qiscet/departments_cs_it.php",
+  "destination": "/departments/cs-information-technology"
+ },
+ {
+  "source": "/qiscet/departments_ai_class_teachers.php",
+  "destination": "/departments/artificial-intelligence/class-coordinators"
+ },
+ {
+  "source": "/qiscet/departments_ai_ds_bos.php",
+  "destination": "/departments/ai-data-science/board-of-studies"
+ },
+ {
+  "source": "/qiscet/departments_ai_ds_class_teachers.php",
+  "destination": "/departments/ai-data-science/class-coordinators"
+ },
+ {
+  "source": "/qiscet/departments_ai_ds_faculty_list.php",
+  "destination": "/departments/ai-data-science/faculty"
+ },
+ {
+  "source": "/qiscet/departments_ai_ds_hod.php",
+  "destination": "/departments/ai-data-science/head-of-the-department"
+ },
+ {
+  "source": "/qiscet/departments_ai_ds_labs.php",
+  "destination": "/departments/ai-data-science/laboratories"
+ },
+ {
+  "source": "/qiscet/departments_ai_ds_syllabus.php",
+  "destination": "/departments/ai-data-science/syllabus"
+ },
+ {
+  "source": "/qiscet/departments_ai_ds_timetables.php",
+  "destination": "/departments/ai-data-science/class-time-tables"
+ },
+ {
+  "source": "/qiscet/departments_ai_faculty_list.php",
+  "destination": "/departments/artificial-intelligence/faculty"
+ },
+ {
+  "source": "/qiscet/departments_ai_syllabus.php",
+  "destination": "/departments/artificial-intelligence/syllabus"
+ },
+ {
+  "source": "/qiscet/departments_bca.php",
+  "destination": "/departments/bca"
+ },
+ {
+  "source": "/qiscet/departments_bca_faculty_list.php",
+  "destination": "/departments/bca/faculty"
+ },
+ {
+  "source": "/qiscet/departments_bca_hod.php",
+  "destination": "/departments/bca/head-of-the-department"
+ },
+ {
+  "source": "/qiscet/departments_bca_syllabus.php",
+  "destination": "/departments/bca/syllabus"
+ },
+ {
+  "source": "/qiscet/departments_ce.php",
+  "destination": "/departments/civil"
+ },
+ {
+  "source": "/qiscet/departments_ce_admissions.php",
+  "destination": "/departments/civil/student-enrollment"
+ },
+ {
+  "source": "/qiscet/departments_ce_bos.php",
+  "destination": "/departments/civil/board-of-studies"
+ },
+ {
+  "source": "/qiscet/departments_ce_placements.php",
+  "destination": "/departments/civil/placements"
+ },
+ {
+  "source": "/qiscet/departments_ce_prominent_alumni_members.php",
+  "destination": "/departments/civil/prominent-alumni"
+ },
+ {
+  "source": "/qiscet/departments_ce_statutory.php",
+  "destination": "/departments/civil/statutory-department-committees"
+ },
+ {
+  "source": "/qiscet/departments_ce_achievements.php",
+  "destination": "/departments/civil/achievements"
+ },
+ {
+  "source": "/qiscet/departments_ce_analysis.php",
+  "destination": "/departments/civil/result-analysis"
+ },
+ {
+  "source": "/qiscet/departments_ce_class_teachers.php",
+  "destination": "/departments/civil/class-coordinators"
+ },
+ {
+  "source": "/qiscet/departments_ce_consultancy.php",
+  "destination": "/departments/civil/consultancy"
+ },
+ {
+  "source": "/qiscet/departments_ce_counsellors.php",
+  "destination": "/departments/civil/counsellors"
+ },
+ {
+  "source": "/qiscet/departments_ce_events.php",
+  "destination": "/departments/civil/events"
+ },
+ {
+  "source": "/qiscet/departments_ce_faculty_achievements.php",
+  "destination": "/departments/civil/faculty-achievements"
+ },
+ {
+  "source": "/qiscet/departments_ce_faculty_list.php",
+  "destination": "/departments/civil/faculty"
+ },
+ {
+  "source": "/qiscet/departments_ce_hod.php",
+  "destination": "/departments/civil/head-of-the-department"
+ },
+ {
+  "source": "/qiscet/departments_ce_labs.php",
+  "destination": "/departments/civil/laboratories"
+ },
+ {
+  "source": "/qiscet/departments_ce_mou.php",
+  "destination": "/departments/civil/mous"
+ },
+ {
+  "source": "/qiscet/departments_ce_news_letters.php",
+  "destination": "/departments/civil/newsletters"
+ },
+ {
+  "source": "/qiscet/departments_ce_nss.php",
+  "destination": "/departments/civil/extra-curricular-activities"
+ },
+ {
+  "source": "/qiscet/departments_ce_research.php",
+  "destination": "/departments/civil/research-outcomes"
+ },
+ {
+  "source": "/qiscet/departments_ce_skill.php",
+  "destination": "/departments/civil/skill-development"
+ },
+ {
+  "source": "/qiscet/departments_ce_syllabus.php",
+  "destination": "/departments/civil/syllabus"
+ },
+ {
+  "source": "/qiscet/departments_ce_timetables.php",
+  "destination": "/departments/civil/class-time-tables"
+ },
+ {
+  "source": "/qiscet/departments_ce_vac.php",
+  "destination": "/departments/civil/value-added-courses"
+ },
+ {
+  "source": "/qiscet/departments_cse.php",
+  "destination": "/departments/cse"
+ },
+ {
+  "source": "/qiscet/departments_cse_admissions.php",
+  "destination": "/departments/cse/student-enrollment"
+ },
+ {
+  "source": "/qiscet/departments_cse_bos.php",
+  "destination": "/departments/cse/board-of-studies"
+ },
+ {
+  "source": "/qiscet/departments_cse_iot_csibt.php",
+  "destination": "/departments/cse-iot-cyber-security"
+ },
+ {
+  "source": "/qiscet/departments_cse_iot_csibt_hod.php",
+  "destination": "/departments/cse-iot-cyber-security/head-of-the-department"
+ },
+ {
+  "source": "/qiscet/departments_cse_iot_csibt_faculty_list.php",
+  "destination": "/departments/cse-iot-cyber-security/faculty"
+ },
+ {
+  "source": "/qiscet/departments_cse_iot_csibt_syllabus.php",
+  "destination": "/departments/cse-iot-cyber-security/syllabus"
+ },
+ {
+  "source": "/qiscet/departments_cse_internship.php",
+  "destination": "/departments/cse/internships"
+ },
+ {
+  "source": "/qiscet/departments_cse_placements.php",
+  "destination": "/departments/cse/placements"
+ },
+ {
+  "source": "/qiscet/departments_cse_prominent_alumni_members.php",
+  "destination": "/departments/cse/prominent-alumni"
+ },
+ {
+  "source": "/qiscet/departments_cse_statutory.php",
+  "destination": "/departments/cse/statutory-department-committees"
+ },
+ {
+  "source": "/qiscet/departments_cse_visitingfaculty.php",
+  "destination": "/departments/cse/visiting-faculty"
+ },
+ {
+  "source": "/qiscet/departments_cse_addcourses.php",
+  "destination": "/departments/cse/student-co-curricular-activities"
+ },
+ {
+  "source": "/qiscet/departments_cse_analysis.php",
+  "destination": "/departments/cse/result-analysis"
+ },
+ {
+  "source": "/qiscet/departments_cse_bs.php",
+  "destination": "/departments/cse-business-systems"
+ },
+ {
+  "source": "/qiscet/departments_cse_bs_bos.php",
+  "destination": "/departments/cse-business-systems/board-of-studies"
+ },
+ {
+  "source": "/qiscet/departments_cse_bs_faculty_list.php",
+  "destination": "/departments/cse-business-systems/faculty"
+ },
+ {
+  "source": "/qiscet/departments_cse_bs_hod.php",
+  "destination": "/departments/cse-business-systems/head-of-the-department"
+ },
+ {
+  "source": "/qiscet/departments_cse_bs_labs.php",
+  "destination": "/departments/cse-business-systems/laboratories"
+ },
+ {
+  "source": "/qiscet/departments_cse_bs_syllabus.php",
+  "destination": "/departments/cse-business-systems/syllabus"
+ },
+ {
+  "source": "/qiscet/departments_cse_bs_timetables.php",
+  "destination": "/departments/cse-business-systems/class-time-tables"
+ },
+ {
+  "source": "/qiscet/departments_cse_class_teachers.php",
+  "destination": "/departments/cse/class-coordinators"
+ },
+ {
+  "source": "/qiscet/departments_cse_community.php",
+  "destination": "/departments/cse/community-outreach"
+ },
+ {
+  "source": "/qiscet/departments_cse_consultancy.php",
+  "destination": "/departments/cse/consultancy"
+ },
+ {
+  "source": "/qiscet/departments_cse_counsellors.php",
+  "destination": "/departments/cse/counsellors"
+ },
+ {
+  "source": "/qiscet/departments_cse_ds.php",
+  "destination": "/departments/cse-data-science"
+ },
+ {
+  "source": "/qiscet/departments_cse_ds_bos.php",
+  "destination": "/departments/cse-data-science/board-of-studies"
+ },
+ {
+  "source": "/qiscet/departments_cse_ds_class_teachers.php",
+  "destination": "/departments/cse-data-science/class-coordinators"
+ },
+ {
+  "source": "/qiscet/departments_cse_ds_faculty_list.php",
+  "destination": "/departments/cse-data-science/faculty"
+ },
+ {
+  "source": "/qiscet/departments_cse_ds_hod.php",
+  "destination": "/departments/cse-data-science/head-of-the-department"
+ },
+ {
+  "source": "/qiscet/departments_cse_ds_labs.php",
+  "destination": "/departments/cse-data-science/laboratories"
+ },
+ {
+  "source": "/qiscet/departments_cse_ds_syllabus.php",
+  "destination": "/departments/cse-data-science/syllabus"
+ },
+ {
+  "source": "/qiscet/departments_cse_ds_timetables.php",
+  "destination": "/departments/cse-data-science/class-time-tables"
+ },
+ {
+  "source": "/qiscet/departments_cse_faculty_list.php",
+  "destination": "/departments/cse/faculty"
+ },
+ {
+  "source": "/qiscet/departments_cse_fdp.php",
+  "destination": "/departments/cse/faculty-development-programmes"
+ },
+ {
+  "source": "/qiscet/departments_cse_functional_coordinators.php",
+  "destination": "/departments/cse/functional-coordinators"
+ },
+ {
+  "source": "/qiscet/departments_cse_hod.php",
+  "destination": "/departments/cse/head-of-the-department"
+ },
+ {
+  "source": "/qiscet/departments_cse_ieee_events.php",
+  "destination": "/departments/cse/ieee-events"
+ },
+ {
+  "source": "/qiscet/departments_cse_labs.php",
+  "destination": "/departments/cse/laboratories"
+ },
+ {
+  "source": "/qiscet/departments_cse_library.php",
+  "destination": "/departments/cse/department-library"
+ },
+ {
+  "source": "/qiscet/departments_cse_mou.php",
+  "destination": "/departments/cse/mous"
+ },
+ {
+  "source": "/qiscet/departments_cse_news_letters.php",
+  "destination": "/departments/cse/newsletters"
+ },
+ {
+  "source": "/qiscet/departments_cse_nptel.php",
+  "destination": "/departments/cse/nptel"
+ },
+ {
+  "source": "/qiscet/departments_cse_research.php",
+  "destination": "/departments/cse/research-outcomes"
+ },
+ {
+  "source": "/qiscet/departments_cse_sdc.php",
+  "destination": "/departments/cse/skill-development-courses"
+ },
+ {
+  "source": "/qiscet/departments_cse_syllabus.php",
+  "destination": "/departments/cse/syllabus"
+ },
+ {
+  "source": "/qiscet/departments_cse_timetables.php",
+  "destination": "/departments/cse/class-time-tables"
+ },
+ {
+  "source": "/qiscet/departments_ece.php",
+  "destination": "/departments/ece"
+ },
+ {
+  "source": "/qiscet/departments_ece_admissions.php",
+  "destination": "/departments/ece/student-enrollment"
+ },
+ {
+  "source": "/qiscet/departments_ece_bos.php",
+  "destination": "/departments/ece/board-of-studies"
+ },
+ {
+  "source": "/qiscet/departments_ece_placements.php",
+  "destination": "/departments/ece/placements"
+ },
+ {
+  "source": "/qiscet/departments_ece_prominent_alumni_members.php",
+  "destination": "/departments/ece/prominent-alumni"
+ },
+ {
+  "source": "/qiscet/departments_ece_statutory.php",
+  "destination": "/departments/ece/statutory-department-committees"
+ },
+ {
+  "source": "/qiscet/departments_ece_achievements.php",
+  "destination": "/departments/ece/achievements"
+ },
+ {
+  "source": "/qiscet/departments_ece_addcourses.php",
+  "destination": "/departments/ece/student-co-curricular-activities"
+ },
+ {
+  "source": "/qiscet/departments_ece_class_teachers.php",
+  "destination": "/departments/ece/class-coordinators"
+ },
+ {
+  "source": "/qiscet/departments_ece_club_activites.php",
+  "destination": "/departments/ece/club-activities"
+ },
+ {
+  "source": "/qiscet/departments_ece_consultancy.php",
+  "destination": "/departments/ece/consultancy"
+ },
+ {
+  "source": "/qiscet/departments_ece_faculty_achievements.php",
+  "destination": "/departments/ece/faculty-achievements"
+ },
+ {
+  "source": "/qiscet/departments_ece_faculty_list.php",
+  "destination": "/departments/ece/faculty"
+ },
+ {
+  "source": "/qiscet/departments_ece_gallary.php",
+  "destination": "/departments/ece/gallery"
+ },
+ {
+  "source": "/qiscet/departments_ece_hod.php",
+  "destination": "/departments/ece/head-of-the-department"
+ },
+ {
+  "source": "/qiscet/departments_ece_innovation.php",
+  "destination": "/departments/ece/innovations-by-faculty"
+ },
+ {
+  "source": "/qiscet/departments_ece_labs.php",
+  "destination": "/departments/ece/laboratories"
+ },
+ {
+  "source": "/qiscet/departments_ece_library.php",
+  "destination": "/departments/ece/department-library"
+ },
+ {
+  "source": "/qiscet/departments_ece_mou.php",
+  "destination": "/departments/ece/mous"
+ },
+ {
+  "source": "/qiscet/departments_ece_news_letters.php",
+  "destination": "/departments/ece/newsletters"
+ },
+ {
+  "source": "/qiscet/departments_ece_nss.php",
+  "destination": "/departments/ece/extra-curricular-activities"
+ },
+ {
+  "source": "/qiscet/departments_ece_organised.php",
+  "destination": "/departments/ece/events-organised"
+ },
+ {
+  "source": "/qiscet/departments_ece_research.php",
+  "destination": "/departments/ece/research-outcomes"
+ },
+ {
+  "source": "/qiscet/departments_ece_syllabus.php",
+  "destination": "/departments/ece/syllabus"
+ },
+ {
+  "source": "/qiscet/departments_ece_timetables.php",
+  "destination": "/departments/ece/class-time-tables"
+ },
+ {
+  "source": "/qiscet/departments_ece_visit.php",
+  "destination": "/departments/ece/industrial-visits"
+ },
+ {
+  "source": "/qiscet/departments_eee.php",
+  "destination": "/departments/eee"
+ },
+ {
+  "source": "/qiscet/departments_eee_admissions.php",
+  "destination": "/departments/eee/student-enrollment"
+ },
+ {
+  "source": "/qiscet/departments_eee_prominent_alumni_members.php",
+  "destination": "/departments/eee/prominent-alumni"
+ },
+ {
+  "source": "/qiscet/departments_eee_statutory.php",
+  "destination": "/departments/eee/statutory-department-committees"
+ },
+ {
+  "source": "/qiscet/departments_eee_ac.php",
+  "destination": "/departments/eee/academic-committee"
+ },
+ {
+  "source": "/qiscet/departments_eee_academicaudit.php",
+  "destination": "/departments/eee/academic-audit"
+ },
+ {
+  "source": "/qiscet/departments_eee_achievements.php",
+  "destination": "/departments/eee/achievements"
+ },
+ {
+  "source": "/qiscet/departments_eee_addcourses.php",
+  "destination": "/departments/eee/student-co-curricular-activities"
+ },
+ {
+  "source": "/qiscet/departments_eee_bos.php",
+  "destination": "/departments/eee/board-of-studies"
+ },
+ {
+  "source": "/qiscet/departments_eee_class_teachers.php",
+  "destination": "/departments/eee/class-coordinators"
+ },
+ {
+  "source": "/qiscet/departments_eee_consultancy.php",
+  "destination": "/departments/eee/consultancy"
+ },
+ {
+  "source": "/qiscet/departments_eee_counsellors.php",
+  "destination": "/departments/eee/counsellors"
+ },
+ {
+  "source": "/qiscet/departments_eee_dc.php",
+  "destination": "/departments/eee/department-committee"
+ },
+ {
+  "source": "/qiscet/departments_eee_faculty_achievements.php",
+  "destination": "/departments/eee/faculty-achievements"
+ },
+ {
+  "source": "/qiscet/departments_eee_faculty_list.php",
+  "destination": "/departments/eee/faculty"
+ },
+ {
+  "source": "/qiscet/departments_eee_functional_teachers.php",
+  "destination": "/departments/eee/functional-coordinators"
+ },
+ {
+  "source": "/qiscet/departments_eee_gallary.php",
+  "destination": "/departments/eee/gallery"
+ },
+ {
+  "source": "/qiscet/departments_eee_hod.php",
+  "destination": "/departments/eee/head-of-the-department"
+ },
+ {
+  "source": "/qiscet/departments_eee_innovation.php",
+  "destination": "/departments/eee/innovations-by-faculty"
+ },
+ {
+  "source": "/qiscet/departments_eee_labs.php",
+  "destination": "/departments/eee/laboratories"
+ },
+ {
+  "source": "/qiscet/departments_eee_library.php",
+  "destination": "/departments/eee/department-library"
+ },
+ {
+  "source": "/qiscet/departments_eee_mou.php",
+  "destination": "/departments/eee/mous"
+ },
+ {
+  "source": "/qiscet/departments_eee_newsletter.php",
+  "destination": "/departments/eee/newsletters"
+ },
+ {
+  "source": "/qiscet/departments_eee_organised.php",
+  "destination": "/departments/eee/events-organised"
+ },
+ {
+  "source": "/qiscet/departments_eee_placement.php",
+  "destination": "/departments/eee/placements"
+ },
+ {
+  "source": "/qiscet/departments_eee_professional.php",
+  "destination": "/departments/eee/professional-bodies"
+ },
+ {
+  "source": "/qiscet/departments_eee_research.php",
+  "destination": "/departments/eee/research-outcomes"
+ },
+ {
+  "source": "/qiscet/departments_eee_syllabus.php",
+  "destination": "/departments/eee/syllabus"
+ },
+ {
+  "source": "/qiscet/departments_eee_timetables.php",
+  "destination": "/departments/eee/class-time-tables"
+ },
+ {
+  "source": "/qiscet/departments_eee_visit.php",
+  "destination": "/departments/eee/industrial-visits"
+ },
+ {
+  "source": "/qiscet/departments_eevt.php",
+  "destination": "/departments/vlsi-design-technology"
+ },
+ {
+  "source": "/qiscet/departments_eevt_bos.php",
+  "destination": "/departments/vlsi-design-technology/board-of-studies"
+ },
+ {
+  "source": "/qiscet/departments_eevt_hod.php",
+  "destination": "/departments/vlsi-design-technology/head-of-the-department"
+ },
+ {
+  "source": "/qiscet/departments_eevt_labs.php",
+  "destination": "/departments/vlsi-design-technology/laboratories"
+ },
+ {
+  "source": "/qiscet/departments_eevt_syllabus.php",
+  "destination": "/departments/vlsi-design-technology/syllabus"
+ },
+ {
+  "source": "/qiscet/departments_eevt_timetables.php",
+  "destination": "/departments/vlsi-design-technology/class-time-tables"
+ },
+ {
+  "source": "/qiscet/departments_hs.php",
+  "destination": "/departments/basic-sciences-humanities"
+ },
+ {
+  "source": "/qiscet/departments_hs_analysis.php",
+  "destination": "/departments/basic-sciences-humanities/result-analysis"
+ },
+ {
+  "source": "/qiscet/departments_hs_class_teachers.php",
+  "destination": "/departments/basic-sciences-humanities/class-coordinators"
+ },
+ {
+  "source": "/qiscet/departments_hs_counsellors.php",
+  "destination": "/departments/basic-sciences-humanities/counsellors"
+ },
+ {
+  "source": "/qiscet/departments_hs_events.php",
+  "destination": "/departments/basic-sciences-humanities/events"
+ },
+ {
+  "source": "/qiscet/departments_hs_faculty_achievements.php",
+  "destination": "/departments/basic-sciences-humanities/faculty-achievements"
+ },
+ {
+  "source": "/qiscet/departments_hs_faculty_list.php",
+  "destination": "/departments/basic-sciences-humanities/faculty"
+ },
+ {
+  "source": "/qiscet/departments_hs_hod.php",
+  "destination": "/departments/basic-sciences-humanities/head-of-the-department"
+ },
+ {
+  "source": "/qiscet/departments_hs_labs.php",
+  "destination": "/departments/basic-sciences-humanities/laboratories"
+ },
+ {
+  "source": "/qiscet/departments_hs_library.php",
+  "destination": "/departments/basic-sciences-humanities/department-library"
+ },
+ {
+  "source": "/qiscet/departments_hs_research.php",
+  "destination": "/departments/basic-sciences-humanities/research-outcomes"
+ },
+ {
+  "source": "/qiscet/departments_hs_student_list.php",
+  "destination": "/departments/basic-sciences-humanities/student-list"
+ },
+ {
+  "source": "/qiscet/departments_hs_syllabus.php",
+  "destination": "/departments/basic-sciences-humanities/syllabus"
+ },
+ {
+  "source": "/qiscet/departments_hs_timetables.php",
+  "destination": "/departments/basic-sciences-humanities/class-time-tables"
+ },
+ {
+  "source": "/qiscet/departments_it.php",
+  "destination": "/departments/information-technology"
+ },
+ {
+  "source": "/qiscet/departments_it_bos.php",
+  "destination": "/departments/information-technology/board-of-studies"
+ },
+ {
+  "source": "/qiscet/departments_it_placements.php",
+  "destination": "/departments/information-technology/placements"
+ },
+ {
+  "source": "/qiscet/departments_it_prominent_alumni_members.php",
+  "destination": "/departments/information-technology/prominent-alumni"
+ },
+ {
+  "source": "/qiscet/departments_it_statutory.php",
+  "destination": "/departments/information-technology/statutory-department-committees"
+ },
+ {
+  "source": "/qiscet/departments_it_achievements.php",
+  "destination": "/departments/information-technology/achievements"
+ },
+ {
+  "source": "/qiscet/departments_it_addcourses.php",
+  "destination": "/departments/information-technology/student-co-curricular-activities"
+ },
+ {
+  "source": "/qiscet/departments_it_admission.php",
+  "destination": "/departments/information-technology/student-enrollment"
+ },
+ {
+  "source": "/qiscet/departments_it_analysis.php",
+  "destination": "/departments/information-technology/result-analysis"
+ },
+ {
+  "source": "/qiscet/departments_it_class_teachers.php",
+  "destination": "/departments/information-technology/class-coordinators"
+ },
+ {
+  "source": "/qiscet/departments_it_consultancy.php",
+  "destination": "/departments/information-technology/consultancy"
+ },
+ {
+  "source": "/qiscet/departments_it_counsellors.php",
+  "destination": "/departments/information-technology/counsellors"
+ },
+ {
+  "source": "/qiscet/departments_it_faculty_list.php",
+  "destination": "/departments/information-technology/faculty"
+ },
+ {
+  "source": "/qiscet/departments_it_hod.php",
+  "destination": "/departments/information-technology/head-of-the-department"
+ },
+ {
+  "source": "/qiscet/departments_it_innovation.php",
+  "destination": "/departments/information-technology/innovations-by-faculty"
+ },
+ {
+  "source": "/qiscet/departments_it_labs.php",
+  "destination": "/departments/information-technology/laboratories"
+ },
+ {
+  "source": "/qiscet/departments_it_mou.php",
+  "destination": "/departments/information-technology/mous"
+ },
+ {
+  "source": "/qiscet/departments_it_news_letters.php",
+  "destination": "/departments/information-technology/newsletters"
+ },
+ {
+  "source": "/qiscet/departments_it_organised.php",
+  "destination": "/departments/information-technology/events-organised"
+ },
+ {
+  "source": "/qiscet/departments_it_research.php",
+  "destination": "/departments/information-technology/research-outcomes"
+ },
+ {
+  "source": "/qiscet/departments_it_sdc.php",
+  "destination": "/departments/information-technology/skill-development-courses"
+ },
+ {
+  "source": "/qiscet/departments_it_student_achievements.php",
+  "destination": "/departments/information-technology/student-achievements"
+ },
+ {
+  "source": "/qiscet/departments_it_syllabus.php",
+  "destination": "/departments/information-technology/syllabus"
+ },
+ {
+  "source": "/qiscet/departments_it_timetables.php",
+  "destination": "/departments/information-technology/class-time-tables"
+ },
+ {
+  "source": "/qiscet/departments_mba.php",
+  "destination": "/departments/mba"
+ },
+ {
+  "source": "/qiscet/departments_mba_prominent_alumni_members.php",
+  "destination": "/departments/mba/prominent-alumni"
+ },
+ {
+  "source": "/qiscet/departments_mba_class_teachers.php",
+  "destination": "/departments/mba/class-coordinators"
+ },
+ {
+  "source": "/qiscet/departments_mba_counsellors.php",
+  "destination": "/departments/mba/counsellors"
+ },
+ {
+  "source": "/qiscet/departments_mba_faculty_list.php",
+  "destination": "/departments/mba/faculty"
+ },
+ {
+  "source": "/qiscet/departments_mba_hod.php",
+  "destination": "/departments/mba/head-of-the-department"
+ },
+ {
+  "source": "/qiscet/departments_mba_labs.php",
+  "destination": "/departments/mba/laboratories"
+ },
+ {
+  "source": "/qiscet/departments_mba_news_letters.php",
+  "destination": "/departments/mba/newsletters"
+ },
+ {
+  "source": "/qiscet/departments_mba_publications.php",
+  "destination": "/departments/mba/publications"
+ },
+ {
+  "source": "/qiscet/departments_mba_syllabus.php",
+  "destination": "/departments/mba/syllabus"
+ },
+ {
+  "source": "/qiscet/departments_mba_timetables.php",
+  "destination": "/departments/mba/class-time-tables"
+ },
+ {
+  "source": "/qiscet/departments_mca.php",
+  "destination": "/departments/mca"
+ },
+ {
+  "source": "/qiscet/departments_mca_prominent_alumni_members.php",
+  "destination": "/departments/mca/prominent-alumni"
+ },
+ {
+  "source": "/qiscet/departments_mca_class_teachers.php",
+  "destination": "/departments/mca/class-coordinators"
+ },
+ {
+  "source": "/qiscet/departments_mca_counsellors.php",
+  "destination": "/departments/mca/counsellors"
+ },
+ {
+  "source": "/qiscet/departments_mca_faculty_list.php",
+  "destination": "/departments/mca/faculty"
+ },
+ {
+  "source": "/qiscet/departments_mca_hod.php",
+  "destination": "/departments/mca/head-of-the-department"
+ },
+ {
+  "source": "/qiscet/departments_mca_labs.php",
+  "destination": "/departments/mca/laboratories"
+ },
+ {
+  "source": "/qiscet/departments_mca_publications.php",
+  "destination": "/departments/mca/publications"
+ },
+ {
+  "source": "/qiscet/departments_mca_syllabus.php",
+  "destination": "/departments/mca/syllabus"
+ },
+ {
+  "source": "/qiscet/departments_mca_timetables.php",
+  "destination": "/departments/mca/class-time-tables"
+ },
+ {
+  "source": "/qiscet/departments_me.php",
+  "destination": "/departments/mechanical"
+ },
+ {
+  "source": "/qiscet/departments_me_admissions.php",
+  "destination": "/departments/mechanical/student-enrollment"
+ },
+ {
+  "source": "/qiscet/departments_me_bos.php",
+  "destination": "/departments/mechanical/board-of-studies"
+ },
+ {
+  "source": "/qiscet/departments_me_placements.php",
+  "destination": "/departments/mechanical/placements"
+ },
+ {
+  "source": "/qiscet/departments_me_prominent_alumni_members.php",
+  "destination": "/departments/mechanical/prominent-alumni"
+ },
+ {
+  "source": "/qiscet/departments_me_awards.php",
+  "destination": "/departments/mechanical/awards"
+ },
+ {
+  "source": "/qiscet/departments_me_class_teachers.php",
+  "destination": "/departments/mechanical/class-coordinators"
+ },
+ {
+  "source": "/qiscet/departments_me_consultancy.php",
+  "destination": "/departments/mechanical/consultancy"
+ },
+ {
+  "source": "/qiscet/departments_me_counsellors.php",
+  "destination": "/departments/mechanical/counsellors"
+ },
+ {
+  "source": "/qiscet/departments_me_events.php",
+  "destination": "/departments/mechanical/events"
+ },
+ {
+  "source": "/qiscet/departments_me_faculty_achievements.php",
+  "destination": "/departments/mechanical/faculty-achievements"
+ },
+ {
+  "source": "/qiscet/departments_me_faculty_list.php",
+  "destination": "/departments/mechanical/faculty"
+ },
+ {
+  "source": "/qiscet/departments_me_hod.php",
+  "destination": "/departments/mechanical/head-of-the-department"
+ },
+ {
+  "source": "/qiscet/departments_me_innovation.php",
+  "destination": "/departments/mechanical/innovations-by-faculty"
+ },
+ {
+  "source": "/qiscet/departments_me_labs.php",
+  "destination": "/departments/mechanical/laboratories"
+ },
+ {
+  "source": "/qiscet/departments_me_library.php",
+  "destination": "/departments/mechanical/department-library"
+ },
+ {
+  "source": "/qiscet/departments_me_mou.php",
+  "destination": "/departments/mechanical/mous"
+ },
+ {
+  "source": "/qiscet/departments_me_news_letters.php",
+  "destination": "/departments/mechanical/newsletters"
+ },
+ {
+  "source": "/qiscet/departments_me_student_achievements.php",
+  "destination": "/departments/mechanical/student-achievements"
+ },
+ {
+  "source": "/qiscet/departments_me_syllabus.php",
+  "destination": "/departments/mechanical/syllabus"
+ },
+ {
+  "source": "/qiscet/departments_me_timetables.php",
+  "destination": "/departments/mechanical/class-time-tables"
+ },
+ {
+  "source": "/qiscet/departments_qce.php",
+  "destination": "/departments/quantum-computational-engineering"
+ },
+ {
+  "source": "/qiscet/departments_qce_faculty_list.php",
+  "destination": "/departments/quantum-computational-engineering/faculty"
+ },
+ {
+  "source": "/qiscet/departments_qce_hod.php",
+  "destination": "/departments/quantum-computational-engineering/head-of-the-department"
+ },
+ {
+  "source": "/qiscet/index.php",
+  "destination": "/"
+ },
+ {
+  "source": "/qiscet/contact.php",
+  "destination": "/contact"
+ },
+ {
+  "source": "/qiscet/feedbacks.php",
+  "destination": "/feedback"
+ },
+ {
+  "source": "/qiscet/studfeedback.php",
+  "destination": "/feedback/student"
+ },
+ {
+  "source": "/qiscet/parentfeedback.php",
+  "destination": "/feedback/parent"
+ },
+ {
+  "source": "/qiscet/teacherfeedback.php",
+  "destination": "/feedback/teacher"
+ },
+ {
+  "source": "/qiscet/alumnifeedback.php",
+  "destination": "/feedback/alumni"
+ },
+ {
+  "source": "/qiscet/employerfeedback.php",
+  "destination": "/feedback/employer"
+ },
+ {
+  "source": "/qiscet/ogr/index.php",
+  "destination": "/grievance"
+ },
+ {
+  "source": "/qiscet/badmapplication.php",
+  "destination": "/admissions/b-category-application"
+ },
+ {
+  "source": "/qiscet/qisphotogallery.php",
+  "destination": "/gallery"
+ },
+ {
+  "source": "/qiscet/about_us_audit.php",
+  "destination": "/iqac/finance-audits"
+ },
+ {
+  "source": "/qiscet/centre_for_innovation_ece_skillcenter.php",
+  "destination": "/innovation/applied-skilling"
+ }
+]

@@ -1,0 +1,27 @@
+{
+ "slug": "departments/cse-business-systems/board-of-studies",
+ "section": "departments",
+ "sectionTitle": "Departments",
+ "title": "Board of Studies – Computer Science & Engineering and Business Systems",
+ "legacy": "https://qiscet.edu.in/qiscet/DEPARTMENTS_cse_bs_bos.php",
+ "summary": null,
+ "blocks": [
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    {
+     "text": "Meeting Minutes of BOS",
+     "links": [
+      {
+       "label": "Meeting Minutes of BOS",
+       "href": "https://qiscet.edu.in/qiscet/departments/cse%20bs/CSBS-BoS.pdf"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "department": "cse-business-systems",
+ "pageTitle": "Board of Studies"
+}

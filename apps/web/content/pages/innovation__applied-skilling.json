@@ -1,0 +1,40 @@
+{
+ "slug": "innovation/applied-skilling",
+ "section": "innovation",
+ "sectionTitle": "Centre for Innovation",
+ "title": "Applied Skilling",
+ "legacy": "https://qiscet.edu.in/qiscet/CENTRE_FOR_INNOVATION_appliedskilling.php",
+ "summary": "Applied skilling courses for B.Tech students are specialized programs designed to provide practical, hands-on training and skill development in various engineering disciplines. These Programs bridge…",
+ "blocks": [
+  {
+   "type": "paragraph",
+   "text": "Applied skilling courses for B.Tech students are specialized programs designed to provide practical, hands-on training and skill development in various engineering disciplines. These Programs bridge the gap between academic learning and industry demands by emphasizing the real-world application of theoretical concepts. By focusing on industry-relevant skills,they prepare students with the expertise and experience needed to excel in their professional careers upon graduation."
+  },
+  {
+   "type": "heading",
+   "text": "Outcome of applied skilling courses",
+   "level": 5
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    {
+     "text": "Practical Proficiency: Mastery of hands-on skills directly applicable to industry/community needs."
+    },
+    {
+     "text": "Problem-Solving Ability: Enhanced capability to solve real-world engineering challenges."
+    },
+    {
+     "text": "Industry Readiness: Preparation for immediate contribution to professional roles."
+    },
+    {
+     "text": "Technological Adaptability: Ability to adapt to and leverage new technologies effectively."
+    },
+    {
+     "text": "Career Advancement: Improved employability and potential for career growth."
+    }
+   ]
+  }
+ ]
+}

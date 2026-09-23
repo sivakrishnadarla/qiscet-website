@@ -1,0 +1,27 @@
+{
+ "slug": "departments/mechanical/department-library",
+ "section": "departments",
+ "sectionTitle": "Departments",
+ "title": "Department Library – Mechanical Engineering",
+ "legacy": "https://qiscet.edu.in/qiscet/DEPARTMENTS_me_library.php",
+ "summary": null,
+ "blocks": [
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    {
+     "text": "List Of Department Library",
+     "links": [
+      {
+       "label": "List Of Department Library",
+       "href": "https://qiscet.edu.in/qiscet/departments/mee/data/Department%20Library.pdf"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "department": "mechanical",
+ "pageTitle": "Department Library"
+}

@@ -1,0 +1,27 @@
+{
+ "slug": "departments/ai-data-science/class-time-tables",
+ "section": "departments",
+ "sectionTitle": "Departments",
+ "title": "Class Time Tables – Artificial Intelligence & Data Science",
+ "legacy": "https://qiscet.edu.in/qiscet/DEPARTMENTS_ai_ds_timetables.php",
+ "summary": null,
+ "blocks": [
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    {
+     "text": "III B.Tech CSE DS",
+     "links": [
+      {
+       "label": "III B.Tech CSE DS",
+       "href": "https://qiscet.edu.in/qiscet/departments/cse%20ds/III%20CSDS.pdf"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "department": "ai-data-science",
+ "pageTitle": "Class Time Tables"
+}

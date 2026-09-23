@@ -1,0 +1,158 @@
+{
+ "slug": "research/facilities",
+ "section": "research",
+ "sectionTitle": "Research & Development",
+ "title": "Research Facilities",
+ "legacy": "https://qiscet.edu.in/qiscet/ACADEMICS_centre_for_research_facilities.php",
+ "summary": null,
+ "blocks": [
+  {
+   "type": "heading",
+   "text": "Centers for Excellence",
+   "level": 4
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    {
+     "text": "Centre for Communication Skills and Language"
+    },
+    {
+     "text": "Centre for Aptitude and Logical thinking"
+    },
+    {
+     "text": "Centre for Programming Language"
+    },
+    {
+     "text": "Centre for Extended and Applied Learning"
+    },
+    {
+     "text": "Centre for Design"
+    },
+    {
+     "text": "Center for Analytics"
+    },
+    {
+     "text": "Center for Product Testing"
+    },
+    {
+     "text": "Centre of Excellence for Robotics & Digital Manufacturing"
+    },
+    {
+     "text": "Centre of Excellence for Cloud Computing"
+    },
+    {
+     "text": "Cisco Networking and Network Security Centre"
+    },
+    {
+     "text": "CNC Maker Space"
+    },
+    {
+     "text": "Additive Manufacturing Maker Space"
+    },
+    {
+     "text": "Circuit design and fabrication Maker Space"
+    },
+    {
+     "text": "National Instruments – Centre of Excellence"
+    },
+    {
+     "text": "Industrial and Home Automation - Centre of Excellence"
+    },
+    {
+     "text": "Intel Intelligent Systems - Centre of Excellence"
+    },
+    {
+     "text": "Dassault Systemes – 3D Experience Centred"
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "Library",
+   "level": 4
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    {
+     "text": "Electronic (e-Journals) : 229"
+    },
+    {
+     "text": "Print journals : 199"
+    },
+    {
+     "text": "Print (Books, back volumes and thesis) : 44599"
+    },
+    {
+     "text": "Non Print (Microfiche, AV) : 3115"
+    },
+    {
+     "text": "Special collection:"
+    },
+    {
+     "text": "Text books : 35904"
+    },
+    {
+     "text": "Reference books : 5993"
+    },
+    {
+     "text": "Electronic (e-Journals) : 229"
+    },
+    {
+     "text": "Print journals : 199"
+    },
+    {
+     "text": "Print (Books, back volumes and thesis) : 44599"
+    },
+    {
+     "text": "Non Print (Microfiche, AV) : 3115"
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "Wifi",
+   "level": 4
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    {
+     "text": "Broad Band : 40 Mbps"
+    },
+    {
+     "text": "Leased Line : 25 Mbps"
+    }
+   ]
+  },
+  {
+   "type": "gallery",
+   "images": [
+    {
+     "src": "/images/acadamics/awards/r1.jpg",
+     "alt": ""
+    },
+    {
+     "src": "/images/acadamics/awards/r2.jpg",
+     "alt": ""
+    },
+    {
+     "src": "/images/acadamics/awards/r3.jpg",
+     "alt": ""
+    },
+    {
+     "src": "/images/acadamics/awards/r4.jpg",
+     "alt": ""
+    },
+    {
+     "src": "/images/acadamics/awards/r5.jpg",
+     "alt": ""
+    }
+   ]
+  }
+ ]
+}

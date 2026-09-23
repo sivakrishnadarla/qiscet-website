@@ -1,0 +1,63 @@
+{
+ "slug": "departments/mechanical/class-time-tables",
+ "section": "departments",
+ "sectionTitle": "Departments",
+ "title": "Class Time Tables – Mechanical Engineering",
+ "legacy": "https://qiscet.edu.in/qiscet/DEPARTMENTS_me_timetables.php",
+ "summary": null,
+ "blocks": [
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    {
+     "text": "II B.TECH ME",
+     "links": [
+      {
+       "label": "II B.TECH ME",
+       "href": "https://qiscet.edu.in/qiscet/departments/me/ME_II%20B.TECH%20TIMETABLE.pdf"
+      }
+     ]
+    },
+    {
+     "text": "III B.TECH ME (A)",
+     "links": [
+      {
+       "label": "III B.TECH ME (A)",
+       "href": "https://qiscet.edu.in/qiscet/departments/me/ME_III-B.TECH%20B%20TIMETABLE.pdf"
+      }
+     ]
+    },
+    {
+     "text": "III B.TECH ME (B)",
+     "links": [
+      {
+       "label": "III B.TECH ME (B)",
+       "href": "https://qiscet.edu.in/qiscet/departments/me/ME_III%20.B.Tech%20B%20TIME%20TABLE.pdf"
+      }
+     ]
+    },
+    {
+     "text": "IV B.TECH ME (A)",
+     "links": [
+      {
+       "label": "IV B.TECH ME (A)",
+       "href": "https://qiscet.edu.in/qiscet/departments/me/ME_IV%20B.TECH%20A%20TIMETABLE.pdf"
+      }
+     ]
+    },
+    {
+     "text": "IV B.TECH ME (B)",
+     "links": [
+      {
+       "label": "IV B.TECH ME (B)",
+       "href": "https://qiscet.edu.in/qiscet/departments/me/ME_IV%20B.TECH%20B%20TIMETABLE.pdf"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "department": "mechanical",
+ "pageTitle": "Class Time Tables"
+}

@@ -1,0 +1,331 @@
+{
+ "slug": "academics/regulations-syllabus",
+ "section": "academics",
+ "sectionTitle": "Academics",
+ "title": "Academic Regulations & Syllabus",
+ "legacy": "https://qiscet.edu.in/qiscet/ACADEMICS_Regulations.php",
+ "summary": null,
+ "blocks": [
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    {
+     "text": "B.TECH"
+    },
+    {
+     "text": "M.TECH"
+    },
+    {
+     "text": "MBA"
+    },
+    {
+     "text": "MCA"
+    },
+    {
+     "text": "BCA"
+    }
+   ]
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    {
+     "text": "Academic Regulations R23",
+     "links": [
+      {
+       "label": "Academic Regulations R23",
+       "href": "https://qiscet.edu.in/qiscet/acadamics/R23%20B.Tech%20Academic%20Regulations%20Final.pdf"
+      }
+     ]
+    },
+    {
+     "text": "Academic Regulations R20",
+     "links": [
+      {
+       "label": "Academic Regulations R20",
+       "href": "https://qiscet.edu.in/qiscet/acadamics/Academic%20RegulationsR20.pdf"
+      }
+     ]
+    },
+    {
+     "text": "Academic Regulations R18",
+     "links": [
+      {
+       "label": "Academic Regulations R18",
+       "href": "https://qiscet.edu.in/qiscet/acadamics/Academic%20Regulations.pdf"
+      }
+     ]
+    },
+    {
+     "text": "R23 Syllabus - CE",
+     "links": [
+      {
+       "label": "R23 Syllabus - CE",
+       "href": "https://qiscet.edu.in/qiscet/acadamics/R23%20B.TECH%20CE%20Course%20Structure%20%26%20Syllabus.pdf"
+      }
+     ]
+    },
+    {
+     "text": "R23 Syllabus - EEE",
+     "links": [
+      {
+       "label": "R23 Syllabus - EEE",
+       "href": "https://qiscet.edu.in/qiscet/acadamics/R23%20B.Tech%20EEE%20Course%20Structure%20%26%20Syllabus.pdf"
+      }
+     ]
+    },
+    {
+     "text": "R23 Syllabus - ME",
+     "links": [
+      {
+       "label": "R23 Syllabus - ME",
+       "href": "https://qiscet.edu.in/qiscet/acadamics/R23%20B.Tech%20ME%20Course%20Strcuture%20%26%20Syllabus.pdf"
+      }
+     ]
+    },
+    {
+     "text": "R23 Syllabus - ECE & EVLSID&T",
+     "links": [
+      {
+       "label": "R23 Syllabus - ECE & EVLSID&T",
+       "href": "https://qiscet.edu.in/qiscet/acadamics/ECE%20%26%20EVLSID%26T.pdf"
+      }
+     ]
+    },
+    {
+     "text": "R23 Syllabus - CSE",
+     "links": [
+      {
+       "label": "R23 Syllabus - CSE",
+       "href": "https://qiscet.edu.in/qiscet/acadamics/R23%20CSE%20Course%20Structure%20%26%20Syllabus.pdf"
+      }
+     ]
+    },
+    {
+     "text": "R23 Syllabus - IT,CSIT,CSE(IOT)& CSEBS",
+     "links": [
+      {
+       "label": "R23 Syllabus - IT,CSIT,CSE(IOT)& CSEBS",
+       "href": "https://qiscet.edu.in/qiscet/acadamics/IT%2CCSIT%2CCSE%28IOT%29%26%20CSEBS.pdf"
+      }
+     ]
+    },
+    {
+     "text": "R23 Syllabus - AI,AIML,CSEDS,AIDS",
+     "links": [
+      {
+       "label": "R23 Syllabus - AI,AIML,CSEDS,AIDS",
+       "href": "https://qiscet.edu.in/qiscet/acadamics/AI%2CAIML%2CCSEDS%2CAIDS.pdf"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    {
+     "text": "Academic Regulations R25",
+     "links": [
+      {
+       "label": "Academic Regulations R25",
+       "href": "https://qiscet.edu.in/qiscet/acadamics/R25%20M.Tech%20Academic%20Regulations.pdf"
+      }
+     ]
+    },
+    {
+     "text": "Academic Regulations R23",
+     "links": [
+      {
+       "label": "Academic Regulations R23",
+       "href": "https://qiscet.edu.in/qiscet/acadamics/R23%20M.Tech%20Academic%20Regulations%20Final.pdf"
+      }
+     ]
+    },
+    {
+     "text": "Academic Regulations R20",
+     "links": [
+      {
+       "label": "Academic Regulations R20",
+       "href": "https://qiscet.edu.in/qiscet/acadamics/R20_MTech_Academic_Regulations.pdf"
+      }
+     ]
+    },
+    {
+     "text": "Academic Regulations R18",
+     "links": [
+      {
+       "label": "Academic Regulations R18",
+       "href": "https://qiscet.edu.in/qiscet/acadamics/R18_MTech_Academic_Regulations.pdf"
+      }
+     ]
+    },
+    {
+     "text": "R23 Syllabus - M.Tech",
+     "links": [
+      {
+       "label": "R23 Syllabus - M.Tech",
+       "href": "https://qiscet.edu.in/qiscet/acadamics/R23%20M.Tech%20Course%20Strcuture%20%26%20Syllabus.pdf"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    {
+     "text": "Academic Regulations R24",
+     "links": [
+      {
+       "label": "Academic Regulations R24",
+       "href": "https://qiscet.edu.in/qiscet/acadamics/R24%20MBA%20Academic%20Regulations.pdf"
+      }
+     ]
+    },
+    {
+     "text": "Academic Regulations R23",
+     "links": [
+      {
+       "label": "Academic Regulations R23",
+       "href": "https://qiscet.edu.in/qiscet/acadamics/R23%20MBA%20Academic%20Regulations.pdf"
+      }
+     ]
+    },
+    {
+     "text": "Academic Regulations R20",
+     "links": [
+      {
+       "label": "Academic Regulations R20",
+       "href": "https://qiscet.edu.in/qiscet/acadamics/R20_MBA_ACADEMIC_REGULATIONS.pdf"
+      }
+     ]
+    },
+    {
+     "text": "Academic Regulations R18",
+     "links": [
+      {
+       "label": "Academic Regulations R18",
+       "href": "https://qiscet.edu.in/qiscet/acadamics/R18_MBA_ACADEMIC_REGULATIONS.pdf"
+      }
+     ]
+    },
+    {
+     "text": "R25 Syllabus - MBA (H&HM)",
+     "links": [
+      {
+       "label": "R25 Syllabus - MBA (H&HM)",
+       "href": "https://qiscet.edu.in/qiscet/acadamics/R25%20MBA%28HHM%29%20I%20%26%20II%20%20Semester%20Course%20Structure%20%26%20Syllabus.pdf"
+      }
+     ]
+    },
+    {
+     "text": "R24 Syllabus - MBA",
+     "links": [
+      {
+       "label": "R24 Syllabus - MBA",
+       "href": "https://qiscet.edu.in/qiscet/acadamics/R24%20I-I%20MBA%20Course%20Structure%20and%20Syllabus.pdf"
+      }
+     ]
+    },
+    {
+     "text": "R23 Syllabus - MBA",
+     "links": [
+      {
+       "label": "R23 Syllabus - MBA",
+       "href": "https://qiscet.edu.in/qiscet/acadamics/R23%20MBA%20Courses%20Structure%20%26%20Syllabus.pdf"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    {
+     "text": "Academic Regulations R24",
+     "links": [
+      {
+       "label": "Academic Regulations R24",
+       "href": "https://qiscet.edu.in/qiscet/acadamics/R24%20MCA%20Academic%20Regulations.pdf"
+      }
+     ]
+    },
+    {
+     "text": "Academic Regulations R23",
+     "links": [
+      {
+       "label": "Academic Regulations R23",
+       "href": "https://qiscet.edu.in/qiscet/acadamics/R23%20MCA%20Academic%20Regulations.pdf"
+      }
+     ]
+    },
+    {
+     "text": "Academic Regulations R20",
+     "links": [
+      {
+       "label": "Academic Regulations R20",
+       "href": "https://qiscet.edu.in/qiscet/acadamics/R20_MCA_Academic_Regulations.pdf"
+      }
+     ]
+    },
+    {
+     "text": "Academic Regulations R18",
+     "links": [
+      {
+       "label": "Academic Regulations R18",
+       "href": "https://qiscet.edu.in/qiscet/acadamics/R18_MCA_Academic_Regulations.pdf"
+      }
+     ]
+    },
+    {
+     "text": "R24 Syllabus - MCA",
+     "links": [
+      {
+       "label": "R24 Syllabus - MCA",
+       "href": "https://qiscet.edu.in/qiscet/acadamics/R24%20MCA%20Course%20Structure%20and%20Syllabus.pdf"
+      }
+     ]
+    },
+    {
+     "text": "R23 Syllabus - MCA",
+     "links": [
+      {
+       "label": "R23 Syllabus - MCA",
+       "href": "https://qiscet.edu.in/qiscet/acadamics/R23%20MCA%20Course%20Structure%20%26%20Syllabus.pdf"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    {
+     "text": "Academic Regulations R24",
+     "links": [
+      {
+       "label": "Academic Regulations R24",
+       "href": "https://qiscet.edu.in/qiscet/acadamics/R24%20BCA%20Academic%20Regulations.pdf"
+      }
+     ]
+    },
+    {
+     "text": "R24 Syllabus - BCA",
+     "links": [
+      {
+       "label": "R24 Syllabus - BCA",
+       "href": "https://qiscet.edu.in/qiscet/acadamics/R24%20BCA%20Course%20Structure%20%26%20Syllabus.pdf"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,27 @@
+{
+ "slug": "departments/cse/counsellors",
+ "section": "departments",
+ "sectionTitle": "Departments",
+ "title": "Counsellors – Computer Science & Engineering",
+ "legacy": "https://qiscet.edu.in/qiscet/DEPARTMENTS_cse_counsellors.php",
+ "summary": null,
+ "blocks": [
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    {
+     "text": "Counsellors List 2024-2025",
+     "links": [
+      {
+       "label": "Counsellors List 2024-2025",
+       "href": "https://qiscet.edu.in/qiscet/departments/cse/data/COUNSELLORS%20LIST%202024-2025.pdf"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "department": "cse",
+ "pageTitle": "Counsellors"
+}

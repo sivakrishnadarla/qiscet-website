@@ -1,0 +1,121 @@
+{
+ "slug": "innovation/idea-lab/equipment",
+ "section": "innovation",
+ "sectionTitle": "Centre for Innovation",
+ "title": "IDEA Lab Equipment",
+ "legacy": "https://qiscet.edu.in/qiscet/CENTRE_FOR_INNOVATION_idealab_lab_equipments.php",
+ "summary": null,
+ "blocks": [
+  {
+   "type": "table",
+   "rows": [
+    [
+     {
+      "text": "S.No"
+     },
+     {
+      "text": "Machine Name"
+     }
+    ],
+    [
+     {
+      "text": "1"
+     },
+     {
+      "text": "CO2 Laser cutting machine 1410",
+      "links": [
+       {
+        "label": "CO2 Laser cutting machine 1410",
+        "href": "https://qiscet.edu.in/qiscet/idealab/idealab_equipments/CO2.pdf"
+       }
+      ]
+     }
+    ],
+    [
+     {
+      "text": "2"
+     },
+     {
+      "text": "CNC Wood Router 1325",
+      "links": [
+       {
+        "label": "CNC Wood Router 1325",
+        "href": "https://qiscet.edu.in/qiscet/idealab/idealab_equipments/WOOD_Router.pdf"
+       }
+      ]
+     }
+    ],
+    [
+     {
+      "text": "3"
+     },
+     {
+      "text": "Digital Light Processing Based 3D Printer",
+      "links": [
+       {
+        "label": "Digital Light Processing Based 3D Printer",
+        "href": "https://qiscet.edu.in/qiscet/idealab/idealab_equipments/DLP.pdf"
+       }
+      ]
+     }
+    ],
+    [
+     {
+      "text": "4"
+     },
+     {
+      "text": "CreatBot F430(FDM) Technology 3D Printer",
+      "links": [
+       {
+        "label": "CreatBot F430(FDM) Technology 3D Printer",
+        "href": "https://qiscet.edu.in/qiscet/idealab/idealab_equipments/FDM.pdf"
+       }
+      ]
+     }
+    ],
+    [
+     {
+      "text": "5"
+     },
+     {
+      "text": "Calibri Mini 3D Scanner",
+      "links": [
+       {
+        "label": "Calibri Mini 3D Scanner",
+        "href": "https://qiscet.edu.in/qiscet/idealab/idealab_equipments/3D_Scanner.pdf"
+       }
+      ]
+     }
+    ],
+    [
+     {
+      "text": "6"
+     },
+     {
+      "text": "PCBMATE (300W) PCN and Antenna Prototype Machine",
+      "links": [
+       {
+        "label": "PCBMATE (300W) PCN and Antenna Prototype Machine",
+        "href": "https://qiscet.edu.in/qiscet/idealab/idealab_equipments/PCB.pdf"
+       }
+      ]
+     }
+    ],
+    [
+     {
+      "text": "7"
+     },
+     {
+      "text": "Gaming ARVR",
+      "links": [
+       {
+        "label": "Gaming ARVR",
+        "href": "https://qiscet.edu.in/qiscet/idealab/idealab_equipments/ARVR.pdf"
+       }
+      ]
+     }
+    ]
+   ]
+  }
+ ]
+}

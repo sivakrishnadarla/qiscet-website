@@ -1,0 +1,36 @@
+{
+ "slug": "departments/cse/placements",
+ "section": "departments",
+ "sectionTitle": "Departments",
+ "title": "Placements – Computer Science & Engineering",
+ "legacy": "https://qiscet.edu.in/qiscet/DEPARTMENTS_cse_Placements.php",
+ "summary": null,
+ "blocks": [
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    {
+     "text": "2019-2021",
+     "links": [
+      {
+       "label": "2019-2021",
+       "href": "https://qiscet.edu.in/qiscet/departments/cse/data/CSE_PLAMENT.pdf"
+      }
+     ]
+    },
+    {
+     "text": "2018-2019",
+     "links": [
+      {
+       "label": "2018-2019",
+       "href": "https://qiscet.edu.in/qiscet/departments/cse/Placements%202018-2019%20CSE.pdf"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "department": "cse",
+ "pageTitle": "Placements"
+}

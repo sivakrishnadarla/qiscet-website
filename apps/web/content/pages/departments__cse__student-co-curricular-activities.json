@@ -1,0 +1,63 @@
+{
+ "slug": "departments/cse/student-co-curricular-activities",
+ "section": "departments",
+ "sectionTitle": "Departments",
+ "title": "Student Co-Curricular Activities – Computer Science & Engineering",
+ "legacy": "https://qiscet.edu.in/qiscet/DEPARTMENTS_cse_addcourses.php",
+ "summary": null,
+ "blocks": [
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    {
+     "text": "Value Added Courses 2021-22",
+     "links": [
+      {
+       "label": "Value Added Courses 2021-22",
+       "href": "https://qiscet.edu.in/qiscet/departments/cse/syl_reg/value%20added%20courses%202021-22.pdf"
+      }
+     ]
+    },
+    {
+     "text": "Value Added Courses 2019-20",
+     "links": [
+      {
+       "label": "Value Added Courses 2019-20",
+       "href": "https://qiscet.edu.in/qiscet/departments/cse/syl_reg/value%20added%20courses%202019-2020.pdf"
+      }
+     ]
+    },
+    {
+     "text": "Value Added Courses 2018-19",
+     "links": [
+      {
+       "label": "Value Added Courses 2018-19",
+       "href": "https://qiscet.edu.in/qiscet/departments/cse/syl_reg/value%20added%20courses%202018-19.pdf"
+      }
+     ]
+    },
+    {
+     "text": "Value Added Courses 2017-18",
+     "links": [
+      {
+       "label": "Value Added Courses 2017-18",
+       "href": "https://qiscet.edu.in/qiscet/departments/cse/syl_reg/value%20added%20courses%202017-18.pdf"
+      }
+     ]
+    },
+    {
+     "text": "Value Added Courses 2016-27",
+     "links": [
+      {
+       "label": "Value Added Courses 2016-27",
+       "href": "https://qiscet.edu.in/qiscet/departments/cse/syl_reg/value%20added%20courses%202016-17.pdf"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "department": "cse",
+ "pageTitle": "Student Co-Curricular Activities"
+}

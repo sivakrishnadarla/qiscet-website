@@ -1,0 +1,249 @@
+{
+ "slug": "departments/mechanical/laboratories",
+ "section": "departments",
+ "sectionTitle": "Departments",
+ "title": "Laboratories – Mechanical Engineering",
+ "legacy": "https://qiscet.edu.in/qiscet/DEPARTMENTS_me_labs.php",
+ "summary": null,
+ "blocks": [
+  {
+   "type": "table",
+   "rows": [
+    [
+     {
+      "text": "S.No"
+     },
+     {
+      "text": "Name of lab/workshop"
+     },
+     {
+      "text": "Details"
+     }
+    ],
+    [
+     {
+      "text": "1"
+     },
+     {
+      "text": "THERMAL ENGINEERING LAB"
+     },
+     {
+      "text": "View",
+      "links": [
+       {
+        "label": "View",
+        "href": "https://qiscet.edu.in/qiscet/LAB/THERMAL%20ENGINEERING%20LABORATORY.pdf"
+       }
+      ]
+     }
+    ],
+    [
+     {
+      "text": "2"
+     },
+     {
+      "text": "FM & HM LAB"
+     },
+     {
+      "text": "View",
+      "links": [
+       {
+        "label": "View",
+        "href": "https://qiscet.edu.in/qiscet/LAB/FLUID%20MECHANICS%20AND%20HYDRAULICS%20MACHINERY%20LABORATORY.pdf"
+       }
+      ]
+     }
+    ],
+    [
+     {
+      "text": "3"
+     },
+     {
+      "text": "PRODUCTION TECHNOLOGY"
+     },
+     {
+      "text": "View",
+      "links": [
+       {
+        "label": "View",
+        "href": "https://qiscet.edu.in/qiscet/LAB/PRODUCTION%20TECHNOLOGY%20LABORATORY.pdf"
+       }
+      ]
+     }
+    ],
+    [
+     {
+      "text": "4"
+     },
+     {
+      "text": "INSTRUMENTATION AND CONTROL SYSTEMS LAB"
+     },
+     {
+      "text": "View",
+      "links": [
+       {
+        "label": "View",
+        "href": "https://qiscet.edu.in/qiscet/LAB/INSTRUMENTATION%20%20AND%20CONTROL%20SYSTEM%20LABORATORY.pdf"
+       }
+      ]
+     }
+    ],
+    [
+     {
+      "text": "5"
+     },
+     {
+      "text": "HEAT TRANSFER LAB"
+     },
+     {
+      "text": "View",
+      "links": [
+       {
+        "label": "View",
+        "href": "https://qiscet.edu.in/qiscet/LAB/HEAT%20TRANSFER%20LABORATORY.pdf"
+       }
+      ]
+     }
+    ],
+    [
+     {
+      "text": "6"
+     },
+     {
+      "text": "MACHINE TOOLS"
+     },
+     {
+      "text": "View",
+      "links": [
+       {
+        "label": "View",
+        "href": "https://qiscet.edu.in/qiscet/LAB/MACHINE%20TOOLS%20LABORATORY.pdf"
+       }
+      ]
+     }
+    ],
+    [
+     {
+      "text": "7"
+     },
+     {
+      "text": "ENGINEERING WORKSHOP"
+     },
+     {
+      "text": "View",
+      "links": [
+       {
+        "label": "View",
+        "href": "https://qiscet.edu.in/qiscet/LAB/ENGINEERING%20WORKSHOP%20%20LABORATORY.pdf"
+       }
+      ]
+     }
+    ],
+    [
+     {
+      "text": "8"
+     },
+     {
+      "text": "CAD/CAM LAB"
+     },
+     {
+      "text": "View",
+      "links": [
+       {
+        "label": "View",
+        "href": "https://qiscet.edu.in/qiscet/LAB/CAD%20CAM%20LAB.pdf"
+       }
+      ]
+     }
+    ],
+    [
+     {
+      "text": "9"
+     },
+     {
+      "text": "MECHANICS OF SOLIDS LAB"
+     },
+     {
+      "text": "View",
+      "links": [
+       {
+        "label": "View",
+        "href": "https://qiscet.edu.in/qiscet/LAB/MECHANICS%20OF%20SOLID%20LABORATORY.pdf"
+       }
+      ]
+     }
+    ],
+    [
+     {
+      "text": "10"
+     },
+     {
+      "text": "METALLURGY AND MATERIAL SCIENCE LAB"
+     },
+     {
+      "text": "View",
+      "links": [
+       {
+        "label": "View",
+        "href": "https://qiscet.edu.in/qiscet/LAB/METALLURGY%20AND%20MATERIAL%20SCIENCE%20%20%20LABORATORY.pdf"
+       }
+      ]
+     }
+    ],
+    [
+     {
+      "text": "11"
+     },
+     {
+      "text": "MACHINE DYNAMICS LAB"
+     },
+     {
+      "text": "View",
+      "links": [
+       {
+        "label": "View",
+        "href": "https://qiscet.edu.in/qiscet/LAB/MACHINE%20DYNAMICS%20LABORATORY.pdf"
+       }
+      ]
+     }
+    ],
+    [
+     {
+      "text": "12"
+     },
+     {
+      "text": "METROLOGY LAB"
+     },
+     {
+      "text": "View",
+      "links": [
+       {
+        "label": "View",
+        "href": "https://qiscet.edu.in/qiscet/LAB/METROLOGY%20%20LABORATORY.pdf"
+       }
+      ]
+     }
+    ],
+    [
+     {
+      "text": "13"
+     },
+     {
+      "text": "RESEARCH LAB"
+     },
+     {
+      "text": "View",
+      "links": [
+       {
+        "label": "View",
+        "href": "https://qiscet.edu.in/qiscet/LAB/RESEARCH%20LAB.pdf"
+       }
+      ]
+     }
+    ]
+   ]
+  }
+ ],
+ "department": "mechanical",
+ "pageTitle": "Laboratories"
+}

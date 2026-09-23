@@ -1,0 +1,166 @@
+{
+ "slug": "departments/cse-business-systems",
+ "section": "departments",
+ "sectionTitle": "Departments",
+ "title": "Computer Science & Engineering and Business Systems",
+ "legacy": "https://qiscet.edu.in/qiscet/DEPARTMENTS_cse_bs.php",
+ "summary": "This course will provide industry-ready and employable engineers who can drive innovation and add value to the organization they work for as well as to the nation in the era of Industry 4.0…",
+ "blocks": [
+  {
+   "type": "paragraph",
+   "text": "This course will provide industry-ready and employable engineers who can drive innovation and add value to the organization they work for as well as to the nation in the era of Industry 4.0 standards. Students can get placement in the product-based companies and service-based companies. The students have career opportunities in Government and Private sectors, Bank and Health Insurance sector, Manufacturing sector, Financial sector, Business Analysis, and Marketing sector. The objectives of this course is to cultivate students in Understanding of Contemporary Technology, Understanding of Technology Abstraction, Knowledge of Common Business Principles and Innovation Ability, and Strong in Ethics and Life Value."
+  },
+  {
+   "type": "heading",
+   "text": "Courses",
+   "level": 4
+  },
+  {
+   "type": "table",
+   "rows": [
+    [
+     {
+      "text": "Courses Offered"
+     },
+     {
+      "text": "Intake"
+     }
+    ],
+    [
+     {
+      "text": "B.Tech - CSE and Business Systems"
+     },
+     {
+      "text": "60"
+     }
+    ]
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "Vision",
+   "level": 4
+  },
+  {
+   "type": "paragraph",
+   "text": "To facilitate transformation of students into highly skilled, knowledgeable and competent software professional focusing on ethical values and societal commitment."
+  },
+  {
+   "type": "heading",
+   "text": "Mission",
+   "level": 4
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    {
+     "text": "To impart quality education to meet the needs of the industry and research in the field of computer science and engineering."
+    },
+    {
+     "text": "To encourage an environment conductive to innovation, creativity, team spirit and entrepreneurial leadership in Computer Science and Engineering and Business Systems."
+    },
+    {
+     "text": "To foster networking with Alumni, Software Industries, Institutes and other stakeholders for effective interaction."
+    },
+    {
+     "text": "To practice and promote high standards of ethical values through societal commitment."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "B.Tech",
+   "level": 4
+  },
+  {
+   "type": "heading",
+   "text": "Programme Educational Objectives Of B.Tech (CSE-BS)",
+   "level": 4
+  },
+  {
+   "type": "list",
+   "ordered": true,
+   "items": [
+    {
+     "text": "PEO1. Graduates will have solid foundation in fundamentals of computer science and engineering required to solve computing problems and create innovative software products and solutions for the real life problems."
+    },
+    {
+     "text": "PEO2. Graduates will have technical competence and skills to use modern and cost-effective tools and technologies and have extensive and effective practical skills in computer science and engineering to pursue a career as a computer engineer."
+    },
+    {
+     "text": "PEO3. Graduates will have attributes like professionals with world class academic excellence, ethics, best practices, values, social concerns, lifelong learning and openness to other international cultures to meet the global needs."
+    },
+    {
+     "text": "PEO4. Graduates will have managerial and entrepreneur skills with cross-cultural etiquettes, leading to a sustainable competitive edge in R&D and meeting societal needs."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "Programme Outcomes Of B.Tech (CSE-BS)",
+   "level": 4
+  },
+  {
+   "type": "list",
+   "ordered": true,
+   "items": [
+    {
+     "text": "PO1. Engineering knowledge: Apply the knowledge of mathematics, science, engineering fundamentals, and an engineering specialization to the solution of complex engineering problems."
+    },
+    {
+     "text": "PO2. Problem analysis: Identify, formulate, review research literature, and analyze complex engineering problems reaching substantiated conclusions using first principles of mathematics, natural sciences, and engineering sciences."
+    },
+    {
+     "text": "PO3. Design/ development of solutions: Design solutions for complex engineering problems and design system components or processes that meet the specified needs with appropriate consideration for the public health and safety, and the cultural, societal, and environmental considerations."
+    },
+    {
+     "text": "PO4. Conduct investigations of complex problems: Use research-based knowledge and research methods including design of experiments, analysis and interpretation of data, and synthesis of the information to provide valid conclusions."
+    },
+    {
+     "text": "PO5. Modern tool usage: Create, select, and apply appropriate techniques, resources, and modern engineering and IT tools including prediction and modeling to complex engineering activities with an understanding of the limitations."
+    },
+    {
+     "text": "PO6. The engineer and society: Apply reasoning informed by the contextual knowledge to assess health, safety, legal and cultural issues and the consequent responsibilities relevant to the engineering practice."
+    },
+    {
+     "text": "PO7. Environment and sustainability: Understand the impact of the professional engineering solutions In societal and environmental contexts, and demonstrate the knowledge of and need for sustainable development."
+    },
+    {
+     "text": "PO8. Ethics: Apply ethical principles and commit to professional ethics and responsibilities and norms of the engineering practice."
+    },
+    {
+     "text": "PO9. Individual and team work: Function effectively as an individual, and as a member or leader in diverse teams, and in multidisciplinary settings."
+    },
+    {
+     "text": "PO10. Communication: Communicate effectively on complex engineering activities with the engineering community and with society at large, such as, being able to comprehend and write effective reports and design documentation, make effective presentations, and give and receive clear instructions."
+    },
+    {
+     "text": "PO11. Project management and finance: Demonstrate knowledge and understanding of the engineering and management principles and apply these to one's own work, as a member and leader in a team, to manage projects' and in multidisciplinary environments."
+    },
+    {
+     "text": "PO12. Life-long learning: Recognize the need for, and have the preparation and ability to engage in independent and life-long learning in the broadest context of technological change."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "Programme Specific Out Comes Of B.Tech (CSE-BS)",
+   "level": 4
+  },
+  {
+   "type": "list",
+   "ordered": true,
+   "items": [
+    {
+     "text": "PSO1. Domain Knowledge: An ability to understand, analyze and develop computer programs in the areas related to Algorithms, System Software, Multimedia, Web Design, Big Data and Analytics and Networking for efficient design of computer based systems of varying complexity to meet the need of the software industry."
+    },
+    {
+     "text": "PSO2. Process Management: An Ability to organize and apply standard practices and strategies in software product development by managing and monitoring the resources and safeguarding the data."
+    }
+   ]
+  }
+ ],
+ "department": "cse-business-systems",
+ "isDepartmentHome": true
+}

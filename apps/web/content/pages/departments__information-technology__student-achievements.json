@@ -1,0 +1,27 @@
+{
+ "slug": "departments/information-technology/student-achievements",
+ "section": "departments",
+ "sectionTitle": "Departments",
+ "title": "Student Achievements – Information Technology",
+ "legacy": "https://qiscet.edu.in/qiscet/DEPARTMENTS_it_student_achievements.php",
+ "summary": null,
+ "blocks": [
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    {
+     "text": "Student Achievements",
+     "links": [
+      {
+       "label": "Student Achievements",
+       "href": "https://qiscet.edu.in/qiscet/departments/it/Student%20Acheivements.pdf"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "department": "information-technology",
+ "pageTitle": "Student Achievements"
+}

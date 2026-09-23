@@ -1,0 +1,54 @@
+{
+ "slug": "departments/information-technology/newsletters",
+ "section": "departments",
+ "sectionTitle": "Departments",
+ "title": "Newsletters – Information Technology",
+ "legacy": "https://qiscet.edu.in/qiscet/DEPARTMENTS_it_news_letters.php",
+ "summary": null,
+ "blocks": [
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    {
+     "text": "NEWS LETTER 2021",
+     "links": [
+      {
+       "label": "NEWS LETTER 2021",
+       "href": "https://qiscet.edu.in/qiscet/departments/it/Newsletter%202021-22.pdf"
+      }
+     ]
+    },
+    {
+     "text": "NEWS LETTER 2020",
+     "links": [
+      {
+       "label": "NEWS LETTER 2020",
+       "href": "https://qiscet.edu.in/qiscet/departments/it/Newsletter%202020-21.pdf"
+      }
+     ]
+    },
+    {
+     "text": "NEWS LETTER 2019",
+     "links": [
+      {
+       "label": "NEWS LETTER 2019",
+       "href": "https://qiscet.edu.in/qiscet/departments/it/nsl/IT-NEWS%20LETTER%202019.pdf"
+      }
+     ]
+    },
+    {
+     "text": "NEWS LETTER 2017",
+     "links": [
+      {
+       "label": "NEWS LETTER 2017",
+       "href": "https://qiscet.edu.in/qiscet/departments/it/nsl/IT-NEWS%20LETTER%202017.pdf"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "department": "information-technology",
+ "pageTitle": "Newsletters"
+}

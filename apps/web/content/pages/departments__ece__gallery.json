@@ -1,0 +1,79 @@
+{
+ "slug": "departments/ece/gallery",
+ "section": "departments",
+ "sectionTitle": "Departments",
+ "title": "Gallery – Electronics & Communication Engineering",
+ "legacy": "https://qiscet.edu.in/qiscet/DEPARTMENTS_ece_gallary.php",
+ "summary": null,
+ "blocks": [
+  {
+   "type": "table",
+   "rows": [
+    [
+     {
+      "text": "S.No"
+     },
+     {
+      "text": "Name of Events"
+     },
+     {
+      "text": "Details"
+     }
+    ],
+    [
+     {
+      "text": "1"
+     },
+     {
+      "text": "ALUMNI Gallery"
+     },
+     {
+      "text": "VIEW",
+      "links": [
+       {
+        "label": "VIEW",
+        "href": "https://qiscet.edu.in/qiscet/DEPARTMENTS_ece_alu_gallary.php"
+       }
+      ]
+     }
+    ],
+    [
+     {
+      "text": "2"
+     },
+     {
+      "text": "Gallery 1"
+     },
+     {
+      "text": "VIEW",
+      "links": [
+       {
+        "label": "VIEW",
+        "href": "https://qiscet.edu.in/qiscet/DEPARTMENTS_ece_tab_gallery.php"
+       }
+      ]
+     }
+    ],
+    [
+     {
+      "text": "3"
+     },
+     {
+      "text": "Gallery 2"
+     },
+     {
+      "text": "VIEW",
+      "links": [
+       {
+        "label": "VIEW",
+        "href": "https://qiscet.edu.in/qiscet/DEPARTMENTS_ece_tab_gallery2.php"
+       }
+      ]
+     }
+    ]
+   ]
+  }
+ ],
+ "department": "ece",
+ "pageTitle": "Gallery"
+}

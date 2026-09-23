@@ -1,0 +1,27 @@
+{
+ "slug": "departments/mca/publications",
+ "section": "departments",
+ "sectionTitle": "Departments",
+ "title": "Publications – Master of Computer Applications",
+ "legacy": "https://qiscet.edu.in/qiscet/DEPARTMENTS_mca_publications.php",
+ "summary": null,
+ "blocks": [
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    {
+     "text": "MCA Publications",
+     "links": [
+      {
+       "label": "MCA Publications",
+       "href": "https://qiscet.edu.in/qiscet/departments/mca/mca_pub_211.pdf"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "department": "mca",
+ "pageTitle": "Publications"
+}

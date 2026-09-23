@@ -1,0 +1,27 @@
+{
+ "slug": "departments/ece/consultancy",
+ "section": "departments",
+ "sectionTitle": "Departments",
+ "title": "Consultancy – Electronics & Communication Engineering",
+ "legacy": "https://qiscet.edu.in/qiscet/DEPARTMENTS_ece_consultancy.php",
+ "summary": null,
+ "blocks": [
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    {
+     "text": "Consultancy",
+     "links": [
+      {
+       "label": "Consultancy",
+       "href": "https://qiscet.edu.in/qiscet/departments/ece/Consultancy.pdf"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "department": "ece",
+ "pageTitle": "Consultancy"
+}

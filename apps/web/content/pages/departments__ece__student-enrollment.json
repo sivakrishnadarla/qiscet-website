@@ -1,0 +1,53 @@
+{
+ "slug": "departments/ece/student-enrollment",
+ "section": "departments",
+ "sectionTitle": "Departments",
+ "title": "Student Enrollment – Electronics & Communication Engineering",
+ "legacy": "https://qiscet.edu.in/qiscet/DEPARTMENTS_ece_Admissions.php",
+ "summary": null,
+ "blocks": [
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    {
+     "text": "Student Enrollment (2024-25), (2023-24), (2022-23)",
+     "links": [
+      {
+       "label": "Student Enrollment (2024-25), (2023-24), (2022-23)",
+       "href": "https://qiscet.edu.in/qiscet/departments/ece/lab/student_enrollement_2023-2024.pdf"
+      }
+     ]
+    },
+    {
+     "text": "Student Enrollment (2021-22), (2020-21), (2019-20), (2018-19)",
+     "links": [
+      {
+       "label": "Student Enrollment (2021-22), (2020-21), (2019-20), (2018-19)",
+       "href": "https://qiscet.edu.in/qiscet/departments/ece/lab/ADMISSIONS%20CONSOLIDATED%20SHEET.pdf"
+      }
+     ]
+    },
+    {
+     "text": "Student Enrollment List 2024-2025 IV Year| III Year| II Year",
+     "links": [
+      {
+       "label": "IV Year",
+       "href": "https://qiscet.edu.in/qiscet/departments/ece/StudentsList_4.pdf"
+      },
+      {
+       "label": "III Year",
+       "href": "https://qiscet.edu.in/qiscet/departments/ece/StudentsList_3.pdf"
+      },
+      {
+       "label": "II Year",
+       "href": "https://qiscet.edu.in/qiscet/departments/ece/StudentsList_2.pdf"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "department": "ece",
+ "pageTitle": "Student Enrollment"
+}

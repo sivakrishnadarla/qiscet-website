@@ -1,0 +1,54 @@
+{
+ "slug": "departments/ece/club-activities",
+ "section": "departments",
+ "sectionTitle": "Departments",
+ "title": "Club Activities – Electronics & Communication Engineering",
+ "legacy": "https://qiscet.edu.in/qiscet/DEPARTMENTS_ece_club_activites.php",
+ "summary": null,
+ "blocks": [
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    {
+     "text": "Club Activities ECE AY 2021-22",
+     "links": [
+      {
+       "label": "Club Activities ECE AY 2021-22",
+       "href": "https://qiscet.edu.in/qiscet/departments/ece/CLUB_ACTIVITIES/CLUB%20ECE%20AY%202021-22.pdf"
+      }
+     ]
+    },
+    {
+     "text": "IEEE",
+     "links": [
+      {
+       "label": "IEEE",
+       "href": "https://qiscet.edu.in/qiscet/departments/ece/CLUB_ACTIVITIES/Events_IEEE.pdf"
+      }
+     ]
+    },
+    {
+     "text": "IETE",
+     "links": [
+      {
+       "label": "IETE",
+       "href": "https://qiscet.edu.in/qiscet/departments/ece/CLUB_ACTIVITIES/Events_IETE.pdf"
+      }
+     ]
+    },
+    {
+     "text": "Awards",
+     "links": [
+      {
+       "label": "Awards",
+       "href": "https://qiscet.edu.in/qiscet/departments/ece/CLUB_ACTIVITIES/Events_Awards.pdf"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "department": "ece",
+ "pageTitle": "Club Activities"
+}

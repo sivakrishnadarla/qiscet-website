@@ -1,0 +1,54 @@
+{
+ "slug": "departments/ece/board-of-studies",
+ "section": "departments",
+ "sectionTitle": "Departments",
+ "title": "Board of Studies – Electronics & Communication Engineering",
+ "legacy": "https://qiscet.edu.in/qiscet/DEPARTMENTS_ece_BOS.php",
+ "summary": null,
+ "blocks": [
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    {
+     "text": "BoS Meetings",
+     "links": [
+      {
+       "label": "BoS Meetings",
+       "href": "https://qiscet.edu.in/qiscet/departments/ece/data/BOS%20DATES.pdf"
+      }
+     ]
+    },
+    {
+     "text": "BoS Members",
+     "links": [
+      {
+       "label": "BoS Members",
+       "href": "https://qiscet.edu.in/qiscet/departments/ece/data/BoS%20Members.pdf"
+      }
+     ]
+    },
+    {
+     "text": "13th Meeting Minutes of BOS R20",
+     "links": [
+      {
+       "label": "13th Meeting Minutes of BOS R20",
+       "href": "https://qiscet.edu.in/qiscet/departments/ece/data/BOS%20-%2013%20Meeting%20and%20Agenda%20Notes.pdf"
+      }
+     ]
+    },
+    {
+     "text": "14th Meeting Minutes of BOS R23",
+     "links": [
+      {
+       "label": "14th Meeting Minutes of BOS R23",
+       "href": "https://qiscet.edu.in/qiscet/departments/ece/bos/14_BoS_23.pdf"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "department": "ece",
+ "pageTitle": "Board of Studies"
+}

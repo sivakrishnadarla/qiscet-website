@@ -1,0 +1,158 @@
+{
+ "slug": "research/publications",
+ "section": "research",
+ "sectionTitle": "Research & Development",
+ "title": "Research Publications",
+ "legacy": "https://qiscet.edu.in/qiscet/index_randd_pub.php",
+ "summary": null,
+ "blocks": [
+  {
+   "type": "table",
+   "rows": [
+    [
+     {
+      "text": "Academic Year"
+     },
+     {
+      "text": "Total Publications"
+     },
+     {
+      "text": "Quality Publications"
+     }
+    ],
+    [
+     {
+      "text": "2024-25"
+     },
+     {
+      "text": "254"
+     },
+     {
+      "text": "216"
+     }
+    ],
+    [
+     {
+      "text": "2023-24"
+     },
+     {
+      "text": "206"
+     },
+     {
+      "text": "158"
+     }
+    ],
+    [
+     {
+      "text": "2022-23"
+     },
+     {
+      "text": "223"
+     },
+     {
+      "text": "196"
+     }
+    ],
+    [
+     {
+      "text": "2021-22"
+     },
+     {
+      "text": "206"
+     },
+     {
+      "text": "184"
+     }
+    ],
+    [
+     {
+      "text": "2020-21"
+     },
+     {
+      "text": "133"
+     },
+     {
+      "text": "112"
+     }
+    ],
+    [
+     {
+      "text": "2019-20"
+     },
+     {
+      "text": "203"
+     },
+     {
+      "text": "185"
+     }
+    ],
+    [
+     {
+      "text": "2018-19"
+     },
+     {
+      "text": "308"
+     },
+     {
+      "text": "285"
+     }
+    ],
+    [
+     {
+      "text": "2017-18"
+     },
+     {
+      "text": "162"
+     },
+     {
+      "text": "145"
+     }
+    ],
+    [
+     {
+      "text": "2016-17"
+     },
+     {
+      "text": "157"
+     },
+     {
+      "text": "121"
+     }
+    ],
+    [
+     {
+      "text": "2015-16"
+     },
+     {
+      "text": "148"
+     },
+     {
+      "text": "96"
+     }
+    ],
+    [
+     {
+      "text": "2014-15"
+     },
+     {
+      "text": "181"
+     },
+     {
+      "text": "89"
+     }
+    ],
+    [
+     {
+      "text": "2013-14"
+     },
+     {
+      "text": "145"
+     },
+     {
+      "text": "85"
+     }
+    ]
+   ]
+  }
+ ]
+}

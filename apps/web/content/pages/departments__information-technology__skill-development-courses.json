@@ -1,0 +1,72 @@
+{
+ "slug": "departments/information-technology/skill-development-courses",
+ "section": "departments",
+ "sectionTitle": "Departments",
+ "title": "Skill Development Courses – Information Technology",
+ "legacy": "https://qiscet.edu.in/qiscet/DEPARTMENTS_it_sdc.php",
+ "summary": null,
+ "blocks": [
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    {
+     "text": "SDC-Sem-II-22-23",
+     "links": [
+      {
+       "label": "SDC-Sem-II-22-23",
+       "href": "https://qiscet.edu.in/qiscet/departments/it/data/22-23%20sem%202%20SDC%20Details.pdf"
+      }
+     ]
+    },
+    {
+     "text": "SDC-Sem-I-22-23",
+     "links": [
+      {
+       "label": "SDC-Sem-I-22-23",
+       "href": "https://qiscet.edu.in/qiscet/departments/it/data/22-23%20sem%201%20SDC%20Details.pdf"
+      }
+     ]
+    },
+    {
+     "text": "SDC-Sem-II-21-22",
+     "links": [
+      {
+       "label": "SDC-Sem-II-21-22",
+       "href": "https://qiscet.edu.in/qiscet/departments/it/data/21-22%20sem%202%20SDC%20Details.pdf"
+      }
+     ]
+    },
+    {
+     "text": "SDC-Sem-I-21-22",
+     "links": [
+      {
+       "label": "SDC-Sem-I-21-22",
+       "href": "https://qiscet.edu.in/qiscet/departments/it/data/21-22%20sem%201%20SDC%20Details.pdf"
+      }
+     ]
+    },
+    {
+     "text": "SDC-Sem-II-20-21",
+     "links": [
+      {
+       "label": "SDC-Sem-II-20-21",
+       "href": "https://qiscet.edu.in/qiscet/departments/it/data/20-21%20sem%202%20SDC%20Details.pdf"
+      }
+     ]
+    },
+    {
+     "text": "SDC-Sem-I-20-21",
+     "links": [
+      {
+       "label": "SDC-Sem-I-20-21",
+       "href": "https://qiscet.edu.in/qiscet/departments/it/data/20-21%20sem%201%20SDC%20Details.pdf"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "department": "information-technology",
+ "pageTitle": "Skill Development Courses"
+}

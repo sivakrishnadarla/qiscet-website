@@ -1,0 +1,27 @@
+{
+ "slug": "departments/basic-sciences-humanities/faculty-achievements",
+ "section": "departments",
+ "sectionTitle": "Departments",
+ "title": "Faculty Achievements – Basic Sciences & Humanities",
+ "legacy": "https://qiscet.edu.in/qiscet/DEPARTMENTS_hs_faculty_achievements.php",
+ "summary": null,
+ "blocks": [
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    {
+     "text": "Faculty Achievements",
+     "links": [
+      {
+       "label": "Faculty Achievements",
+       "href": "https://qiscet.edu.in/qiscet/departments/hs/data/BSH%20faculty%20Achivements.pdf"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "department": "basic-sciences-humanities",
+ "pageTitle": "Faculty Achievements"
+}

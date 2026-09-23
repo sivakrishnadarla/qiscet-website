@@ -1,0 +1,27 @@
+{
+ "slug": "departments/basic-sciences-humanities/department-library",
+ "section": "departments",
+ "sectionTitle": "Departments",
+ "title": "Department Library – Basic Sciences & Humanities",
+ "legacy": "https://qiscet.edu.in/qiscet/DEPARTMENTS_hs_library.php",
+ "summary": null,
+ "blocks": [
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    {
+     "text": "List Of Books",
+     "links": [
+      {
+       "label": "List Of Books",
+       "href": "https://qiscet.edu.in/qiscet/departments/hs/data/hs_Library1.pdf"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "department": "basic-sciences-humanities",
+ "pageTitle": "Department Library"
+}

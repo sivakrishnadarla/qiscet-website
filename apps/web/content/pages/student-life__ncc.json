@@ -1,0 +1,28 @@
+{
+ "slug": "student-life/ncc",
+ "section": "student-life",
+ "sectionTitle": "Student Life",
+ "title": "NCC",
+ "legacy": "https://qiscet.edu.in/qiscet/ACADEMICS_Extra_Curricular_Activities_NCC.php",
+ "summary": "The National Cadet Corps in India is a voluntary organization, which recruits students from high schools, colleges and universities all over India. These students are called Cadets after joining the…",
+ "blocks": [
+  {
+   "type": "image",
+   "src": "/images/ncc/ncclogo.jpg",
+   "alt": ""
+  },
+  {
+   "type": "paragraph",
+   "text": "The National Cadet Corps in India is a voluntary organization, which recruits students from high schools, colleges and universities all over India. These students are called Cadets after joining the organization. This is the biggest organization in India, where about 12 lakhs students are enrolled every year. They are given basic military training in small arms and parades. The officers and cadets have no liability for active military service once they complete their course but are given preference over normal candidates during selections based on the achievements in the corps. National Cadet Corps in QIS College of Engineering & Technology was started in the year 2022. NCC activities in our college have evoked much enthusiasm among the students. At present, Army Wings in our college comprising of about 80 cadets are actively indulging in all NCC activities to make our college and the nation proud."
+  },
+  {
+   "type": "heading",
+   "text": "Mission and Vision",
+   "level": 3
+  },
+  {
+   "type": "paragraph",
+   "text": "The mission and vision of our NCC wing is to create awareness among the student community regarding its importance towards nation building. Besides, an NCC cadet is presented with a plethora of job opportunities in reputed government and public sector concerns. We intend to train students to participate in the Republic Day Camp (RDC), Thal Sainik Camps (TSC) and Youth Exchange Program (YEP). QIS College of Engineering & Technology (QISCET) NCC wing contributes to the overall personality development of a person and mentally equips them to face the various challenges they may encounter in life."
+  }
+ ]
+}

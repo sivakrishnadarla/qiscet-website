@@ -1,0 +1,27 @@
+{
+ "slug": "departments/civil/mous",
+ "section": "departments",
+ "sectionTitle": "Departments",
+ "title": "MoUs – Civil Engineering",
+ "legacy": "https://qiscet.edu.in/qiscet/DEPARTMENTS_ce_mou.php",
+ "summary": null,
+ "blocks": [
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    {
+     "text": "List of MoU’s",
+     "links": [
+      {
+       "label": "List of MoU’s",
+       "href": "https://qiscet.edu.in/qiscet/departments/civil/1/MOU%27S.pdf"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "department": "civil",
+ "pageTitle": "MoUs"
+}

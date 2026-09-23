@@ -1,0 +1,43 @@
+{
+ "slug": "careers/downloads",
+ "section": "careers",
+ "sectionTitle": "Careers",
+ "title": "Application Downloads",
+ "legacy": "https://qiscet.edu.in/qiscet/careers_dwnloads.php",
+ "summary": null,
+ "blocks": [
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    {
+     "text": "Ratification API-Format 2020 Download",
+     "links": [
+      {
+       "label": "Ratification API-Format 2020 Download",
+       "href": "https://qiscet.edu.in/qiscet/careers/Ratification%20API-Format%202020.doc"
+      }
+     ]
+    },
+    {
+     "text": "Ratification Application 2020 Download",
+     "links": [
+      {
+       "label": "Ratification Application 2020 Download",
+       "href": "https://qiscet.edu.in/qiscet/careers/Ratification%20Application%202020.doc"
+      }
+     ]
+    },
+    {
+     "text": "Ratification Bio-Data Download",
+     "links": [
+      {
+       "label": "Ratification Bio-Data Download",
+       "href": "https://qiscet.edu.in/qiscet/careers/Ratification%20Application.pdf"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

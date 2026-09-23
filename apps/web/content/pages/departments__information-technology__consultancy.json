@@ -1,0 +1,54 @@
+{
+ "slug": "departments/information-technology/consultancy",
+ "section": "departments",
+ "sectionTitle": "Departments",
+ "title": "Consultancy – Information Technology",
+ "legacy": "https://qiscet.edu.in/qiscet/DEPARTMENTS_it_consultancy.php",
+ "summary": null,
+ "blocks": [
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    {
+     "text": "Consultancies 2021-22",
+     "links": [
+      {
+       "label": "Consultancies 2021-22",
+       "href": "https://qiscet.edu.in/qiscet/departments/it/data/Consultancy%20-%202021-22.pdf"
+      }
+     ]
+    },
+    {
+     "text": "Consultancies 2020-21",
+     "links": [
+      {
+       "label": "Consultancies 2020-21",
+       "href": "https://qiscet.edu.in/qiscet/departments/it/data/Consultancy%20-%202020-21.pdf"
+      }
+     ]
+    },
+    {
+     "text": "Consultancies 2019-20",
+     "links": [
+      {
+       "label": "Consultancies 2019-20",
+       "href": "https://qiscet.edu.in/qiscet/departments/it/data/Consultancy%20-%202019-20.pdf"
+      }
+     ]
+    },
+    {
+     "text": "Consultancies 2018-19",
+     "links": [
+      {
+       "label": "Consultancies 2018-19",
+       "href": "https://qiscet.edu.in/qiscet/departments/it/data/Consultancy%20-%202018-19.pdf"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "department": "information-technology",
+ "pageTitle": "Consultancy"
+}

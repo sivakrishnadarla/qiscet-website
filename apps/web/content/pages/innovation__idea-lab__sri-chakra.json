@@ -1,0 +1,167 @@
+{
+ "slug": "innovation/idea-lab/sri-chakra",
+ "section": "innovation",
+ "sectionTitle": "Centre for Innovation",
+ "title": "Sri Chakra",
+ "legacy": "https://qiscet.edu.in/qiscet/CENTRE_FOR_INNOVATION_idealab_srichakra.php",
+ "summary": null,
+ "blocks": [
+  {
+   "type": "heading",
+   "text": "A START-UP ORIGINATED FROM IDEA LAB",
+   "level": 2
+  },
+  {
+   "type": "heading",
+   "text": "PRODUCTS COMMERCIALISED UNDER START-UP",
+   "level": 2
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    {
+     "text": "",
+     "links": [
+      {
+       "label": "View",
+       "href": "/images/idealab/srichakra/3d-printted-budda.jpg"
+      }
+     ],
+     "images": [
+      "/images/idealab/srichakra/3d-printted-budda.jpg"
+     ]
+    },
+    {
+     "text": "3D printted Budda"
+    }
+   ]
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    {
+     "text": "",
+     "links": [
+      {
+       "label": "View",
+       "href": "/images/idealab/srichakra/3d-printted-siva.jpg"
+      }
+     ],
+     "images": [
+      "/images/idealab/srichakra/3d-printted-siva.jpg"
+     ]
+    },
+    {
+     "text": "3D printted Siva"
+    }
+   ]
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    {
+     "text": "",
+     "links": [
+      {
+       "label": "View",
+       "href": "/images/idealab/srichakra/magic-mug.jpg"
+      }
+     ],
+     "images": [
+      "/images/idealab/srichakra/magic-mug.jpg"
+     ]
+    },
+    {
+     "text": "Magic Mug"
+    }
+   ]
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    {
+     "text": "",
+     "links": [
+      {
+       "label": "View",
+       "href": "/images/idealab/srichakra/mechanical-gear-cart.jpg"
+      }
+     ],
+     "images": [
+      "/images/idealab/srichakra/mechanical-gear-cart.jpg"
+     ]
+    },
+    {
+     "text": "Mechanical Gear Cart"
+    }
+   ]
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    {
+     "text": "",
+     "links": [
+      {
+       "label": "View",
+       "href": "/images/idealab/srichakra/t-shirt.jpg"
+      }
+     ],
+     "images": [
+      "/images/idealab/srichakra/t-shirt.jpg"
+     ]
+    },
+    {
+     "text": "T-shirt"
+    }
+   ]
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    {
+     "text": "",
+     "links": [
+      {
+       "label": "View",
+       "href": "/images/idealab/srichakra/mug-4.jpg"
+      }
+     ],
+     "images": [
+      "/images/idealab/srichakra/mug-4.jpg"
+     ]
+    },
+    {
+     "text": "mug-4"
+    }
+   ]
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    {
+     "text": "",
+     "links": [
+      {
+       "label": "View",
+       "href": "/images/idealab/srichakra/mug.jpg"
+      }
+     ],
+     "images": [
+      "/images/idealab/srichakra/mug.jpg"
+     ]
+    },
+    {
+     "text": "Mug"
+    }
+   ]
+  }
+ ]
+}

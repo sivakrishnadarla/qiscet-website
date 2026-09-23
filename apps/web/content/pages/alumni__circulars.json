@@ -1,0 +1,79 @@
+{
+ "slug": "alumni/circulars",
+ "section": "alumni",
+ "sectionTitle": "Alumni",
+ "title": "Alumni Circulars",
+ "legacy": "https://qiscet.edu.in/qiscet/Alumni_Circulars.php",
+ "summary": null,
+ "blocks": [
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    {
+     "text": "Alumni Circular 23-12-24",
+     "links": [
+      {
+       "label": "Alumni Circular 23-12-24",
+       "href": "https://qiscet.edu.in/qiscet/departments/Alumni/circulars/Alumni_Circular_23-12-24.pdf"
+      }
+     ]
+    },
+    {
+     "text": "Alumni Circular 26-06-24",
+     "links": [
+      {
+       "label": "Alumni Circular 26-06-24",
+       "href": "https://qiscet.edu.in/qiscet/departments/Alumni/circulars/Alumni_Circular_26-6-24.pdf"
+      }
+     ]
+    },
+    {
+     "text": "Alumni Circular 10-01-24",
+     "links": [
+      {
+       "label": "Alumni Circular 10-01-24",
+       "href": "https://qiscet.edu.in/qiscet/departments/Alumni/circulars/Alumni_Circular_10-1-24.pdf"
+      }
+     ]
+    },
+    {
+     "text": "Alumni Circular 12-07-23",
+     "links": [
+      {
+       "label": "Alumni Circular 12-07-23",
+       "href": "https://qiscet.edu.in/qiscet/departments/Alumni/circulars/Alumni_Circular_12-7-23.pdf"
+      }
+     ]
+    },
+    {
+     "text": "Alumni Circular 04-01-23",
+     "links": [
+      {
+       "label": "Alumni Circular 04-01-23",
+       "href": "https://qiscet.edu.in/qiscet/departments/Alumni/circulars/Alumni_Circular_4-1-23.pdf"
+      }
+     ]
+    },
+    {
+     "text": "Alumni Circular 11-07-22",
+     "links": [
+      {
+       "label": "Alumni Circular 11-07-22",
+       "href": "https://qiscet.edu.in/qiscet/departments/Alumni/circulars/Alumni_Circular_11-7-22.pdf"
+      }
+     ]
+    },
+    {
+     "text": "Alumni Circular 10-01-22",
+     "links": [
+      {
+       "label": "Alumni Circular 10-01-22",
+       "href": "https://qiscet.edu.in/qiscet/departments/Alumni/circulars/Alumni_Circular_10-1-22.pdf"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

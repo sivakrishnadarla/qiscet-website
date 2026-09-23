@@ -1,0 +1,304 @@
+{
+ "slug": "academics/board-of-studies",
+ "section": "academics",
+ "sectionTitle": "Academics",
+ "title": "Board of Studies (BoS)",
+ "legacy": "https://qiscet.edu.in/qiscet/bos.php",
+ "summary": null,
+ "blocks": [
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    {
+     "text": "Civil"
+    },
+    {
+     "text": "EEE"
+    },
+    {
+     "text": "Mech"
+    },
+    {
+     "text": "ECE"
+    },
+    {
+     "text": "CSE"
+    },
+    {
+     "text": "CSIT"
+    },
+    {
+     "text": "IT"
+    },
+    {
+     "text": "CSBS"
+    },
+    {
+     "text": "CSDS"
+    },
+    {
+     "text": "CS-IOT"
+    },
+    {
+     "text": "AIML"
+    },
+    {
+     "text": "AI"
+    },
+    {
+     "text": "AIDS"
+    },
+    {
+     "text": "EEVT"
+    },
+    {
+     "text": "MBA"
+    },
+    {
+     "text": "MCA"
+    }
+   ]
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    {
+     "text": "List of CIVIL BoS Members",
+     "links": [
+      {
+       "label": "List of CIVIL BoS Members",
+       "href": "https://qiscet.edu.in/qiscet/bos/civil_bos.pdf"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    {
+     "text": "List of EEE BoS Members",
+     "links": [
+      {
+       "label": "List of EEE BoS Members",
+       "href": "https://qiscet.edu.in/qiscet/bos/eee_bos.pdf"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    {
+     "text": "List of Mech BoS Members",
+     "links": [
+      {
+       "label": "List of Mech BoS Members",
+       "href": "https://qiscet.edu.in/qiscet/bos/Mech_bos.pdf"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    {
+     "text": "List of ECE BoS Members",
+     "links": [
+      {
+       "label": "List of ECE BoS Members",
+       "href": "https://qiscet.edu.in/qiscet/bos/ece_bos.pdf"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    {
+     "text": "List of CSE BoS Members",
+     "links": [
+      {
+       "label": "List of CSE BoS Members",
+       "href": "https://qiscet.edu.in/qiscet/bos/cse_bos.pdf"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    {
+     "text": "List of CSIT BoS Members",
+     "links": [
+      {
+       "label": "List of CSIT BoS Members",
+       "href": "https://qiscet.edu.in/qiscet/bos/csit_bos.pdf"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    {
+     "text": "List of IT BoS Members",
+     "links": [
+      {
+       "label": "List of IT BoS Members",
+       "href": "https://qiscet.edu.in/qiscet/bos/it_bos.pdf"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    {
+     "text": "List of CSBS BoS Members",
+     "links": [
+      {
+       "label": "List of CSBS BoS Members",
+       "href": "https://qiscet.edu.in/qiscet/bos/csbs_bos.pdf"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    {
+     "text": "List of CSDS BoS Members",
+     "links": [
+      {
+       "label": "List of CSDS BoS Members",
+       "href": "https://qiscet.edu.in/qiscet/bos/csds_bos.pdf"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    {
+     "text": "List of CS-IOT BoS Members",
+     "links": [
+      {
+       "label": "List of CS-IOT BoS Members",
+       "href": "https://qiscet.edu.in/qiscet/bos/cs-iot_bos.pdf"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    {
+     "text": "List of AIML BoS Members",
+     "links": [
+      {
+       "label": "List of AIML BoS Members",
+       "href": "https://qiscet.edu.in/qiscet/bos/aiml_bos.pdf"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    {
+     "text": "List of AI BoS Members",
+     "links": [
+      {
+       "label": "List of AI BoS Members",
+       "href": "https://qiscet.edu.in/qiscet/bos/ai_bos.pdf"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    {
+     "text": "List of AIDS BoS Members",
+     "links": [
+      {
+       "label": "List of AIDS BoS Members",
+       "href": "https://qiscet.edu.in/qiscet/bos/aids_bos.pdf"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    {
+     "text": "List of EEVT BoS Members",
+     "links": [
+      {
+       "label": "List of EEVT BoS Members",
+       "href": "https://qiscet.edu.in/qiscet/bos/eevt_bos.pdf"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    {
+     "text": "List of MBA BoS Members",
+     "links": [
+      {
+       "label": "List of MBA BoS Members",
+       "href": "https://qiscet.edu.in/qiscet/bos/mba_bos.pdf"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    {
+     "text": "List of MCA BoS Members",
+     "links": [
+      {
+       "label": "List of MCA BoS Members",
+       "href": "https://qiscet.edu.in/qiscet/bos/mca_bos.pdf"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

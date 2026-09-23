@@ -1,0 +1,88 @@
+{
+ "slug": "iqac/events",
+ "section": "iqac",
+ "sectionTitle": "IQAC",
+ "title": "Events Organised",
+ "legacy": "https://qiscet.edu.in/qiscet/IQAC_events.php",
+ "summary": null,
+ "blocks": [
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    {
+     "text": "Events Organized By CSE Dept",
+     "links": [
+      {
+       "label": "Events Organized By CSE Dept",
+       "href": "https://qiscet.edu.in/qiscet/iqac/events/6.1%20Events%20Organized%20CSE.pdf"
+      }
+     ]
+    },
+    {
+     "text": "Events Organized By ECE Dept",
+     "links": [
+      {
+       "label": "Events Organized By ECE Dept",
+       "href": "https://qiscet.edu.in/qiscet/iqac/events/6.1%20Events%20Organized%20ECE.pdf"
+      }
+     ]
+    },
+    {
+     "text": "Events Organized By EEE Dept",
+     "links": [
+      {
+       "label": "Events Organized By EEE Dept",
+       "href": "https://qiscet.edu.in/qiscet/iqac/events/6.1%20Events%20Organized%20EEE.pdf"
+      }
+     ]
+    },
+    {
+     "text": "Events Organized By IT Dept",
+     "links": [
+      {
+       "label": "Events Organized By IT Dept",
+       "href": "https://qiscet.edu.in/qiscet/iqac/events/6.1%20Events%20Organized%20IT.pdf"
+      }
+     ]
+    },
+    {
+     "text": "Events Organized By CE Dept",
+     "links": [
+      {
+       "label": "Events Organized By CE Dept",
+       "href": "https://qiscet.edu.in/qiscet/iqac/events/6.1%20Events%20Organized%20CE.pdf"
+      }
+     ]
+    },
+    {
+     "text": "Events Organized By BS&H Dept",
+     "links": [
+      {
+       "label": "Events Organized By BS&H Dept",
+       "href": "https://qiscet.edu.in/qiscet/iqac/events/6.1%20Events%20Organized%20%20BS%20%26%20H.pdf"
+      }
+     ]
+    },
+    {
+     "text": "Events Organized By MCA Dept",
+     "links": [
+      {
+       "label": "Events Organized By MCA Dept",
+       "href": "https://qiscet.edu.in/qiscet/iqac/events/6.1%20Events%20Organized%20MCA.pdf"
+      }
+     ]
+    },
+    {
+     "text": "Events Organized By MBA Dept",
+     "links": [
+      {
+       "label": "Events Organized By MBA Dept",
+       "href": "https://qiscet.edu.in/qiscet/iqac/events/6.1%20Events%20Organized%20MBA.pdf"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

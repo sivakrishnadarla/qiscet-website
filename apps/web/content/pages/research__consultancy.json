@@ -1,0 +1,43 @@
+{
+ "slug": "research/consultancy",
+ "section": "research",
+ "sectionTitle": "Research & Development",
+ "title": "Consultancy",
+ "legacy": "https://qiscet.edu.in/qiscet/index_consultancy.php",
+ "summary": null,
+ "blocks": [
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    {
+     "text": "2024-25",
+     "links": [
+      {
+       "label": "2024-25",
+       "href": "https://qiscet.edu.in/qiscet/pdfs/Consultancy%20Projects%20%282024-25%29.pdf"
+      }
+     ]
+    },
+    {
+     "text": "2023-24",
+     "links": [
+      {
+       "label": "2023-24",
+       "href": "https://qiscet.edu.in/qiscet/pdfs/Consultancy%20Projects%20%282023-24%29.pdf"
+      }
+     ]
+    },
+    {
+     "text": "2022-23",
+     "links": [
+      {
+       "label": "2022-23",
+       "href": "https://qiscet.edu.in/qiscet/pdfs/Consultancy%20Projects%20%282022-23%29.pdf"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,15 @@
+{
+ "slug": "academics/service-rules",
+ "section": "academics",
+ "sectionTitle": "Academics",
+ "title": "Academic Service Rules",
+ "legacy": "https://qiscet.edu.in/qiscet/ACADEMICS_service_rules.php",
+ "summary": null,
+ "blocks": [
+  {
+   "type": "document",
+   "href": "https://qiscet.edu.in/qiscet/acadamics/ServiceRules-HR.pdf",
+   "label": "View document (PDF)"
+  }
+ ]
+}

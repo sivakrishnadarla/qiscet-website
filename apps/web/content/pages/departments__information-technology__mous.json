@@ -1,0 +1,27 @@
+{
+ "slug": "departments/information-technology/mous",
+ "section": "departments",
+ "sectionTitle": "Departments",
+ "title": "MoUs – Information Technology",
+ "legacy": "https://qiscet.edu.in/qiscet/DEPARTMENTS_it_mou.php",
+ "summary": null,
+ "blocks": [
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    {
+     "text": "List of MOU’s",
+     "links": [
+      {
+       "label": "List of MOU’s",
+       "href": "https://qiscet.edu.in/qiscet/departments/it/mou%27s.pdf"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "department": "information-technology",
+ "pageTitle": "MoUs"
+}

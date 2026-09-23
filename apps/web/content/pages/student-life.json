@@ -1,0 +1,106 @@
+{
+ "slug": "student-life",
+ "section": "student-life",
+ "sectionTitle": "Student Life",
+ "title": "Life @ QIS Campus",
+ "legacy": "https://qiscet.edu.in/qiscet/index_life_at_qis.php",
+ "summary": null,
+ "blocks": [
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    {
+     "text": "Bank ATM",
+     "links": [
+      {
+       "label": "Bank ATM",
+       "href": "/facilities/bank-atm"
+      }
+     ]
+    },
+    {
+     "text": "Cafeteria",
+     "links": [
+      {
+       "label": "Cafeteria",
+       "href": "/facilities/food-court"
+      }
+     ]
+    },
+    {
+     "text": "Physical Education",
+     "links": [
+      {
+       "label": "Physical Education",
+       "href": "/facilities/physical-education"
+      }
+     ]
+    },
+    {
+     "text": "Central Library",
+     "links": [
+      {
+       "label": "Central Library",
+       "href": "/facilities/library"
+      }
+     ]
+    },
+    {
+     "text": "Hostel – (Boys & girls)",
+     "links": [
+      {
+       "label": "Hostel – (Boys & girls)",
+       "href": "/facilities/hostel"
+      }
+     ]
+    },
+    {
+     "text": "Mineral Water (RO Plant)",
+     "links": [
+      {
+       "label": "Mineral Water (RO Plant)",
+       "href": "/facilities/mineral-water"
+      }
+     ]
+    },
+    {
+     "text": "Transport",
+     "links": [
+      {
+       "label": "Transport",
+       "href": "/facilities/transport"
+      }
+     ]
+    },
+    {
+     "text": "Medical Facility",
+     "links": [
+      {
+       "label": "Medical Facility",
+       "href": "/facilities/medical"
+      }
+     ]
+    },
+    {
+     "text": "wifi Campus",
+     "links": [
+      {
+       "label": "wifi Campus",
+       "href": "/facilities/wifi"
+      }
+     ]
+    },
+    {
+     "text": "Fire Safty",
+     "links": [
+      {
+       "label": "Fire Safty",
+       "href": "/facilities/fire-safety"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,129 @@
+{
+ "slug": "edc/steps-to-start-a-business",
+ "section": "edc",
+ "sectionTitle": "Entrepreneurship Development Cell",
+ "title": "Steps to Starting a Business",
+ "legacy": "https://qiscet.edu.in/qiscet/stepstostartbusiness.php",
+ "summary": "Starting a business involves planning, making key financial decisions and completing a series of legal activities. These 10 easy steps can help you plan, prepare and manage your business. Click on…",
+ "blocks": [
+  {
+   "type": "paragraph",
+   "text": "Starting a business involves planning, making key financial decisions and completing a series of legal activities. These 10 easy steps can help you plan, prepare and manage your business. Click on the links to learn more."
+  },
+  {
+   "type": "heading",
+   "text": "Step 1: Write a Business Plan",
+   "level": 4
+  },
+  {
+   "type": "paragraph",
+   "text": "Use these tools and resources to create a business plan. This written guide will help you map out how you will start and run your business successfully."
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    {
+     "text": "Define your vision: What will be the end result of your business?"
+    },
+    {
+     "text": "Define your mission: Different to a vision, your mission should explain the reason your company exists."
+    },
+    {
+     "text": "Define your objectives: What are you going to do -- what are your goals -- that will lead to the accomplishment of your mission and your vision?"
+    },
+    {
+     "text": "Outline your basic strategies: How are you going to achieve the objectives you just bulleted?"
+    },
+    {
+     "text": "Write a simple action plan: Bullet out the smaller task-oriented actions required to achieve the stated objectives."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "Step 2: Get Business Assistance and Training",
+   "level": 4
+  },
+  {
+   "type": "paragraph",
+   "text": "Take advantage of free training and counselling services, from preparing a business plan and securing financing, to expanding or relocating a business."
+  },
+  {
+   "type": "heading",
+   "text": "Step 3: Choose a Business Location",
+   "level": 4
+  },
+  {
+   "type": "paragraph",
+   "text": "Get advice on how to select a customer-friendly location and comply with zoning laws."
+  },
+  {
+   "type": "heading",
+   "text": "Step 4: Finance Your Business",
+   "level": 4
+  },
+  {
+   "type": "paragraph",
+   "text": "Find government backed loans, venture capital and research grants to help you get started."
+  },
+  {
+   "type": "heading",
+   "text": "Step 5: Determine the Legal Structure of Your Business",
+   "level": 4
+  },
+  {
+   "type": "paragraph",
+   "text": "Decide which form of ownership is best for you: sole proprietorship, partnership, Limited Liability Company (LLC), corporation, S corporation, non-profit or cooperative."
+  },
+  {
+   "type": "heading",
+   "text": "Step 6: Register a Business Name (\"Doing Business As\")",
+   "level": 4
+  },
+  {
+   "type": "paragraph",
+   "text": "Register your business name with your state government."
+  },
+  {
+   "type": "paragraph",
+   "text": "Learn which tax identification number you'll need to obtain from the IRS and your state revenue agency."
+  },
+  {
+   "type": "heading",
+   "text": "Step 7: Register for State and Local Taxes",
+   "level": 4
+  },
+  {
+   "type": "paragraph",
+   "text": "Register with your state to obtain a tax identification number, workers' compensation, unemployment and disability insurance."
+  },
+  {
+   "type": "heading",
+   "text": "Step 8: Obtain Business Licenses and Permits",
+   "level": 4
+  },
+  {
+   "type": "paragraph",
+   "text": "Get a list of federal, state and local licenses and permits required for your business."
+  },
+  {
+   "type": "heading",
+   "text": "Step 9: Understand Employer Responsibilities",
+   "level": 4
+  },
+  {
+   "type": "paragraph",
+   "text": "Learn the legal steps you need to take to hire employees."
+  },
+  {
+   "type": "heading",
+   "text": "Step 10: Find Local Assistance",
+   "level": 4
+  },
+  {
+   "type": "paragraph",
+   "text": "Contact your local SBA office to learn more about how SBA can help."
+  }
+ ]
+}

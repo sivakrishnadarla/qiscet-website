@@ -1,0 +1,27 @@
+{
+ "slug": "departments/civil/class-coordinators",
+ "section": "departments",
+ "sectionTitle": "Departments",
+ "title": "Class Coordinators – Civil Engineering",
+ "legacy": "https://qiscet.edu.in/qiscet/DEPARTMENTS_ce_class_teachers.php",
+ "summary": null,
+ "blocks": [
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    {
+     "text": "Department Functional Co-Ordinators",
+     "links": [
+      {
+       "label": "Department Functional Co-Ordinators",
+       "href": "https://qiscet.edu.in/qiscet/departments/civil/DEPARTMENT%20FUNCTIONAL%20CO-ORDINATORS.pdf"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "department": "civil",
+ "pageTitle": "Class Coordinators"
+}

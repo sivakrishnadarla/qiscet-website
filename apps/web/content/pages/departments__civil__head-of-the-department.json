@@ -1,0 +1,73 @@
+{
+ "slug": "departments/civil/head-of-the-department",
+ "section": "departments",
+ "sectionTitle": "Departments",
+ "title": "Head of the Department – Civil Engineering",
+ "legacy": "https://qiscet.edu.in/qiscet/DEPARTMENTS_ce_hod.php",
+ "summary": null,
+ "blocks": [
+  {
+   "type": "table",
+   "rows": [
+    [
+     {
+      "text": "HOD Name:"
+     },
+     {
+      "text": "Dr G.V Ramanjaneyulu"
+     }
+    ],
+    [
+     {
+      "text": "Designation:"
+     },
+     {
+      "text": "Professor & HOD"
+     }
+    ],
+    [
+     {
+      "text": "Qualification:"
+     },
+     {
+      "text": "M.Tech Ph.D"
+     }
+    ],
+    [
+     {
+      "text": "Email:"
+     },
+     {
+      "text": "cehod@qiscet.edu.in"
+     }
+    ],
+    [
+     {
+      "text": "Contact No:"
+     },
+     {
+      "text": "+91 9490554712"
+     }
+    ],
+    [
+     {
+      "text": "Areas of Interest:"
+     },
+     {
+      "text": "Structural engineering"
+     }
+    ],
+    [
+     {
+      "text": "Experience:"
+     },
+     {
+      "text": "17 Years"
+     }
+    ]
+   ]
+  }
+ ],
+ "department": "civil",
+ "pageTitle": "Head of the Department"
+}

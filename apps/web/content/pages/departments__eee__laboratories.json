@@ -1,0 +1,179 @@
+{
+ "slug": "departments/eee/laboratories",
+ "section": "departments",
+ "sectionTitle": "Departments",
+ "title": "Laboratories – Electrical & Electronics Engineering",
+ "legacy": "https://qiscet.edu.in/qiscet/DEPARTMENTS_eee_labs.php",
+ "summary": null,
+ "blocks": [
+  {
+   "type": "table",
+   "rows": [
+    [
+     {
+      "text": "S.No"
+     },
+     {
+      "text": "Name of lab"
+     }
+    ],
+    [
+     {
+      "text": "1"
+     },
+     {
+      "text": "Electrical Machines Lab",
+      "links": [
+       {
+        "label": "Electrical Machines Lab",
+        "href": "https://qiscet.edu.in/qiscet/DEPARTMENTS_eee_eem.php"
+       }
+      ]
+     }
+    ],
+    [
+     {
+      "text": "2"
+     },
+     {
+      "text": "Control systems Lab",
+      "links": [
+       {
+        "label": "Control systems Lab",
+        "href": "https://qiscet.edu.in/qiscet/DEPARTMENTS_eee_cs.php"
+       }
+      ]
+     }
+    ],
+    [
+     {
+      "text": "3"
+     },
+     {
+      "text": "Electrical Measurements lab",
+      "links": [
+       {
+        "label": "Electrical Measurements lab",
+        "href": "https://qiscet.edu.in/qiscet/DEPARTMENTS_eee_eml.php"
+       }
+      ]
+     }
+    ],
+    [
+     {
+      "text": "4"
+     },
+     {
+      "text": "P.G. & Research Lab",
+      "links": [
+       {
+        "label": "P.G. & Research Lab",
+        "href": "https://qiscet.edu.in/qiscet/DEPARTMENTS_eee_pgr.php"
+       }
+      ]
+     }
+    ],
+    [
+     {
+      "text": "5"
+     },
+     {
+      "text": "Power Electronics Lab",
+      "links": [
+       {
+        "label": "Power Electronics Lab",
+        "href": "https://qiscet.edu.in/qiscet/DEPARTMENTS_eee_pe.php"
+       }
+      ]
+     }
+    ],
+    [
+     {
+      "text": "6"
+     },
+     {
+      "text": "Electrical Circuits Lab",
+      "links": [
+       {
+        "label": "Electrical Circuits Lab",
+        "href": "https://qiscet.edu.in/qiscet/DEPARTMENTS_eee_ec.php"
+       }
+      ]
+     }
+    ],
+    [
+     {
+      "text": "7"
+     },
+     {
+      "text": "Basic Electrical Engineering Lab",
+      "links": [
+       {
+        "label": "Basic Electrical Engineering Lab",
+        "href": "https://qiscet.edu.in/qiscet/DEPARTMENTS_eee_bee.php"
+       }
+      ]
+     }
+    ],
+    [
+     {
+      "text": "8"
+     },
+     {
+      "text": "Network Analysis Lab",
+      "links": [
+       {
+        "label": "Network Analysis Lab",
+        "href": "https://qiscet.edu.in/qiscet/DEPARTMENTS_eee_na.php"
+       }
+      ]
+     }
+    ],
+    [
+     {
+      "text": "9"
+     },
+     {
+      "text": "Simulation of Electrical systems Lab",
+      "links": [
+       {
+        "label": "Simulation of Electrical systems Lab",
+        "href": "https://qiscet.edu.in/qiscet/DEPARTMENTS_eee_ses.php"
+       }
+      ]
+     }
+    ],
+    [
+     {
+      "text": "List of Advanced Laboratories",
+      "colspan": 2
+     }
+    ],
+    [
+     {
+      "text": "1"
+     },
+     {
+      "text": "Industrial & Home Automation lab",
+      "links": [
+       {
+        "label": "Industrial & Home Automation lab",
+        "href": "https://qiscet.edu.in/qiscet/DEPARTMENTS_eee_ihm.php"
+       }
+      ]
+     }
+    ],
+    [
+     {
+      "text": "2"
+     },
+     {
+      "text": "National Instruments Lab ( Centre of Excellence )"
+     }
+    ]
+   ]
+  }
+ ],
+ "department": "eee",
+ "pageTitle": "Laboratories"
+}

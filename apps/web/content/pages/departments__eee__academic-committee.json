@@ -1,0 +1,90 @@
+{
+ "slug": "departments/eee/academic-committee",
+ "section": "departments",
+ "sectionTitle": "Departments",
+ "title": "Academic Committee – Electrical & Electronics Engineering",
+ "legacy": "https://qiscet.edu.in/qiscet/DEPARTMENTS_eee_ac.php",
+ "summary": null,
+ "blocks": [
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    {
+     "text": "Academic Calendar 2024-25",
+     "links": [
+      {
+       "label": "Academic Calendar 2024-25",
+       "href": "https://qiscet.edu.in/qiscet/departments/eee/ac/Academic_Book_2024-25.pdf"
+      }
+     ]
+    },
+    {
+     "text": "Academic Calendar 2023-24",
+     "links": [
+      {
+       "label": "Academic Calendar 2023-24",
+       "href": "https://qiscet.edu.in/qiscet/departments/eee/ac/Academic_Book_2023-24.pdf"
+      }
+     ]
+    },
+    {
+     "text": "Academic Calendar 2021-22",
+     "links": [
+      {
+       "label": "Academic Calendar 2021-22",
+       "href": "https://qiscet.edu.in/qiscet/departments/eee/ac/2021-22%20Academic%20Calendar%20Book.pdf"
+      }
+     ]
+    },
+    {
+     "text": "Academic Calendar 2020-21",
+     "links": [
+      {
+       "label": "Academic Calendar 2020-21",
+       "href": "https://qiscet.edu.in/qiscet/departments/eee/ac/new%202020-21%20Academic%20Calendar%20Book.pdf"
+      }
+     ]
+    },
+    {
+     "text": "Academic Calendar 2019-20",
+     "links": [
+      {
+       "label": "Academic Calendar 2019-20",
+       "href": "https://qiscet.edu.in/qiscet/departments/eee/ac/new%202019-20%20Academic%20Calendar%20Book%20%281%29.pdf"
+      }
+     ]
+    },
+    {
+     "text": "Academic Calendar 2018-19",
+     "links": [
+      {
+       "label": "Academic Calendar 2018-19",
+       "href": "https://qiscet.edu.in/qiscet/departments/eee/ac/new%202018-19%20Academic%20Calendar%20Book.pdf"
+      }
+     ]
+    },
+    {
+     "text": "Academic Calendar 2017-18",
+     "links": [
+      {
+       "label": "Academic Calendar 2017-18",
+       "href": "https://qiscet.edu.in/qiscet/departments/eee/ac/new%202017-18%20Academic%20Calendar%20Book.pdf"
+      }
+     ]
+    },
+    {
+     "text": "Academic Calendar 2016-17",
+     "links": [
+      {
+       "label": "Academic Calendar 2016-17",
+       "href": "https://qiscet.edu.in/qiscet/departments/eee/ac/new%202016-17%20Academic%20Calendar%20Book.pdf"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "department": "eee",
+ "pageTitle": "Academic Committee"
+}

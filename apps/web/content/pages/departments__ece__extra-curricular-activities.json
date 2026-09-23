@@ -1,0 +1,88 @@
+{
+ "slug": "departments/ece/extra-curricular-activities",
+ "section": "departments",
+ "sectionTitle": "Departments",
+ "title": "Extra-Curricular Activities – Electronics & Communication Engineering",
+ "legacy": "https://qiscet.edu.in/qiscet/DEPARTMENTS_ece_nss.php",
+ "summary": null,
+ "blocks": [
+  {
+   "type": "heading",
+   "text": "NSS Unit-2 ECE is sanctioned by JNTUK in the year 2019 and financed by JNTUK from 2022",
+   "level": 4
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    {
+     "text": "Student Extra Curricular Activities",
+     "links": [
+      {
+       "label": "Student Extra Curricular Activities",
+       "href": "https://qiscet.edu.in/qiscet/departments/ece/data/STUDENT%20EXTRA%20CURRICULAR.pdf"
+      }
+     ]
+    },
+    {
+     "text": "2023-24 NSS EVENTS FILE",
+     "links": [
+      {
+       "label": "2023-24 NSS EVENTS FILE",
+       "href": "https://qiscet.edu.in/qiscet/departments/ece/data/nss%202023-24.pdf"
+      }
+     ]
+    },
+    {
+     "text": "2022-23 NSS EVENTS FILE",
+     "links": [
+      {
+       "label": "2022-23 NSS EVENTS FILE",
+       "href": "https://qiscet.edu.in/qiscet/departments/ece/data/nss%202022-23.pdf"
+      }
+     ]
+    },
+    {
+     "text": "2021-22 NSS EVENTS FILE",
+     "links": [
+      {
+       "label": "2021-22 NSS EVENTS FILE",
+       "href": "https://qiscet.edu.in/qiscet/departments/ece/gallary/club/2021-22%20NSS%20EVENTS%20FILE.pdf"
+      }
+     ]
+    },
+    {
+     "text": "2019-20 NSS EVENTS FILE",
+     "links": [
+      {
+       "label": "2019-20 NSS EVENTS FILE",
+       "href": "https://qiscet.edu.in/qiscet/departments/ece/gallary/club/2019-20%20NSS%20EVENTS%20FILE.pdf"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "Industrial Visit",
+   "level": 3
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    {
+     "text": "Industrial Visit",
+     "links": [
+      {
+       "label": "Industrial Visit",
+       "href": "https://qiscet.edu.in/qiscet/departments/ece/data/Industrial%20Visit.pdf"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "department": "ece",
+ "pageTitle": "Extra-Curricular Activities"
+}

@@ -1,0 +1,79 @@
+{
+ "slug": "rankings/nirf",
+ "section": "rankings",
+ "sectionTitle": "Rankings & Certifications",
+ "title": "NIRF Ranking",
+ "legacy": "https://qiscet.edu.in/qiscet/RANKING_nirf.php",
+ "summary": null,
+ "blocks": [
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    {
+     "text": "NIRF 2025",
+     "links": [
+      {
+       "label": "NIRF 2025",
+       "href": "https://qiscet.edu.in/qiscet/nirf/NIRF_QISCET2025.pdf"
+      }
+     ]
+    },
+    {
+     "text": "NIRF 2024",
+     "links": [
+      {
+       "label": "NIRF 2024",
+       "href": "https://qiscet.edu.in/qiscet/nirf/NIRF_QISCET2024.pdf"
+      }
+     ]
+    },
+    {
+     "text": "NIRF 2023",
+     "links": [
+      {
+       "label": "NIRF 2023",
+       "href": "https://qiscet.edu.in/qiscet/nirf/NIRF_QISCET2023.pdf"
+      }
+     ]
+    },
+    {
+     "text": "NIRF 2022",
+     "links": [
+      {
+       "label": "NIRF 2022",
+       "href": "https://qiscet.edu.in/qiscet/nirf/NIRF_QISCET2022.pdf"
+      }
+     ]
+    },
+    {
+     "text": "NIRF 2021",
+     "links": [
+      {
+       "label": "NIRF 2021",
+       "href": "https://qiscet.edu.in/qiscet/nirf/NIRF_QISCET2021.pdf"
+      }
+     ]
+    },
+    {
+     "text": "NIRF 2020",
+     "links": [
+      {
+       "label": "NIRF 2020",
+       "href": "https://qiscet.edu.in/qiscet/nirf/NIRF_QISCET2020.pdf"
+      }
+     ]
+    },
+    {
+     "text": "NIRF 2019",
+     "links": [
+      {
+       "label": "NIRF 2019",
+       "href": "https://qiscet.edu.in/qiscet/nirf/NIRF_QISCET2019.pdf"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

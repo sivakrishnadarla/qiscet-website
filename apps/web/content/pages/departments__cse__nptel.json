@@ -1,0 +1,90 @@
+{
+ "slug": "departments/cse/nptel",
+ "section": "departments",
+ "sectionTitle": "Departments",
+ "title": "NPTEL – Computer Science & Engineering",
+ "legacy": "https://qiscet.edu.in/qiscet/DEPARTMENTS_cse_nptel.php",
+ "summary": null,
+ "blocks": [
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    {
+     "text": "2024-2025",
+     "links": [
+      {
+       "label": "2024-2025",
+       "href": "https://qiscet.edu.in/qiscet/departments/cse/data/NPTEL%2024-25.pdf"
+      }
+     ]
+    },
+    {
+     "text": "2023-2024",
+     "links": [
+      {
+       "label": "2023-2024",
+       "href": "https://qiscet.edu.in/qiscet/departments/cse/data/NPTEL%2023-24.pdf"
+      }
+     ]
+    },
+    {
+     "text": "2022-2023",
+     "links": [
+      {
+       "label": "2022-2023",
+       "href": "https://qiscet.edu.in/qiscet/departments/cse/data/NPTEL%2022-23.pdf"
+      }
+     ]
+    },
+    {
+     "text": "2021-2022",
+     "links": [
+      {
+       "label": "2021-2022",
+       "href": "https://qiscet.edu.in/qiscet/departments/cse/data/NPTEL%2021-22.pdf"
+      }
+     ]
+    },
+    {
+     "text": "2020-2021",
+     "links": [
+      {
+       "label": "2020-2021",
+       "href": "https://qiscet.edu.in/qiscet/departments/cse/data/NPTEL%2020-21.pdf"
+      }
+     ]
+    },
+    {
+     "text": "2019-2020",
+     "links": [
+      {
+       "label": "2019-2020",
+       "href": "https://qiscet.edu.in/qiscet/departments/cse/data/NPTEL%2019-20.pdf"
+      }
+     ]
+    },
+    {
+     "text": "2018-2019",
+     "links": [
+      {
+       "label": "2018-2019",
+       "href": "https://qiscet.edu.in/qiscet/departments/cse/data/NPTEL%2018-19.pdf"
+      }
+     ]
+    },
+    {
+     "text": "2017-2018",
+     "links": [
+      {
+       "label": "2017-2018",
+       "href": "https://qiscet.edu.in/qiscet/departments/cse/data/NPTEL%2017-18.pdf"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "department": "cse",
+ "pageTitle": "NPTEL"
+}

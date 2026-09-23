@@ -1,0 +1,255 @@
+{
+ "slug": "departments/information-technology/counsellors",
+ "section": "departments",
+ "sectionTitle": "Departments",
+ "title": "Counsellors – Information Technology",
+ "legacy": "https://qiscet.edu.in/qiscet/DEPARTMENTS_it_counsellors.php",
+ "summary": null,
+ "blocks": [
+  {
+   "type": "table",
+   "rows": [
+    [
+     {
+      "text": "S.No"
+     },
+     {
+      "text": "Staff Name"
+     },
+     {
+      "text": "Year / Section"
+     },
+     {
+      "text": "Student Roll Number"
+     }
+    ],
+    [
+     {
+      "text": "1"
+     },
+     {
+      "text": "Dr. G. Rajesh Chandra"
+     },
+     {
+      "text": "II B. Tech./Sec I"
+     },
+     {
+      "text": "21491A1201-21491A1220"
+     }
+    ],
+    [
+     {
+      "text": "2"
+     },
+     {
+      "text": "K. Sreenath"
+     },
+     {
+      "text": "II B. Tech./Sec I"
+     },
+     {
+      "text": "21491A1221-21491A1238"
+     }
+    ],
+    [
+     {
+      "text": "3"
+     },
+     {
+      "text": "Dr. G. Lakshmi Vara Prasad"
+     },
+     {
+      "text": "II B. Tech./Sec I"
+     },
+     {
+      "text": "21491A1239-21491A1255"
+     }
+    ],
+    [
+     {
+      "text": "4"
+     },
+     {
+      "text": "Dr. J. Kanimozhi"
+     },
+     {
+      "text": "II B. Tech./Sec I"
+     },
+     {
+      "text": "21491A1256-21491A1262 &22495A1201(L) -22495A1210(L)"
+     }
+    ],
+    [
+     {
+      "text": "5"
+     },
+     {
+      "text": "N. Suresh"
+     },
+     {
+      "text": "II B. Tech./Sec II"
+     },
+     {
+      "text": "21491A1263-21491A1280"
+     }
+    ],
+    [
+     {
+      "text": "6"
+     },
+     {
+      "text": "Nannuri Suresh"
+     },
+     {
+      "text": "II B. Tech./Sec II"
+     },
+     {
+      "text": "21491A1281-21491A1298"
+     }
+    ],
+    [
+     {
+      "text": "7"
+     },
+     {
+      "text": "G.V.S. Kiran Kumar"
+     },
+     {
+      "text": "II B. Tech./Sec II"
+     },
+     {
+      "text": "21491A1299-21491A12B5"
+     }
+    ],
+    [
+     {
+      "text": "8"
+     },
+     {
+      "text": "P. Geethika"
+     },
+     {
+      "text": "II B. Tech./Sec II"
+     },
+     {
+      "text": "21491A12B6-21491A12C2 &22495A1211(L) -22495A1220(L)"
+     }
+    ],
+    [
+     {
+      "text": "9"
+     },
+     {
+      "text": "B. Nijamuddin"
+     },
+     {
+      "text": "III B. Tech"
+     },
+     {
+      "text": "20491A1201-20491A1217"
+     }
+    ],
+    [
+     {
+      "text": "10"
+     },
+     {
+      "text": "Sk. Sharmila"
+     },
+     {
+      "text": "III B. Tech"
+     },
+     {
+      "text": "20491A1218-20491A1235"
+     }
+    ],
+    [
+     {
+      "text": "11"
+     },
+     {
+      "text": "P. Lakshmi Tejaswi"
+     },
+     {
+      "text": "III B. Tech"
+     },
+     {
+      "text": "20491A1236-20491A1252"
+     }
+    ],
+    [
+     {
+      "text": "12"
+     },
+     {
+      "text": "N. Sai Kiran"
+     },
+     {
+      "text": "III B. Tech"
+     },
+     {
+      "text": "20491A1253-20491A1264 &21495A1201(L) -21495A1206(L)"
+     }
+    ],
+    [
+     {
+      "text": "13"
+     },
+     {
+      "text": "M. Rama"
+     },
+     {
+      "text": "IV B. Tech"
+     },
+     {
+      "text": "16491A1207-19491A1216"
+     }
+    ],
+    [
+     {
+      "text": "14"
+     },
+     {
+      "text": "P. Kiran"
+     },
+     {
+      "text": "IV B. Tech"
+     },
+     {
+      "text": "19491A1217-19491A1232"
+     }
+    ],
+    [
+     {
+      "text": "15"
+     },
+     {
+      "text": "Sd. Shahada"
+     },
+     {
+      "text": "IV B. Tech"
+     },
+     {
+      "text": "19491A1233-19491A1248"
+     }
+    ],
+    [
+     {
+      "text": "16"
+     },
+     {
+      "text": "Kondra Anitha"
+     },
+     {
+      "text": "IV B. Tech"
+     },
+     {
+      "text": "19491A1249-19491A1264"
+     }
+    ]
+   ]
+  }
+ ],
+ "department": "information-technology",
+ "pageTitle": "Counsellors"
+}

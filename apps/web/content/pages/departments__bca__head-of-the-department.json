@@ -1,0 +1,73 @@
+{
+ "slug": "departments/bca/head-of-the-department",
+ "section": "departments",
+ "sectionTitle": "Departments",
+ "title": "Head of the Department – Bachelor of Computer Applications",
+ "legacy": "https://qiscet.edu.in/qiscet/DEPARTMENTS_bca_hod.php",
+ "summary": null,
+ "blocks": [
+  {
+   "type": "table",
+   "rows": [
+    [
+     {
+      "text": "HOD Name:"
+     },
+     {
+      "text": "K. Anka Babu"
+     }
+    ],
+    [
+     {
+      "text": "Designation:"
+     },
+     {
+      "text": "Professor & HOD of MCA Department"
+     }
+    ],
+    [
+     {
+      "text": "Qualification:"
+     },
+     {
+      "text": "M.C.A, M. Tech, (Ph. D)"
+     }
+    ],
+    [
+     {
+      "text": "Email:"
+     },
+     {
+      "text": "mcahod@qiscet.edu.in"
+     }
+    ],
+    [
+     {
+      "text": "Contact No:"
+     },
+     {
+      "text": "+91 9246419530"
+     }
+    ],
+    [
+     {
+      "text": "Areas of Interest:"
+     },
+     {
+      "text": "Image Processing, Data Mining, Application Development, Software Engineering"
+     }
+    ],
+    [
+     {
+      "text": "Experience:"
+     },
+     {
+      "text": "24 years"
+     }
+    ]
+   ]
+  }
+ ],
+ "department": "bca",
+ "pageTitle": "Head of the Department"
+}

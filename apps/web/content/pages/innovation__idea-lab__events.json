@@ -1,0 +1,121 @@
+{
+ "slug": "innovation/idea-lab/events",
+ "section": "innovation",
+ "sectionTitle": "Centre for Innovation",
+ "title": "IDEA Lab Events",
+ "legacy": "https://qiscet.edu.in/qiscet/CENTRE_FOR_INNOVATION_idealab_lab_events.php",
+ "summary": null,
+ "blocks": [
+  {
+   "type": "table",
+   "rows": [
+    [
+     {
+      "text": "S. No"
+     },
+     {
+      "text": "Event Type"
+     }
+    ],
+    [
+     {
+      "text": "1"
+     },
+     {
+      "text": "Faculty Development Program",
+      "links": [
+       {
+        "label": "Faculty Development Program",
+        "href": "https://qiscet.edu.in/qiscet/CENTRE_FOR_INNOVATION_idealab_lab_events_fdp.php"
+       }
+      ]
+     }
+    ],
+    [
+     {
+      "text": "2"
+     },
+     {
+      "text": "Skilling Programs",
+      "links": [
+       {
+        "label": "Skilling Programs",
+        "href": "https://qiscet.edu.in/qiscet/CENTRE_FOR_INNOVATION_idealab_lab_events_skilling_Programs.php"
+       }
+      ]
+     }
+    ],
+    [
+     {
+      "text": "3"
+     },
+     {
+      "text": "Ideation Workshops",
+      "links": [
+       {
+        "label": "Ideation Workshops",
+        "href": "https://qiscet.edu.in/qiscet/CENTRE_FOR_INNOVATION_idealab_lab_events_Ideation_Workshops.php"
+       }
+      ]
+     }
+    ],
+    [
+     {
+      "text": "4"
+     },
+     {
+      "text": "Open day School Programs",
+      "links": [
+       {
+        "label": "Open day School Programs",
+        "href": "https://qiscet.edu.in/qiscet/CENTRE_FOR_INNOVATION_idealab_Open_day_School_Programs.php"
+       }
+      ]
+     }
+    ],
+    [
+     {
+      "text": "5"
+     },
+     {
+      "text": "IDEA hackathon",
+      "links": [
+       {
+        "label": "IDEA hackathon",
+        "href": "https://qiscet.edu.in/qiscet/CENTRE_FOR_INNOVATION_idealab_IDEA_hackathon.php"
+       }
+      ]
+     }
+    ],
+    [
+     {
+      "text": "6"
+     },
+     {
+      "text": "Tech Expo",
+      "links": [
+       {
+        "label": "Tech Expo",
+        "href": "https://qiscet.edu.in/qiscet/CENTRE_FOR_INNOVATION_idealab_Tech_Expo.php"
+       }
+      ]
+     }
+    ],
+    [
+     {
+      "text": "7"
+     },
+     {
+      "text": "Entrepreneurship Development Program",
+      "links": [
+       {
+        "label": "Entrepreneurship Development Program",
+        "href": "https://qiscet.edu.in/qiscet/CENTRE_FOR_INNOVATION_idealab_EntrepreneurshipDevelopmentProgram.php"
+       }
+      ]
+     }
+    ]
+   ]
+  }
+ ]
+}

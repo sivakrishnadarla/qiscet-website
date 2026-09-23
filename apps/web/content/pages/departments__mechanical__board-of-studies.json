@@ -1,0 +1,72 @@
+{
+ "slug": "departments/mechanical/board-of-studies",
+ "section": "departments",
+ "sectionTitle": "Departments",
+ "title": "Board of Studies – Mechanical Engineering",
+ "legacy": "https://qiscet.edu.in/qiscet/DEPARTMENTS_me_BOS.php",
+ "summary": null,
+ "blocks": [
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    {
+     "text": "Meeting Minutes of BOS 15",
+     "links": [
+      {
+       "label": "Meeting Minutes of BOS 15",
+       "href": "https://qiscet.edu.in/qiscet/departments/me/BOS%2015.pdf"
+      }
+     ]
+    },
+    {
+     "text": "Meeting Minutes of BOS 14",
+     "links": [
+      {
+       "label": "Meeting Minutes of BOS 14",
+       "href": "https://qiscet.edu.in/qiscet/departments/me/BOS%2014.pdf"
+      }
+     ]
+    },
+    {
+     "text": "Meeting Minutes of BOS 13",
+     "links": [
+      {
+       "label": "Meeting Minutes of BOS 13",
+       "href": "https://qiscet.edu.in/qiscet/departments/me/BOS%2013.pdf"
+      }
+     ]
+    },
+    {
+     "text": "Meeting Minutes of BOS 12",
+     "links": [
+      {
+       "label": "Meeting Minutes of BOS 12",
+       "href": "https://qiscet.edu.in/qiscet/departments/me/BOS%2012.pdf"
+      }
+     ]
+    },
+    {
+     "text": "Meeting Minutes of BOS 11",
+     "links": [
+      {
+       "label": "Meeting Minutes of BOS 11",
+       "href": "https://qiscet.edu.in/qiscet/departments/me/BOS%2011.pdf"
+      }
+     ]
+    },
+    {
+     "text": "Meeting Minutes of BOS 10",
+     "links": [
+      {
+       "label": "Meeting Minutes of BOS 10",
+       "href": "https://qiscet.edu.in/qiscet/departments/me/BOS%2010.pdf"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "department": "mechanical",
+ "pageTitle": "Board of Studies"
+}

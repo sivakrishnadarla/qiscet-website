@@ -1,0 +1,147 @@
+{
+ "slug": "departments/cse/laboratories",
+ "section": "departments",
+ "sectionTitle": "Departments",
+ "title": "Laboratories – Computer Science & Engineering",
+ "legacy": "https://qiscet.edu.in/qiscet/DEPARTMENTS_cse_labs.php",
+ "summary": null,
+ "blocks": [
+  {
+   "type": "table",
+   "rows": [
+    [
+     {
+      "text": "S. No"
+     },
+     {
+      "text": "Name of the Lab"
+     },
+     {
+      "text": "Details"
+     }
+    ],
+    [
+     {
+      "text": "1"
+     },
+     {
+      "text": "Center for AI/ML/DS"
+     },
+     {
+      "text": "View",
+      "links": [
+       {
+        "label": "View",
+        "href": "https://qiscet.edu.in/qiscet/departments/cse/CENTER_FOR_AI%20_ML_DS.pdf"
+       }
+      ]
+     }
+    ],
+    [
+     {
+      "text": "2"
+     },
+     {
+      "text": "Center for Computing Systems"
+     },
+     {
+      "text": "View",
+      "links": [
+       {
+        "label": "View",
+        "href": "https://qiscet.edu.in/qiscet/departments/cse/CENTER%20FOR%20computing%20systems%20lab.pdf"
+       }
+      ]
+     }
+    ],
+    [
+     {
+      "text": "3"
+     },
+     {
+      "text": "Center for Network Infrastructure Security"
+     },
+     {
+      "text": "View",
+      "links": [
+       {
+        "label": "View",
+        "href": "https://qiscet.edu.in/qiscet/departments/cse/network.pdf"
+       }
+      ]
+     }
+    ],
+    [
+     {
+      "text": "4"
+     },
+     {
+      "text": "Center for Advanced Coding"
+     },
+     {
+      "text": "View",
+      "links": [
+       {
+        "label": "View",
+        "href": "https://qiscet.edu.in/qiscet/departments/cse/"
+       }
+      ]
+     }
+    ],
+    [
+     {
+      "text": "5"
+     },
+     {
+      "text": "Center for Data Bases"
+     },
+     {
+      "text": "View",
+      "links": [
+       {
+        "label": "View",
+        "href": "https://qiscet.edu.in/qiscet/departments/cse/CENTER%20FOR%20DATABASES%20LAB.pdf"
+       }
+      ]
+     }
+    ],
+    [
+     {
+      "text": "6"
+     },
+     {
+      "text": "Center for Software Project Development & Management"
+     },
+     {
+      "text": "View",
+      "links": [
+       {
+        "label": "View",
+        "href": "https://qiscet.edu.in/qiscet/departments/cse/Centre%20for%20Software%20Project%20Development%20%26%20Management.pdf"
+       }
+      ]
+     }
+    ],
+    [
+     {
+      "text": "7"
+     },
+     {
+      "text": "Center for Business Systems and ERP"
+     },
+     {
+      "text": "View",
+      "links": [
+       {
+        "label": "View",
+        "href": "https://qiscet.edu.in/qiscet/departments/cse/CENTER%20FOR%20business%20systems%26ERP%20lab.pdf"
+       }
+      ]
+     }
+    ]
+   ]
+  }
+ ],
+ "department": "cse",
+ "pageTitle": "Laboratories"
+}

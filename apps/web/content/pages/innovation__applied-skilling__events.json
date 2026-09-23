@@ -1,0 +1,25 @@
+{
+ "slug": "innovation/applied-skilling/events",
+ "section": "innovation",
+ "sectionTitle": "Centre for Innovation",
+ "title": "Applied Skilling – Events",
+ "legacy": "https://qiscet.edu.in/qiscet/CENTRE_FOR_INNOVATION_appliedskilling_events.php",
+ "summary": null,
+ "blocks": [
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    {
+     "text": "Events",
+     "links": [
+      {
+       "label": "Events",
+       "href": "https://qiscet.edu.in/qiscet/appliedskilling/Events.pdf"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,77 @@
+{
+ "slug": "departments/quantum-computational-engineering",
+ "section": "departments",
+ "sectionTitle": "Departments",
+ "title": "Quantum Computational Engineering",
+ "legacy": "https://qiscet.edu.in/qiscet/DEPARTMENTS_qce.php",
+ "summary": "The Department of Quantum Computational Engineering, established in 2026, is dedicated to advancing education, research, and innovation in the rapidly evolving field of quantum technologies. It aims…",
+ "blocks": [
+  {
+   "type": "paragraph",
+   "text": "The Department of Quantum Computational Engineering, established in 2026, is dedicated to advancing education, research, and innovation in the rapidly evolving field of quantum technologies. It aims to equip students with the knowledge, skills, and research mindset required to excel in Quantum Computing and its applications across science, engineering, and industry."
+  },
+  {
+   "type": "heading",
+   "text": "Courses",
+   "level": 4
+  },
+  {
+   "type": "table",
+   "rows": [
+    [
+     {
+      "text": "Courses Offered"
+     },
+     {
+      "text": "Intake"
+     }
+    ],
+    [
+     {
+      "text": "B.Tech - QCE (Quantum Computational Engineering)"
+     },
+     {
+      "text": "60"
+     }
+    ]
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "Vision",
+   "level": 4
+  },
+  {
+   "type": "paragraph",
+   "text": "To establish a leading Department of Quantum Computational Engineering that fosters student growth, innovation, and research excellence, advancing sustainable and ethical quantum technologies while contributing to national development, technological self-reliance, and societal well-being."
+  },
+  {
+   "type": "heading",
+   "text": "Mission",
+   "level": 4
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    {
+     "text": "To provide a strong interdisciplinary learning environment in Quantum Computing, Computational Engineering, Artificial Intelligence, and emerging technologies, enabling students to build solid foundations, practical skills, and the confidence to innovate and solve real-world challenges."
+    },
+    {
+     "text": "To encourage students to explore, innovate, and think critically by providing experiential learning opportunities, advanced laboratory facilities, and exposure to industry-driven projects."
+    },
+    {
+     "text": "To empower students with the knowledge and skills needed to address technological challenges and contribute to advancements in quantum technologies, digital innovation, and sustainable growth."
+    },
+    {
+     "text": "To inspire students to uphold ethical practices, develop leadership qualities, embrace continuous learning, and contribute responsibly to society."
+    },
+    {
+     "text": "To strengthen collaborations with industry, research organizations, academic institutions, and government agencies to advance cutting-edge research and knowledge creation in quantum technologies."
+    }
+   ]
+  }
+ ],
+ "department": "quantum-computational-engineering",
+ "isDepartmentHome": true
+}

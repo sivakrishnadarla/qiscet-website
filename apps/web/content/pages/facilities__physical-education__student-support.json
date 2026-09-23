@@ -1,0 +1,31 @@
+{
+ "slug": "facilities/physical-education/student-support",
+ "section": "facilities",
+ "sectionTitle": "Facilities",
+ "title": "Support to Students",
+ "legacy": "https://qiscet.edu.in/qiscet/FACILITIES_physical_education_support_students.php",
+ "summary": null,
+ "blocks": [
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    {
+     "text": "Present the mementoes to National, South Zone players."
+    },
+    {
+     "text": "Provide Attendance to Participating National, South Zone and other Invitation Tournament team players."
+    },
+    {
+     "text": "Provide Track suits and kits to college team players ."
+    },
+    {
+     "text": "Provide TA , DA and coaching camp refreshment allowance to south zone and all other tournaments."
+    },
+    {
+     "text": "Participation players and coaches."
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,61 @@
+{
+ "slug": "departments/mca/class-coordinators",
+ "section": "departments",
+ "sectionTitle": "Departments",
+ "title": "Class Coordinators – Master of Computer Applications",
+ "legacy": "https://qiscet.edu.in/qiscet/DEPARTMENTS_mca_class_teachers.php",
+ "summary": null,
+ "blocks": [
+  {
+   "type": "table",
+   "rows": [
+    [
+     {
+      "text": "S. No"
+     },
+     {
+      "text": "Year"
+     },
+     {
+      "text": "Name of the Coordinator"
+     }
+    ],
+    [
+     {
+      "text": "1"
+     },
+     {
+      "text": "I Year"
+     },
+     {
+      "text": "SK.Anjaneyulu Babu"
+     }
+    ],
+    [
+     {
+      "text": "2"
+     },
+     {
+      "text": "II Year"
+     },
+     {
+      "text": "K.Jaya Krishna"
+     }
+    ],
+    [
+     {
+      "text": "3"
+     },
+     {
+      "text": "III Year"
+     },
+     {
+      "text": "V.Tejaswani"
+     }
+    ]
+   ]
+  }
+ ],
+ "department": "mca",
+ "pageTitle": "Class Coordinators"
+}

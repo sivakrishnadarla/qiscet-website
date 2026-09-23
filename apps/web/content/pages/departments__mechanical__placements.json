@@ -1,0 +1,36 @@
+{
+ "slug": "departments/mechanical/placements",
+ "section": "departments",
+ "sectionTitle": "Departments",
+ "title": "Placements – Mechanical Engineering",
+ "legacy": "https://qiscet.edu.in/qiscet/DEPARTMENTS_me_Placements.php",
+ "summary": null,
+ "blocks": [
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    {
+     "text": "2019-21",
+     "links": [
+      {
+       "label": "2019-21",
+       "href": "https://qiscet.edu.in/qiscet/departments/me/data/ME_PLACEMENTS.pdf"
+      }
+     ]
+    },
+    {
+     "text": "2018-19",
+     "links": [
+      {
+       "label": "2018-19",
+       "href": "https://qiscet.edu.in/qiscet/departments/me/Placements%202018-2019.pdf"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "department": "mechanical",
+ "pageTitle": "Placements"
+}

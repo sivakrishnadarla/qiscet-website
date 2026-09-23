@@ -1,0 +1,54 @@
+{
+ "slug": "departments/cse/faculty-development-programmes",
+ "section": "departments",
+ "sectionTitle": "Departments",
+ "title": "Faculty Development Programmes – Computer Science & Engineering",
+ "legacy": "https://qiscet.edu.in/qiscet/DEPARTMENTS_cse_fdp.php",
+ "summary": null,
+ "blocks": [
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    {
+     "text": "2021-22",
+     "links": [
+      {
+       "label": "2021-22",
+       "href": "https://qiscet.edu.in/qiscet/departments/cse/fdp/21-22.pdf"
+      }
+     ]
+    },
+    {
+     "text": "2020-21",
+     "links": [
+      {
+       "label": "2020-21",
+       "href": "https://qiscet.edu.in/qiscet/departments/cse/fdp/20-21.pdf"
+      }
+     ]
+    },
+    {
+     "text": "2019-20",
+     "links": [
+      {
+       "label": "2019-20",
+       "href": "https://qiscet.edu.in/qiscet/departments/cse/fdp/19-20.pdf"
+      }
+     ]
+    },
+    {
+     "text": "2018-19",
+     "links": [
+      {
+       "label": "2018-19",
+       "href": "https://qiscet.edu.in/qiscet/departments/cse/fdp/18-19.pdf"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "department": "cse",
+ "pageTitle": "Faculty Development Programmes"
+}

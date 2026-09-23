@@ -1,0 +1,45 @@
+{
+ "slug": "departments/vlsi-design-technology/syllabus",
+ "section": "departments",
+ "sectionTitle": "Departments",
+ "title": "Syllabus – Electronics Engineering (VLSI Design & Technology)",
+ "legacy": "https://qiscet.edu.in/qiscet/DEPARTMENTS_eevt_syllabus.php",
+ "summary": null,
+ "blocks": [
+  {
+   "type": "table",
+   "rows": [
+    [
+     {
+      "text": "R-23 regulation"
+     },
+     {
+      "text": "B.Tech Syllabus",
+      "links": [
+       {
+        "label": "B.Tech Syllabus",
+        "href": "https://qiscet.edu.in/qiscet/departments/eevt/syllabus/R23_B.Tech_EEVT_syllabus.pdf"
+       }
+      ]
+     }
+    ],
+    [
+     {
+      "text": "R-20 regulation"
+     },
+     {
+      "text": "B.Tech Syllabus",
+      "links": [
+       {
+        "label": "B.Tech Syllabus",
+        "href": "https://qiscet.edu.in/qiscet/departments/eevt/syllabus/R20_B.Tech_EEVT_syllabus.pdf"
+       }
+      ]
+     }
+    ]
+   ]
+  }
+ ],
+ "department": "vlsi-design-technology",
+ "pageTitle": "Syllabus"
+}

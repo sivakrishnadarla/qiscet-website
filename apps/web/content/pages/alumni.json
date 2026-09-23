@@ -1,0 +1,44 @@
+{
+ "slug": "alumni",
+ "section": "alumni",
+ "sectionTitle": "Alumni",
+ "title": "Alumni Association",
+ "legacy": "https://qiscet.edu.in/qiscet/PLACEMENT_AND_TRAINING_alumni.php",
+ "summary": "Somewhere ages and ages hence I shall be telling this with a sigh; Two roads diverged in a yellow wood And I, I took the one less travelled by; And that has made all the difference!",
+ "blocks": [
+  {
+   "type": "image",
+   "src": "/images/departments/alumni/images/alumni-meet-2025-03-05-at-15.12.50.jpg",
+   "alt": ""
+  },
+  {
+   "type": "paragraph",
+   "text": "Somewhere ages and ages hence I shall be telling this with a sigh; Two roads diverged in a yellow wood And I, I took the one less travelled by; And that has made all the difference!"
+  },
+  {
+   "type": "paragraph",
+   "text": "Robert Frost"
+  },
+  {
+   "type": "paragraph",
+   "text": "QIS Alumni Association (QAA) was formed in 2005 with a view to creating a platform that helps improve student interaction and relations beyond the completion of their course at QIS. It is to keep alive memories that are cherished and ensure connections that are nourished for a lifetime. Besides, it is a forum for discussion that plays an instrumental role in academic exploration by way of queries by juniors for guidance and advice by the seniors from their experience. Indeed, alumni association is a wonderful tool for real time learning with which knowledge is transferred, information is shared, events are notified, emotions are echoed, the moments of the salad days are relived, interpersonal bonds are periodically reinforced and community service activities are initiated."
+  },
+  {
+   "type": "paragraph",
+   "text": "It is all about enterprise, inspiration, mentoring and even corrective action. To learn more about how it has worked for QAA members through seventeen eventful years."
+  },
+  {
+   "type": "paragraph",
+   "text": "Lives of great men all remind us We can make our lives sublime; And, departing, leave behind us Footprints on the sands of time!"
+  },
+  {
+   "type": "paragraph",
+   "text": "H.W. Longfellow"
+  },
+  {
+   "type": "image",
+   "src": "/images/placement_training/qis-alumni.jpg",
+   "alt": ""
+  }
+ ]
+}

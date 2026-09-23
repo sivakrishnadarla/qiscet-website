@@ -1,0 +1,57 @@
+{
+ "slug": "departments/quantum-computational-engineering/head-of-the-department",
+ "section": "departments",
+ "sectionTitle": "Departments",
+ "title": "Head of the Department – Quantum Computational Engineering",
+ "legacy": "https://qiscet.edu.in/qiscet/DEPARTMENTS_qce_hod.php",
+ "summary": null,
+ "blocks": [
+  {
+   "type": "table",
+   "rows": [
+    [
+     {
+      "text": "HOD Name:"
+     },
+     {
+      "text": "Dr. Alok Kumar Sahoo"
+     }
+    ],
+    [
+     {
+      "text": "Designation:"
+     },
+     {
+      "text": "Assistant Professor & HOD-IC"
+     }
+    ],
+    [
+     {
+      "text": "Qualification:"
+     },
+     {
+      "text": "M. Sc., Ph.D."
+     }
+    ],
+    [
+     {
+      "text": "Email:"
+     },
+     {
+      "text": "alokkumar.s@qiscet.edu.in"
+     }
+    ],
+    [
+     {
+      "text": "Area of Interest:"
+     },
+     {
+      "text": "Low temperature magnetism, Dielectric Spectroscopy, Neutron Diffraction, Quantum Computing"
+     }
+    ]
+   ]
+  }
+ ],
+ "department": "quantum-computational-engineering",
+ "pageTitle": "Head of the Department"
+}

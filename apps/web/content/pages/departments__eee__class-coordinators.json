@@ -1,0 +1,115 @@
+{
+ "slug": "departments/eee/class-coordinators",
+ "section": "departments",
+ "sectionTitle": "Departments",
+ "title": "Class Coordinators – Electrical & Electronics Engineering",
+ "legacy": "https://qiscet.edu.in/qiscet/DEPARTMENTS_eee_class_teachers.php",
+ "summary": null,
+ "blocks": [
+  {
+   "type": "table",
+   "rows": [
+    [
+     {
+      "text": "S.No"
+     },
+     {
+      "text": "Class"
+     },
+     {
+      "text": "Section"
+     },
+     {
+      "text": "Name of the Staff"
+     }
+    ],
+    [
+     {
+      "text": "1"
+     },
+     {
+      "text": "II"
+     },
+     {
+      "text": "A"
+     },
+     {
+      "text": "K. SURESH"
+     }
+    ],
+    [
+     {
+      "text": "2"
+     },
+     {
+      "text": "II"
+     },
+     {
+      "text": "B"
+     },
+     {
+      "text": "A. BULLI BABU"
+     }
+    ],
+    [
+     {
+      "text": "3"
+     },
+     {
+      "text": "III"
+     },
+     {
+      "text": "A"
+     },
+     {
+      "text": "T.S. MURTHY"
+     }
+    ],
+    [
+     {
+      "text": "4"
+     },
+     {
+      "text": "III"
+     },
+     {
+      "text": "B"
+     },
+     {
+      "text": "A. ALEKYA"
+     }
+    ],
+    [
+     {
+      "text": "5"
+     },
+     {
+      "text": "IV"
+     },
+     {
+      "text": "A"
+     },
+     {
+      "text": "Y. RAVI SHANKAR"
+     }
+    ],
+    [
+     {
+      "text": "6"
+     },
+     {
+      "text": "IV"
+     },
+     {
+      "text": "B"
+     },
+     {
+      "text": "V. PAVAN KUMAR"
+     }
+    ]
+   ]
+  }
+ ],
+ "department": "eee",
+ "pageTitle": "Class Coordinators"
+}

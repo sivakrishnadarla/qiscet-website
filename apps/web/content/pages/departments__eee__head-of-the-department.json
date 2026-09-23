@@ -1,0 +1,87 @@
+{
+ "slug": "departments/eee/head-of-the-department",
+ "section": "departments",
+ "sectionTitle": "Departments",
+ "title": "Head of the Department – Electrical & Electronics Engineering",
+ "legacy": "https://qiscet.edu.in/qiscet/DEPARTMENTS_eee_hod.php",
+ "summary": null,
+ "blocks": [
+  {
+   "type": "table",
+   "rows": [
+    [
+     {
+      "text": "HOD Name:"
+     },
+     {
+      "text": "Dr. B. MOULI CHANDRA"
+     }
+    ],
+    [
+     {
+      "text": "Designation:"
+     },
+     {
+      "text": "Professor & HOD"
+     }
+    ],
+    [
+     {
+      "text": "Qualification:"
+     },
+     {
+      "text": "Ph.D"
+     }
+    ],
+    [
+     {
+      "text": "Email:"
+     },
+     {
+      "text": "moulichandra.b@qiscet.edu.in bmoulichandra@gmail.com"
+     }
+    ],
+    [
+     {
+      "text": "Contact No:"
+     },
+     {
+      "text": "+91 9885187003"
+     }
+    ],
+    [
+     {
+      "text": "Areas of Interest:"
+     },
+     {
+      "text": "POWER ELECTRONICS"
+     }
+    ],
+    [
+     {
+      "text": "Experience:"
+     },
+     {
+      "text": "20 years"
+     }
+    ],
+    [
+     {
+      "text": "Resume:"
+     },
+     {
+      "text": "Resume",
+      "links": [
+       {
+        "label": "Resume",
+        "href": "https://qiscet.edu.in/qiscet/departments/eee/eee_hod.pdf"
+       }
+      ]
+     }
+    ]
+   ]
+  }
+ ],
+ "department": "eee",
+ "pageTitle": "Head of the Department"
+}

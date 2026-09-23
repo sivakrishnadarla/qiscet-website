@@ -1,0 +1,137 @@
+{
+ "slug": "placements/policy",
+ "section": "placements",
+ "sectionTitle": "Training & Placements",
+ "title": "Placement Policy",
+ "legacy": "https://qiscet.edu.in/qiscet/PLACEMENT_AND_TRAINING_policy.php",
+ "summary": "This Placement Policy outlines the guidelines and procedures for campus recruitment in autonomous colleges. It aims to ensure a fair and transparent placement process, benefiting both students and…",
+ "blocks": [
+  {
+   "type": "heading",
+   "text": "Introduction:",
+   "level": 4
+  },
+  {
+   "type": "paragraph",
+   "text": "This Placement Policy outlines the guidelines and procedures for campus recruitment in autonomous colleges. It aims to ensure a fair and transparent placement process, benefiting both students and recruiters."
+  },
+  {
+   "type": "heading",
+   "text": "Eligibility Criteria:",
+   "level": 4
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    {
+     "text": "Only final-year students who have completed all academic requirements are eligible to participate."
+    },
+    {
+     "text": "Students must meet the company’s criteria, including academic performance, skill requirements, and other conditions."
+    },
+    {
+     "text": "Students with backlogs must clear them before participating subject to the company policy."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "Registration Process:",
+   "level": 4
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    {
+     "text": "Interested students must register with the Placement Cell before the deadline."
+    },
+    {
+     "text": "A valid and updated resume must be submitted for verification."
+    },
+    {
+     "text": "Students must attend pre-placement talks (PPT) conducted by recruiters."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "Placement Process:",
+   "level": 4
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    {
+     "text": "A student who receives a job offer cannot apply for further placements unless:"
+    },
+    {
+     "text": "The package of the new opportunity is significantly higher (it should be greater than 1Lakh) The new opportunity is in a core sector relevant to their field."
+    },
+    {
+     "text": "If a student rejects an offer without valid reasoning, they may be restricted from further placements."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "Code of Conduct:",
+   "level": 4
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    {
+     "text": "Students must adhere to professional behaviour and ethics during interviews."
+    },
+    {
+     "text": "Misconduct, misrepresentation, or indiscipline will result in disqualification from placements."
+    },
+    {
+     "text": "Students must respect the confidentiality of placement-related information."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "Company-Specific Policies:",
+   "level": 4
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    {
+     "text": "The Placement Cell may prioritize certain companies based on reputation, compensation, or industry relevance."
+    },
+    {
+     "text": "If a company withdraws an offer due to unforeseen circumstances, the student may be allowed to reapply."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "Miscellaneous:",
+   "level": 4
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    {
+     "text": "The Placement Cell reserves the right to make final decisions on disputes or exceptions."
+    },
+    {
+     "text": "Any grievances must be submitted in writing to the Placement Office."
+    }
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "This policy ensures a smooth and efficient placement process, providing equal opportunities to all students."
+  }
+ ]
+}

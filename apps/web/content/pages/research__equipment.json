@@ -1,0 +1,500 @@
+{
+ "slug": "research/equipment",
+ "section": "research",
+ "sectionTitle": "Research & Development",
+ "title": "List of Equipment",
+ "legacy": "https://qiscet.edu.in/qiscet/ACADEMICS_centre_for_research_list_of_equipment.php",
+ "summary": null,
+ "blocks": [
+  {
+   "type": "table",
+   "rows": [
+    [
+     {
+      "text": "Electronics and Communication Engineering"
+     }
+    ],
+    [
+     {
+      "text": "1. Cadence standard Bundke analog & Digital FE& BE 50 user License"
+     }
+    ],
+    [
+     {
+      "text": "2. AV-Zynq Z1 FPGA Development Board with Accessories"
+     }
+    ],
+    [
+     {
+      "text": "3. AV-Arix7 FPGA Development Board with Accessories"
+     }
+    ],
+    [
+     {
+      "text": "4. MATLAB"
+     }
+    ],
+    [
+     {
+      "text": "5. XIlinx Vivado Design Suite"
+     }
+    ],
+    [
+     {
+      "text": "6. CST software"
+     }
+    ],
+    [
+     {
+      "text": "7. NI Lab VIEW"
+     }
+    ],
+    [
+     {
+      "text": "8. Multisim"
+     }
+    ],
+    [
+     {
+      "text": "Mechanical Engineering"
+     }
+    ],
+    [
+     {
+      "text": "1. Bio-Diesel production unit"
+     }
+    ],
+    [
+     {
+      "text": "2. Four Stroke single cylinder Diesel engine with exhaust gas analyzer"
+     }
+    ],
+    [
+     {
+      "text": "3. Multi-stage centrifugal pump"
+     }
+    ],
+    [
+     {
+      "text": "4. Peloton Turbine"
+     }
+    ],
+    [
+     {
+      "text": "5. Kaplan turbine"
+     }
+    ],
+    [
+     {
+      "text": "6. Universal Testing Machine (UTM)"
+     }
+    ],
+    [
+     {
+      "text": "7. ANYSYS (version 15.0)"
+     }
+    ],
+    [
+     {
+      "text": "8. CFD Software"
+     }
+    ],
+    [
+     {
+      "text": "9. Non-Destructive Technique Testing"
+     }
+    ],
+    [
+     {
+      "text": "Electrical and Electronics Engineering"
+     }
+    ],
+    [
+     {
+      "text": "1. 220 kV Transmission Simulation Model"
+     }
+    ],
+    [
+     {
+      "text": "2. 1 kw MSEPIC DC-DC converter"
+     }
+    ],
+    [
+     {
+      "text": "3. FPGA SPARTAN 6 A CONTROLLER"
+     }
+    ],
+    [
+     {
+      "text": "4. 1 KVA IGBT BASED 3PH VSI"
+     }
+    ],
+    [
+     {
+      "text": "5. BLDC MOTOR"
+     }
+    ],
+    [
+     {
+      "text": "6. 1hp slip ring induction motor coupled with 1hp dc generator"
+     }
+    ],
+    [
+     {
+      "text": "7. SPARTAN 6A development board"
+     }
+    ],
+    [
+     {
+      "text": "8. IGBT based power module"
+     }
+    ],
+    [
+     {
+      "text": "9. 4 channel Digital storage oscilloscope 70MHZ"
+     }
+    ],
+    [
+     {
+      "text": "10. Rock well Allen-Bradley PLC"
+     }
+    ],
+    [
+     {
+      "text": "11. Siemens PLC"
+     }
+    ],
+    [
+     {
+      "text": "12. Xlogic PLC"
+     }
+    ],
+    [
+     {
+      "text": "13. HMI Hardware"
+     }
+    ],
+    [
+     {
+      "text": "14. Pressure control skid"
+     }
+    ],
+    [
+     {
+      "text": "15. Level control skid"
+     }
+    ],
+    [
+     {
+      "text": "16. Air compressor"
+     }
+    ],
+    [
+     {
+      "text": "17. Powder coated mimic control panel"
+     }
+    ],
+    [
+     {
+      "text": "18. Powder coated mimic control panel"
+     }
+    ],
+    [
+     {
+      "text": "19. Xlogic plc training system"
+     }
+    ],
+    [
+     {
+      "text": "20. HMI Hardware"
+     }
+    ],
+    [
+     {
+      "text": "21. AB micro logic"
+     }
+    ],
+    [
+     {
+      "text": "22. Siemens s7200"
+     }
+    ],
+    [
+     {
+      "text": "23. MITSUBISHI-FX3G"
+     }
+    ],
+    [
+     {
+      "text": "24. DELTA(DVP14ES)"
+     }
+    ],
+    [
+     {
+      "text": "25. FUJI PLC"
+     }
+    ],
+    [
+     {
+      "text": "26. Lab view academy software bundle"
+     }
+    ],
+    [
+     {
+      "text": "27. NI lab view academy hardware bundle includes MYDAC, MY RIO"
+     }
+    ],
+    [
+     {
+      "text": "28. IIOT software"
+     }
+    ],
+    [
+     {
+      "text": "29. NI ELVIS III hardware"
+     }
+    ],
+    [
+     {
+      "text": "30. 1 kw MSEPIC DC-DC converter"
+     }
+    ],
+    [
+     {
+      "text": "31. FPGA SPARTAN 6 A CONTROLLER"
+     }
+    ],
+    [
+     {
+      "text": "Computer Science and Engineering"
+     }
+    ],
+    [
+     {
+      "text": "1. IBM Rack server"
+     }
+    ],
+    [
+     {
+      "text": "2. Sophos UTM"
+     }
+    ],
+    [
+     {
+      "text": "3. Cadence standard Bundke analog & Digital FE& BE 50 user License"
+     }
+    ],
+    [
+     {
+      "text": "4. AV-Zynq Z1 FPGA Development Board with Accessories"
+     }
+    ],
+    [
+     {
+      "text": "5. AV-Arix7 FPGA Development Board with Accessories"
+     }
+    ],
+    [
+     {
+      "text": "6. MATLAB"
+     }
+    ],
+    [
+     {
+      "text": "7. XIlinx Vivado Design Suite"
+     }
+    ],
+    [
+     {
+      "text": "8. CST software"
+     }
+    ],
+    [
+     {
+      "text": "9. NI Lab VIEW"
+     }
+    ],
+    [
+     {
+      "text": "10. Multisim"
+     }
+    ],
+    [
+     {
+      "text": "11. 3D Experience Lab (Dassault Systems Program Lab)"
+     }
+    ],
+    [
+     {
+      "text": "12. Applied Robot control Lab"
+     }
+    ],
+    [
+     {
+      "text": "13. Centre For Biofuels Testing Lab"
+     }
+    ],
+    [
+     {
+      "text": "14. Centre for Materials Testing Lab"
+     }
+    ],
+    [
+     {
+      "text": "15. 1 kw MSEPIC DC-DC converter"
+     }
+    ],
+    [
+     {
+      "text": "16. FPGA SPARTAN 6 A CONTROLLER"
+     }
+    ],
+    [
+     {
+      "text": "17. 1 KVA IGBT BASED 3PH VSI"
+     }
+    ],
+    [
+     {
+      "text": "18. BLDC MOTOR"
+     }
+    ],
+    [
+     {
+      "text": "19. 1hp slip ring induction motor coupled with 1hp dc generator"
+     }
+    ],
+    [
+     {
+      "text": "20. SPARTAN 6A development board"
+     }
+    ],
+    [
+     {
+      "text": "21. IGBT based power module"
+     }
+    ],
+    [
+     {
+      "text": "22. 4 channel Digital storage oscilloscope 70MHZ"
+     }
+    ],
+    [
+     {
+      "text": "23. Rock well Allen-Bradley PLC"
+     }
+    ],
+    [
+     {
+      "text": "24. Siemens PLC"
+     }
+    ],
+    [
+     {
+      "text": "25. Xlogic PLC"
+     }
+    ],
+    [
+     {
+      "text": "26. HMI Hardware"
+     }
+    ],
+    [
+     {
+      "text": "27. Pressure control skid"
+     }
+    ],
+    [
+     {
+      "text": "28. Level control skid"
+     }
+    ],
+    [
+     {
+      "text": "29. Air compressor"
+     }
+    ],
+    [
+     {
+      "text": "30. Powder coated mimic control panel"
+     }
+    ],
+    [
+     {
+      "text": "31. Powder coated mimic control panel"
+     }
+    ],
+    [
+     {
+      "text": "32. Xlogic plc training system"
+     }
+    ],
+    [
+     {
+      "text": "33. HMI Hardware"
+     }
+    ],
+    [
+     {
+      "text": "34. AB micro logic"
+     }
+    ],
+    [
+     {
+      "text": "35. Siemens s7200"
+     }
+    ],
+    [
+     {
+      "text": "36. MITSUBISHI-FX3G"
+     }
+    ],
+    [
+     {
+      "text": "37. DELTA(DVP14ES)"
+     }
+    ],
+    [
+     {
+      "text": "38. FUJI PLC"
+     }
+    ],
+    [
+     {
+      "text": "39. Lab view academy software bundle"
+     }
+    ],
+    [
+     {
+      "text": "40. NI lab view academy hardware bundle includes MYDAC, MY RIO"
+     }
+    ],
+    [
+     {
+      "text": "41. IIOT software"
+     }
+    ],
+    [
+     {
+      "text": "42. NI ELVIS III hardware"
+     }
+    ],
+    [
+     {
+      "text": "43. 1 kw MSEPIC DC-DC converter"
+     }
+    ],
+    [
+     {
+      "text": "44. FPGA SPARTAN 6 A CONTROLLER"
+     }
+    ],
+    [
+     {
+      "text": "45. Manual UV-Vis Spectro photometer"
+     }
+    ]
+   ]
+  }
+ ]
+}

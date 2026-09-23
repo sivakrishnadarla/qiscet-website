@@ -1,0 +1,55 @@
+{
+ "slug": "admissions/procedure",
+ "section": "admissions",
+ "sectionTitle": "Admissions",
+ "title": "Admission Procedure",
+ "legacy": "https://qiscet.edu.in/qiscet/index_admission_procedure.php",
+ "summary": "The eligibility criteria for admission into UG & PG programmes are as per the norms approved by Government of Andhra Pradesh from time to time. The sanctioned seats in each program in the college are…",
+ "blocks": [
+  {
+   "type": "paragraph",
+   "text": "The eligibility criteria for admission into UG & PG programmes are as per the norms approved by Government of Andhra Pradesh from time to time. The sanctioned seats in each program in the college are classified into CATEGORY – A and CATEGORY – B at first year level and Lateral Entry at second year level."
+  },
+  {
+   "type": "heading",
+   "text": "QIS College of engineering & Technology – EAMCET Code: QISE",
+   "level": 5
+  },
+  {
+   "type": "heading",
+   "text": "Reservation Policy – Seats will be filled by the Govt. of Andhra Pradesh as per the Govt. approved Policy.",
+   "level": 4
+  },
+  {
+   "type": "heading",
+   "text": "Category A Seats:",
+   "level": 5
+  },
+  {
+   "type": "paragraph",
+   "text": "70% of seats will be filled by the Government of Andhra Pradesh as per the norms approved."
+  },
+  {
+   "type": "heading",
+   "text": "Category B Seats:",
+   "level": 5
+  },
+  {
+   "type": "paragraph",
+   "text": "30% of seats will be filled by the College as per the norms approved by the Government of Andhra Pradesh."
+  },
+  {
+   "type": "heading",
+   "text": "Category Lateral Entry Seats:",
+   "level": 5
+  },
+  {
+   "type": "paragraph",
+   "text": "Lateral entry candidates shall be admitted into the Third semester directly as per the norms approved by Government of Andhra Pradesh."
+  },
+  {
+   "type": "paragraph",
+   "text": "NOTE:The percentages of Category – A, Category – B and Lateral Entry Seats are decided time to time by the Government of Andhra Pradesh."
+  }
+ ]
+}

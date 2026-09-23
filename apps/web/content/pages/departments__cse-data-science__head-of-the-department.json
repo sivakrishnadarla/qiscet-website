@@ -1,0 +1,73 @@
+{
+ "slug": "departments/cse-data-science/head-of-the-department",
+ "section": "departments",
+ "sectionTitle": "Departments",
+ "title": "Head of the Department – CSE (Data Science)",
+ "legacy": "https://qiscet.edu.in/qiscet/DEPARTMENTS_cse_ds_hod.php",
+ "summary": null,
+ "blocks": [
+  {
+   "type": "table",
+   "rows": [
+    [
+     {
+      "text": "HOD Name:"
+     },
+     {
+      "text": "Dr. K. MALAKONDA RAYUDU"
+     }
+    ],
+    [
+     {
+      "text": "Designation:"
+     },
+     {
+      "text": "Professor & HOD"
+     }
+    ],
+    [
+     {
+      "text": "Qualification:"
+     },
+     {
+      "text": "Ph.D"
+     }
+    ],
+    [
+     {
+      "text": "Email:"
+     },
+     {
+      "text": "kmrayudu@qiscet.edu.in"
+     }
+    ],
+    [
+     {
+      "text": "Contact No:"
+     },
+     {
+      "text": "9949700566"
+     }
+    ],
+    [
+     {
+      "text": "Areas of Interest:"
+     },
+     {
+      "text": "Data Science,Machine Learning,Web Develpment,Software Engineering"
+     }
+    ],
+    [
+     {
+      "text": "Experience:"
+     },
+     {
+      "text": "16 Years"
+     }
+    ]
+   ]
+  }
+ ],
+ "department": "cse-data-science",
+ "pageTitle": "Head of the Department"
+}

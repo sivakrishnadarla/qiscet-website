@@ -1,0 +1,34 @@
+{
+ "slug": "academics/common-bos-meeting",
+ "section": "academics",
+ "sectionTitle": "Academics",
+ "title": "Common BoS Meeting",
+ "legacy": "https://qiscet.edu.in/qiscet/common_ac_bos.php",
+ "summary": null,
+ "blocks": [
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    {
+     "text": "6th Common BoS meeting",
+     "links": [
+      {
+       "label": "6th Common BoS meeting",
+       "href": "https://qiscet.edu.in/qiscet/acadamic/6th%20Common%20BOS%20MOM.pdf"
+      }
+     ]
+    },
+    {
+     "text": "5th Common BoS meeting",
+     "links": [
+      {
+       "label": "5th Common BoS meeting",
+       "href": "https://qiscet.edu.in/qiscet/acadamic/minutes.pdf"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

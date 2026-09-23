@@ -1,0 +1,19 @@
+{
+ "slug": "facilities/bank-atm",
+ "section": "facilities",
+ "sectionTitle": "Facilities",
+ "title": "Bank ATM",
+ "legacy": "https://qiscet.edu.in/qiscet/FACILITIES_atm.php",
+ "summary": "Bank Of Baroda has been operating 24-hour ATM facility at college premises. All the students and staff members can utilize the Bank Of Baroda ATM facility. Hence, money transactions such as transfer,…",
+ "blocks": [
+  {
+   "type": "image",
+   "src": "/images/images/20230124_104438-1.jpg",
+   "alt": "canteen"
+  },
+  {
+   "type": "paragraph",
+   "text": "Bank Of Baroda has been operating 24-hour ATM facility at college premises. All the students and staff members can utilize the Bank Of Baroda ATM facility. Hence, money transactions such as transfer, withdrawal and saving are carried out with ease. Hostel students are able to use the ATM at any time. Parents can transfer money to their children's account."
+  }
+ ]
+}

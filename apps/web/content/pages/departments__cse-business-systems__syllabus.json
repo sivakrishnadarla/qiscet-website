@@ -1,0 +1,41 @@
+{
+ "slug": "departments/cse-business-systems/syllabus",
+ "section": "departments",
+ "sectionTitle": "Departments",
+ "title": "Syllabus – Computer Science & Engineering and Business Systems",
+ "legacy": "https://qiscet.edu.in/qiscet/DEPARTMENTS_cse_bs_syllabus.php",
+ "summary": null,
+ "blocks": [
+  {
+   "type": "table",
+   "rows": [
+    [
+     {
+      "text": "Regulation"
+     },
+     {
+      "text": "B.Tech",
+      "colspan": 8
+     }
+    ],
+    [
+     {
+      "text": "R-20 regulation"
+     },
+     {
+      "text": "B.Tech CSE BS Syllabus",
+      "links": [
+       {
+        "label": "B.Tech CSE BS Syllabus",
+        "href": "https://qiscet.edu.in/qiscet/departments/cse%20bs/R20%20UG%20CSE-BS%20website.pdf"
+       }
+      ],
+      "colspan": 8
+     }
+    ]
+   ]
+  }
+ ],
+ "department": "cse-business-systems",
+ "pageTitle": "Syllabus"
+}

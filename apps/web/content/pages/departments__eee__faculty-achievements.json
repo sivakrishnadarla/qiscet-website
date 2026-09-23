@@ -1,0 +1,61 @@
+{
+ "slug": "departments/eee/faculty-achievements",
+ "section": "departments",
+ "sectionTitle": "Departments",
+ "title": "Faculty Achievements – Electrical & Electronics Engineering",
+ "legacy": "https://qiscet.edu.in/qiscet/DEPARTMENTS_eee_faculty_achievements.php",
+ "summary": null,
+ "blocks": [
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    {
+     "text": "Journals & Publications - 2024-2025 | 2023-2024 | 2022-2023",
+     "links": [
+      {
+       "label": "2024-2025",
+       "href": "https://qiscet.edu.in/qiscet/departments/eee/2024-2025%20Journals.pdf"
+      },
+      {
+       "label": "2023-2024",
+       "href": "https://qiscet.edu.in/qiscet/departments/eee/2023-2024%20Journals.pdf"
+      },
+      {
+       "label": "2022-2023",
+       "href": "https://qiscet.edu.in/qiscet/departments/eee/2022-2023%20Journals.pdf"
+      }
+     ]
+    },
+    {
+     "text": "Books - 2024-2025 | 2023-2024 | 2022-2023",
+     "links": [
+      {
+       "label": "2024-2025",
+       "href": "https://qiscet.edu.in/qiscet/departments/eee/2024-2025%20facultybooks.pdf"
+      },
+      {
+       "label": "2023-2024",
+       "href": "https://qiscet.edu.in/qiscet/departments/eee/2023-2024%20facultybooks.pdf"
+      },
+      {
+       "label": "2022-2023",
+       "href": "https://qiscet.edu.in/qiscet/departments/eee/2022-2023%20facultybooks.pdf"
+      }
+     ]
+    },
+    {
+     "text": "Sponsered Projects - 2022-2025",
+     "links": [
+      {
+       "label": "2022-2025",
+       "href": "https://qiscet.edu.in/qiscet/departments/eee/SPONSERED%20PROJECTS.pdf"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "department": "eee",
+ "pageTitle": "Faculty Achievements"
+}

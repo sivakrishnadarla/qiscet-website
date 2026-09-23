@@ -1,0 +1,36 @@
+{
+ "slug": "departments/information-technology/statutory-department-committees",
+ "section": "departments",
+ "sectionTitle": "Departments",
+ "title": "Statutory Department Committees – Information Technology",
+ "legacy": "https://qiscet.edu.in/qiscet/DEPARTMENTS_it_Statutory.php",
+ "summary": null,
+ "blocks": [
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    {
+     "text": "DAC",
+     "links": [
+      {
+       "label": "DAC",
+       "href": "https://qiscet.edu.in/qiscet/DEPARTMENTS_it_dac.php"
+      }
+     ]
+    },
+    {
+     "text": "PAC",
+     "links": [
+      {
+       "label": "PAC",
+       "href": "https://qiscet.edu.in/qiscet/DEPARTMENTS_it_pac.php"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "department": "information-technology",
+ "pageTitle": "Statutory Department Committees"
+}

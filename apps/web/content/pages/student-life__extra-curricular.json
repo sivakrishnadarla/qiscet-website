@@ -1,0 +1,106 @@
+{
+ "slug": "student-life/extra-curricular",
+ "section": "student-life",
+ "sectionTitle": "Student Life",
+ "title": "Extra Curricular Activities",
+ "legacy": "https://qiscet.edu.in/qiscet/ACADEMICS_Extra_Curricular_Activities.php",
+ "summary": "The Fine Arts Club at QIS College of Engineering and Technology is a vibrant and dynamic student organization dedicated to providing a platform for students to showcase their artistic talents and…",
+ "blocks": [
+  {
+   "type": "paragraph",
+   "text": "The Fine Arts Club at QIS College of Engineering and Technology is a vibrant and dynamic student organization dedicated to providing a platform for students to showcase their artistic talents and creative abilities. The club actively engages in organizing a variety of cultural events and activities throughout the academic year, fostering an environment where students can express themselves, explore their passions, and develop their skills. The club's mission is to promote the inherent talents of students in the fields of fine arts, performing arts, and cultural activities."
+  },
+  {
+   "type": "paragraph",
+   "text": "One of the key aspects of the Fine Arts Club’s activities is its celebration of major festivals and cultural events, which are organized with great enthusiasm and involvement from students, faculty, and staff. These celebrations not only provide a fun and engaging experience for the campus community but also create an opportunity for students to connect with their cultural heritage, learn about different traditions, and engage in artistic expressions."
+  },
+  {
+   "type": "heading",
+   "text": "Key Festivals and Events Organized by the Fine Arts Club",
+   "level": 2
+  },
+  {
+   "type": "paragraph",
+   "text": "The Fine Arts Club organizes and hosts a wide range of events during prominent festivals, offering a unique blend of cultural and artistic activities. Some of the most anticipated festivals and events include:"
+  },
+  {
+   "type": "list",
+   "ordered": true,
+   "items": [
+    {
+     "text": "Ganesh Chaturthi: This widely celebrated festival is marked by the worship of Lord Ganesha. The Fine Arts Club plays a central role in organizing the Ganesha idol making, decorations, and cultural programs. Cultural events like dance performances, music concerts, and skits related to Lord Ganesha are a highlight, allowing students to express their creativity and devotion through art and performance."
+    },
+    {
+     "text": "Dussera (Dussehra): Dussera symbolizes the victory of good over evil. The Fine Arts Club celebrates this festival with theatrical performances, dramas, and dance performances depicting various mythological stories like the victory of Lord Rama over Ravana. The club organizes art exhibitions focusing on traditional Indian art forms, as well as workshops on making Ravan effigies, rangoli designs, and diyas."
+    },
+    {
+     "text": "Christmas: Christmas is celebrated with warmth and joy. The Fine Arts Club organizes Christmas decorations, carol singing, and Christmas-themed art workshops. A Christmas Bazaar or art exhibition may also be arranged where students display their handmade crafts, art, and designs, promoting the spirit of giving and sharing."
+    },
+    {
+     "text": "Sankranti: The festival marks the arrival of the harvest season. The Fine Arts Club organizes kite flying, Bhangra dances, and folk performances. Workshops on Makar Sankranti-themed artwork, kolam designs, and traditional crafts are conducted."
+    },
+    {
+     "text": "Ramadan: Ramadan is celebrated with devotion and cultural exchange. The Fine Arts Club organizes art exhibitions, calligraphy workshops, and Quranic verse recitation competitions. The club also organizes iftar parties and community service activities, encouraging students to contribute to charitable causes."
+    },
+    {
+     "text": "Ugadi: Ugadi, the Telugu New Year, is celebrated with traditional dances, folk music, and art exhibitions highlighting regional cultural richness. The club organizes an art and craft fair showcasing handmade items such as madhubani paintings and terracotta sculptures."
+    },
+    {
+     "text": "Youth Festival: This exciting event showcases a wide variety of talents. The Fine Arts Club organizes performances in singing, acting, poetry, and more. Competitions create an atmosphere of healthy competition and creativity."
+    },
+    {
+     "text": "QISFEST: QISFEST is the flagship annual event of the club, featuring cultural performances, art exhibitions, fashion shows, and music concerts. Workshops and interactive sessions are also organized to help students learn new artistic skills and gain exposure."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "Promoting Inherent Talents",
+   "level": 2
+  },
+  {
+   "type": "paragraph",
+   "text": "The primary objective of the Fine Arts Club is to create an environment where students can explore and nurture their artistic potential. Through various events and activities, the club provides a platform for students to engage in creative expression, develop new skills, and enhance their confidence. Whether through visual arts, performing arts, or craftsmanship, students are encouraged to discover and refine their talents."
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    {
+     "text": "Workshops and Training: The club organizes workshops in painting, drawing, photography, music, dance, and theatre, offering students the chance to learn from experienced mentors and professionals."
+    },
+    {
+     "text": "Collaborative Projects: Students are encouraged to participate in collaborative projects like creating murals, stage sets, or organizing cultural performances."
+    },
+    {
+     "text": "Competitions and Exhibitions: Competitions such as painting contests, singing competitions, and photography exhibitions give students an opportunity to showcase their skills and gain recognition."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "Faculty Coordinators",
+   "level": 3
+  },
+  {
+   "type": "paragraph",
+   "text": "Dr. G. Navaneethakrishnan - Dean – NSS and ECA Contact: 8056778955 Email: drnavaneethakrishnan.g@qiscet.edu.in",
+   "links": [
+    {
+     "label": "drnavaneethakrishnan.g@qiscet.edu.in",
+     "href": "mailto:drnavaneethakrishnan.g@qiscet.edu.in"
+    }
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "Mrs. S. Chandra Sudha – Assistant Professor / S&H Contact: 93464 17576 Email: chandrasudha.s@qiscet.edu.in",
+   "links": [
+    {
+     "label": "chandrasudha.s@qiscet.edu.in",
+     "href": "mailto:chandrasudha.s@qiscet.edu.in"
+    }
+   ]
+  }
+ ]
+}

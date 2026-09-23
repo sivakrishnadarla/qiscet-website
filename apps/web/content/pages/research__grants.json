@@ -1,0 +1,793 @@
+{
+ "slug": "research/grants",
+ "section": "research",
+ "sectionTitle": "Research & Development",
+ "title": "Research Grants",
+ "legacy": "https://qiscet.edu.in/qiscet/index_randd_grants.php",
+ "summary": null,
+ "blocks": [
+  {
+   "type": "table",
+   "rows": [
+    [
+     {
+      "text": "S. No."
+     },
+     {
+      "text": "Name of the Scheme"
+     },
+     {
+      "text": "Duration"
+     },
+     {
+      "text": "Title of the project"
+     },
+     {
+      "text": "Name of the Funding Agency"
+     },
+     {
+      "text": "Total grant (Rs.)",
+      "colspan": 2
+     },
+     {
+      "text": "Status"
+     }
+    ],
+    [
+     {
+      "text": ""
+     },
+     {
+      "text": ""
+     },
+     {
+      "text": ""
+     },
+     {
+      "text": ""
+     },
+     {
+      "text": ""
+     },
+     {
+      "text": "Sanctioned"
+     },
+     {
+      "text": "Received"
+     },
+     {
+      "text": "Completed / Ongoing"
+     }
+    ],
+    [
+     {
+      "text": "1"
+     },
+     {
+      "text": "RPS"
+     },
+     {
+      "text": "2012-15"
+     },
+     {
+      "text": "Development of Medical Image Segmentation algorithms for easy diagnosis."
+     },
+     {
+      "text": "AICTE"
+     },
+     {
+      "text": "12,50,000/-"
+     },
+     {
+      "text": "11,43,334/-"
+     },
+     {
+      "text": "Completed"
+     }
+    ],
+    [
+     {
+      "text": "2"
+     },
+     {
+      "text": "MODROBS"
+     },
+     {
+      "text": "2012-14"
+     },
+     {
+      "text": "Modernization of Microprocessors and Interfacing Lab"
+     },
+     {
+      "text": "AICTE"
+     },
+     {
+      "text": "5,20,000/-"
+     },
+     {
+      "text": "5,20,000/-"
+     },
+     {
+      "text": "Completed"
+     }
+    ],
+    [
+     {
+      "text": "3"
+     },
+     {
+      "text": "MODROBS"
+     },
+     {
+      "text": "2012-14"
+     },
+     {
+      "text": "Single Cylinder 4 stroke diesel engine loaded with swinging field electrical dynamometer, exhaust gas analyzer"
+     },
+     {
+      "text": "AICTE"
+     },
+     {
+      "text": "5,50,000/-"
+     },
+     {
+      "text": "5,50,000/-"
+     },
+     {
+      "text": "Completed"
+     }
+    ],
+    [
+     {
+      "text": "4"
+     },
+     {
+      "text": "SEMINAR GRANT"
+     },
+     {
+      "text": "2013-14"
+     },
+     {
+      "text": "Emerging Trends in Ubiquitous Computing"
+     },
+     {
+      "text": "AICTE"
+     },
+     {
+      "text": "75,000/-"
+     },
+     {
+      "text": "75,000/-"
+     },
+     {
+      "text": "Completed"
+     }
+    ],
+    [
+     {
+      "text": "5"
+     },
+     {
+      "text": "UGC-Minor"
+     },
+     {
+      "text": "2016-17"
+     },
+     {
+      "text": "Failure analysis of fiber reinforced composited under impact fatigue and shock loading conditions"
+     },
+     {
+      "text": "UGC"
+     },
+     {
+      "text": "2,65,000/-"
+     },
+     {
+      "text": "2,35,000/-"
+     },
+     {
+      "text": "Completed"
+     }
+    ],
+    [
+     {
+      "text": "6"
+     },
+     {
+      "text": "ECR"
+     },
+     {
+      "text": "2016-19"
+     },
+     {
+      "text": "Experimental investigation of temperature dependent parameters in indirect vector control of induction motor and estimation using FPGA"
+     },
+     {
+      "text": "SERB"
+     },
+     {
+      "text": "28,70,000/-"
+     },
+     {
+      "text": "17,11,860/-"
+     },
+     {
+      "text": "Completed"
+     }
+    ],
+    [
+     {
+      "text": "7"
+     },
+     {
+      "text": "MODROBS"
+     },
+     {
+      "text": "2017-19"
+     },
+     {
+      "text": "Advanced Transmission and Distribution Laboratory"
+     },
+     {
+      "text": "AICTE"
+     },
+     {
+      "text": "15,29,000/-"
+     },
+     {
+      "text": "12,32,300/-"
+     },
+     {
+      "text": "Ongoing"
+     }
+    ],
+    [
+     {
+      "text": "8"
+     },
+     {
+      "text": "INSPIRE"
+     },
+     {
+      "text": "2017-19"
+     },
+     {
+      "text": "DST INSPIRE CAMP"
+     },
+     {
+      "text": "DST"
+     },
+     {
+      "text": "9,75,000/-"
+     },
+     {
+      "text": "9,75,000/-"
+     },
+     {
+      "text": "Completed"
+     }
+    ],
+    [
+     {
+      "text": "9"
+     },
+     {
+      "text": "UNNATH BHARATH ABHYAN"
+     },
+     {
+      "text": "2018-19"
+     },
+     {
+      "text": "Transformational Change in Rural Development Processes"
+     },
+     {
+      "text": "AICTE"
+     },
+     {
+      "text": "50,000/-"
+     },
+     {
+      "text": "50,000/-"
+     },
+     {
+      "text": "Ongoing"
+     }
+    ],
+    [
+     {
+      "text": "10"
+     },
+     {
+      "text": "RPS"
+     },
+     {
+      "text": "2018-20"
+     },
+     {
+      "text": "Experimental Investigation of problems in Single phase grid connected Photo Voltaic System using Multilevel inverters and mitigation using DSPACE controller"
+     },
+     {
+      "text": "AICTE"
+     },
+     {
+      "text": "12,80,392/-"
+     },
+     {
+      "text": "12,61,186/-"
+     },
+     {
+      "text": "Completed"
+     }
+    ],
+    [
+     {
+      "text": "11"
+     },
+     {
+      "text": "EAC"
+     },
+     {
+      "text": "2018-19"
+     },
+     {
+      "text": "Conduction of Entrepreneurship Awareness Camps"
+     },
+     {
+      "text": "EDII"
+     },
+     {
+      "text": "40,000/-"
+     },
+     {
+      "text": "40,000/-"
+     },
+     {
+      "text": "Completed"
+     }
+    ],
+    [
+     {
+      "text": "12"
+     },
+     {
+      "text": "FIST"
+     },
+     {
+      "text": "2018-23"
+     },
+     {
+      "text": "Fund for Improvement of S & T Infrastructure"
+     },
+     {
+      "text": "DST"
+     },
+     {
+      "text": "40,00,000/-"
+     },
+     {
+      "text": "20,00,000/-"
+     },
+     {
+      "text": "Ongoing"
+     }
+    ],
+    [
+     {
+      "text": "13"
+     },
+     {
+      "text": "Travel Grant"
+     },
+     {
+      "text": "2018-19"
+     },
+     {
+      "text": "Travel Grant"
+     },
+     {
+      "text": "UGC"
+     },
+     {
+      "text": "1,06,666/-"
+     },
+     {
+      "text": "1,06,666/-"
+     },
+     {
+      "text": "Completed"
+     }
+    ],
+    [
+     {
+      "text": "14"
+     },
+     {
+      "text": "Travel Grant"
+     },
+     {
+      "text": "2019-20"
+     },
+     {
+      "text": "Travel Grant"
+     },
+     {
+      "text": "AICTE"
+     },
+     {
+      "text": "1,36,000/-"
+     },
+     {
+      "text": "1,36,000/-"
+     },
+     {
+      "text": "Completed"
+     }
+    ],
+    [
+     {
+      "text": "15"
+     },
+     {
+      "text": "Lecture Series"
+     },
+     {
+      "text": "2019-20"
+     },
+     {
+      "text": "Institutions Innovation Council"
+     },
+     {
+      "text": "MHRD"
+     },
+     {
+      "text": "12,000/-"
+     },
+     {
+      "text": "12,000/-"
+     },
+     {
+      "text": "Completed"
+     }
+    ],
+    [
+     {
+      "text": "16"
+     },
+     {
+      "text": "SCSP"
+     },
+     {
+      "text": "2019-22"
+     },
+     {
+      "text": "Design and Development of low-cost leather ironing machine (A Miniature Model) for leather artisans"
+     },
+     {
+      "text": "DST"
+     },
+     {
+      "text": "30,82,000/-"
+     },
+     {
+      "text": "22,00,000/-"
+     },
+     {
+      "text": "Ongoing"
+     }
+    ],
+    [
+     {
+      "text": "17"
+     },
+     {
+      "text": "MODROBS"
+     },
+     {
+      "text": "2019-21"
+     },
+     {
+      "text": "Modernization of Free Open source Lab with Cloud Services & Infrastructure Tools Lab"
+     },
+     {
+      "text": "AICTE"
+     },
+     {
+      "text": "13,86,275/-"
+     },
+     {
+      "text": "11,09,020/-"
+     },
+     {
+      "text": "Ongoing"
+     }
+    ],
+    [
+     {
+      "text": "18"
+     },
+     {
+      "text": "STTP"
+     },
+     {
+      "text": "2019-20"
+     },
+     {
+      "text": "Building Information Modelling"
+     },
+     {
+      "text": "AICTE"
+     },
+     {
+      "text": "2,76,000/-"
+     },
+     {
+      "text": "2,76,000/-"
+     },
+     {
+      "text": "Completed"
+     }
+    ],
+    [
+     {
+      "text": "19"
+     },
+     {
+      "text": "STTP"
+     },
+     {
+      "text": "2019-20"
+     },
+     {
+      "text": "Advanced Power Electronic Converters for Electric Vehicle Powertrain and Smart Grid"
+     },
+     {
+      "text": "AICTE"
+     },
+     {
+      "text": "1,94,667/-"
+     },
+     {
+      "text": "1,94,667/-"
+     },
+     {
+      "text": "Completed"
+     }
+    ],
+    [
+     {
+      "text": "20"
+     },
+     {
+      "text": "STTP"
+     },
+     {
+      "text": "2019-20"
+     },
+     {
+      "text": "Research Directions in Future of Internet of Things: Artificial Intelligence and 5G Networks"
+     },
+     {
+      "text": "AICTE"
+     },
+     {
+      "text": "3,06,667/-"
+     },
+     {
+      "text": "3,06,667/-"
+     },
+     {
+      "text": "Completed"
+     }
+    ],
+    [
+     {
+      "text": "21"
+     },
+     {
+      "text": "EAP"
+     },
+     {
+      "text": "2019-20"
+     },
+     {
+      "text": "Entrepreneurship Awareness Programme / Entrepreneurship Skill Development Programme on Computer Hardware and Networking"
+     },
+     {
+      "text": "NI-MSME"
+     },
+     {
+      "text": "90,000/-"
+     },
+     {
+      "text": "90,000/-"
+     },
+     {
+      "text": "Completed"
+     }
+    ],
+    [
+     {
+      "text": "22"
+     },
+     {
+      "text": "IDEA LABS"
+     },
+     {
+      "text": "2020-22"
+     },
+     {
+      "text": "Idea, Development, Evaluation and Application"
+     },
+     {
+      "text": "AICTE"
+     },
+     {
+      "text": "10228000"
+     },
+     {
+      "text": "80,00,000/-"
+     },
+     {
+      "text": "Ongoing"
+     }
+    ],
+    [
+     {
+      "text": "23"
+     },
+     {
+      "text": "WOS-B/KIRAN"
+     },
+     {
+      "text": "2021-22"
+     },
+     {
+      "text": "Plant Disease and Pest Detection using Recurrent Neural Networks based on Machine Learning for real time alerts enabling better agricultural productivity"
+     },
+     {
+      "text": "DST"
+     },
+     {
+      "text": "1936742/-"
+     },
+     {
+      "text": "7,00,000/-"
+     },
+     {
+      "text": "Ongoing"
+     }
+    ],
+    [
+     {
+      "text": "24"
+     },
+     {
+      "text": "MSME"
+     },
+     {
+      "text": "2021-22"
+     },
+     {
+      "text": "Smart Helmet"
+     },
+     {
+      "text": "MSME"
+     },
+     {
+      "text": "5,00,000/-"
+     },
+     {
+      "text": "Yet to receive"
+     },
+     {
+      "text": "Ongoing"
+     }
+    ],
+    [
+     {
+      "text": "25"
+     },
+     {
+      "text": "APSCST"
+     },
+     {
+      "text": "2021-22"
+     },
+     {
+      "text": "Development of Novel Solar Powered Ploughing Machine"
+     },
+     {
+      "text": "APSCST"
+     },
+     {
+      "text": "2,00,000/-"
+     },
+     {
+      "text": "Yet to receive"
+     },
+     {
+      "text": "Ongoing"
+     }
+    ],
+    [
+     {
+      "text": "26"
+     },
+     {
+      "text": "MSME IDEA Hackathon 3.0"
+     },
+     {
+      "text": "2023-24"
+     },
+     {
+      "text": "Automatic Rice Transplantation Machine (ARTM)"
+     },
+     {
+      "text": "MSME"
+     },
+     {
+      "text": "13,00,000/-"
+     },
+     {
+      "text": "Yet to receive"
+     },
+     {
+      "text": "Ongoing"
+     }
+    ],
+    [
+     {
+      "text": "27"
+     },
+     {
+      "text": "MSME IDEA Hackathon 3.0"
+     },
+     {
+      "text": "2023-25"
+     },
+     {
+      "text": "Development of Chillies drier with solar evacuated tube collector"
+     },
+     {
+      "text": "MSME"
+     },
+     {
+      "text": "14,00,000/-"
+     },
+     {
+      "text": "Yet to receive"
+     },
+     {
+      "text": "Ongoing"
+     }
+    ],
+    [
+     {
+      "text": "28"
+     },
+     {
+      "text": "Mentor – Mentee Scheme"
+     },
+     {
+      "text": "2023-24"
+     },
+     {
+      "text": "Mentor – Mentee Scheme"
+     },
+     {
+      "text": "IIC"
+     },
+     {
+      "text": "2,25,000/-"
+     },
+     {
+      "text": "Yet to receive"
+     },
+     {
+      "text": "Ongoing"
+     }
+    ]
+   ]
+  }
+ ]
+}

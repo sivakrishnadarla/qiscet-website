@@ -1,0 +1,71 @@
+{
+ "slug": "departments/mca/syllabus",
+ "section": "departments",
+ "sectionTitle": "Departments",
+ "title": "Syllabus – Master of Computer Applications",
+ "legacy": "https://qiscet.edu.in/qiscet/DEPARTMENTS_mca_syllabus.php",
+ "summary": null,
+ "blocks": [
+  {
+   "type": "table",
+   "rows": [
+    [
+     {
+      "text": "Regulation"
+     },
+     {
+      "text": "MCA",
+      "colspan": 8
+     }
+    ],
+    [
+     {
+      "text": "R-15 regulation"
+     },
+     {
+      "text": "MCA Syllabus",
+      "links": [
+       {
+        "label": "MCA Syllabus",
+        "href": "https://qiscet.edu.in/qiscet/departments/mca/R15%20QISCET%20MCA%20Syllabus-.pdf"
+       }
+      ],
+      "colspan": 8
+     }
+    ],
+    [
+     {
+      "text": "R-18 regulation"
+     },
+     {
+      "text": "MCA Syllabus",
+      "links": [
+       {
+        "label": "MCA Syllabus",
+        "href": "https://qiscet.edu.in/qiscet/departments/mca/R18%20QISCET%20MCA%20Syllabus.pdf"
+       }
+      ],
+      "colspan": 8
+     }
+    ],
+    [
+     {
+      "text": "R-20 regulation"
+     },
+     {
+      "text": "MCA Syllabus",
+      "links": [
+       {
+        "label": "MCA Syllabus",
+        "href": "https://qiscet.edu.in/qiscet/departments/mca/R20%20QISCET%20MCA%20Syllabus.pdf"
+       }
+      ],
+      "colspan": 8
+     }
+    ]
+   ]
+  }
+ ],
+ "department": "mca",
+ "pageTitle": "Syllabus"
+}

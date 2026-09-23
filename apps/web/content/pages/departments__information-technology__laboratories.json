@@ -1,0 +1,113 @@
+{
+ "slug": "departments/information-technology/laboratories",
+ "section": "departments",
+ "sectionTitle": "Departments",
+ "title": "Laboratories – Information Technology",
+ "legacy": "https://qiscet.edu.in/qiscet/DEPARTMENTS_it_labs.php",
+ "summary": null,
+ "blocks": [
+  {
+   "type": "table",
+   "rows": [
+    [
+     {
+      "text": "S.No"
+     },
+     {
+      "text": "Name of lab/workshop"
+     },
+     {
+      "text": "Details"
+     }
+    ],
+    [
+     {
+      "text": "1"
+     },
+     {
+      "text": "CENTRE FOR COMPUTING SYSTEMS LAB"
+     },
+     {
+      "text": "View",
+      "links": [
+       {
+        "label": "View",
+        "href": "https://qiscet.edu.in/qiscet/departments/it/labs/CENTRE%20FOR%20COMPUTING%20SYSTEMS%20LAB.pdf"
+       }
+      ]
+     }
+    ],
+    [
+     {
+      "text": "2"
+     },
+     {
+      "text": "CENTRE FOR COMPUTER SOFTWARE DEVELOPMENT LAB"
+     },
+     {
+      "text": "View",
+      "links": [
+       {
+        "label": "View",
+        "href": "https://qiscet.edu.in/qiscet/departments/it/labs/CENTRE%20FOR%20COMPUTER%20SOFTWARE%20DEVELOPMENT%20LAB.pdf"
+       }
+      ]
+     }
+    ],
+    [
+     {
+      "text": "3"
+     },
+     {
+      "text": "CENTRE FOR AI / ML / DS LAB"
+     },
+     {
+      "text": "View",
+      "links": [
+       {
+        "label": "View",
+        "href": "https://qiscet.edu.in/qiscet/departments/it/labs/CENTRE%20FOR%20AI-%20ML%20-DS%20LAB.pdf"
+       }
+      ]
+     }
+    ],
+    [
+     {
+      "text": "4"
+     },
+     {
+      "text": "CENTRE FOR CN, INFRA DEVELOPMENT & MANAGEMENT LAB"
+     },
+     {
+      "text": "View",
+      "links": [
+       {
+        "label": "View",
+        "href": "https://qiscet.edu.in/qiscet/departments/it/labs/CENTRE%20FOR%20CN%2C%20INFRA%20DEVELOPMENT%20%26%20MANAGEMENT%20LAB.pdf"
+       }
+      ]
+     }
+    ],
+    [
+     {
+      "text": "5"
+     },
+     {
+      "text": "CENTRE FOR PROGRAMMING LANGUAGES LAB"
+     },
+     {
+      "text": "View",
+      "links": [
+       {
+        "label": "View",
+        "href": "https://qiscet.edu.in/qiscet/departments/it/labs/CENTRE%20FOR%20PROGRAMMING%20LANGUAGES%20LAB.pdf"
+       }
+      ]
+     }
+    ]
+   ]
+  }
+ ],
+ "department": "information-technology",
+ "pageTitle": "Laboratories"
+}

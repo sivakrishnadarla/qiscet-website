@@ -1,0 +1,27 @@
+{
+ "slug": "placements/recruiters",
+ "section": "placements",
+ "sectionTitle": "Training & Placements",
+ "title": "Our Recruiters",
+ "legacy": "https://qiscet.edu.in/qiscet/PLACEMENT_AND_TRAINING_recruiters.php",
+ "summary": null,
+ "blocks": [
+  {
+   "type": "gallery",
+   "images": [
+    {
+     "src": "/images/placement_training/rec_c.jpg",
+     "alt": ""
+    },
+    {
+     "src": "/images/placement_training/tp_rq.jpg",
+     "alt": ""
+    },
+    {
+     "src": "/images/placement_training/tp_rq1.jpg",
+     "alt": ""
+    }
+   ]
+  }
+ ]
+}

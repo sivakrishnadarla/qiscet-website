@@ -1,0 +1,27 @@
+{
+ "slug": "departments/ai-data-science/board-of-studies",
+ "section": "departments",
+ "sectionTitle": "Departments",
+ "title": "Board of Studies – Artificial Intelligence & Data Science",
+ "legacy": "https://qiscet.edu.in/qiscet/DEPARTMENTS_ai_ds_BOS.php",
+ "summary": null,
+ "blocks": [
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    {
+     "text": "Meeting Minutes of BOS-6",
+     "links": [
+      {
+       "label": "Meeting Minutes of BOS-6",
+       "href": "https://qiscet.edu.in/qiscet/departments/cse%20ds/CSDS-6th%20BOS_Book.pdf"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "department": "ai-data-science",
+ "pageTitle": "Board of Studies"
+}

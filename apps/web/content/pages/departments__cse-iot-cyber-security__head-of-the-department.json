@@ -1,0 +1,73 @@
+{
+ "slug": "departments/cse-iot-cyber-security/head-of-the-department",
+ "section": "departments",
+ "sectionTitle": "Departments",
+ "title": "Head of the Department – CSE (IoT & Cyber Security including Blockchain Technology)",
+ "legacy": "https://qiscet.edu.in/qiscet/DEPARTMENTS_cse_IOT_CSIBT_HOD.php",
+ "summary": null,
+ "blocks": [
+  {
+   "type": "table",
+   "rows": [
+    [
+     {
+      "text": "HOD Name:"
+     },
+     {
+      "text": "Dr. M. Venu Gopala Rao"
+     }
+    ],
+    [
+     {
+      "text": "Designation:"
+     },
+     {
+      "text": "Professor & HOD"
+     }
+    ],
+    [
+     {
+      "text": "Qualification:"
+     },
+     {
+      "text": "M.E.,Ph.D"
+     }
+    ],
+    [
+     {
+      "text": "Email:"
+     },
+     {
+      "text": "cseiothod@qiscet.edu.in"
+     }
+    ],
+    [
+     {
+      "text": "Contact No:"
+     },
+     {
+      "text": "9440931217"
+     }
+    ],
+    [
+     {
+      "text": "Areas of Interest:"
+     },
+     {
+      "text": "Artificial Inteligence, Machine Learning, Application Development"
+     }
+    ],
+    [
+     {
+      "text": "Experience:"
+     },
+     {
+      "text": "27 years"
+     }
+    ]
+   ]
+  }
+ ],
+ "department": "cse-iot-cyber-security",
+ "pageTitle": "Head of the Department"
+}

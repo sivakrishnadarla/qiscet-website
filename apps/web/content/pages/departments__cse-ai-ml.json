@@ -1,0 +1,167 @@
+{
+ "slug": "departments/cse-ai-ml",
+ "section": "departments",
+ "sectionTitle": "Departments",
+ "title": "CSE (Artificial Intelligence & Machine Learning)",
+ "legacy": "https://qiscet.edu.in/qiscet/DEPARTMENTS_CSE_AI_ML.php",
+ "summary": "The Department of Computer Science & Engineering (Artificial Intelligence & Machine Learning) was established in the year 2021. It has become one of the most sought-after branches among engineering…",
+ "blocks": [
+  {
+   "type": "paragraph",
+   "text": "The Department of Computer Science & Engineering (Artificial Intelligence & Machine Learning) was established in the year 2021. It has become one of the most sought-after branches among engineering aspirants. The college conducts examinations, and the degree is awarded by JNTU Kakinada. The university integrates the latest advancements in Artificial Intelligence, Machine Learning, Deep Learning, Natural Language Processing, Computer Vision, Data Science, and allied fields in a dynamic manner. This ensures that students gain expertise in AI- driven technologies, intelligent automation, and real-world problem-solving, equipping them for careers in cutting-edge industries."
+  },
+  {
+   "type": "paragraph",
+   "text": "The Computer Science and Engineering (Artificial Intelligence & Machine Learning) branch is dedicated to developing intelligent computing systems that can learn, adapt, and make decisions like humans. This program integrates core computer science principles with AI and ML technologies, enabling students to design innovative solutions for complex real-world problems. The curriculum focuses on machine learning, deep learning, natural language processing, robotics, data science, and cloud computing, preparing students for careers in cutting-edge domains such as autonomous systems, AI-driven automation, healthcare analytics, Cybersecurity, and smart technologies. Through a combination of research, hands-on training, and industry collaborations, we aim to produce highly skilled AI professionals capable of driving technological advancements responsibly and ethically."
+  },
+  {
+   "type": "heading",
+   "text": "Courses",
+   "level": 4
+  },
+  {
+   "type": "table",
+   "rows": [
+    [
+     {
+      "text": "Courses Offered"
+     },
+     {
+      "text": "Intake"
+     }
+    ],
+    [
+     {
+      "text": "B.Tech - CSE AI & ML"
+     },
+     {
+      "text": "180"
+     }
+    ]
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "Vision",
+   "level": 4
+  },
+  {
+   "type": "paragraph",
+   "text": "To be a globally recognized center of excellence in Artificial Intelligence & Machine Learning, fostering innovation, research, and ethical AI-driven solutions that transform industries and improve human lives."
+  },
+  {
+   "type": "heading",
+   "text": "Mission",
+   "level": 4
+  },
+  {
+   "type": "list",
+   "ordered": true,
+   "items": [
+    {
+     "text": "To advance education, research, and innovation in Artificial Intelligence and Machine Learning, ensuring responsible and ethical AI development."
+    },
+    {
+     "text": "To equip students with expertise in machine learning, deep learning, data science, and AI-powered automation, fostering industry collaboration and technological entrepreneurship."
+    },
+    {
+     "text": "To integrate AI-driven solutions into realworld applications, support continuous learning, and empower professionals to shape the future of intelligent computing."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "B.Tech",
+   "level": 4
+  },
+  {
+   "type": "heading",
+   "text": "Programme Educational Objectives Of B.Tech CSE(AI&ML)",
+   "level": 4
+  },
+  {
+   "type": "list",
+   "ordered": true,
+   "items": [
+    {
+     "text": "Graduate shall have knowledge in applied and basic engineering sciences to understand engineering principles which is necessary to formulate and solve problems related to Artificial Inteligence."
+    },
+    {
+     "text": "Graduate shall have knowledge in experimentation, analysis and synthesis of Artificial Inteligence courses to Design/Innovate and create novel products/Solutions to real life problems."
+    },
+    {
+     "text": "Graduate shall have Managerial and entrepreneur skills, ethical and professional attitude in multidisciplinary approach to meet the needs of industry and society."
+    },
+    {
+     "text": "Graduate shall go for further studies, research, lifelong learning to adopt oneself in the phase of changing technologies to ensure the students to success in engineering position globally."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "Programme Outcomes Of B.Tech CSE(AI&ML)",
+   "level": 4
+  },
+  {
+   "type": "list",
+   "ordered": true,
+   "items": [
+    {
+     "text": "Engineering Knowledge: Apply the knowledge of mathematics, science, engineering fundamentals, and an engineering specialization to the solution of complex engineering problems."
+    },
+    {
+     "text": "Problem Analysis: Identify, formulate, review research literature, and analyze complex engineering problems reaching substantiated conclusions using first principles of mathematics, natural sciences, and engineering sciences."
+    },
+    {
+     "text": "Design/development of solutions: Design solutions for complex engineering problems and design system components or processes that meet the specified needs with appropriate consideration for the public health and safety, and the cultural, societal, and environmental considerations."
+    },
+    {
+     "text": "Conduct investigations of complex problems: Use research-based knowledge and research methods including design of experiments, analysis and interpretation of data, and synthesis of the information to provide valid conclusions."
+    },
+    {
+     "text": "Modern Tool Usage: Create, select, and apply appropriate techniques, resources, and modern engineering and AI tools including prediction and modeling to complex engineering activities with an understanding of the limitations."
+    },
+    {
+     "text": "The Engineer and Society: Apply reasoning informed by the contextual knowledge to assess societal, health, safety, legal and cultural issues and the consequent responsibilities relevant to the professional engineering practice."
+    },
+    {
+     "text": "Environment and Sustainability: Understand the impact of the professional engineering solutions in societal and environmental contexts, and demonstrate the knowledge of, and need for sustainable development."
+    },
+    {
+     "text": "Ethics: Apply ethical principles and commit to professional ethics and responsibilities and norms of the engineering practice."
+    },
+    {
+     "text": "Individual and Team work: Function effectively as an individual, and as a member or leader in diverse teams, and in multidisciplinary settings."
+    },
+    {
+     "text": "Communication: Communicate effectively on complex engineering activities with the engineering community and with society at large, such as, being able to comprehend and write effective reports and design documentation, make effective presentations, and give and receive clear instructions."
+    },
+    {
+     "text": "Project Management and Finance: Demonstrate knowledge and understanding of the engineering and management principles and apply these to one’s own work, as a member and leader in a team, to manage projects and in multidisciplinary environments."
+    },
+    {
+     "text": "Life-long Learning: Recognize the need for, and have the preparation and ability to engage in independent and life-long learning in the broadest context of technological change."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "Programme Specific Out Comes Of B.Tech CSE(AI&ML)",
+   "level": 4
+  },
+  {
+   "type": "list",
+   "ordered": true,
+   "items": [
+    {
+     "text": "Domain Knowledge:The CSE Artificial Inteligence & Machine Learning graduates will able to identify and analyze end user needs and take them into account in the selection, creation, evaluation and administration of AI solutions."
+    },
+    {
+     "text": "Process Management:An ability to organize an AI&ML infrastructure by managing, monitoring the resources and safeguard the data."
+    }
+   ]
+  }
+ ],
+ "department": "cse-ai-ml",
+ "isDepartmentHome": true
+}

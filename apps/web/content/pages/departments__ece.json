@@ -1,0 +1,229 @@
+{
+ "slug": "departments/ece",
+ "section": "departments",
+ "sectionTitle": "Departments",
+ "title": "Electronics & Communication Engineering",
+ "legacy": "https://qiscet.edu.in/qiscet/DEPARTMENTS_ece.php",
+ "summary": "The Department of Electronics & Communication engineering was started in the year 1998. The college conducts the examinations and the degree is awarded by JNTU Kakinada. University incorporates…",
+ "blocks": [
+  {
+   "type": "paragraph",
+   "text": "The Department of Electronics & Communication engineering was started in the year 1998. The college conducts the examinations and the degree is awarded by JNTU Kakinada. University incorporates latest developments in Electronics and Communication systems, VLSI and Embedded systems, networking and allied fields in a dynamic fashion so that the student is exposed to the latest technological advancements during the program."
+  },
+  {
+   "type": "paragraph",
+   "text": "The department is also offering Three PG programmes, M.Tech in Digital Electronics and Communication Systems, Digital Systems and Computer Electronics, and VLSI & Embedded Systems."
+  },
+  {
+   "type": "heading",
+   "text": "Courses",
+   "level": 4
+  },
+  {
+   "type": "table",
+   "rows": [
+    [
+     {
+      "text": "Courses Offered"
+     },
+     {
+      "text": "Intake"
+     }
+    ],
+    [
+     {
+      "text": "B.Tech - ECE (Electronics & Communication Engineering)"
+     },
+     {
+      "text": "360"
+     }
+    ],
+    [
+     {
+      "text": "M.Tech - VLSI & ES (VLSI & Embedded Systems)"
+     },
+     {
+      "text": "18"
+     }
+    ]
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "Vision",
+   "level": 4
+  },
+  {
+   "type": "paragraph",
+   "text": "To be a centre of high quality education and research in the field of electronics and communication engineering in order to fulfil the worldwide needs and to produce entrepreneurs with a synthesis of ethical principles and societal goals."
+  },
+  {
+   "type": "heading",
+   "text": "Mission",
+   "level": 4
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    {
+     "text": "To impart quality education to meet the needs of the industry and research in the field of Electronics and Communication Engineering."
+    },
+    {
+     "text": "To encourage an environment conducive to innovation, creativity, team spirit and entrepreneurial leadership in Electronics and Communication Engineering."
+    },
+    {
+     "text": "To foster networking with Alumni, Software Industries, Institutes and other stakeholders for effective interaction."
+    },
+    {
+     "text": "To practice and promote high standards of ethical values through societal commitment."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "B.Tech",
+   "level": 4
+  },
+  {
+   "type": "heading",
+   "text": "Programme Educational Objectives Of B.Tech (ECE)",
+   "level": 4
+  },
+  {
+   "type": "list",
+   "ordered": true,
+   "items": [
+    {
+     "text": "LEARN AND INTEGRATE:Graduates must have understanding of applied and fundamental engineering sciences in order to comprehend engineering principles, which are required to create and solve problems pertaining to Electronics and Communication Engineering."
+    },
+    {
+     "text": "THINK AND CREATE:Students graduating from this programme are expected to have knowledge in the areas of experimentation, analysis, and synthesis pertaining to Electronics and Communication Engineering. Classes that focus on design, innovation, and the creation of unique products and solutions to real-world challenges."
+    },
+    {
+     "text": "PRACTICE CITIZENSHIP:In order to fulfil the requirements of both industry and society, graduates are expected to have skills in management and entrepreneurship, an ethical and professional mindset, and a multidisciplinary approach."
+    },
+    {
+     "text": "EXPERTISE:Graduates are encouraged to pursue more education, participate in research, and engage in lifelong learning in order to adapt themselves to the rapidly evolving technological landscape and to increase their chances of finding success in engineering positions around the world."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "Programme Outcomes Of B.Tech (ECE)",
+   "level": 4
+  },
+  {
+   "type": "list",
+   "ordered": true,
+   "items": [
+    {
+     "text": "An ability to apply the knowledge of mathematics, science, engineering fundamentals, and an engineering specialization to the solution of complex engineering problems."
+    },
+    {
+     "text": "An ability to identify, formulate, review research literature, and analyze complex engineering problems reaching substantiated conclusions using first principles of mathematics, natural sciences, and engineering sciences."
+    },
+    {
+     "text": "An ability to Design solutions for complex engineering problems and design system components or processes that meet the specified needs with appropriate consideration for the public health and safety, and the cultural, societal, and environmental considerations."
+    },
+    {
+     "text": "An ability to use research-based knowledge and research methods including design of experiments, analysis and interpretation of data, and synthesis of the information to provide valid conclusions."
+    },
+    {
+     "text": "An ability to create, select, and apply appropriate techniques, resources, and modern engineering and IT tools including prediction and modeling to complex engineering activities with an understanding of the limitations."
+    },
+    {
+     "text": "An ability to apply reasoning informed by the contextual knowledge to assess societal, health, safety, legal and cultural issues and the consequent responsibilities relevant to the professional engineering practice."
+    },
+    {
+     "text": "An ability to understand the impact of the professional engineering solutions in societal and environmental contexts, and demonstrate the knowledge of, and need for sustainable development."
+    },
+    {
+     "text": "An ability to apply ethical principles and commit to professional ethics and responsibilities and norms of the engineering practice."
+    },
+    {
+     "text": "An ability to function effectively as an individual, and as a member or leader in diverse teams, and in multidisciplinary settings."
+    },
+    {
+     "text": "An ability to communicate effectively on complex engineering activities with the engineering community and with society at large, such as, being able to comprehend and write effective reports and design documentation, make effective presentations, and give and receive clear instructions."
+    },
+    {
+     "text": "An ability to demonstrate knowledge and understanding of the engineering and management principles and apply these to one’s own work, as a member and leader in a team, to manage projects and in multidisciplinary environments."
+    },
+    {
+     "text": "An ability to recognize the need for, and have the preparation and ability to engage in independent and life-long learning in the broadest context of technological change."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "Programme Specific Out Comes Of B.Tech (ECE)",
+   "level": 4
+  },
+  {
+   "type": "heading",
+   "text": "M.Tech (VLSI And ES)",
+   "level": 4
+  },
+  {
+   "type": "heading",
+   "text": "Programme Educational Objectives Of M.Tech (VLSI And ES)",
+   "level": 4
+  },
+  {
+   "type": "list",
+   "ordered": true,
+   "items": [
+    {
+     "text": "Graduates would apply their undergraduate fundamentals to solve complex engineering problems in the field of VLSI and Embedded Systems."
+    },
+    {
+     "text": "Graduates would demonstrate active participation in Research and Development activities related to VLSI and Embedded Systems and publish research papers in various technical forums."
+    },
+    {
+     "text": "Graduates would familiarize with professional issues, demonstrate profession interaction and work effectively in teams."
+    },
+    {
+     "text": "Graduates would engage themselves in the related areas to suit their career aspirations which will lead to lifelong learning."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "Programme Outcomes Of M.Tech (VLSI And ES)",
+   "level": 4
+  },
+  {
+   "type": "list",
+   "ordered": true,
+   "items": [
+    {
+     "text": "An ability to apply the knowledge gained from undergraduate engineering to identify, formulate, and solve problems and challenges in VLSI and Embedded Systems."
+    },
+    {
+     "text": "An ability to design Electronics and Communication Engineering systems for different applications, conduct experiments, analyse, and interpret data."
+    },
+    {
+     "text": "An ability to acquire continuous learning skills, plan and conduct a systematic study on significant research."
+    },
+    {
+     "text": "An ability to prepare technical reports."
+    },
+    {
+     "text": "An ability to understand and integrate new technology."
+    },
+    {
+     "text": "An ability to use modern engineering tools."
+    },
+    {
+     "text": "An ability to communicate professionally."
+    },
+    {
+     "text": "An ability to develop confidence for self-education and lifelong learning."
+    }
+   ]
+  }
+ ],
+ "department": "ece",
+ "isDepartmentHome": true
+}

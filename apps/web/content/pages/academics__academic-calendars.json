@@ -1,0 +1,67 @@
+{
+ "slug": "academics/academic-calendars",
+ "section": "academics",
+ "sectionTitle": "Academics",
+ "title": "Academic Calendars",
+ "legacy": "https://qiscet.edu.in/qiscet/ACADEMICS_calanders.php",
+ "summary": null,
+ "blocks": [
+  {
+   "type": "table",
+   "rows": [
+    [
+     {
+      "text": "Academic calendars 2025-2026 Academic calendars 2024-2025 Academic calendars 2023-2024 Academic calendars 2022-2023 Academic calendars 2021-2022 Academic calendars 2020-2021 Academic calendars 2019-2020 Academic calendars 2018-2019 Academic calendars 2017-2018 Academic calendars 2016-2017 Academic calendars 2015-2016",
+      "links": [
+       {
+        "label": "Academic calendars 2025-2026",
+        "href": "https://qiscet.edu.in/qiscet/acadamic/Academic_Calenders_2025-2026.pdf"
+       },
+       {
+        "label": "Academic calendars 2024-2025",
+        "href": "https://qiscet.edu.in/qiscet/acadamic/Academic_Calenders_2024-2025.pdf"
+       },
+       {
+        "label": "Academic calendars 2023-2024",
+        "href": "https://qiscet.edu.in/qiscet/acadamic/Academic_Calenders_2023-2024.pdf"
+       },
+       {
+        "label": "Academic calendars 2022-2023",
+        "href": "https://qiscet.edu.in/qiscet/acadamic/Academic_Book_2022-2023.pdf"
+       },
+       {
+        "label": "Academic calendars 2021-2022",
+        "href": "https://qiscet.edu.in/qiscet/acadamic/Academic%20Calendars%20Book%202021-2022.pdf"
+       },
+       {
+        "label": "Academic calendars 2020-2021",
+        "href": "https://qiscet.edu.in/qiscet/acadamic/Academic%20Calendars%20Book%202020-2021.pdf"
+       },
+       {
+        "label": "Academic calendars 2019-2020",
+        "href": "https://qiscet.edu.in/qiscet/acadamic/Academic%20Calendars%20Book%202019-2020.pdf"
+       },
+       {
+        "label": "Academic calendars 2018-2019",
+        "href": "https://qiscet.edu.in/qiscet/acadamic/Academic%20Calendars%20Book%202018-2019.pdf"
+       },
+       {
+        "label": "Academic calendars 2017-2018",
+        "href": "https://qiscet.edu.in/qiscet/acadamic/Academic%20Calendars%20Book%202017-2018.pdf"
+       },
+       {
+        "label": "Academic calendars 2016-2017",
+        "href": "https://qiscet.edu.in/qiscet/acadamic/Academic%20Calendars%20Book%202016-2017.pdf"
+       },
+       {
+        "label": "Academic calendars 2015-2016",
+        "href": "https://qiscet.edu.in/qiscet/acadamic/Academic%20Calendars%20Book%202015-2016.pdf"
+       }
+      ],
+      "colspan": 2
+     }
+    ]
+   ]
+  }
+ ]
+}

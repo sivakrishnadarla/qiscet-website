@@ -1,0 +1,351 @@
+{
+ "slug": "facilities/library/gallery",
+ "section": "facilities",
+ "sectionTitle": "Facilities",
+ "title": "Library Gallery",
+ "legacy": "https://qiscet.edu.in/qiscet/FACILITIES_library_gallary.php",
+ "summary": null,
+ "blocks": [
+  {
+   "type": "paragraph",
+   "text": "'"
+  },
+  {
+   "type": "image",
+   "src": "/images/library/gallery/saraswathi-devi.jpg",
+   "alt": ""
+  },
+  {
+   "type": "paragraph",
+   "text": "Saraswathi Devi"
+  },
+  {
+   "type": "image",
+   "src": "/images/library/gallery/librarian-head.jpg",
+   "alt": ""
+  },
+  {
+   "type": "paragraph",
+   "text": "Librarian & Head"
+  },
+  {
+   "type": "image",
+   "src": "/images/library/gallery/3.jpg",
+   "alt": ""
+  },
+  {
+   "type": "paragraph",
+   "text": "All Areas"
+  },
+  {
+   "type": "image",
+   "src": "/images/library/gallery/acquisition.jpg",
+   "alt": ""
+  },
+  {
+   "type": "paragraph",
+   "text": "Acquisition"
+  },
+  {
+   "type": "image",
+   "src": "/images/library/gallery/automation-scanning.jpg",
+   "alt": ""
+  },
+  {
+   "type": "paragraph",
+   "text": "Automation & Scanning"
+  },
+  {
+   "type": "image",
+   "src": "/images/library/gallery/barcode.jpg",
+   "alt": ""
+  },
+  {
+   "type": "paragraph",
+   "text": "Barcode"
+  },
+  {
+   "type": "image",
+   "src": "/images/library/gallery/digital-library.jpg",
+   "alt": ""
+  },
+  {
+   "type": "paragraph",
+   "text": "Digital Library"
+  },
+  {
+   "type": "image",
+   "src": "/images/library/gallery/nptel-orientation-programme.jpg",
+   "alt": ""
+  },
+  {
+   "type": "paragraph",
+   "text": "NPTEL Orientation Programme"
+  },
+  {
+   "type": "image",
+   "src": "/images/library/gallery/delnet-orientation-programme.jpg",
+   "alt": ""
+  },
+  {
+   "type": "paragraph",
+   "text": "DELNET Orientation Programme"
+  },
+  {
+   "type": "image",
+   "src": "/images/library/gallery/ieee-orientation-programme.jpg",
+   "alt": ""
+  },
+  {
+   "type": "paragraph",
+   "text": "IEEE Orientation Programme"
+  },
+  {
+   "type": "image",
+   "src": "/images/library/gallery/ieee-orientation-progemme.jpg",
+   "alt": ""
+  },
+  {
+   "type": "paragraph",
+   "text": "IEEE Orientation Progamme"
+  },
+  {
+   "type": "image",
+   "src": "/images/library/gallery/opac-online-public-access-catalogue.jpg",
+   "alt": ""
+  },
+  {
+   "type": "paragraph",
+   "text": "OPAC (Online Public Access Catalogue)"
+  },
+  {
+   "type": "image",
+   "src": "/images/library/gallery/check-in-check-out.jpg",
+   "alt": ""
+  },
+  {
+   "type": "paragraph",
+   "text": "Check In & Check Out"
+  },
+  {
+   "type": "image",
+   "src": "/images/library/gallery/2.jpg",
+   "alt": ""
+  },
+  {
+   "type": "paragraph",
+   "text": "Check In & Check Out-Central Library"
+  },
+  {
+   "type": "image",
+   "src": "/images/library/gallery/1.jpg",
+   "alt": ""
+  },
+  {
+   "type": "paragraph",
+   "text": "Check In & Check Out-Digital Library"
+  },
+  {
+   "type": "image",
+   "src": "/images/library/gallery/transaction-counter.jpg",
+   "alt": ""
+  },
+  {
+   "type": "paragraph",
+   "text": "Transaction Counter"
+  },
+  {
+   "type": "image",
+   "src": "/images/library/gallery/issue-area.jpg",
+   "alt": ""
+  },
+  {
+   "type": "paragraph",
+   "text": "Issue Area"
+  },
+  {
+   "type": "image",
+   "src": "/images/library/gallery/reference-area.jpg",
+   "alt": ""
+  },
+  {
+   "type": "paragraph",
+   "text": "Reference Area"
+  },
+  {
+   "type": "image",
+   "src": "/images/library/gallery/group-discussion.jpg",
+   "alt": ""
+  },
+  {
+   "type": "paragraph",
+   "text": "Group Discussion"
+  },
+  {
+   "type": "image",
+   "src": "/images/library/gallery/catalogues-print-version.jpg",
+   "alt": ""
+  },
+  {
+   "type": "paragraph",
+   "text": "Catalogues-Print Version"
+  },
+  {
+   "type": "image",
+   "src": "/images/library/gallery/new-arrivals.jpg",
+   "alt": ""
+  },
+  {
+   "type": "paragraph",
+   "text": "New Arrivals"
+  },
+  {
+   "type": "image",
+   "src": "/images/library/gallery/print-journals.jpg",
+   "alt": ""
+  },
+  {
+   "type": "paragraph",
+   "text": "Print Journals"
+  },
+  {
+   "type": "image",
+   "src": "/images/library/gallery/reprographic-printing-area.jpg",
+   "alt": ""
+  },
+  {
+   "type": "paragraph",
+   "text": "Reprographic & Printing Area"
+  },
+  {
+   "type": "image",
+   "src": "/images/library/gallery/news-papers-section.jpg",
+   "alt": ""
+  },
+  {
+   "type": "paragraph",
+   "text": "News Papers Section - Girls"
+  },
+  {
+   "type": "image",
+   "src": "/images/library/gallery/question-papers-b.tech.jpg",
+   "alt": ""
+  },
+  {
+   "type": "paragraph",
+   "text": "Question Papers-B.Tech"
+  },
+  {
+   "type": "image",
+   "src": "/images/library/gallery/question-papers-pg.jpg",
+   "alt": ""
+  },
+  {
+   "type": "paragraph",
+   "text": "Question Papers-PG"
+  },
+  {
+   "type": "image",
+   "src": "/images/library/gallery/project-reports-back-volumes-of-periodicals.jpg",
+   "alt": ""
+  },
+  {
+   "type": "paragraph",
+   "text": "Project Reports & Back"
+  },
+  {
+   "type": "paragraph",
+   "text": "Volumes of Periodicals"
+  },
+  {
+   "type": "image",
+   "src": "/images/library/gallery/library-office.jpg",
+   "alt": ""
+  },
+  {
+   "type": "paragraph",
+   "text": "Library Office"
+  },
+  {
+   "type": "image",
+   "src": "/images/library/gallery/librarian-s-cabin.jpg",
+   "alt": ""
+  },
+  {
+   "type": "paragraph",
+   "text": "Librarian & Head Cabin"
+  },
+  {
+   "type": "image",
+   "src": "/images/library/gallery/over-view.jpg",
+   "alt": ""
+  },
+  {
+   "type": "paragraph",
+   "text": "Over View"
+  },
+  {
+   "type": "image",
+   "src": "/images/library/gallery/book-bank-library.jpg",
+   "alt": ""
+  },
+  {
+   "type": "paragraph",
+   "text": "Book Bank Library"
+  },
+  {
+   "type": "image",
+   "src": "/images/library/gallery/library-resources.jpg",
+   "alt": ""
+  },
+  {
+   "type": "paragraph",
+   "text": "Library Resources"
+  },
+  {
+   "type": "image",
+   "src": "/images/library/gallery/staff.jpg",
+   "alt": ""
+  },
+  {
+   "type": "paragraph",
+   "text": "Staff"
+  },
+  {
+   "type": "image",
+   "src": "/images/library/gallery/binding.jpg",
+   "alt": ""
+  },
+  {
+   "type": "paragraph",
+   "text": "Binding"
+  },
+  {
+   "type": "image",
+   "src": "/images/library/gallery/store-room.jpg",
+   "alt": ""
+  },
+  {
+   "type": "paragraph",
+   "text": "Store Room"
+  },
+  {
+   "type": "image",
+   "src": "/images/library/gallery/notice-board.jpg",
+   "alt": ""
+  },
+  {
+   "type": "paragraph",
+   "text": "Notice Board"
+  },
+  {
+   "type": "image",
+   "src": "/images/library/gallery/security-zone.jpg",
+   "alt": ""
+  },
+  {
+   "type": "paragraph",
+   "text": "Security Zone"
+  }
+ ]
+}

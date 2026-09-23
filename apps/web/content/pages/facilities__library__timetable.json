@@ -1,0 +1,43 @@
+{
+ "slug": "facilities/library/timetable",
+ "section": "facilities",
+ "sectionTitle": "Facilities",
+ "title": "Library Timetable",
+ "legacy": "https://qiscet.edu.in/qiscet/FACILITIES_library_timetable.php",
+ "summary": null,
+ "blocks": [
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    {
+     "text": "Library Hours for 2024-2025 Semester-II",
+     "links": [
+      {
+       "label": "Library Hours for 2024-2025 Semester-II",
+       "href": "https://qiscet.edu.in/qiscet/library/pdfs/LIBRARY%20HOURS%20SCHEDULE%202024-25_2.pdf"
+      }
+     ]
+    },
+    {
+     "text": "Library Hours for 2024-2025 Semester-I",
+     "links": [
+      {
+       "label": "Library Hours for 2024-2025 Semester-I",
+       "href": "https://qiscet.edu.in/qiscet/library/pdfs/LIBRARY%20HOURS%20SCHEDULE%202024-25.pdf"
+      }
+     ]
+    },
+    {
+     "text": "Library Hours for 2023-2024",
+     "links": [
+      {
+       "label": "Library Hours for 2023-2024",
+       "href": "https://qiscet.edu.in/qiscet/library/pdfs/LIBRARY%20HOURS%20SCHEDULE.pdf"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

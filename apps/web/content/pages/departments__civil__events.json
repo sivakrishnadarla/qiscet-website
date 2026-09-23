@@ -1,0 +1,17 @@
+{
+ "slug": "departments/civil/events",
+ "section": "departments",
+ "sectionTitle": "Departments",
+ "title": "Events – Civil Engineering",
+ "legacy": "https://qiscet.edu.in/qiscet/DEPARTMENTS_ce_events.php",
+ "summary": null,
+ "blocks": [
+  {
+   "type": "link",
+   "label": "CONFEST-2023",
+   "href": "https://qiscet.edu.in/qiscet/events/civil_confest-2023/"
+  }
+ ],
+ "department": "civil",
+ "pageTitle": "Events"
+}

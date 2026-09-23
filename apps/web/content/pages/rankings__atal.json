@@ -1,0 +1,34 @@
+{
+ "slug": "rankings/atal",
+ "section": "rankings",
+ "sectionTitle": "Rankings & Certifications",
+ "title": "ATAL Ranking (ARIIA)",
+ "legacy": "https://qiscet.edu.in/qiscet/RANKING_atal.php",
+ "summary": null,
+ "blocks": [
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    {
+     "text": "Atal Certificate",
+     "links": [
+      {
+       "label": "Atal Certificate",
+       "href": "https://qiscet.edu.in/qiscet/ranking/atal/ARI-C-17997Certificate.pdf"
+      }
+     ]
+    },
+    {
+     "text": "Atal Documentaion",
+     "links": [
+      {
+       "label": "Atal Documentaion",
+       "href": "https://qiscet.edu.in/qiscet/ranking/atal/ARI-C-17997.pdf"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

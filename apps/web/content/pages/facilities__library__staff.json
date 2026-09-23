@@ -1,0 +1,275 @@
+{
+ "slug": "facilities/library/staff",
+ "section": "facilities",
+ "sectionTitle": "Facilities",
+ "title": "Library Staff",
+ "legacy": "https://qiscet.edu.in/qiscet/FACILITIES_library_staff_list.php",
+ "summary": null,
+ "blocks": [
+  {
+   "type": "table",
+   "rows": [
+    [
+     {
+      "text": "S. No"
+     },
+     {
+      "text": "Name of the Staff"
+     },
+     {
+      "text": "Qualification"
+     },
+     {
+      "text": "Designation"
+     },
+     {
+      "text": "Experience"
+     }
+    ],
+    [
+     {
+      "text": "1"
+     },
+     {
+      "text": "Dr.Srinivas Nalluri"
+     },
+     {
+      "text": "M.L.I.Sc., M.Phil., M.A., PGDLAN & Ph.D"
+     },
+     {
+      "text": "Head"
+     },
+     {
+      "text": "27"
+     }
+    ],
+    [
+     {
+      "text": "2"
+     },
+     {
+      "text": "Mrs. CH. Sulochana"
+     },
+     {
+      "text": "B.Com., B.Ed."
+     },
+     {
+      "text": "Library Assistant"
+     },
+     {
+      "text": "10"
+     }
+    ],
+    [
+     {
+      "text": "3"
+     },
+     {
+      "text": "Mr. G. Mahesh Babu"
+     },
+     {
+      "text": "MBA"
+     },
+     {
+      "text": "Library Assistant"
+     },
+     {
+      "text": "7"
+     }
+    ],
+    [
+     {
+      "text": "4"
+     },
+     {
+      "text": "Mr. K.Venkateswara Rao"
+     },
+     {
+      "text": "B.Com"
+     },
+     {
+      "text": "Library Assistant"
+     },
+     {
+      "text": "7"
+     }
+    ],
+    [
+     {
+      "text": "5"
+     },
+     {
+      "text": "Mr. K.Raghava"
+     },
+     {
+      "text": "B.Com"
+     },
+     {
+      "text": "Library Assistant"
+     },
+     {
+      "text": "3"
+     }
+    ],
+    [
+     {
+      "text": "6"
+     },
+     {
+      "text": "Mr. R. Raghavnedra Rao"
+     },
+     {
+      "text": "B.Com"
+     },
+     {
+      "text": "Library Assistant"
+     },
+     {
+      "text": "1"
+     }
+    ],
+    [
+     {
+      "text": "7"
+     },
+     {
+      "text": "Mr. Shaik Abdul Baseed"
+     },
+     {
+      "text": "B.Com"
+     },
+     {
+      "text": "Library Assistant"
+     },
+     {
+      "text": "1"
+     }
+    ],
+    [
+     {
+      "text": "8"
+     },
+     {
+      "text": "Mr. Nandtala Sridhar"
+     },
+     {
+      "text": "B.A"
+     },
+     {
+      "text": "Junior Library Assistant"
+     },
+     {
+      "text": "1"
+     }
+    ],
+    [
+     {
+      "text": "9"
+     },
+     {
+      "text": "Mr. D. Balakrishna"
+     },
+     {
+      "text": "Intermediate"
+     },
+     {
+      "text": "Junior Library Asistant"
+     },
+     {
+      "text": "1"
+     }
+    ],
+    [
+     {
+      "text": "10"
+     },
+     {
+      "text": "Mr. N. Vamsi Krishna"
+     },
+     {
+      "text": "Intermediate"
+     },
+     {
+      "text": "Junior Library Asistant"
+     },
+     {
+      "text": "1"
+     }
+    ],
+    [
+     {
+      "text": "11"
+     },
+     {
+      "text": "Mrs. B. Koteswaramma"
+     },
+     {
+      "text": "10th Class"
+     },
+     {
+      "text": "Book Barear"
+     },
+     {
+      "text": "22"
+     }
+    ],
+    [
+     {
+      "text": "12"
+     },
+     {
+      "text": "Mrs. K. Sumalatha"
+     },
+     {
+      "text": "10th Class"
+     },
+     {
+      "text": "Attendar"
+     },
+     {
+      "text": "5"
+     }
+    ],
+    [
+     {
+      "text": "13"
+     },
+     {
+      "text": "Mr. P. Ankamma Rao"
+     },
+     {
+      "text": "10th Class"
+     },
+     {
+      "text": "Security"
+     },
+     {
+      "text": "2"
+     }
+    ],
+    [
+     {
+      "text": "14"
+     },
+     {
+      "text": "Mrs. T. Ludhiya"
+     },
+     {
+      "text": "8th Class"
+     },
+     {
+      "text": "House Keeping"
+     },
+     {
+      "text": "1"
+     }
+    ]
+   ]
+  },
+  {
+   "type": "image",
+   "src": "/images/library/library.jpg",
+   "alt": ""
+  }
+ ]
+}

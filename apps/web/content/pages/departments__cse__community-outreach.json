@@ -1,0 +1,27 @@
+{
+ "slug": "departments/cse/community-outreach",
+ "section": "departments",
+ "sectionTitle": "Departments",
+ "title": "Community Outreach – Computer Science & Engineering",
+ "legacy": "https://qiscet.edu.in/qiscet/DEPARTMENTS_cse_community.php",
+ "summary": null,
+ "blocks": [
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    {
+     "text": "NSS",
+     "links": [
+      {
+       "label": "NSS",
+       "href": "https://qiscet.edu.in/qiscet/DEPARTMENTS_cse_nss.php"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "department": "cse",
+ "pageTitle": "Community Outreach"
+}

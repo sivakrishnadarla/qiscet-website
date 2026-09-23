@@ -1,0 +1,72 @@
+{
+ "slug": "departments/cse/consultancy",
+ "section": "departments",
+ "sectionTitle": "Departments",
+ "title": "Consultancy – Computer Science & Engineering",
+ "legacy": "https://qiscet.edu.in/qiscet/DEPARTMENTS_cse_consultancy.php",
+ "summary": null,
+ "blocks": [
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    {
+     "text": "Consultancies 2023-24",
+     "links": [
+      {
+       "label": "Consultancies 2023-24",
+       "href": "https://qiscet.edu.in/qiscet/departments/cse/data/23-24%20consultancies.pdf"
+      }
+     ]
+    },
+    {
+     "text": "Consultancies 2022-23",
+     "links": [
+      {
+       "label": "Consultancies 2022-23",
+       "href": "https://qiscet.edu.in/qiscet/departments/cse/data/22-23%20consultancies.pdf"
+      }
+     ]
+    },
+    {
+     "text": "Consultancies 2021-22",
+     "links": [
+      {
+       "label": "Consultancies 2021-22",
+       "href": "https://qiscet.edu.in/qiscet/departments/cse/data/21-22%20consultancies.pdf"
+      }
+     ]
+    },
+    {
+     "text": "Consultancies 2020-21",
+     "links": [
+      {
+       "label": "Consultancies 2020-21",
+       "href": "https://qiscet.edu.in/qiscet/departments/cse/data/20-21%20consultancies.pdf"
+      }
+     ]
+    },
+    {
+     "text": "Consultancies 2019-20",
+     "links": [
+      {
+       "label": "Consultancies 2019-20",
+       "href": "https://qiscet.edu.in/qiscet/departments/cse/data/19-20%20consultancies.pdf"
+      }
+     ]
+    },
+    {
+     "text": "Consultancies 2018-19",
+     "links": [
+      {
+       "label": "Consultancies 2018-19",
+       "href": "https://qiscet.edu.in/qiscet/departments/cse/data/18-19%20consultancies.pdf"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "department": "cse",
+ "pageTitle": "Consultancy"
+}

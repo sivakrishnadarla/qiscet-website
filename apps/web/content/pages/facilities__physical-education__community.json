@@ -1,0 +1,99 @@
+{
+ "slug": "facilities/physical-education/community",
+ "section": "facilities",
+ "sectionTitle": "Facilities",
+ "title": "Community Activities",
+ "legacy": "https://qiscet.edu.in/qiscet/FACILITIES_physical_education_Community_Activities.php",
+ "summary": null,
+ "blocks": [
+  {
+   "type": "table",
+   "rows": [
+    [
+     {
+      "text": "S.N0"
+     },
+     {
+      "text": "YEARS SELECTED MANDALS"
+     },
+     {
+      "text": "CONDUCTED EVENTS"
+     },
+     {
+      "text": "NUMBER OF HIGH SCHOOL CHILDREN PARTICIPATED"
+     }
+    ],
+    [
+     {
+      "text": "1"
+     },
+     {
+      "text": "2016-17 INKOLLU,PANGALURU & PARCHURU MANDALS"
+     },
+     {
+      "text": "1.SOFTBALL 2.KABADDI"
+     },
+     {
+      "text": "368"
+     }
+    ],
+    [
+     {
+      "text": "2"
+     },
+     {
+      "text": "2016-17 SINGARAYAKONDA,TANGUTURU & ULAVAPADU MANDALS"
+     },
+     {
+      "text": "VOLLEYBALL"
+     },
+     {
+      "text": "174"
+     }
+    ],
+    [
+     {
+      "text": "3"
+     },
+     {
+      "text": "2015-16 ADDANKI & KORISAPADU MANDALS"
+     },
+     {
+      "text": "VOLLEYBALL"
+     },
+     {
+      "text": "142"
+     }
+    ],
+    [
+     {
+      "text": "4"
+     },
+     {
+      "text": "2015-16 CHIMAKURTHY & SANTANUTALAPADU MANDALS"
+     },
+     {
+      "text": "BALL BADMINTON"
+     },
+     {
+      "text": "136"
+     }
+    ],
+    [
+     {
+      "text": "5"
+     },
+     {
+      "text": "2015-16 DARSI CONSTITUENCY LEVEL"
+     },
+     {
+      "text": "1.VOLLEYBALL 2.KABADDI"
+     },
+     {
+      "text": "187"
+     }
+    ]
+   ]
+  }
+ ]
+}

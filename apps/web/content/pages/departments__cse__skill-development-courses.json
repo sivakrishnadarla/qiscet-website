@@ -1,0 +1,72 @@
+{
+ "slug": "departments/cse/skill-development-courses",
+ "section": "departments",
+ "sectionTitle": "Departments",
+ "title": "Skill Development Courses – Computer Science & Engineering",
+ "legacy": "https://qiscet.edu.in/qiscet/DEPARTMENTS_cse_sdc.php",
+ "summary": null,
+ "blocks": [
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    {
+     "text": "SDC-Sem-II-22-23",
+     "links": [
+      {
+       "label": "SDC-Sem-II-22-23",
+       "href": "https://qiscet.edu.in/qiscet/departments/cse/data/1/22-23%20sem%202%20SDC%20Details.pdf"
+      }
+     ]
+    },
+    {
+     "text": "SDC-Sem-I-22-23",
+     "links": [
+      {
+       "label": "SDC-Sem-I-22-23",
+       "href": "https://qiscet.edu.in/qiscet/departments/cse/data/22-23%20sem%201%20SDC%20Details.pdf"
+      }
+     ]
+    },
+    {
+     "text": "SDC-Sem-II-21-22",
+     "links": [
+      {
+       "label": "SDC-Sem-II-21-22",
+       "href": "https://qiscet.edu.in/qiscet/departments/cse/data/21-22%20sem%202%20SDC%20Details.pdf"
+      }
+     ]
+    },
+    {
+     "text": "SDC-Sem-I-21-22",
+     "links": [
+      {
+       "label": "SDC-Sem-I-21-22",
+       "href": "https://qiscet.edu.in/qiscet/departments/cse/data/21-22%20sem%201%20SDC%20Details.pdf"
+      }
+     ]
+    },
+    {
+     "text": "SDC-Sem-II-20-21",
+     "links": [
+      {
+       "label": "SDC-Sem-II-20-21",
+       "href": "https://qiscet.edu.in/qiscet/departments/cse/data/20-21%20sem%202%20SDC%20Details.pdf"
+      }
+     ]
+    },
+    {
+     "text": "SDC-Sem-I-20-21",
+     "links": [
+      {
+       "label": "SDC-Sem-I-20-21",
+       "href": "https://qiscet.edu.in/qiscet/departments/cse/data/20-21%20sem%201%20SDC%20Details.pdf"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "department": "cse",
+ "pageTitle": "Skill Development Courses"
+}

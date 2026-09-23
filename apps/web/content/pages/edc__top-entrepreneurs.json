@@ -1,0 +1,291 @@
+{
+ "slug": "edc/top-entrepreneurs",
+ "section": "edc",
+ "sectionTitle": "Entrepreneurship Development Cell",
+ "title": "Top 10 Entrepreneurs",
+ "legacy": "https://qiscet.edu.in/qiscet/Top10Enterpreneurs.php",
+ "summary": null,
+ "blocks": [
+  {
+   "type": "table",
+   "rows": [
+    [
+     {
+      "text": "S.NO"
+     },
+     {
+      "text": "ROLL NO."
+     },
+     {
+      "text": "NAME OF THE STUDENT"
+     },
+     {
+      "text": "BRANCH"
+     },
+     {
+      "text": "NAME OF THE BUSINESS &ADDRESS"
+     },
+     {
+      "text": "YEAR / BATCH"
+     },
+     {
+      "text": "Location"
+     }
+    ],
+    [
+     {
+      "text": "1"
+     },
+     {
+      "text": "09491A0436"
+     },
+     {
+      "text": "Mahesh Reddy"
+     },
+     {
+      "text": "ECE"
+     },
+     {
+      "text": "Maha Raja Biotech Agro Pham, Kotapadu, J. Panguluru (MD)"
+     },
+     {
+      "text": "2013"
+     },
+     {
+      "text": "Panguluru"
+     }
+    ],
+    [
+     {
+      "text": "2"
+     },
+     {
+      "text": "11491A04H6"
+     },
+     {
+      "text": "Pulivarthi Uma Balasubrahmanyam"
+     },
+     {
+      "text": "ECE"
+     },
+     {
+      "text": "Director, Uma Add Agency, Ongole"
+     },
+     {
+      "text": "2015"
+     },
+     {
+      "text": "Ongole"
+     }
+    ],
+    [
+     {
+      "text": "3"
+     },
+     {
+      "text": "14491A04N4"
+     },
+     {
+      "text": "Papaganti Koteswara Rao"
+     },
+     {
+      "text": "ECE"
+     },
+     {
+      "text": "Chairman,"
+     },
+     {
+      "text": "2018"
+     },
+     {
+      "text": "Ongole"
+     }
+    ],
+    [
+     {
+      "text": ""
+     },
+     {
+      "text": ""
+     },
+     {
+      "text": ""
+     },
+     {
+      "text": ""
+     },
+     {
+      "text": "GV Academy, Ongole"
+     },
+     {
+      "text": ""
+     },
+     {
+      "text": ""
+     }
+    ],
+    [
+     {
+      "text": "4"
+     },
+     {
+      "text": "13491A05E9"
+     },
+     {
+      "text": "Chendolu Harish Kumar"
+     },
+     {
+      "text": "CSE"
+     },
+     {
+      "text": "Fast Software solutions, Hyderabad."
+     },
+     {
+      "text": "2017"
+     },
+     {
+      "text": "Hyderabad"
+     }
+    ],
+    [
+     {
+      "text": "5"
+     },
+     {
+      "text": "14491A0547"
+     },
+     {
+      "text": "Kalluri Upendra"
+     },
+     {
+      "text": "CSE"
+     },
+     {
+      "text": "Rajiv Solutions Ltd, Nagapur"
+     },
+     {
+      "text": "2018"
+     },
+     {
+      "text": "Nagapur"
+     }
+    ],
+    [
+     {
+      "text": "6"
+     },
+     {
+      "text": "15491A0547"
+     },
+     {
+      "text": "J.V.Subrahmanya Saikiran"
+     },
+     {
+      "text": "CSE"
+     },
+     {
+      "text": "Marcel Technologies, Pune"
+     },
+     {
+      "text": "2019"
+     },
+     {
+      "text": "Pune"
+     }
+    ],
+    [
+     {
+      "text": "7"
+     },
+     {
+      "text": "11491A0324"
+     },
+     {
+      "text": "D. Raghavendra Rao"
+     },
+     {
+      "text": "MECH"
+     },
+     {
+      "text": "Raghavendra, Engineering Workshop, Markapur."
+     },
+     {
+      "text": "2015"
+     },
+     {
+      "text": "Markapur"
+     }
+    ],
+    [
+     {
+      "text": "8"
+     },
+     {
+      "text": "10491A03C0"
+     },
+     {
+      "text": "A Siva"
+     },
+     {
+      "text": "MECH"
+     },
+     {
+      "text": "Siva Stone Cutting Centre, Chimakurthy"
+     },
+     {
+      "text": "2014"
+     },
+     {
+      "text": "Chimakurthy"
+     }
+    ],
+    [
+     {
+      "text": "9"
+     },
+     {
+      "text": "15491A0248"
+     },
+     {
+      "text": "Yendluri Venkata Krishna"
+     },
+     {
+      "text": "EEE"
+     },
+     {
+      "text": "Krishna Motors, Kurnool Road, Ongole."
+     },
+     {
+      "text": "2019"
+     },
+     {
+      "text": "Ongole"
+     }
+    ],
+    [
+     {
+      "text": "10"
+     },
+     {
+      "text": "12491A02A1"
+     },
+     {
+      "text": "Vydena Rahul"
+     },
+     {
+      "text": "EEE"
+     },
+     {
+      "text": "Texmo Electricals, Markapuram"
+     },
+     {
+      "text": "2016"
+     },
+     {
+      "text": "Markapuram"
+     }
+    ]
+   ]
+  }
+ ]
+}

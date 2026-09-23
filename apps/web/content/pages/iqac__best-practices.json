@@ -1,0 +1,15 @@
+{
+ "slug": "iqac/best-practices",
+ "section": "iqac",
+ "sectionTitle": "IQAC",
+ "title": "Best Practices",
+ "legacy": "https://qiscet.edu.in/qiscet/IQAC_best.php",
+ "summary": null,
+ "blocks": [
+  {
+   "type": "document",
+   "href": "https://qiscet.edu.in/qiscet/iqac/Best%20Practices.pdf",
+   "label": "View document (PDF)"
+  }
+ ]
+}

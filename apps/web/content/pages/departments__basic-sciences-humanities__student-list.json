@@ -1,0 +1,45 @@
+{
+ "slug": "departments/basic-sciences-humanities/student-list",
+ "section": "departments",
+ "sectionTitle": "Departments",
+ "title": "Student List – Basic Sciences & Humanities",
+ "legacy": "https://qiscet.edu.in/qiscet/DEPARTMENTS_hs_student_list.php",
+ "summary": null,
+ "blocks": [
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    {
+     "text": "Students List 2024-2025",
+     "links": [
+      {
+       "label": "Students List 2024-2025",
+       "href": "https://qiscet.edu.in/qiscet/departments/hs/data/Students%20List%202024.pdf"
+      }
+     ]
+    },
+    {
+     "text": "Students List 2023-2024",
+     "links": [
+      {
+       "label": "Students List 2023-2024",
+       "href": "https://qiscet.edu.in/qiscet/departments/hs/data/Students%20List%202023.pdf"
+      }
+     ]
+    },
+    {
+     "text": "Students List 2022-2023",
+     "links": [
+      {
+       "label": "Students List 2022-2023",
+       "href": "https://qiscet.edu.in/qiscet/departments/hs/data/Students%20List%202022.pdf"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "department": "basic-sciences-humanities",
+ "pageTitle": "Student List"
+}

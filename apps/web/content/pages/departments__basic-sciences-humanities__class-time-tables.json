@@ -1,0 +1,27 @@
+{
+ "slug": "departments/basic-sciences-humanities/class-time-tables",
+ "section": "departments",
+ "sectionTitle": "Departments",
+ "title": "Class Time Tables – Basic Sciences & Humanities",
+ "legacy": "https://qiscet.edu.in/qiscet/DEPARTMENTS_hs_timetables.php",
+ "summary": null,
+ "blocks": [
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    {
+     "text": "Class Time Tables",
+     "links": [
+      {
+       "label": "Class Time Tables",
+       "href": "https://qiscet.edu.in/qiscet/departments/hs/data/2024-25%20SEM-II%20TIME%20TABLE.pdf"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "department": "basic-sciences-humanities",
+ "pageTitle": "Class Time Tables"
+}

@@ -1,0 +1,610 @@
+{
+ "slug": "about/press",
+ "section": "about",
+ "sectionTitle": "About Us",
+ "title": "Press & Media",
+ "legacy": "https://qiscet.edu.in/qiscet/ABOUT_US_press.php",
+ "summary": null,
+ "blocks": [
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    {
+     "text": "https://www.youtube.com/watch?v=4vPS8xD1ssU",
+     "links": [
+      {
+       "label": "https://www.youtube.com/watch?v=4vPS8xD1ssU",
+       "href": "https://www.youtube.com/watch?v=4vPS8xD1ssU"
+      }
+     ]
+    },
+    {
+     "text": "https://www.youtube.com/watch?v=UUhRn4vgBN0",
+     "links": [
+      {
+       "label": "https://www.youtube.com/watch?v=UUhRn4vgBN0",
+       "href": "https://www.youtube.com/watch?v=UUhRn4vgBN0"
+      }
+     ]
+    },
+    {
+     "text": "https://www.youtube.com/watch?v=iM93CklA4Wg",
+     "links": [
+      {
+       "label": "https://www.youtube.com/watch?v=iM93CklA4Wg",
+       "href": "https://www.youtube.com/watch?v=iM93CklA4Wg"
+      }
+     ]
+    },
+    {
+     "text": "https://www.youtube.com/watch?v=_ndls_TV1fQ",
+     "links": [
+      {
+       "label": "https://www.youtube.com/watch?v=_ndls_TV1fQ",
+       "href": "https://www.youtube.com/watch?v=_ndls_TV1fQ"
+      }
+     ]
+    },
+    {
+     "text": "https://www.youtube.com/watch?v=LKiiFSL64ow",
+     "links": [
+      {
+       "label": "https://www.youtube.com/watch?v=LKiiFSL64ow",
+       "href": "https://www.youtube.com/watch?v=LKiiFSL64ow"
+      }
+     ]
+    },
+    {
+     "text": "https://www.youtube.com/watch?v=pbnryAPQ5HY",
+     "links": [
+      {
+       "label": "https://www.youtube.com/watch?v=pbnryAPQ5HY",
+       "href": "https://www.youtube.com/watch?v=pbnryAPQ5HY"
+      }
+     ]
+    },
+    {
+     "text": "https://www.youtube.com/watch?v=OP5s3EG3D1Y",
+     "links": [
+      {
+       "label": "https://www.youtube.com/watch?v=OP5s3EG3D1Y",
+       "href": "https://www.youtube.com/watch?v=OP5s3EG3D1Y"
+      }
+     ]
+    },
+    {
+     "text": "https://www.youtube.com/watch?v=VOzIcqjFyMQ",
+     "links": [
+      {
+       "label": "https://www.youtube.com/watch?v=VOzIcqjFyMQ",
+       "href": "https://www.youtube.com/watch?v=VOzIcqjFyMQ"
+      }
+     ]
+    },
+    {
+     "text": "https://youtu.be/b8iPe7OXBeE?si=w52PT7vphh7104__",
+     "links": [
+      {
+       "label": "https://youtu.be/b8iPe7OXBeE?si=w52PT7vphh7104__",
+       "href": "https://youtu.be/b8iPe7OXBeE?si=w52PT7vphh7104__"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "gallery",
+   "images": [
+    {
+     "src": "/images/press/1.jpg",
+     "alt": ""
+    }
+   ]
+  },
+  {
+   "type": "gallery",
+   "images": [
+    {
+     "src": "/images/press/10.jpg",
+     "alt": ""
+    }
+   ]
+  },
+  {
+   "type": "gallery",
+   "images": [
+    {
+     "src": "/images/press/11.jpg",
+     "alt": ""
+    }
+   ]
+  },
+  {
+   "type": "gallery",
+   "images": [
+    {
+     "src": "/images/press/12.jpg",
+     "alt": ""
+    }
+   ]
+  },
+  {
+   "type": "gallery",
+   "images": [
+    {
+     "src": "/images/press/13.jpg",
+     "alt": ""
+    }
+   ]
+  },
+  {
+   "type": "gallery",
+   "images": [
+    {
+     "src": "/images/press/14.jpg",
+     "alt": ""
+    }
+   ]
+  },
+  {
+   "type": "gallery",
+   "images": [
+    {
+     "src": "/images/press/15.jpg",
+     "alt": ""
+    }
+   ]
+  },
+  {
+   "type": "gallery",
+   "images": [
+    {
+     "src": "/images/press/16.jpg",
+     "alt": ""
+    }
+   ]
+  },
+  {
+   "type": "gallery",
+   "images": [
+    {
+     "src": "/images/press/17.jpg",
+     "alt": ""
+    }
+   ]
+  },
+  {
+   "type": "gallery",
+   "images": [
+    {
+     "src": "/images/press/18.jpg",
+     "alt": ""
+    }
+   ]
+  },
+  {
+   "type": "gallery",
+   "images": [
+    {
+     "src": "/images/press/19.jpg",
+     "alt": ""
+    }
+   ]
+  },
+  {
+   "type": "gallery",
+   "images": [
+    {
+     "src": "/images/press/2.jpg",
+     "alt": ""
+    }
+   ]
+  },
+  {
+   "type": "gallery",
+   "images": [
+    {
+     "src": "/images/press/20.jpg",
+     "alt": ""
+    }
+   ]
+  },
+  {
+   "type": "gallery",
+   "images": [
+    {
+     "src": "/images/press/21.jpg",
+     "alt": ""
+    }
+   ]
+  },
+  {
+   "type": "gallery",
+   "images": [
+    {
+     "src": "/images/press/22.jpg",
+     "alt": ""
+    }
+   ]
+  },
+  {
+   "type": "gallery",
+   "images": [
+    {
+     "src": "/images/press/23.jpg",
+     "alt": ""
+    }
+   ]
+  },
+  {
+   "type": "gallery",
+   "images": [
+    {
+     "src": "/images/press/24.jpg",
+     "alt": ""
+    }
+   ]
+  },
+  {
+   "type": "gallery",
+   "images": [
+    {
+     "src": "/images/press/25.jpg",
+     "alt": ""
+    }
+   ]
+  },
+  {
+   "type": "gallery",
+   "images": [
+    {
+     "src": "/images/press/26.jpg",
+     "alt": ""
+    }
+   ]
+  },
+  {
+   "type": "gallery",
+   "images": [
+    {
+     "src": "/images/press/27.jpg",
+     "alt": ""
+    }
+   ]
+  },
+  {
+   "type": "gallery",
+   "images": [
+    {
+     "src": "/images/press/28.jpg",
+     "alt": ""
+    }
+   ]
+  },
+  {
+   "type": "gallery",
+   "images": [
+    {
+     "src": "/images/press/29.jpg",
+     "alt": ""
+    }
+   ]
+  },
+  {
+   "type": "gallery",
+   "images": [
+    {
+     "src": "/images/press/3.jpg",
+     "alt": ""
+    }
+   ]
+  },
+  {
+   "type": "gallery",
+   "images": [
+    {
+     "src": "/images/press/30.jpg",
+     "alt": ""
+    }
+   ]
+  },
+  {
+   "type": "gallery",
+   "images": [
+    {
+     "src": "/images/press/31.jpg",
+     "alt": ""
+    }
+   ]
+  },
+  {
+   "type": "gallery",
+   "images": [
+    {
+     "src": "/images/press/32.jpg",
+     "alt": ""
+    }
+   ]
+  },
+  {
+   "type": "gallery",
+   "images": [
+    {
+     "src": "/images/press/33.jpg",
+     "alt": ""
+    }
+   ]
+  },
+  {
+   "type": "gallery",
+   "images": [
+    {
+     "src": "/images/press/34.jpg",
+     "alt": ""
+    }
+   ]
+  },
+  {
+   "type": "gallery",
+   "images": [
+    {
+     "src": "/images/press/35.jpg",
+     "alt": ""
+    }
+   ]
+  },
+  {
+   "type": "gallery",
+   "images": [
+    {
+     "src": "/images/press/36.jpg",
+     "alt": ""
+    }
+   ]
+  },
+  {
+   "type": "gallery",
+   "images": [
+    {
+     "src": "/images/press/37.jpg",
+     "alt": ""
+    }
+   ]
+  },
+  {
+   "type": "gallery",
+   "images": [
+    {
+     "src": "/images/press/38.jpg",
+     "alt": ""
+    }
+   ]
+  },
+  {
+   "type": "gallery",
+   "images": [
+    {
+     "src": "/images/press/39.jpg",
+     "alt": ""
+    }
+   ]
+  },
+  {
+   "type": "gallery",
+   "images": [
+    {
+     "src": "/images/press/4.jpg",
+     "alt": ""
+    }
+   ]
+  },
+  {
+   "type": "gallery",
+   "images": [
+    {
+     "src": "/images/press/40.jpg",
+     "alt": ""
+    }
+   ]
+  },
+  {
+   "type": "gallery",
+   "images": [
+    {
+     "src": "/images/press/41.jpg",
+     "alt": ""
+    }
+   ]
+  },
+  {
+   "type": "gallery",
+   "images": [
+    {
+     "src": "/images/press/42.jpg",
+     "alt": ""
+    }
+   ]
+  },
+  {
+   "type": "gallery",
+   "images": [
+    {
+     "src": "/images/press/43.jpg",
+     "alt": ""
+    }
+   ]
+  },
+  {
+   "type": "gallery",
+   "images": [
+    {
+     "src": "/images/press/45.jpg",
+     "alt": ""
+    }
+   ]
+  },
+  {
+   "type": "gallery",
+   "images": [
+    {
+     "src": "/images/press/46.jpg",
+     "alt": ""
+    }
+   ]
+  },
+  {
+   "type": "gallery",
+   "images": [
+    {
+     "src": "/images/press/47.jpg",
+     "alt": ""
+    }
+   ]
+  },
+  {
+   "type": "gallery",
+   "images": [
+    {
+     "src": "/images/press/48.jpg",
+     "alt": ""
+    }
+   ]
+  },
+  {
+   "type": "gallery",
+   "images": [
+    {
+     "src": "/images/press/49.jpg",
+     "alt": ""
+    }
+   ]
+  },
+  {
+   "type": "gallery",
+   "images": [
+    {
+     "src": "/images/press/5.jpg",
+     "alt": ""
+    }
+   ]
+  },
+  {
+   "type": "gallery",
+   "images": [
+    {
+     "src": "/images/press/50.jpg",
+     "alt": ""
+    }
+   ]
+  },
+  {
+   "type": "gallery",
+   "images": [
+    {
+     "src": "/images/press/51.jpg",
+     "alt": ""
+    }
+   ]
+  },
+  {
+   "type": "gallery",
+   "images": [
+    {
+     "src": "/images/press/52.jpg",
+     "alt": ""
+    }
+   ]
+  },
+  {
+   "type": "gallery",
+   "images": [
+    {
+     "src": "/images/press/53.jpg",
+     "alt": ""
+    }
+   ]
+  },
+  {
+   "type": "gallery",
+   "images": [
+    {
+     "src": "/images/press/54.jpg",
+     "alt": ""
+    }
+   ]
+  },
+  {
+   "type": "gallery",
+   "images": [
+    {
+     "src": "/images/press/55.jpg",
+     "alt": ""
+    }
+   ]
+  },
+  {
+   "type": "gallery",
+   "images": [
+    {
+     "src": "/images/press/56.jpg",
+     "alt": ""
+    }
+   ]
+  },
+  {
+   "type": "gallery",
+   "images": [
+    {
+     "src": "/images/press/57.jpg",
+     "alt": ""
+    }
+   ]
+  },
+  {
+   "type": "gallery",
+   "images": [
+    {
+     "src": "/images/press/58.jpg",
+     "alt": ""
+    }
+   ]
+  },
+  {
+   "type": "gallery",
+   "images": [
+    {
+     "src": "/images/press/6.jpg",
+     "alt": ""
+    }
+   ]
+  },
+  {
+   "type": "gallery",
+   "images": [
+    {
+     "src": "/images/press/7.jpg",
+     "alt": ""
+    }
+   ]
+  },
+  {
+   "type": "gallery",
+   "images": [
+    {
+     "src": "/images/press/8.jpg",
+     "alt": ""
+    }
+   ]
+  },
+  {
+   "type": "gallery",
+   "images": [
+    {
+     "src": "/images/press/9.jpg",
+     "alt": ""
+    }
+   ]
+  }
+ ]
+}

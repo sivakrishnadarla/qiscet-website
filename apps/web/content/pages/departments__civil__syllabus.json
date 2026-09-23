@@ -1,0 +1,142 @@
+{
+ "slug": "departments/civil/syllabus",
+ "section": "departments",
+ "sectionTitle": "Departments",
+ "title": "Syllabus – Civil Engineering",
+ "legacy": "https://qiscet.edu.in/qiscet/DEPARTMENTS_ce_syllabus.php",
+ "summary": null,
+ "blocks": [
+  {
+   "type": "table",
+   "rows": [
+    [
+     {
+      "text": "Regulation"
+     },
+     {
+      "text": "B.Tech"
+     }
+    ],
+    [
+     {
+      "text": "R-23 regulation"
+     },
+     {
+      "text": "B.Tech Syllabus",
+      "links": [
+       {
+        "label": "B.Tech Syllabus",
+        "href": "https://qiscet.edu.in/qiscet/departments/ce/R23_B.TECH_CE_Course_Structure_Syllabus.pdf"
+       }
+      ],
+      "colspan": 8
+     }
+    ],
+    [
+     {
+      "text": "R-23 regulation"
+     },
+     {
+      "text": "M.Tech Syllabus",
+      "links": [
+       {
+        "label": "M.Tech Syllabus",
+        "href": "https://qiscet.edu.in/qiscet/departments/ce/R23_M_TECH_COURSE_STRUCTURE.pdf"
+       }
+      ],
+      "colspan": 8
+     }
+    ],
+    [
+     {
+      "text": "R-20 regulation"
+     },
+     {
+      "text": "B.Tech Syllabus",
+      "links": [
+       {
+        "label": "B.Tech Syllabus",
+        "href": "https://qiscet.edu.in/qiscet/departments/civil/R20%20SYLLABUS%20%26%20COURSE%20STRUCTURE.pdf"
+       }
+      ],
+      "colspan": 8
+     }
+    ],
+    [
+     {
+      "text": "R-18 regulation"
+     },
+     {
+      "text": "B.Tech Syllabus",
+      "links": [
+       {
+        "label": "B.Tech Syllabus",
+        "href": "https://qiscet.edu.in/qiscet/departments/ce/syl_reg/r18_ug_CE%20Book.pdf"
+       }
+      ],
+      "colspan": 8
+     }
+    ],
+    [
+     {
+      "text": "R-15 regulation"
+     },
+     {
+      "text": "B.Tech Syllabus",
+      "links": [
+       {
+        "label": "B.Tech Syllabus",
+        "href": "https://qiscet.edu.in/qiscet/departments/ce/syl_reg/R15%20Civil%20UG.pdf"
+       }
+      ],
+      "colspan": 8
+     }
+    ],
+    [
+     {
+      "text": "Regulation"
+     },
+     {
+      "text": "M.Tech"
+     }
+    ],
+    [
+     {
+      "text": "R-20 regulation"
+     },
+     {
+      "text": "M.Tech Syllabus(SE) || M.Tech Syllabus(TE)",
+      "links": [
+       {
+        "label": "M.Tech Syllabus(SE)",
+        "href": "https://qiscet.edu.in/qiscet/departments/civil/R20%20M.Tech%20SE%20Course%20Structure%20%26%20Syllabus%20%282%29.pdf"
+       },
+       {
+        "label": "M.Tech Syllabus(TE)",
+        "href": "https://qiscet.edu.in/qiscet/departments/civil/R20%20M.Tech%20TE%20Course%20Structure%20%26%20Syllabus%20%281%29.pdf"
+       }
+      ],
+      "colspan": 8
+     }
+    ],
+    [
+     {
+      "text": "R-18 regulation"
+     },
+     {
+      "text": "M.Tech Syllabus",
+      "links": [
+       {
+        "label": "M.Tech Syllabus",
+        "href": "https://qiscet.edu.in/qiscet/departments/ce/syl_reg/CE-Te.pdf"
+       }
+      ],
+      "colspan": 8
+     }
+    ]
+   ]
+  }
+ ],
+ "department": "civil",
+ "pageTitle": "Syllabus"
+}

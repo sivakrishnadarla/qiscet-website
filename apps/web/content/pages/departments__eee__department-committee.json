@@ -1,0 +1,72 @@
+{
+ "slug": "departments/eee/department-committee",
+ "section": "departments",
+ "sectionTitle": "Departments",
+ "title": "Department Committee – Electrical & Electronics Engineering",
+ "legacy": "https://qiscet.edu.in/qiscet/DEPARTMENTS_eee_dc.php",
+ "summary": null,
+ "blocks": [
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    {
+     "text": "Department Calendar 2024-25",
+     "links": [
+      {
+       "label": "Department Calendar 2024-25",
+       "href": "https://qiscet.edu.in/qiscet/departments/eee/dc/2024-25_EEE_DC.pdf"
+      }
+     ]
+    },
+    {
+     "text": "Department Calendar 2023-24",
+     "links": [
+      {
+       "label": "Department Calendar 2023-24",
+       "href": "https://qiscet.edu.in/qiscet/departments/eee/dc/2023-24_EEE_DC.pdf"
+      }
+     ]
+    },
+    {
+     "text": "Department Calendar 2021-22",
+     "links": [
+      {
+       "label": "Department Calendar 2021-22",
+       "href": "https://qiscet.edu.in/qiscet/departments/eee/dc/2021-22%20Departmnet%20Calendar.pdf"
+      }
+     ]
+    },
+    {
+     "text": "Department Calendar 2020-21",
+     "links": [
+      {
+       "label": "Department Calendar 2020-21",
+       "href": "https://qiscet.edu.in/qiscet/departments/eee/dc/2020-21%20Department%20Calendar.pdf"
+      }
+     ]
+    },
+    {
+     "text": "Department Calendar 2019-20",
+     "links": [
+      {
+       "label": "Department Calendar 2019-20",
+       "href": "https://qiscet.edu.in/qiscet/departments/eee/dc/2019-20%20Department%20Calendar.pdf"
+      }
+     ]
+    },
+    {
+     "text": "Department Calendar 2018-19",
+     "links": [
+      {
+       "label": "Department Calendar 2018-19",
+       "href": "https://qiscet.edu.in/qiscet/departments/eee/dc/2018-19%20Department%20Calendar.pdf"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "department": "eee",
+ "pageTitle": "Department Committee"
+}

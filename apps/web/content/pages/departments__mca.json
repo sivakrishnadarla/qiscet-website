@@ -1,0 +1,128 @@
+{
+ "slug": "departments/mca",
+ "section": "departments",
+ "sectionTitle": "Departments",
+ "title": "Master of Computer Applications",
+ "legacy": "https://qiscet.edu.in/qiscet/DEPARTMENTS_mca.php",
+ "summary": "The Department of Master Of Computer Applications started in the year 2006.MCA is a post graduateinformation technology course .Computer Application is a use of computer to solve a specific problem…",
+ "blocks": [
+  {
+   "type": "paragraph",
+   "text": "The Department of Master Of Computer Applications started in the year 2006.MCA is a post graduateinformation technology course .Computer Application is a use of computer to solve a specific problem or to accomplish a perticular job for an end user.The duration of MCA is 2 years.The college conducts the examinations and the degree is awarded by JNTU Kakinada. University incorporates latest developments in Basic Computer Science, Programming, Application development, Communication, Datamining and Datawarehousing and allied fields in a dynamic fashion so that the student is exposed to the latest technological advancements during the program."
+  },
+  {
+   "type": "heading",
+   "text": "Courses",
+   "level": 4
+  },
+  {
+   "type": "table",
+   "rows": [
+    [
+     {
+      "text": "Course"
+     },
+     {
+      "text": "Intake"
+     }
+    ],
+    [
+     {
+      "text": "Master of Computer Applications"
+     },
+     {
+      "text": "120"
+     }
+    ],
+    [
+     {
+      "text": "Semester Based Credit System CISCO Lab was facilitated to do Departmental Research Works International Recognition",
+      "colspan": 2
+     }
+    ]
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "Vision",
+   "level": 4
+  },
+  {
+   "type": "paragraph",
+   "text": "To produce skilled human resources to the nation to meet global challenges in the field of Computer Applications and Information Technology."
+  },
+  {
+   "type": "heading",
+   "text": "Mission",
+   "level": 4
+  },
+  {
+   "type": "heading",
+   "text": "MCA",
+   "level": 4
+  },
+  {
+   "type": "heading",
+   "text": "Programme Educational Objectives Of MCA",
+   "level": 4
+  },
+  {
+   "type": "list",
+   "ordered": true,
+   "items": [
+    {
+     "text": "To prepare graduates who will be successful professionals in industry, government, academia, research, entrepreneurial pursuit and consulting firms."
+    },
+    {
+     "text": "To prepare graduates who will contribute to society as broadly educated, expressive, ethical and responsible citizens with proven expertise."
+    },
+    {
+     "text": "To prepare graduates who will achieve peer-recognition; as an individual or in a team; through demonstration of good analytical, design and implementation skills."
+    },
+    {
+     "text": "To prepare graduates who will thrive to pursue life-long learning to fulfill their goals."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "Programme Outcomes Of MCA",
+   "level": 4
+  },
+  {
+   "type": "list",
+   "ordered": true,
+   "items": [
+    {
+     "text": "An ability to apply knowledge of mathematics, computer science and management in practice."
+    },
+    {
+     "text": "An ability to identify, critically analyze, formulate and develop computer applications."
+    },
+    {
+     "text": "An ability to select modern computing tools and techniques and use them with dexterity."
+    },
+    {
+     "text": "An ability to design a computing system to meet desired needs within realistic constraints such as safety, security and applicability."
+    },
+    {
+     "text": "An ability to devise and conduct experiments, interpret data and provide well informed conclusions."
+    },
+    {
+     "text": "An ability to understand the impact of system solutions in a contemporary, global, economical, environmental, and societal context for sustainable development."
+    },
+    {
+     "text": "An ability to function professionally with ethical responsibility as an individual as well as in multidisciplinary teams with positive attitude."
+    },
+    {
+     "text": "An ability to know the importance of goal setting and to recognize the need for life-long learning."
+    },
+    {
+     "text": "An ability to work collaboratively in research projects to be sound in the field."
+    }
+   ]
+  }
+ ],
+ "department": "mca",
+ "isDepartmentHome": true
+}

@@ -1,0 +1,17 @@
+{
+ "slug": "departments/ai-data-science/faculty",
+ "section": "departments",
+ "sectionTitle": "Departments",
+ "title": "Faculty – Artificial Intelligence & Data Science",
+ "legacy": "https://qiscet.edu.in/qiscet/DEPARTMENTS_ai_ds_faculty_list.php",
+ "summary": null,
+ "blocks": [
+  {
+   "type": "document",
+   "href": "https://qiscet.edu.in/qiscet/Faculty/QISCET%20-%20AI%26DS%20-%20Faculty%20List.pdf",
+   "label": "View document (PDF)"
+  }
+ ],
+ "department": "ai-data-science",
+ "pageTitle": "Faculty"
+}

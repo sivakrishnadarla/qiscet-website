@@ -1,0 +1,1747 @@
+{
+ "slug": "admissions/courses-offered",
+ "section": "admissions",
+ "sectionTitle": "Admissions",
+ "title": "Courses Offered & Intake",
+ "legacy": "https://qiscet.edu.in/qiscet/ACADEMICS_courses_offered.php",
+ "summary": null,
+ "blocks": [
+  {
+   "type": "table",
+   "rows": [
+    [
+     {
+      "text": "UG Courses Offered 2026 - 27",
+      "colspan": 4
+     }
+    ],
+    [
+     {
+      "text": "S.No"
+     },
+     {
+      "text": "Course"
+     },
+     {
+      "text": "Branch"
+     },
+     {
+      "text": "Intake"
+     }
+    ],
+    [
+     {
+      "text": "1"
+     },
+     {
+      "text": "B.Tech"
+     },
+     {
+      "text": "Computer Science and Engineering"
+     },
+     {
+      "text": "780"
+     }
+    ],
+    [
+     {
+      "text": "2"
+     },
+     {
+      "text": "B.Tech"
+     },
+     {
+      "text": "Computer Science and Engineering (Artificial Intelligence and Machine Learning)"
+     },
+     {
+      "text": "480"
+     }
+    ],
+    [
+     {
+      "text": "3"
+     },
+     {
+      "text": "B.Tech"
+     },
+     {
+      "text": "Artificial Intelligence and Data Science"
+     },
+     {
+      "text": "240"
+     }
+    ],
+    [
+     {
+      "text": "4"
+     },
+     {
+      "text": "B.Tech"
+     },
+     {
+      "text": "Artificial Intelligence"
+     },
+     {
+      "text": "240"
+     }
+    ],
+    [
+     {
+      "text": "5"
+     },
+     {
+      "text": "B.Tech"
+     },
+     {
+      "text": "Computer Science and Engineering (Data Science)"
+     },
+     {
+      "text": "240"
+     }
+    ],
+    [
+     {
+      "text": "6"
+     },
+     {
+      "text": "B.Tech"
+     },
+     {
+      "text": "Quantum Computing"
+     },
+     {
+      "text": "60"
+     }
+    ],
+    [
+     {
+      "text": "7"
+     },
+     {
+      "text": "B.Tech"
+     },
+     {
+      "text": "Computer Science and Engineering (IOT and Cyber Security with Block Chain Technology)"
+     },
+     {
+      "text": "60"
+     }
+    ],
+    [
+     {
+      "text": "8"
+     },
+     {
+      "text": "B.Tech"
+     },
+     {
+      "text": "Information Technology"
+     },
+     {
+      "text": "90"
+     }
+    ],
+    [
+     {
+      "text": "9"
+     },
+     {
+      "text": "B.Tech"
+     },
+     {
+      "text": "Electronics and Communication Engineering"
+     },
+     {
+      "text": "300"
+     }
+    ],
+    [
+     {
+      "text": "10"
+     },
+     {
+      "text": "B.Tech"
+     },
+     {
+      "text": "Electrical and Electronics Engineering"
+     },
+     {
+      "text": "60"
+     }
+    ],
+    [
+     {
+      "text": "11"
+     },
+     {
+      "text": "B.Tech"
+     },
+     {
+      "text": "Mechanical Engineering"
+     },
+     {
+      "text": "30"
+     }
+    ],
+    [
+     {
+      "text": "12"
+     },
+     {
+      "text": "B.Tech"
+     },
+     {
+      "text": "Civil Engineering"
+     },
+     {
+      "text": "30"
+     }
+    ],
+    [
+     {
+      "text": "13"
+     },
+     {
+      "text": "BCA"
+     },
+     {
+      "text": "Computer Applications"
+     },
+     {
+      "text": "60"
+     }
+    ],
+    [
+     {
+      "text": "PG Courses Offered 2026 - 2027",
+      "colspan": 4
+     }
+    ],
+    [
+     {
+      "text": "14"
+     },
+     {
+      "text": "M.Tech"
+     },
+     {
+      "text": "Computer Science and Engineering"
+     },
+     {
+      "text": "36"
+     }
+    ],
+    [
+     {
+      "text": "15"
+     },
+     {
+      "text": "M.Tech"
+     },
+     {
+      "text": "Computer Science and Engineering (Artificial Intelligence and Machine Learning)"
+     },
+     {
+      "text": "36"
+     }
+    ],
+    [
+     {
+      "text": "16"
+     },
+     {
+      "text": "M.Tech"
+     },
+     {
+      "text": "VLSI and Embedded Systems"
+     },
+     {
+      "text": "18"
+     }
+    ],
+    [
+     {
+      "text": "17"
+     },
+     {
+      "text": "M.Tech"
+     },
+     {
+      "text": "Transportation Engineering"
+     },
+     {
+      "text": "18"
+     }
+    ],
+    [
+     {
+      "text": "18"
+     },
+     {
+      "text": "M.Tech"
+     },
+     {
+      "text": "Structural Engineering"
+     },
+     {
+      "text": "18"
+     }
+    ],
+    [
+     {
+      "text": "19"
+     },
+     {
+      "text": "M.Tech"
+     },
+     {
+      "text": "Power Electronics and Power System"
+     },
+     {
+      "text": "18"
+     }
+    ],
+    [
+     {
+      "text": "20"
+     },
+     {
+      "text": "M.Tech"
+     },
+     {
+      "text": "Thermal Engineering"
+     },
+     {
+      "text": "18"
+     }
+    ],
+    [
+     {
+      "text": "21"
+     },
+     {
+      "text": "MBA"
+     },
+     {
+      "text": "Master of Business Administration"
+     },
+     {
+      "text": "60"
+     }
+    ],
+    [
+     {
+      "text": "22"
+     },
+     {
+      "text": "MBA"
+     },
+     {
+      "text": "Hospital and Health Care Management"
+     },
+     {
+      "text": "60"
+     }
+    ],
+    [
+     {
+      "text": "23"
+     },
+     {
+      "text": "MBA"
+     },
+     {
+      "text": "Corporate Communication and Event Management"
+     },
+     {
+      "text": "60"
+     }
+    ],
+    [
+     {
+      "text": "24"
+     },
+     {
+      "text": "MBA"
+     },
+     {
+      "text": "Artificial Intelligence and Data Science"
+     },
+     {
+      "text": "60"
+     }
+    ],
+    [
+     {
+      "text": "25"
+     },
+     {
+      "text": "MCA"
+     },
+     {
+      "text": "Master of Computer Application"
+     },
+     {
+      "text": "180"
+     }
+    ]
+   ]
+  },
+  {
+   "type": "table",
+   "rows": [
+    [
+     {
+      "text": "UG Courses Offered 2025 - 26",
+      "colspan": 4
+     }
+    ],
+    [
+     {
+      "text": "S.No"
+     },
+     {
+      "text": "Course"
+     },
+     {
+      "text": "Branch"
+     },
+     {
+      "text": "Intake"
+     }
+    ],
+    [
+     {
+      "text": "1"
+     },
+     {
+      "text": "B.Tech"
+     },
+     {
+      "text": "Computer Science and Engineering"
+     },
+     {
+      "text": "780"
+     }
+    ],
+    [
+     {
+      "text": "2"
+     },
+     {
+      "text": "B.Tech"
+     },
+     {
+      "text": "Computer Science and Engineering (Data Science)"
+     },
+     {
+      "text": "240"
+     }
+    ],
+    [
+     {
+      "text": "3"
+     },
+     {
+      "text": "B.Tech"
+     },
+     {
+      "text": "Computer Science and Engineering (Artificial Intelligence and Machine Learning)"
+     },
+     {
+      "text": "180"
+     }
+    ],
+    [
+     {
+      "text": "4"
+     },
+     {
+      "text": "B.Tech"
+     },
+     {
+      "text": "Artificial Intelligence and Data Science"
+     },
+     {
+      "text": "180"
+     }
+    ],
+    [
+     {
+      "text": "5"
+     },
+     {
+      "text": "B.Tech"
+     },
+     {
+      "text": "Computer Science and Engineering (IOT and Cyber Security with Block Chain Technology)"
+     },
+     {
+      "text": "120"
+     }
+    ],
+    [
+     {
+      "text": "6"
+     },
+     {
+      "text": "B.Tech"
+     },
+     {
+      "text": "Computer Science and Information Technology"
+     },
+     {
+      "text": "120"
+     }
+    ],
+    [
+     {
+      "text": "7"
+     },
+     {
+      "text": "B.Tech"
+     },
+     {
+      "text": "Information Technology"
+     },
+     {
+      "text": "180"
+     }
+    ],
+    [
+     {
+      "text": "8"
+     },
+     {
+      "text": "B.Tech"
+     },
+     {
+      "text": "Artificial Intelligence"
+     },
+     {
+      "text": "180"
+     }
+    ],
+    [
+     {
+      "text": "9"
+     },
+     {
+      "text": "B.Tech"
+     },
+     {
+      "text": "Electronics and Communication Engineering"
+     },
+     {
+      "text": "360"
+     }
+    ],
+    [
+     {
+      "text": "10"
+     },
+     {
+      "text": "B.Tech"
+     },
+     {
+      "text": "Electrical and Electronics Engineering"
+     },
+     {
+      "text": "60"
+     }
+    ],
+    [
+     {
+      "text": "11"
+     },
+     {
+      "text": "B.Tech"
+     },
+     {
+      "text": "Civil Engineering"
+     },
+     {
+      "text": "30"
+     }
+    ],
+    [
+     {
+      "text": "12"
+     },
+     {
+      "text": "B.Tech"
+     },
+     {
+      "text": "Mechanical Engineering"
+     },
+     {
+      "text": "30"
+     }
+    ],
+    [
+     {
+      "text": "13"
+     },
+     {
+      "text": "BCA"
+     },
+     {
+      "text": "Computer Applications"
+     },
+     {
+      "text": "60"
+     }
+    ],
+    [
+     {
+      "text": "PG Courses Offered 2025 - 2026",
+      "colspan": 4
+     }
+    ],
+    [
+     {
+      "text": "14"
+     },
+     {
+      "text": "M.Tech"
+     },
+     {
+      "text": "Computer Science and Engineering"
+     },
+     {
+      "text": "36"
+     }
+    ],
+    [
+     {
+      "text": "15"
+     },
+     {
+      "text": "M.Tech"
+     },
+     {
+      "text": "Computer Science and Engineering (Artificial Intelligence and Machine Learning)"
+     },
+     {
+      "text": "18"
+     }
+    ],
+    [
+     {
+      "text": "16"
+     },
+     {
+      "text": "M.Tech"
+     },
+     {
+      "text": "VLSI and Embedded Systems"
+     },
+     {
+      "text": "18"
+     }
+    ],
+    [
+     {
+      "text": "17"
+     },
+     {
+      "text": "M.Tech"
+     },
+     {
+      "text": "Transportation Engineering"
+     },
+     {
+      "text": "18"
+     }
+    ],
+    [
+     {
+      "text": "18"
+     },
+     {
+      "text": "M.Tech"
+     },
+     {
+      "text": "Structural Engineering"
+     },
+     {
+      "text": "18"
+     }
+    ],
+    [
+     {
+      "text": "19"
+     },
+     {
+      "text": "M.Tech"
+     },
+     {
+      "text": "Power Electronics and Power System"
+     },
+     {
+      "text": "18"
+     }
+    ],
+    [
+     {
+      "text": "20"
+     },
+     {
+      "text": "M.Tech"
+     },
+     {
+      "text": "Thermal Engineering"
+     },
+     {
+      "text": "18"
+     }
+    ],
+    [
+     {
+      "text": "21"
+     },
+     {
+      "text": "MBA"
+     },
+     {
+      "text": "Master of Business Administration"
+     },
+     {
+      "text": "90"
+     }
+    ],
+    [
+     {
+      "text": "22"
+     },
+     {
+      "text": "MBA"
+     },
+     {
+      "text": "Hospital and Health Care Management"
+     },
+     {
+      "text": "60"
+     }
+    ],
+    [
+     {
+      "text": "23"
+     },
+     {
+      "text": "MCA"
+     },
+     {
+      "text": "Master of Computer Application"
+     },
+     {
+      "text": "180"
+     }
+    ]
+   ]
+  },
+  {
+   "type": "table",
+   "rows": [
+    [
+     {
+      "text": "UG Courses Offered 2024 - 25",
+      "colspan": 4
+     }
+    ],
+    [
+     {
+      "text": "S.No"
+     },
+     {
+      "text": "Course"
+     },
+     {
+      "text": "Branch"
+     },
+     {
+      "text": "Intake"
+     }
+    ],
+    [
+     {
+      "text": "1"
+     },
+     {
+      "text": "B.Tech"
+     },
+     {
+      "text": "Computer Science and Engineering"
+     },
+     {
+      "text": "600"
+     }
+    ],
+    [
+     {
+      "text": "2"
+     },
+     {
+      "text": "B.Tech"
+     },
+     {
+      "text": "Computer Science and Engineering (Data Science)"
+     },
+     {
+      "text": "240"
+     }
+    ],
+    [
+     {
+      "text": "3"
+     },
+     {
+      "text": "B.Tech"
+     },
+     {
+      "text": "Computer Science and Engineering (Artificial Intelligence and Machine Learning)"
+     },
+     {
+      "text": "180"
+     }
+    ],
+    [
+     {
+      "text": "4"
+     },
+     {
+      "text": "B.Tech"
+     },
+     {
+      "text": "Artificial Intelligence and Data Science"
+     },
+     {
+      "text": "180"
+     }
+    ],
+    [
+     {
+      "text": "5"
+     },
+     {
+      "text": "B.Tech"
+     },
+     {
+      "text": "Computer Science and Engineering (IOT and Cyber Security with Block Chain Technology)"
+     },
+     {
+      "text": "60"
+     }
+    ],
+    [
+     {
+      "text": "6"
+     },
+     {
+      "text": "B.Tech"
+     },
+     {
+      "text": "Computer Science and Information Technology"
+     },
+     {
+      "text": "60"
+     }
+    ],
+    [
+     {
+      "text": "7"
+     },
+     {
+      "text": "B.Tech"
+     },
+     {
+      "text": "Information Technology"
+     },
+     {
+      "text": "120"
+     }
+    ],
+    [
+     {
+      "text": "8"
+     },
+     {
+      "text": "B.Tech"
+     },
+     {
+      "text": "Artificial Intelligence"
+     },
+     {
+      "text": "60"
+     }
+    ],
+    [
+     {
+      "text": "9"
+     },
+     {
+      "text": "B.Tech"
+     },
+     {
+      "text": "Electronics and Communication Engineering"
+     },
+     {
+      "text": "360"
+     }
+    ],
+    [
+     {
+      "text": "10"
+     },
+     {
+      "text": "B.Tech"
+     },
+     {
+      "text": "Electrical and Electronics Engineering"
+     },
+     {
+      "text": "60"
+     }
+    ],
+    [
+     {
+      "text": "11"
+     },
+     {
+      "text": "B.Tech"
+     },
+     {
+      "text": "Civil Engineering"
+     },
+     {
+      "text": "60"
+     }
+    ],
+    [
+     {
+      "text": "12"
+     },
+     {
+      "text": "B.Tech"
+     },
+     {
+      "text": "Mechanical Engineering"
+     },
+     {
+      "text": "60"
+     }
+    ],
+    [
+     {
+      "text": "13"
+     },
+     {
+      "text": "BCA"
+     },
+     {
+      "text": "Computer Applications"
+     },
+     {
+      "text": "60"
+     }
+    ],
+    [
+     {
+      "text": "PG Courses Offered 2024 - 2025",
+      "colspan": 4
+     }
+    ],
+    [
+     {
+      "text": "14"
+     },
+     {
+      "text": "M.Tech"
+     },
+     {
+      "text": "Computer Science and Engineering"
+     },
+     {
+      "text": "18"
+     }
+    ],
+    [
+     {
+      "text": "15"
+     },
+     {
+      "text": "M.Tech"
+     },
+     {
+      "text": "VLSI and Embedded Systems"
+     },
+     {
+      "text": "18"
+     }
+    ],
+    [
+     {
+      "text": "16"
+     },
+     {
+      "text": "M.Tech"
+     },
+     {
+      "text": "Transportation Engineering"
+     },
+     {
+      "text": "18"
+     }
+    ],
+    [
+     {
+      "text": "17"
+     },
+     {
+      "text": "M.Tech"
+     },
+     {
+      "text": "Structural Engineering"
+     },
+     {
+      "text": "18"
+     }
+    ],
+    [
+     {
+      "text": "18"
+     },
+     {
+      "text": "M.Tech"
+     },
+     {
+      "text": "Power Electronics and Power System"
+     },
+     {
+      "text": "18"
+     }
+    ],
+    [
+     {
+      "text": "19"
+     },
+     {
+      "text": "M.Tech"
+     },
+     {
+      "text": "Thermal Engineering"
+     },
+     {
+      "text": "18"
+     }
+    ],
+    [
+     {
+      "text": "20"
+     },
+     {
+      "text": "MBA"
+     },
+     {
+      "text": "Master of Business Administration"
+     },
+     {
+      "text": "90"
+     }
+    ],
+    [
+     {
+      "text": "21"
+     },
+     {
+      "text": "MCA"
+     },
+     {
+      "text": "Master of Computer Application"
+     },
+     {
+      "text": "180"
+     }
+    ]
+   ]
+  },
+  {
+   "type": "table",
+   "rows": [
+    [
+     {
+      "text": "UG Courses Offered 2023 - 24",
+      "colspan": 4
+     }
+    ],
+    [
+     {
+      "text": "S.No"
+     },
+     {
+      "text": "Course"
+     },
+     {
+      "text": "Branch"
+     },
+     {
+      "text": "Intake"
+     }
+    ],
+    [
+     {
+      "text": "1"
+     },
+     {
+      "text": "B.Tech"
+     },
+     {
+      "text": "Computer Science and Engineering"
+     },
+     {
+      "text": "480"
+     }
+    ],
+    [
+     {
+      "text": "2"
+     },
+     {
+      "text": "B.Tech"
+     },
+     {
+      "text": "Computer Science and Engineering (Data Science)"
+     },
+     {
+      "text": "240"
+     }
+    ],
+    [
+     {
+      "text": "3"
+     },
+     {
+      "text": "B.Tech"
+     },
+     {
+      "text": "Computer Science and Engineering and Business Systems"
+     },
+     {
+      "text": "60"
+     }
+    ],
+    [
+     {
+      "text": "4"
+     },
+     {
+      "text": "B.Tech"
+     },
+     {
+      "text": "Computer Science and Engineering (Artificial Intelligence and Machine Learning)"
+     },
+     {
+      "text": "60"
+     }
+    ],
+    [
+     {
+      "text": "5"
+     },
+     {
+      "text": "B.Tech"
+     },
+     {
+      "text": "Artificial Intelligence and Data Science"
+     },
+     {
+      "text": "180"
+     }
+    ],
+    [
+     {
+      "text": "6"
+     },
+     {
+      "text": "B.Tech"
+     },
+     {
+      "text": "Computer Science and Engineering (IOT and Cyber Security with Block Chain Technology)"
+     },
+     {
+      "text": "60"
+     }
+    ],
+    [
+     {
+      "text": "7"
+     },
+     {
+      "text": "B.Tech"
+     },
+     {
+      "text": "Computer Science and Information Technology"
+     },
+     {
+      "text": "60"
+     }
+    ],
+    [
+     {
+      "text": "8"
+     },
+     {
+      "text": "B.Tech"
+     },
+     {
+      "text": "Information Technology"
+     },
+     {
+      "text": "120"
+     }
+    ],
+    [
+     {
+      "text": "9"
+     },
+     {
+      "text": "B.Tech"
+     },
+     {
+      "text": "Artificial Intelligence"
+     },
+     {
+      "text": "60"
+     }
+    ],
+    [
+     {
+      "text": "10"
+     },
+     {
+      "text": "B.Tech"
+     },
+     {
+      "text": "Electronics and Communication Engineering"
+     },
+     {
+      "text": "360"
+     }
+    ],
+    [
+     {
+      "text": "11"
+     },
+     {
+      "text": "B.Tech"
+     },
+     {
+      "text": "Electronics Engineering(VLSI and Technology)"
+     },
+     {
+      "text": "60"
+     }
+    ],
+    [
+     {
+      "text": "12"
+     },
+     {
+      "text": "B.Tech"
+     },
+     {
+      "text": "Electrical and Electronics Engineering"
+     },
+     {
+      "text": "120"
+     }
+    ],
+    [
+     {
+      "text": "13"
+     },
+     {
+      "text": "B.Tech"
+     },
+     {
+      "text": "Civil Engineering"
+     },
+     {
+      "text": "60"
+     }
+    ],
+    [
+     {
+      "text": "14"
+     },
+     {
+      "text": "B.Tech"
+     },
+     {
+      "text": "Mechanical Engineering"
+     },
+     {
+      "text": "60"
+     }
+    ],
+    [
+     {
+      "text": "PG Courses Offered 2023 - 2024",
+      "colspan": 4
+     }
+    ],
+    [
+     {
+      "text": "15"
+     },
+     {
+      "text": "M.Tech"
+     },
+     {
+      "text": "Computer Science and Engineering"
+     },
+     {
+      "text": "18"
+     }
+    ],
+    [
+     {
+      "text": "16"
+     },
+     {
+      "text": "M.Tech"
+     },
+     {
+      "text": "VLSI and Embedded Systems"
+     },
+     {
+      "text": "18"
+     }
+    ],
+    [
+     {
+      "text": "17"
+     },
+     {
+      "text": "M.Tech"
+     },
+     {
+      "text": "Transportation Engineering"
+     },
+     {
+      "text": "18"
+     }
+    ],
+    [
+     {
+      "text": "18"
+     },
+     {
+      "text": "M.Tech"
+     },
+     {
+      "text": "Structural Engineering"
+     },
+     {
+      "text": "18"
+     }
+    ],
+    [
+     {
+      "text": "19"
+     },
+     {
+      "text": "M.Tech"
+     },
+     {
+      "text": "Power Electronics and Power System"
+     },
+     {
+      "text": "9"
+     }
+    ],
+    [
+     {
+      "text": "20"
+     },
+     {
+      "text": "M.Tech"
+     },
+     {
+      "text": "Thermal Engineering"
+     },
+     {
+      "text": "18"
+     }
+    ],
+    [
+     {
+      "text": "21"
+     },
+     {
+      "text": "MBA"
+     },
+     {
+      "text": "Master of Business Administration"
+     },
+     {
+      "text": "90"
+     }
+    ],
+    [
+     {
+      "text": "22"
+     },
+     {
+      "text": "MCA"
+     },
+     {
+      "text": "Master of Computer Application"
+     },
+     {
+      "text": "180"
+     }
+    ]
+   ]
+  },
+  {
+   "type": "table",
+   "rows": [
+    [
+     {
+      "text": "UG Courses Offered 2022 - 23",
+      "colspan": 4
+     }
+    ],
+    [
+     {
+      "text": "S.No"
+     },
+     {
+      "text": "Course"
+     },
+     {
+      "text": "Branch"
+     },
+     {
+      "text": "Intake"
+     }
+    ],
+    [
+     {
+      "text": "1"
+     },
+     {
+      "text": "B.Tech"
+     },
+     {
+      "text": "Artificial Intelligence"
+     },
+     {
+      "text": "60"
+     }
+    ],
+    [
+     {
+      "text": "2"
+     },
+     {
+      "text": "B.Tech"
+     },
+     {
+      "text": "Artificial Intelligence and Data Science"
+     },
+     {
+      "text": "60"
+     }
+    ],
+    [
+     {
+      "text": "3"
+     },
+     {
+      "text": "B.Tech"
+     },
+     {
+      "text": "Civil Engineering"
+     },
+     {
+      "text": "60"
+     }
+    ],
+    [
+     {
+      "text": "4"
+     },
+     {
+      "text": "B.Tech"
+     },
+     {
+      "text": "Computer Science and Engineering"
+     },
+     {
+      "text": "480"
+     }
+    ],
+    [
+     {
+      "text": "5"
+     },
+     {
+      "text": "B.Tech"
+     },
+     {
+      "text": "Computer Science and Engineering (Artificial Intelligence and Machine Learning)"
+     },
+     {
+      "text": "60"
+     }
+    ],
+    [
+     {
+      "text": "6"
+     },
+     {
+      "text": "B.Tech"
+     },
+     {
+      "text": "Computer Science and Engineering (Data Science)"
+     },
+     {
+      "text": "120"
+     }
+    ],
+    [
+     {
+      "text": "7"
+     },
+     {
+      "text": "B.Tech"
+     },
+     {
+      "text": "Computer Science and Engineering (IOT and Cyber Security with Block Chain Technology)"
+     },
+     {
+      "text": "60"
+     }
+    ],
+    [
+     {
+      "text": "8"
+     },
+     {
+      "text": "B.Tech"
+     },
+     {
+      "text": "Computer Science and Engineering and Business Systems"
+     },
+     {
+      "text": "60"
+     }
+    ],
+    [
+     {
+      "text": "9"
+     },
+     {
+      "text": "B.Tech"
+     },
+     {
+      "text": "Computer Science and Information Technology"
+     },
+     {
+      "text": "60"
+     }
+    ],
+    [
+     {
+      "text": "10"
+     },
+     {
+      "text": "B.Tech"
+     },
+     {
+      "text": "Electrical and Electronics Engineering"
+     },
+     {
+      "text": "120"
+     }
+    ],
+    [
+     {
+      "text": "11"
+     },
+     {
+      "text": "B.Tech"
+     },
+     {
+      "text": "Electronics and Communication Engineering"
+     },
+     {
+      "text": "360"
+     }
+    ],
+    [
+     {
+      "text": "12"
+     },
+     {
+      "text": "B.Tech"
+     },
+     {
+      "text": "Electronics Engineering(VLSI and Technology)"
+     },
+     {
+      "text": "60"
+     }
+    ],
+    [
+     {
+      "text": "13"
+     },
+     {
+      "text": "B.Tech"
+     },
+     {
+      "text": "Information Technology"
+     },
+     {
+      "text": "120"
+     }
+    ],
+    [
+     {
+      "text": "14"
+     },
+     {
+      "text": "B.Tech"
+     },
+     {
+      "text": "Mechanical Engineering"
+     },
+     {
+      "text": "60"
+     }
+    ],
+    [
+     {
+      "text": "PG Courses Offered 2022 - 2023",
+      "colspan": 4
+     }
+    ],
+    [
+     {
+      "text": "15"
+     },
+     {
+      "text": "M.Tech"
+     },
+     {
+      "text": "Computer Science and Engineering"
+     },
+     {
+      "text": "54"
+     }
+    ],
+    [
+     {
+      "text": "16"
+     },
+     {
+      "text": "M.Tech"
+     },
+     {
+      "text": "VLSI and Embedded Systems"
+     },
+     {
+      "text": "18"
+     }
+    ],
+    [
+     {
+      "text": "17"
+     },
+     {
+      "text": "M.Tech"
+     },
+     {
+      "text": "Transportation Engineering"
+     },
+     {
+      "text": "18"
+     }
+    ],
+    [
+     {
+      "text": "18"
+     },
+     {
+      "text": "M.Tech"
+     },
+     {
+      "text": "Structural Engineering"
+     },
+     {
+      "text": "18"
+     }
+    ],
+    [
+     {
+      "text": "19"
+     },
+     {
+      "text": "M.Tech"
+     },
+     {
+      "text": "Power Electronics and Power System"
+     },
+     {
+      "text": "18"
+     }
+    ],
+    [
+     {
+      "text": "20"
+     },
+     {
+      "text": "M.Tech"
+     },
+     {
+      "text": "Thermal Engineering"
+     },
+     {
+      "text": "18"
+     }
+    ],
+    [
+     {
+      "text": "21"
+     },
+     {
+      "text": "MBA"
+     },
+     {
+      "text": "Master of Business Administration"
+     },
+     {
+      "text": "60"
+     }
+    ],
+    [
+     {
+      "text": "22"
+     },
+     {
+      "text": "MCA"
+     },
+     {
+      "text": "Master of Computer Application"
+     },
+     {
+      "text": "120"
+     }
+    ]
+   ]
+  }
+ ]
+}

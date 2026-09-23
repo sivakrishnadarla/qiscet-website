@@ -1,0 +1,55 @@
+{
+ "slug": "departments/information-technology/innovations-by-faculty",
+ "section": "departments",
+ "sectionTitle": "Departments",
+ "title": "Innovations by Faculty – Information Technology",
+ "legacy": "https://qiscet.edu.in/qiscet/DEPARTMENTS_it_innovation.php",
+ "summary": "Following innovative learning methods are initiated and implemented by the faculty for students to learn in a better manner.",
+ "blocks": [
+  {
+   "type": "paragraph",
+   "text": "Following innovative learning methods are initiated and implemented by the faculty for students to learn in a better manner."
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    {
+     "text": "Effective use of ICT"
+    },
+    {
+     "text": "Web based learning"
+    },
+    {
+     "text": "Project-Based Learning (PBL)"
+    },
+    {
+     "text": "Personalized Learning"
+    },
+    {
+     "text": "Feedback"
+    },
+    {
+     "text": "E-Cap College Automation System"
+    },
+    {
+     "text": "Lab Improvement for Future Trends"
+    },
+    {
+     "text": "Learn emerging advances in the domain"
+    },
+    {
+     "text": "Group Learning"
+    },
+    {
+     "text": "Innovations in Assessment"
+    },
+    {
+     "text": "Innovations in Evaluation"
+    }
+   ]
+  }
+ ],
+ "department": "information-technology",
+ "pageTitle": "Innovations by Faculty"
+}

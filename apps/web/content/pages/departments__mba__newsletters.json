@@ -1,0 +1,45 @@
+{
+ "slug": "departments/mba/newsletters",
+ "section": "departments",
+ "sectionTitle": "Departments",
+ "title": "Newsletters – Master of Business Administration",
+ "legacy": "https://qiscet.edu.in/qiscet/DEPARTMENTS_mba_news_letters.php",
+ "summary": null,
+ "blocks": [
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    {
+     "text": "NEWS LETTER 2019",
+     "links": [
+      {
+       "label": "NEWS LETTER 2019",
+       "href": "https://qiscet.edu.in/qiscet/departments/mba/nsl/QIS%20MBA%20NEWS%20LETTER%202019.pdf"
+      }
+     ]
+    },
+    {
+     "text": "NEWS LETTER 2020",
+     "links": [
+      {
+       "label": "NEWS LETTER 2020",
+       "href": "https://qiscet.edu.in/qiscet/departments/mba/nsl/QIS%20MBA%20NEWS%20LETTERS%202020.pdf"
+      }
+     ]
+    },
+    {
+     "text": "NEWS LETTER 2021",
+     "links": [
+      {
+       "label": "NEWS LETTER 2021",
+       "href": "https://qiscet.edu.in/qiscet/departments/mba/nsl/QIS%20MBA%20NEWS%20LETTER-2021.pdf"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "department": "mba",
+ "pageTitle": "Newsletters"
+}

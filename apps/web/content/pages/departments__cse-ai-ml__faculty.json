@@ -1,0 +1,17 @@
+{
+ "slug": "departments/cse-ai-ml/faculty",
+ "section": "departments",
+ "sectionTitle": "Departments",
+ "title": "Faculty – CSE (Artificial Intelligence & Machine Learning)",
+ "legacy": "https://qiscet.edu.in/qiscet/DEPARTMENTS_CSE_AL_ML_faculty_list.php",
+ "summary": null,
+ "blocks": [
+  {
+   "type": "document",
+   "href": "https://qiscet.edu.in/qiscet/Faculty/QISCET%20-%20CSE%20%28AI%26ML%29%20-%20Faculty%20List.pdf",
+   "label": "View document (PDF)"
+  }
+ ],
+ "department": "cse-ai-ml",
+ "pageTitle": "Faculty"
+}

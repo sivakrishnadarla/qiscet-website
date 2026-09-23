@@ -1,0 +1,34 @@
+{
+ "slug": "departments/basic-sciences-humanities",
+ "section": "departments",
+ "sectionTitle": "Departments",
+ "title": "Basic Sciences & Humanities",
+ "legacy": "https://qiscet.edu.in/qiscet/DEPARTMENTS_hs.php",
+ "summary": "The strength of engineering college indeed lies in the academic affluence of the Department of Basic Sciences & Humanities which was established in 1998. The department supports the technical…",
+ "blocks": [
+  {
+   "type": "paragraph",
+   "text": "The strength of engineering college indeed lies in the academic affluence of the Department of Basic Sciences & Humanities which was established in 1998. The department supports the technical departments by providing the value-based education to budding engineers that help them to become professionals with a difference to understand the social realities, the human beings, and work with them effectively. The students acquire knowledge and skills in the subjects of humanities and social sciences as depth and breadth subjects. The department is quite active in conducting workshops, extension lectures, leadership and personality development programmes in addition to the regular teaching schedule to create awareness and zeal in the students."
+  },
+  {
+   "type": "heading",
+   "text": "Vision",
+   "level": 4
+  },
+  {
+   "type": "paragraph",
+   "text": "A dynamic integration of basic sciences and technology for personal and professional development."
+  },
+  {
+   "type": "heading",
+   "text": "Mission",
+   "level": 4
+  },
+  {
+   "type": "paragraph",
+   "text": "To inculcate the importance of Basic Sciences and develop a natural flair for Engineering and Technology which in turn shall mould the student into a competent professional."
+  }
+ ],
+ "department": "basic-sciences-humanities",
+ "isDepartmentHome": true
+}

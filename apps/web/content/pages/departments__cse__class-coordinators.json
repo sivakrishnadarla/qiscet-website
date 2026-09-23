@@ -1,0 +1,241 @@
+{
+ "slug": "departments/cse/class-coordinators",
+ "section": "departments",
+ "sectionTitle": "Departments",
+ "title": "Class Coordinators – Computer Science & Engineering",
+ "legacy": "https://qiscet.edu.in/qiscet/DEPARTMENTS_cse_class_teachers.php",
+ "summary": null,
+ "blocks": [
+  {
+   "type": "table",
+   "rows": [
+    [
+     {
+      "text": "S.No"
+     },
+     {
+      "text": "Class"
+     },
+     {
+      "text": "Section"
+     },
+     {
+      "text": "Name of the Staff"
+     }
+    ],
+    [
+     {
+      "text": "1"
+     },
+     {
+      "text": "II B.Tech"
+     },
+     {
+      "text": "1"
+     },
+     {
+      "text": "N.BHAVYA"
+     }
+    ],
+    [
+     {
+      "text": "2"
+     },
+     {
+      "text": "II B.Tech"
+     },
+     {
+      "text": "2"
+     },
+     {
+      "text": "A.L.PARVATHI"
+     }
+    ],
+    [
+     {
+      "text": "3"
+     },
+     {
+      "text": "II B.Tech"
+     },
+     {
+      "text": "3"
+     },
+     {
+      "text": "E.SAI KUMAR"
+     }
+    ],
+    [
+     {
+      "text": "4"
+     },
+     {
+      "text": "II B.Tech"
+     },
+     {
+      "text": "4"
+     },
+     {
+      "text": "SK.SHEEMA"
+     }
+    ],
+    [
+     {
+      "text": "5"
+     },
+     {
+      "text": "II B.Tech"
+     },
+     {
+      "text": "5"
+     },
+     {
+      "text": "T.JAYASREE"
+     }
+    ],
+    [
+     {
+      "text": "6"
+     },
+     {
+      "text": "III B.Tech"
+     },
+     {
+      "text": "1"
+     },
+     {
+      "text": "A.SWATHI"
+     }
+    ],
+    [
+     {
+      "text": "7"
+     },
+     {
+      "text": "III B.Tech"
+     },
+     {
+      "text": "2"
+     },
+     {
+      "text": "T.SUNITHA"
+     }
+    ],
+    [
+     {
+      "text": "8"
+     },
+     {
+      "text": "III B.Tech"
+     },
+     {
+      "text": "3"
+     },
+     {
+      "text": "Dr.M.Narendra"
+     }
+    ],
+    [
+     {
+      "text": "9"
+     },
+     {
+      "text": "III B.Tech"
+     },
+     {
+      "text": "4"
+     },
+     {
+      "text": "N.Srinu"
+     }
+    ],
+    [
+     {
+      "text": "10"
+     },
+     {
+      "text": "III B.Tech"
+     },
+     {
+      "text": "5"
+     },
+     {
+      "text": "Dr.M.Senthil"
+     }
+    ],
+    [
+     {
+      "text": "11"
+     },
+     {
+      "text": "IV B.Tech"
+     },
+     {
+      "text": "1"
+     },
+     {
+      "text": "K.VIVEK"
+     }
+    ],
+    [
+     {
+      "text": "12"
+     },
+     {
+      "text": "IV B.Tech"
+     },
+     {
+      "text": "2"
+     },
+     {
+      "text": "K.VIVEK"
+     }
+    ],
+    [
+     {
+      "text": "13"
+     },
+     {
+      "text": "IV B.Tech"
+     },
+     {
+      "text": "3"
+     },
+     {
+      "text": "D.KARUNA"
+     }
+    ],
+    [
+     {
+      "text": "14"
+     },
+     {
+      "text": "IV B.Tech"
+     },
+     {
+      "text": "4"
+     },
+     {
+      "text": "D.KARUNA"
+     }
+    ],
+    [
+     {
+      "text": "15"
+     },
+     {
+      "text": "IV B.Tech"
+     },
+     {
+      "text": "5"
+     },
+     {
+      "text": "SREENATH"
+     }
+    ]
+   ]
+  }
+ ],
+ "department": "cse",
+ "pageTitle": "Class Coordinators"
+}

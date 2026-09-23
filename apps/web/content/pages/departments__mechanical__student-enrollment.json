@@ -1,0 +1,35 @@
+{
+ "slug": "departments/mechanical/student-enrollment",
+ "section": "departments",
+ "sectionTitle": "Departments",
+ "title": "Student Enrollment – Mechanical Engineering",
+ "legacy": "https://qiscet.edu.in/qiscet/DEPARTMENTS_me_Admissions.php",
+ "summary": null,
+ "blocks": [
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    {
+     "text": "Student Enrollment List 2024-2025 IV Year| III Year| II Year",
+     "links": [
+      {
+       "label": "IV Year",
+       "href": "https://qiscet.edu.in/qiscet/departments/me/StudentsList_4.pdf"
+      },
+      {
+       "label": "III Year",
+       "href": "https://qiscet.edu.in/qiscet/departments/me/StudentsList_3.pdf"
+      },
+      {
+       "label": "II Year",
+       "href": "https://qiscet.edu.in/qiscet/departments/me/StudentsList_2.pdf"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "department": "mechanical",
+ "pageTitle": "Student Enrollment"
+}

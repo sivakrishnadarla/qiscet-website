@@ -1,0 +1,60 @@
+{
+ "slug": "edc/startup-registration",
+ "section": "edc",
+ "sectionTitle": "Entrepreneurship Development Cell",
+ "title": "Registration of Start-up",
+ "legacy": "https://qiscet.edu.in/qiscet/edc_reg_startup.php",
+ "summary": "Option 1: An entity can register itself through MCA or Registrar of Firms using the existing processes and subsequently register itself on the Start-up India portal and mobile app as a Start-up to…",
+ "blocks": [
+  {
+   "type": "paragraph",
+   "text": "Option 1: An entity can register itself through MCA or Registrar of Firms using the existing processes and subsequently register itself on the Start-up India portal and mobile app as a Start-up to avail the benefits."
+  },
+  {
+   "type": "paragraph",
+   "text": "Option 2: An entity can register itself through the Start-up India portal and mobile app using a seamless process. This facility would be made available in the second phase of the Start-up India portal and mobile app launch."
+  },
+  {
+   "type": "list",
+   "ordered": true,
+   "items": [
+    {
+     "text": "Log in to Start-up India Portal"
+    },
+    {
+     "text": "Choose your legal entity"
+    },
+    {
+     "text": "Input your incorporation/registration number"
+    },
+    {
+     "text": "Input your incorporation/registration date"
+    },
+    {
+     "text": "Input PAN number (optional)"
+    },
+    {
+     "text": "Input your address with postal code & state"
+    },
+    {
+     "text": "Input authorized representative details"
+    },
+    {
+     "text": "Input director(s)/partner(s) details"
+    },
+    {
+     "text": "Choose and upload supporting documents and self-certification"
+    },
+    {
+     "text": "Incorporation/registration certificate of company/LLP/Partnership"
+    },
+    {
+     "text": "Registration to avail tax and IPR"
+    },
+    {
+     "text": "Certify the official notification terms and conditions"
+    }
+   ]
+  }
+ ]
+}

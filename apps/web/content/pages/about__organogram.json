@@ -1,0 +1,15 @@
+{
+ "slug": "about/organogram",
+ "section": "about",
+ "sectionTitle": "About Us",
+ "title": "Organogram",
+ "legacy": "https://qiscet.edu.in/qiscet/ABOUT_US_organogram.php",
+ "summary": null,
+ "blocks": [
+  {
+   "type": "document",
+   "href": "https://qiscet.edu.in/qiscet/pdfs/organogram.pdf",
+   "label": "View document (PDF)"
+  }
+ ]
+}

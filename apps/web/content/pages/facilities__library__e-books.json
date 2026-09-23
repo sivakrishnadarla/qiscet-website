@@ -1,0 +1,30 @@
+{
+ "slug": "facilities/library/e-books",
+ "section": "facilities",
+ "sectionTitle": "Facilities",
+ "title": "E-Books",
+ "legacy": "https://qiscet.edu.in/qiscet/FACILITIES_library_ebooks.php",
+ "summary": null,
+ "blocks": [
+  {
+   "type": "link",
+   "label": "ASTM Digital Library",
+   "href": "https://qiscet.edu.in/qiscet/library/16-sep-2022/ASTM%20Digital%20Library.pdf"
+  },
+  {
+   "type": "link",
+   "label": "McGrawHill - E Books",
+   "href": "https://qiscet.edu.in/qiscet/library/16-sep-2022/McGrawHill%20-%20E%20Books.pdf"
+  },
+  {
+   "type": "link",
+   "label": "DELNET - E BOOKS",
+   "href": "https://qiscet.edu.in/qiscet/library/16-sep-2022/DELNET-E%20BOOKS.pdf"
+  },
+  {
+   "type": "link",
+   "label": "OPEN ACCESS - E BOOKS",
+   "href": "https://qiscet.edu.in/qiscet/library/16-sep-2022/OPEN%20ACCESS%20E%20BOOKS.pdf"
+  }
+ ]
+}

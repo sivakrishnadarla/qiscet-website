@@ -1,0 +1,160 @@
+{
+ "slug": "innovation/applied-skilling/domains",
+ "section": "innovation",
+ "sectionTitle": "Centre for Innovation",
+ "title": "Applied Skilling – Offered Domains",
+ "legacy": "https://qiscet.edu.in/qiscet/CENTRE_FOR_INNOVATION_appliedskilling_offereddomains.php",
+ "summary": null,
+ "blocks": [
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    {
+     "text": "CSE & Allied Branches",
+     "links": [
+      {
+       "label": "CSE & Allied Branches",
+       "href": "https://qiscet.edu.in/qiscet/appliedskilling/CSE.pdf"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    {
+     "text": "Soft computing Processing Techniques"
+    },
+    {
+     "text": "Software application development"
+    },
+    {
+     "text": "Gaming Augment Reality/Virtual Reality"
+    },
+    {
+     "text": "Network and infrastructure Development"
+    }
+   ]
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    {
+     "text": "ECE",
+     "links": [
+      {
+       "label": "ECE",
+       "href": "https://qiscet.edu.in/qiscet/appliedskilling/ECE.pdf"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    {
+     "text": "Circuit design & fabrication"
+    },
+    {
+     "text": "Embedded system development for real time applications"
+    },
+    {
+     "text": "Signal processing techniques for communication system"
+    },
+    {
+     "text": "Image Processing Techniques"
+    }
+   ]
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    {
+     "text": "EEE",
+     "links": [
+      {
+       "label": "EEE",
+       "href": "https://qiscet.edu.in/qiscet/appliedskilling/EEE.pdf"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    {
+     "text": "Real Time Control Applications using Embedded Systems"
+    },
+    {
+     "text": "Power Processing Techniques"
+    }
+   ]
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    {
+     "text": "ME",
+     "links": [
+      {
+       "label": "ME",
+       "href": "https://qiscet.edu.in/qiscet/appliedskilling/ME.pdf"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    {
+     "text": "Advanced Materials Processing Techniques"
+    },
+    {
+     "text": "Artificial intelligence and Robotics"
+    },
+    {
+     "text": "Hydrogen & Fuel Cells systems"
+    }
+   ]
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    {
+     "text": "CE",
+     "links": [
+      {
+       "label": "CE",
+       "href": "https://qiscet.edu.in/qiscet/appliedskilling/CE.pdf"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    {
+     "text": "Civil Information Management and Smart Engineering"
+    },
+    {
+     "text": "Construction Engineering"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,45 @@
+{
+ "slug": "departments/basic-sciences-humanities/events",
+ "section": "departments",
+ "sectionTitle": "Departments",
+ "title": "Events – Basic Sciences & Humanities",
+ "legacy": "https://qiscet.edu.in/qiscet/DEPARTMENTS_hs_events.php",
+ "summary": null,
+ "blocks": [
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    {
+     "text": "Student List of Events 2024-2025",
+     "links": [
+      {
+       "label": "Student List of Events 2024-2025",
+       "href": "https://qiscet.edu.in/qiscet/departments/hs/student/Stu_events_2024.pdf"
+      }
+     ]
+    },
+    {
+     "text": "Student List of Events 2023-2024",
+     "links": [
+      {
+       "label": "Student List of Events 2023-2024",
+       "href": "https://qiscet.edu.in/qiscet/departments/hs/student/Stu_events_2023.pdf"
+      }
+     ]
+    },
+    {
+     "text": "Student List of Events 2022-2023",
+     "links": [
+      {
+       "label": "Student List of Events 2022-2023",
+       "href": "https://qiscet.edu.in/qiscet/departments/hs/student/Stu_events_2022.pdf"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "department": "basic-sciences-humanities",
+ "pageTitle": "Events"
+}

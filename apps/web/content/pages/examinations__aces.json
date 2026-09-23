@@ -1,0 +1,97 @@
+{
+ "slug": "examinations/aces",
+ "section": "examinations",
+ "sectionTitle": "Examinations",
+ "title": "Additional Controllers of Examinations (ACEs)",
+ "legacy": "https://qiscet.edu.in/qiscet/EXAMINATIONS_faculty_list.php",
+ "summary": null,
+ "blocks": [
+  {
+   "type": "table",
+   "rows": [
+    [
+     {
+      "text": "Name"
+     },
+     {
+      "text": "Upputuri Hari Babu M.E (Ph.D)"
+     }
+    ],
+    [
+     {
+      "text": "DESIGNATION"
+     },
+     {
+      "text": "Professor & Additional Controller of Examinations"
+     }
+    ],
+    [
+     {
+      "text": "E-MAIL"
+     },
+     {
+      "text": "haribabu.u@qiscet.edu.in"
+     }
+    ]
+   ]
+  },
+  {
+   "type": "table",
+   "rows": [
+    [
+     {
+      "text": "Name"
+     },
+     {
+      "text": "Balakrishna Batta M.Tech"
+     }
+    ],
+    [
+     {
+      "text": "DESIGNATION"
+     },
+     {
+      "text": "Assistant Professor & Additional Controller of Examinations"
+     }
+    ],
+    [
+     {
+      "text": "E-MAIL"
+     },
+     {
+      "text": "balakrishna.batta@qiscet.edu.in"
+     }
+    ]
+   ]
+  },
+  {
+   "type": "table",
+   "rows": [
+    [
+     {
+      "text": "Name"
+     },
+     {
+      "text": "Shaik Rafi M.Tech (Ph.D)"
+     }
+    ],
+    [
+     {
+      "text": "DESIGNATION"
+     },
+     {
+      "text": "Assistant Professor & Additional Controller of Examinations"
+     }
+    ],
+    [
+     {
+      "text": "E-MAIL"
+     },
+     {
+      "text": "rafi.sk@qiscet.edu.in"
+     }
+    ]
+   ]
+  }
+ ]
+}

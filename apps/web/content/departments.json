@@ -1,0 +1,1463 @@
+[
+ {
+  "slug": "cse",
+  "name": "Computer Science & Engineering",
+  "short": "CSE",
+  "legacy": "cse",
+  "code": "cse",
+  "hod": {
+   "name": "Dr. D. Bujji Babu",
+   "designation": "Professor & HOD",
+   "qualification": "M.Tech, Ph.D",
+   "email": "csehod@qiscet.edu.in",
+   "phone": "7093258205",
+   "interests": "Data Maining, Data Anlytics, Application Development, Software Engineering",
+   "experience": "22 years",
+   "profile": null,
+   "photo": null,
+   "resume": null
+  },
+  "courses": [
+   {
+    "course": "B.Tech - CSE (Computer Science & Engineering)",
+    "intake": "480"
+   },
+   {
+    "course": "M.Tech - CSE (Computer Science & Engineering)",
+    "intake": "54"
+   }
+  ],
+  "intro": "The Department of Computer Science & engineering was started in the year 1998. It has become the most sought after department among engineering aspirants. The college conducts the examinations and the degree is awarded by JNTU Kakinada. University…",
+  "news": "welcome to the department of Computer Science and Engineering",
+  "subpages": [
+   {
+    "label": "Student Enrollment",
+    "slug": "student-enrollment"
+   },
+   {
+    "label": "Board of Studies",
+    "slug": "board-of-studies"
+   },
+   {
+    "label": "Internships",
+    "slug": "internships"
+   },
+   {
+    "label": "Placements",
+    "slug": "placements"
+   },
+   {
+    "label": "Prominent Alumni",
+    "slug": "prominent-alumni"
+   },
+   {
+    "label": "Statutory Department Committees",
+    "slug": "statutory-department-committees"
+   },
+   {
+    "label": "Visiting Faculty",
+    "slug": "visiting-faculty"
+   },
+   {
+    "label": "Student Co-Curricular Activities",
+    "slug": "student-co-curricular-activities"
+   },
+   {
+    "label": "Result Analysis",
+    "slug": "result-analysis"
+   },
+   {
+    "label": "Class Coordinators",
+    "slug": "class-coordinators"
+   },
+   {
+    "label": "Community Outreach",
+    "slug": "community-outreach"
+   },
+   {
+    "label": "Consultancy",
+    "slug": "consultancy"
+   },
+   {
+    "label": "Counsellors",
+    "slug": "counsellors"
+   },
+   {
+    "label": "Faculty",
+    "slug": "faculty"
+   },
+   {
+    "label": "Faculty Development Programmes",
+    "slug": "faculty-development-programmes"
+   },
+   {
+    "label": "Functional Coordinators",
+    "slug": "functional-coordinators"
+   },
+   {
+    "label": "Head of the Department",
+    "slug": "head-of-the-department"
+   },
+   {
+    "label": "IEEE Events",
+    "slug": "ieee-events"
+   },
+   {
+    "label": "Laboratories",
+    "slug": "laboratories"
+   },
+   {
+    "label": "Department Library",
+    "slug": "department-library"
+   },
+   {
+    "label": "MoUs",
+    "slug": "mous"
+   },
+   {
+    "label": "Newsletters",
+    "slug": "newsletters"
+   },
+   {
+    "label": "NPTEL",
+    "slug": "nptel"
+   },
+   {
+    "label": "Research Outcomes",
+    "slug": "research-outcomes"
+   },
+   {
+    "label": "Skill Development Courses",
+    "slug": "skill-development-courses"
+   },
+   {
+    "label": "Syllabus",
+    "slug": "syllabus"
+   },
+   {
+    "label": "Class Time Tables",
+    "slug": "class-time-tables"
+   }
+  ],
+  "established": null
+ },
+ {
+  "slug": "cse-data-science",
+  "name": "CSE (Data Science)",
+  "short": "CSE-DS",
+  "legacy": "cse_ds",
+  "code": "cse_ds",
+  "hod": {
+   "name": "Dr. K. Malakonda Rayudu",
+   "designation": "Professor & HOD",
+   "qualification": "Ph.D",
+   "email": "kmrayudu@qiscet.edu.in",
+   "phone": "9949700566",
+   "interests": "Data Science,Machine Learning,Web Develpment,Software Engineering",
+   "experience": "16 Years",
+   "profile": null,
+   "photo": null,
+   "resume": null
+  },
+  "courses": [
+   {
+    "course": "B.Tech - CSE (Data Science)",
+    "intake": "240"
+   }
+  ],
+  "intro": "The Department of Computer Science & Engineering (Data Science) was established in the year 2020. It has become one of the most sought-after branches among engineering aspirants. The college conducts examinations, and the degree is awarded by JNTU Kakinada.…",
+  "news": "WELCOME TO THE COMPUTER SCIENCE & ENGINEERING (DATA SCIENCE)",
+  "subpages": [
+   {
+    "label": "Board of Studies",
+    "slug": "board-of-studies"
+   },
+   {
+    "label": "Class Coordinators",
+    "slug": "class-coordinators"
+   },
+   {
+    "label": "Faculty",
+    "slug": "faculty"
+   },
+   {
+    "label": "Head of the Department",
+    "slug": "head-of-the-department"
+   },
+   {
+    "label": "Laboratories",
+    "slug": "laboratories"
+   },
+   {
+    "label": "Syllabus",
+    "slug": "syllabus"
+   },
+   {
+    "label": "Class Time Tables",
+    "slug": "class-time-tables"
+   }
+  ],
+  "established": null
+ },
+ {
+  "slug": "cse-ai-ml",
+  "name": "CSE (Artificial Intelligence & Machine Learning)",
+  "short": "CSE-AIML",
+  "legacy": "CSE_AI_ML",
+  "code": "CSE_AI_ML",
+  "hod": {
+   "name": "Dr. M. Senthil",
+   "designation": "Professor & HOD",
+   "qualification": "M.E., Ph.D",
+   "email": "senthil.m@qiscet.edu.in",
+   "phone": "8870599966",
+   "interests": "Wireless Networks, Body Sensor Networks, Artificial Intelligence, Machine Learning",
+   "experience": "21 years",
+   "profile": null,
+   "photo": null,
+   "resume": null
+  },
+  "courses": [
+   {
+    "course": "B.Tech - CSE AI & ML",
+    "intake": "180"
+   }
+  ],
+  "intro": "The Department of Computer Science & Engineering (Artificial Intelligence & Machine Learning) was established in the year 2021. It has become one of the most sought-after branches among engineering aspirants. The college conducts examinations, and the degree…",
+  "news": "WELCOME TO THE DEPARTMENT OF CSE ARTIFICIAL INTELIGENCE & MACHINE LEARNING",
+  "subpages": [
+   {
+    "label": "Head of the Department",
+    "slug": "head-of-the-department"
+   },
+   {
+    "label": "NPTEL",
+    "slug": "nptel"
+   },
+   {
+    "label": "Faculty",
+    "slug": "faculty"
+   },
+   {
+    "label": "Syllabus",
+    "slug": "syllabus"
+   },
+   {
+    "label": "Class Coordinators",
+    "slug": "class-coordinators"
+   }
+  ],
+  "established": null
+ },
+ {
+  "slug": "cse-iot-cyber-security",
+  "name": "CSE (IoT & Cyber Security including Blockchain Technology)",
+  "short": "CSE-IoT&CS",
+  "legacy": "cse_IOT_CSIBT",
+  "code": "cse_IOT_CSIBT",
+  "hod": {
+   "name": "Dr. M. Venu Gopala Rao",
+   "designation": "Professor & HOD",
+   "qualification": "M.E.,Ph.D",
+   "email": "cseiothod@qiscet.edu.in",
+   "phone": "9440931217",
+   "interests": "Artificial Inteligence, Machine Learning, Application Development",
+   "experience": "27 years",
+   "profile": null,
+   "photo": null,
+   "resume": null
+  },
+  "courses": [
+   {
+    "course": "B.Tech - CSE (IOT&CSIBT)",
+    "intake": "60"
+   }
+  ],
+  "intro": "The Department of Computer Science and Engineering (Internet of Things and Cyber Security with Blockchain Technologies) was established in the year 2021 with an intake of 60 students. We aim at grooming the students on context & project-based learning through…",
+  "news": "WELCOME TO THE DEPARTMENT OF CSE INTERNET OF THINGS & CYBER SECURITY AND BLOCKCHAIN TECHNOLOGY",
+  "subpages": [
+   {
+    "label": "Head of the Department",
+    "slug": "head-of-the-department"
+   },
+   {
+    "label": "Faculty",
+    "slug": "faculty"
+   },
+   {
+    "label": "Syllabus",
+    "slug": "syllabus"
+   }
+  ],
+  "established": null
+ },
+ {
+  "slug": "cse-business-systems",
+  "name": "Computer Science & Engineering and Business Systems",
+  "short": "CSBS",
+  "legacy": "cse_bs",
+  "code": "cse_bs",
+  "hod": {
+   "name": "Dr. K. Masthan Rao",
+   "designation": "Asst. Professor & HOD",
+   "qualification": "M.Tech, Ph.D",
+   "email": "kale.masthan@qiscet.edu.in",
+   "phone": "9247105525",
+   "interests": "Information Security, Image Processing, Machine Learning, Computer Networks",
+   "experience": "14 years",
+   "profile": null,
+   "photo": null,
+   "resume": null
+  },
+  "courses": [
+   {
+    "course": "B.Tech - CSE and Business Systems",
+    "intake": "60"
+   }
+  ],
+  "intro": "This course will provide industry-ready and employable engineers who can drive innovation and add value to the organization they work for as well as to the nation in the era of Industry 4.0 standards. Students can get placement in the product-based companies…",
+  "news": "WELCOME TO THE COMPUTER SCIENCE & ENGINEERING AND BUSINESS SYSTEMS",
+  "subpages": [
+   {
+    "label": "Board of Studies",
+    "slug": "board-of-studies"
+   },
+   {
+    "label": "Faculty",
+    "slug": "faculty"
+   },
+   {
+    "label": "Head of the Department",
+    "slug": "head-of-the-department"
+   },
+   {
+    "label": "Laboratories",
+    "slug": "laboratories"
+   },
+   {
+    "label": "Syllabus",
+    "slug": "syllabus"
+   },
+   {
+    "label": "Class Time Tables",
+    "slug": "class-time-tables"
+   }
+  ],
+  "established": null
+ },
+ {
+  "slug": "artificial-intelligence",
+  "name": "Artificial Intelligence",
+  "short": "AI",
+  "legacy": "AI",
+  "code": "AI",
+  "hod": {
+   "name": "Dr. M. Muthamizh Selvam",
+   "designation": "Assoc Professor & HOD",
+   "qualification": "M.Tech, Ph.D",
+   "email": "selvam.m@qiscet.edu.in",
+   "phone": "9487087286",
+   "interests": "Machine Learning, Artificial Intelligence, Distribution Pricing and Big Data Analysis.",
+   "experience": "5 years",
+   "profile": null,
+   "photo": null,
+   "resume": null
+  },
+  "courses": [
+   {
+    "course": "B.Tech - AI (Artificial Inteligence)",
+    "intake": "60"
+   }
+  ],
+  "intro": "The Department of Artificial Intelligence & Engineering was established in the year 2021. It has quickly become one of the most sought-after branches among engineering aspirants. The college conducts examinations, and the degree is awarded by JNTU Kakinada.…",
+  "news": "WELCOME TO THE DEPARTMENT OF ARTIFICIAL INTELIGENCE",
+  "subpages": [
+   {
+    "label": "Head of the Department",
+    "slug": "head-of-the-department"
+   },
+   {
+    "label": "Class Coordinators",
+    "slug": "class-coordinators"
+   },
+   {
+    "label": "Faculty",
+    "slug": "faculty"
+   },
+   {
+    "label": "Syllabus",
+    "slug": "syllabus"
+   }
+  ],
+  "established": null
+ },
+ {
+  "slug": "ai-data-science",
+  "name": "Artificial Intelligence & Data Science",
+  "short": "AI&DS",
+  "legacy": "AI_DS",
+  "code": "AI_DS",
+  "hod": {
+   "name": "Dr. G. Lakshmi Vara Prasad",
+   "designation": "Assoc Professor & HOD",
+   "qualification": "Ph.D",
+   "email": "gamidi.lakshmi@qiscet.edu.in",
+   "phone": "8125704636",
+   "interests": "Artificial Intelligence, Machine Learning,Deep learning, Cloud Computing, IoT",
+   "experience": "14 Years",
+   "profile": null,
+   "photo": null,
+   "resume": null
+  },
+  "courses": [
+   {
+    "course": "B.Tech - AI & DS (Artificial Intelligence & Data Science)",
+    "intake": "180"
+   }
+  ],
+  "intro": "The Department of Artificial Intelligence & Data Science was established in the year 2022. It has become one of the most sought-after branches among engineering aspirants. The college conducts examinations, and the degree is awarded by JNTU Kakinada. The…",
+  "news": "Artificial Intelligence & Data Science",
+  "subpages": [
+   {
+    "label": "Board of Studies",
+    "slug": "board-of-studies"
+   },
+   {
+    "label": "Class Coordinators",
+    "slug": "class-coordinators"
+   },
+   {
+    "label": "Faculty",
+    "slug": "faculty"
+   },
+   {
+    "label": "Head of the Department",
+    "slug": "head-of-the-department"
+   },
+   {
+    "label": "Laboratories",
+    "slug": "laboratories"
+   },
+   {
+    "label": "Syllabus",
+    "slug": "syllabus"
+   },
+   {
+    "label": "Class Time Tables",
+    "slug": "class-time-tables"
+   }
+  ],
+  "established": null
+ },
+ {
+  "slug": "quantum-computational-engineering",
+  "name": "Quantum Computational Engineering",
+  "short": "QCE",
+  "legacy": "qce",
+  "code": "qce",
+  "hod": {
+   "name": "Dr. Alok Kumar Sahoo",
+   "designation": "Assistant Professor & HOD-IC",
+   "qualification": "M. Sc., Ph.D.",
+   "email": "alokkumar.s@qiscet.edu.in",
+   "phone": null,
+   "interests": "Low temperature magnetism, Dielectric Spectroscopy, Neutron Diffraction, Quantum Computing",
+   "experience": null,
+   "profile": null,
+   "photo": null,
+   "resume": null
+  },
+  "courses": [
+   {
+    "course": "B.Tech - QCE (Quantum Computational Engineering)",
+    "intake": "60"
+   }
+  ],
+  "intro": "The Department of Quantum Computational Engineering, established in 2026, is dedicated to advancing education, research, and innovation in the rapidly evolving field of quantum technologies. It aims to equip students with the knowledge, skills, and research…",
+  "news": "",
+  "subpages": [
+   {
+    "label": "Faculty",
+    "slug": "faculty"
+   },
+   {
+    "label": "Head of the Department",
+    "slug": "head-of-the-department"
+   }
+  ],
+  "established": null
+ },
+ {
+  "slug": "cs-information-technology",
+  "name": "Computer Science & Information Technology",
+  "short": "CSIT",
+  "legacy": "CS_it",
+  "code": "CS_it",
+  "hod": null,
+  "courses": [
+   {
+    "course": "B.Tech -CSIT",
+    "intake": "60"
+   }
+  ],
+  "intro": "College pioneered a new B. Tech course in Computer Science and Information Technology (CSIT) in the year 2021. The new course brings the best of both CSE and IT together providing CSIT graduates more opportunities than the graduates of CSE and IT courses. The…",
+  "news": "WELCOME TO THE DEPARTMENT OF COMPUTER SCIENCE AND INFORMATION TECHNOLOGY",
+  "subpages": [],
+  "established": null
+ },
+ {
+  "slug": "information-technology",
+  "name": "Information Technology",
+  "short": "IT",
+  "legacy": "it",
+  "code": "it",
+  "hod": {
+   "name": "Dr. T. Sunitha",
+   "designation": "Assoc. Professor & HOD",
+   "qualification": "M.Tech, Ph.D",
+   "email": "ithod@qiscet.edu.in",
+   "phone": "7013334607",
+   "interests": "Deep Learning Machine Learning. Data Mining. Data Science.",
+   "experience": "19 Years",
+   "profile": null,
+   "photo": null,
+   "resume": null
+  },
+  "courses": [
+   {
+    "course": "B.Tech - IT (Information Technology)",
+    "intake": "120"
+   }
+  ],
+  "intro": "The Department of Information Technology at the QIS College of Engineering has been started in the year 2007 with the objective of promoting research and development, industrial consultancy, and teaching in the frontier areas of Information Technology.",
+  "news": "ONE DAY VIRTUAL SEMINAR ON INDUSTRY 4.0 TECHNOLOGIES AND ITS APPLICATIONS-24-07-2023",
+  "subpages": [
+   {
+    "label": "Board of Studies",
+    "slug": "board-of-studies"
+   },
+   {
+    "label": "Placements",
+    "slug": "placements"
+   },
+   {
+    "label": "Prominent Alumni",
+    "slug": "prominent-alumni"
+   },
+   {
+    "label": "Statutory Department Committees",
+    "slug": "statutory-department-committees"
+   },
+   {
+    "label": "Achievements",
+    "slug": "achievements"
+   },
+   {
+    "label": "Student Co-Curricular Activities",
+    "slug": "student-co-curricular-activities"
+   },
+   {
+    "label": "Student Enrollment",
+    "slug": "student-enrollment"
+   },
+   {
+    "label": "Result Analysis",
+    "slug": "result-analysis"
+   },
+   {
+    "label": "Class Coordinators",
+    "slug": "class-coordinators"
+   },
+   {
+    "label": "Consultancy",
+    "slug": "consultancy"
+   },
+   {
+    "label": "Counsellors",
+    "slug": "counsellors"
+   },
+   {
+    "label": "Faculty",
+    "slug": "faculty"
+   },
+   {
+    "label": "Head of the Department",
+    "slug": "head-of-the-department"
+   },
+   {
+    "label": "Innovations by Faculty",
+    "slug": "innovations-by-faculty"
+   },
+   {
+    "label": "Laboratories",
+    "slug": "laboratories"
+   },
+   {
+    "label": "MoUs",
+    "slug": "mous"
+   },
+   {
+    "label": "Newsletters",
+    "slug": "newsletters"
+   },
+   {
+    "label": "Events Organised",
+    "slug": "events-organised"
+   },
+   {
+    "label": "Research Outcomes",
+    "slug": "research-outcomes"
+   },
+   {
+    "label": "Skill Development Courses",
+    "slug": "skill-development-courses"
+   },
+   {
+    "label": "Student Achievements",
+    "slug": "student-achievements"
+   },
+   {
+    "label": "Syllabus",
+    "slug": "syllabus"
+   },
+   {
+    "label": "Class Time Tables",
+    "slug": "class-time-tables"
+   }
+  ],
+  "established": null
+ },
+ {
+  "slug": "ece",
+  "name": "Electronics & Communication Engineering",
+  "short": "ECE",
+  "legacy": "ece",
+  "code": "ece",
+  "hod": {
+   "name": "Dr. Ch. Hima Bindu",
+   "designation": "Professor & HOD of ECE Department",
+   "qualification": "M.Tech.,PG(IIT Patna),Ph.D",
+   "email": "ecehod@qiscet.edu.in",
+   "phone": "+91 9885396299",
+   "interests": "Communications, Signal Processing, Image Processing",
+   "experience": "21 years",
+   "profile": "Dr. Ch.Hima Bindu is a distinguished academician and researcher, currently serving as Professor and Head of the Department of Electronics and Communication Engineering at QIS College of Engineering and Technology (Autonomous), Ongole, Andhra Pradesh, India. She holds a B.Tech. from JNTU Hyderabad, an M.Tech. from JNTU Kakinada, and a Doctoral Degree from JNTUK Kakinada. Additionally, she has completed a PG program in Blockchain and Data Science from IIT Patna. With extensive research contributions, Dr. Hima Bindu has published in reputed international journals and conferences. She is an active reviewer for esteemed publishers such as Springer, Elsevier, and Wiley. Her research interests include Communications, Signal Processing, and Image Processing. She has authored textbooks, book chapters, and patents. Dr. Hima Bindu has successfully guided a Ph.D. scholar and currently supervises three doctoral candidates. She has secured significant research funding from AICTE, DST, and IEEE, including grants for AI, IoT, and medical imaging projects. She has chaired special sessions at IEEE and Springer conferences in Malaysia and Bangkok. Her achievements include multiple prestigious awards, such as the Excellence in Research Contribution Award (2024), IEEE India Council Award (2023), Best Women Researcher in Science & Technology Award (2020), and Young Researcher Award (2016). She is a senior IEEE member, an Ex-Com Member of IEEE Guntur Subsection, and a mentor for the AP Innovation Society. Beyond academia, she serves as a research advisor for Ekalavya Innovative Solutions and offers consultancy services to medical institutions. Her innovative ideas have been recognized at platforms like EUREKA, IIT Bombay.",
+   "photo": null,
+   "resume": "https://qiscet.edu.in/qiscet/departments/ece/Dr.Ch.Hima_Bindu_profile.pdf"
+  },
+  "courses": [
+   {
+    "course": "B.Tech - ECE (Electronics & Communication Engineering)",
+    "intake": "360"
+   },
+   {
+    "course": "M.Tech - VLSI & ES (VLSI & Embedded Systems)",
+    "intake": "18"
+   }
+  ],
+  "intro": "The Department of Electronics & Communication engineering was started in the year 1998. The college conducts the examinations and the degree is awarded by JNTU Kakinada. University incorporates latest developments in Electronics and Communication systems,…",
+  "news": "WELCOME TO THE DEPARTMENT OF ELECTRONICS & COMMUNICATION ENGINEERING",
+  "subpages": [
+   {
+    "label": "Student Enrollment",
+    "slug": "student-enrollment"
+   },
+   {
+    "label": "Board of Studies",
+    "slug": "board-of-studies"
+   },
+   {
+    "label": "Placements",
+    "slug": "placements"
+   },
+   {
+    "label": "Prominent Alumni",
+    "slug": "prominent-alumni"
+   },
+   {
+    "label": "Statutory Department Committees",
+    "slug": "statutory-department-committees"
+   },
+   {
+    "label": "Achievements",
+    "slug": "achievements"
+   },
+   {
+    "label": "Student Co-Curricular Activities",
+    "slug": "student-co-curricular-activities"
+   },
+   {
+    "label": "Class Coordinators",
+    "slug": "class-coordinators"
+   },
+   {
+    "label": "Club Activities",
+    "slug": "club-activities"
+   },
+   {
+    "label": "Consultancy",
+    "slug": "consultancy"
+   },
+   {
+    "label": "Faculty Achievements",
+    "slug": "faculty-achievements"
+   },
+   {
+    "label": "Faculty",
+    "slug": "faculty"
+   },
+   {
+    "label": "Gallery",
+    "slug": "gallery"
+   },
+   {
+    "label": "Head of the Department",
+    "slug": "head-of-the-department"
+   },
+   {
+    "label": "Innovations by Faculty",
+    "slug": "innovations-by-faculty"
+   },
+   {
+    "label": "Laboratories",
+    "slug": "laboratories"
+   },
+   {
+    "label": "Department Library",
+    "slug": "department-library"
+   },
+   {
+    "label": "MoUs",
+    "slug": "mous"
+   },
+   {
+    "label": "Newsletters",
+    "slug": "newsletters"
+   },
+   {
+    "label": "Extra-Curricular Activities",
+    "slug": "extra-curricular-activities"
+   },
+   {
+    "label": "Events Organised",
+    "slug": "events-organised"
+   },
+   {
+    "label": "Research Outcomes",
+    "slug": "research-outcomes"
+   },
+   {
+    "label": "Syllabus",
+    "slug": "syllabus"
+   },
+   {
+    "label": "Class Time Tables",
+    "slug": "class-time-tables"
+   },
+   {
+    "label": "Industrial Visits",
+    "slug": "industrial-visits"
+   }
+  ],
+  "established": null
+ },
+ {
+  "slug": "vlsi-design-technology",
+  "name": "Electronics Engineering (VLSI Design & Technology)",
+  "short": "EE-VLSI",
+  "legacy": "eevt",
+  "code": "eevt",
+  "hod": {
+   "name": "Dr. A. Murali",
+   "designation": "Assoc. Professor & HOD of EEVT Department",
+   "qualification": "M.Tech.(IIT),Ph.D",
+   "email": "eevthod@qiscet.edu.in",
+   "phone": "+91 7780178813",
+   "interests": "VLSI Design, Low power VLSI, FPGA Debugging and Signal Processing",
+   "experience": "16 years",
+   "profile": "Dr. Murali Anumothu has received Doctoral Degree in VLSI Design from K L University, Andhra Pradesh. He has completed two post-graduate degrees—one in Microelectronics and VLSI Design from IIT Madras and another in Embedded Systems from JNTU Hyderabad and also received B.Tech degree in ECE from Acharya Nagarjuna University. He is currently working as Associate Professor and Head, Department of Electronics Engineering (VLSI Design and Technology) in QIS College of Engineering and Technology (Autonomus), Ongole, Andhra Pradesh, India. Prior to join here, He have accumulated over 15 years of experience in teaching, research, industry, and leadership positions. Throughout his professional journey, He has published and presented in many refereed International journals and International conference proceedings. Additionally, He has authored Five textbooks, two book chapters, and published 7 patents. Moreover He achieved the All India 18th Rank in GATE-2007 and have been ratified as an Assistant and Associate Professor from JNTU Kakinada and also he is a Research supervisor under JNTU Kakinada. His area of interests includes VLSI Design, Low power VLSI, FPGA Debugging and Signal Processing, He is a member of IEEE, IAENG, UACEE, IFERP, LMInSc.",
+   "photo": null,
+   "resume": "https://qiscet.edu.in/qiscet/departments/eevt/eevt_hod_resume.pdf"
+  },
+  "courses": [
+   {
+    "course": "B.Tech - Electronics Engineering (VLSI Design & Technology)",
+    "intake": "60"
+   }
+  ],
+  "intro": "The Department of Electronics Engineering (VLSI Design and Technology) was started in the year 2022. It provides students with a strong foundation in digital and analog integrated circuit (IC) design, FPGA-based prototyping, ASIC development, and…",
+  "news": "",
+  "subpages": [
+   {
+    "label": "Board of Studies",
+    "slug": "board-of-studies"
+   },
+   {
+    "label": "Head of the Department",
+    "slug": "head-of-the-department"
+   },
+   {
+    "label": "Laboratories",
+    "slug": "laboratories"
+   },
+   {
+    "label": "Syllabus",
+    "slug": "syllabus"
+   },
+   {
+    "label": "Class Time Tables",
+    "slug": "class-time-tables"
+   }
+  ],
+  "established": null
+ },
+ {
+  "slug": "eee",
+  "name": "Electrical & Electronics Engineering",
+  "short": "EEE",
+  "legacy": "eee",
+  "code": "eee",
+  "hod": {
+   "name": "Dr. B. Mouli Chandra",
+   "designation": "Professor & HOD",
+   "qualification": "Ph.D",
+   "email": "moulichandra.b@qiscet.edu.in bmoulichandra@gmail.com",
+   "phone": "+91 9885187003",
+   "interests": "POWER ELECTRONICS",
+   "experience": "20 years",
+   "profile": null,
+   "photo": null,
+   "resume": "https://qiscet.edu.in/qiscet/departments/eee/eee_hod.pdf"
+  },
+  "courses": [
+   {
+    "course": "B.Tech - EEE (Electrical and Electronics Engineering)",
+    "intake": "120"
+   },
+   {
+    "course": "M.Tech - PE & PS",
+    "intake": "18"
+   }
+  ],
+  "intro": "The Department of Electrical & Electronics Engineering was started in the year 1998. It has become the most sought after department among engineering aspirants. The college conducts the examinations and the degree is awarded by JNTU Kakinada. The Electrical…",
+  "news": "WELCOME TO THE DEPARTMENT OF ELECTRONICS & COMMUNICATION ENGINEERING",
+  "subpages": [
+   {
+    "label": "Student Enrollment",
+    "slug": "student-enrollment"
+   },
+   {
+    "label": "Prominent Alumni",
+    "slug": "prominent-alumni"
+   },
+   {
+    "label": "Statutory Department Committees",
+    "slug": "statutory-department-committees"
+   },
+   {
+    "label": "Academic Committee",
+    "slug": "academic-committee"
+   },
+   {
+    "label": "Academic Audit",
+    "slug": "academic-audit"
+   },
+   {
+    "label": "Achievements",
+    "slug": "achievements"
+   },
+   {
+    "label": "Student Co-Curricular Activities",
+    "slug": "student-co-curricular-activities"
+   },
+   {
+    "label": "Board of Studies",
+    "slug": "board-of-studies"
+   },
+   {
+    "label": "Class Coordinators",
+    "slug": "class-coordinators"
+   },
+   {
+    "label": "Consultancy",
+    "slug": "consultancy"
+   },
+   {
+    "label": "Counsellors",
+    "slug": "counsellors"
+   },
+   {
+    "label": "Department Committee",
+    "slug": "department-committee"
+   },
+   {
+    "label": "Faculty Achievements",
+    "slug": "faculty-achievements"
+   },
+   {
+    "label": "Faculty",
+    "slug": "faculty"
+   },
+   {
+    "label": "Functional Coordinators",
+    "slug": "functional-coordinators"
+   },
+   {
+    "label": "Gallery",
+    "slug": "gallery"
+   },
+   {
+    "label": "Head of the Department",
+    "slug": "head-of-the-department"
+   },
+   {
+    "label": "Innovations by Faculty",
+    "slug": "innovations-by-faculty"
+   },
+   {
+    "label": "Laboratories",
+    "slug": "laboratories"
+   },
+   {
+    "label": "Department Library",
+    "slug": "department-library"
+   },
+   {
+    "label": "MoUs",
+    "slug": "mous"
+   },
+   {
+    "label": "Newsletters",
+    "slug": "newsletters"
+   },
+   {
+    "label": "Events Organised",
+    "slug": "events-organised"
+   },
+   {
+    "label": "Placements",
+    "slug": "placements"
+   },
+   {
+    "label": "Professional Bodies",
+    "slug": "professional-bodies"
+   },
+   {
+    "label": "Research Outcomes",
+    "slug": "research-outcomes"
+   },
+   {
+    "label": "Syllabus",
+    "slug": "syllabus"
+   },
+   {
+    "label": "Class Time Tables",
+    "slug": "class-time-tables"
+   },
+   {
+    "label": "Industrial Visits",
+    "slug": "industrial-visits"
+   }
+  ],
+  "established": null
+ },
+ {
+  "slug": "civil",
+  "name": "Civil Engineering",
+  "short": "CE",
+  "legacy": "ce",
+  "code": "ce",
+  "hod": {
+   "name": "Dr. G. V. Ramanjaneyulu",
+   "designation": "Professor & HOD",
+   "qualification": "M.Tech Ph.D",
+   "email": "cehod@qiscet.edu.in",
+   "phone": "+91 9490554712",
+   "interests": "Structural engineering",
+   "experience": "17 Years",
+   "profile": null,
+   "photo": null,
+   "resume": null
+  },
+  "courses": [
+   {
+    "course": "B.Tech - CE (Civil Engineering)",
+    "intake": "60"
+   },
+   {
+    "course": "M.Tech - TS (Transportation Engineering)",
+    "intake": "18"
+   },
+   {
+    "course": "M.Tech - SE (Structural Engineering)",
+    "intake": "18"
+   }
+  ],
+  "intro": "The department of Civil Engineering was established in the year 2014. The department offers B.Tech (Civil Engineering) from the academic year 2014, M.Tech (Transportation Engineering) from the academic year 2019 and M.Tech (Structural Engineering) from the…",
+  "news": "Welcome to the department of Civil Engineering",
+  "subpages": [
+   {
+    "label": "Student Enrollment",
+    "slug": "student-enrollment"
+   },
+   {
+    "label": "Board of Studies",
+    "slug": "board-of-studies"
+   },
+   {
+    "label": "Placements",
+    "slug": "placements"
+   },
+   {
+    "label": "Prominent Alumni",
+    "slug": "prominent-alumni"
+   },
+   {
+    "label": "Statutory Department Committees",
+    "slug": "statutory-department-committees"
+   },
+   {
+    "label": "Achievements",
+    "slug": "achievements"
+   },
+   {
+    "label": "Result Analysis",
+    "slug": "result-analysis"
+   },
+   {
+    "label": "Class Coordinators",
+    "slug": "class-coordinators"
+   },
+   {
+    "label": "Consultancy",
+    "slug": "consultancy"
+   },
+   {
+    "label": "Counsellors",
+    "slug": "counsellors"
+   },
+   {
+    "label": "Events",
+    "slug": "events"
+   },
+   {
+    "label": "Faculty Achievements",
+    "slug": "faculty-achievements"
+   },
+   {
+    "label": "Faculty",
+    "slug": "faculty"
+   },
+   {
+    "label": "Head of the Department",
+    "slug": "head-of-the-department"
+   },
+   {
+    "label": "Laboratories",
+    "slug": "laboratories"
+   },
+   {
+    "label": "MoUs",
+    "slug": "mous"
+   },
+   {
+    "label": "Newsletters",
+    "slug": "newsletters"
+   },
+   {
+    "label": "Extra-Curricular Activities",
+    "slug": "extra-curricular-activities"
+   },
+   {
+    "label": "Research Outcomes",
+    "slug": "research-outcomes"
+   },
+   {
+    "label": "Skill Development",
+    "slug": "skill-development"
+   },
+   {
+    "label": "Syllabus",
+    "slug": "syllabus"
+   },
+   {
+    "label": "Class Time Tables",
+    "slug": "class-time-tables"
+   },
+   {
+    "label": "Value Added Courses",
+    "slug": "value-added-courses"
+   }
+  ],
+  "established": null
+ },
+ {
+  "slug": "mechanical",
+  "name": "Mechanical Engineering",
+  "short": "ME",
+  "legacy": "me",
+  "code": "me",
+  "hod": {
+   "name": "Dr. D. Sameer Kumar",
+   "designation": "Asso.Professor & HEAD",
+   "qualification": "Ph.D",
+   "email": "mehod@qiscet.edu.in",
+   "phone": "+91 9441651072",
+   "interests": "Optimization, Composites, CAD/ CAM",
+   "experience": "18 years",
+   "profile": null,
+   "photo": null,
+   "resume": null
+  },
+  "courses": [
+   {
+    "course": "B.Tech - ME (Mechanical Engineering)",
+    "intake": "60"
+   },
+   {
+    "course": "M.Tech - TE (THERMAL ENGINEERING)",
+    "intake": "18"
+   }
+  ],
+  "intro": "The department of Mechanical Engineering was established in the year 1998. The department offers B.Tech (Mechanical Engineering) from the academic year 1998 – 1999, M.Tech (Machine Design) from the academic year 2009 – 2010 and M.Tech (Thermal Engineering)…",
+  "news": "WELCOME TO THE DEPARTMENT OF MECHANICAL ENGINEERING",
+  "subpages": [
+   {
+    "label": "Student Enrollment",
+    "slug": "student-enrollment"
+   },
+   {
+    "label": "Board of Studies",
+    "slug": "board-of-studies"
+   },
+   {
+    "label": "Placements",
+    "slug": "placements"
+   },
+   {
+    "label": "Prominent Alumni",
+    "slug": "prominent-alumni"
+   },
+   {
+    "label": "Awards",
+    "slug": "awards"
+   },
+   {
+    "label": "Class Coordinators",
+    "slug": "class-coordinators"
+   },
+   {
+    "label": "Consultancy",
+    "slug": "consultancy"
+   },
+   {
+    "label": "Counsellors",
+    "slug": "counsellors"
+   },
+   {
+    "label": "Events",
+    "slug": "events"
+   },
+   {
+    "label": "Faculty Achievements",
+    "slug": "faculty-achievements"
+   },
+   {
+    "label": "Faculty",
+    "slug": "faculty"
+   },
+   {
+    "label": "Head of the Department",
+    "slug": "head-of-the-department"
+   },
+   {
+    "label": "Innovations by Faculty",
+    "slug": "innovations-by-faculty"
+   },
+   {
+    "label": "Laboratories",
+    "slug": "laboratories"
+   },
+   {
+    "label": "Department Library",
+    "slug": "department-library"
+   },
+   {
+    "label": "MoUs",
+    "slug": "mous"
+   },
+   {
+    "label": "Newsletters",
+    "slug": "newsletters"
+   },
+   {
+    "label": "Student Achievements",
+    "slug": "student-achievements"
+   },
+   {
+    "label": "Syllabus",
+    "slug": "syllabus"
+   },
+   {
+    "label": "Class Time Tables",
+    "slug": "class-time-tables"
+   }
+  ],
+  "established": null
+ },
+ {
+  "slug": "basic-sciences-humanities",
+  "name": "Basic Sciences & Humanities",
+  "short": "BS&H",
+  "legacy": "hs",
+  "code": "hs",
+  "hod": {
+   "name": "Dr. G. Srinivasa Rao",
+   "designation": "Professor & HOD",
+   "qualification": "M.Sc., M.Phil., Ph.D",
+   "email": "shhod@qiscet.edu.in",
+   "phone": "+91 9849031828",
+   "interests": "Thin films, Nano materials",
+   "experience": "29 years",
+   "profile": null,
+   "photo": null,
+   "resume": "https://qiscet.edu.in/qiscet/departments/hs/GSR%20SIR.pdf"
+  },
+  "courses": [],
+  "intro": "The strength of engineering college indeed lies in the academic affluence of the Department of Basic Sciences & Humanities which was established in 1998. The department supports the technical departments by providing the value-based education to budding…",
+  "news": "",
+  "subpages": [
+   {
+    "label": "Result Analysis",
+    "slug": "result-analysis"
+   },
+   {
+    "label": "Class Coordinators",
+    "slug": "class-coordinators"
+   },
+   {
+    "label": "Counsellors",
+    "slug": "counsellors"
+   },
+   {
+    "label": "Events",
+    "slug": "events"
+   },
+   {
+    "label": "Faculty Achievements",
+    "slug": "faculty-achievements"
+   },
+   {
+    "label": "Faculty",
+    "slug": "faculty"
+   },
+   {
+    "label": "Head of the Department",
+    "slug": "head-of-the-department"
+   },
+   {
+    "label": "Laboratories",
+    "slug": "laboratories"
+   },
+   {
+    "label": "Department Library",
+    "slug": "department-library"
+   },
+   {
+    "label": "Research Outcomes",
+    "slug": "research-outcomes"
+   },
+   {
+    "label": "Student List",
+    "slug": "student-list"
+   },
+   {
+    "label": "Syllabus",
+    "slug": "syllabus"
+   },
+   {
+    "label": "Class Time Tables",
+    "slug": "class-time-tables"
+   }
+  ],
+  "established": null
+ },
+ {
+  "slug": "mca",
+  "name": "Master of Computer Applications",
+  "short": "MCA",
+  "legacy": "mca",
+  "code": "mca",
+  "hod": {
+   "name": "Prof. K. Anka Babu",
+   "designation": "Professor & HOD of MCA Department",
+   "qualification": "M.C.A, M. Tech, (Ph. D)",
+   "email": "mcahod@qiscet.edu.in",
+   "phone": "+91 9246419530",
+   "interests": "Image Processing, Data Mining, Application Development, Software Engineering",
+   "experience": "24 years",
+   "profile": null,
+   "photo": null,
+   "resume": null
+  },
+  "courses": [
+   {
+    "course": "Master of Computer Applications",
+    "intake": "120"
+   }
+  ],
+  "intro": "The Department of Master Of Computer Applications started in the year 2006.MCA is a post graduateinformation technology course .Computer Application is a use of computer to solve a specific problem or to accomplish a perticular job for an end user.The…",
+  "news": "WELCOME TO THE MASTER OF COMPUTER APPLICATIONS",
+  "subpages": [
+   {
+    "label": "Prominent Alumni",
+    "slug": "prominent-alumni"
+   },
+   {
+    "label": "Class Coordinators",
+    "slug": "class-coordinators"
+   },
+   {
+    "label": "Counsellors",
+    "slug": "counsellors"
+   },
+   {
+    "label": "Faculty",
+    "slug": "faculty"
+   },
+   {
+    "label": "Head of the Department",
+    "slug": "head-of-the-department"
+   },
+   {
+    "label": "Laboratories",
+    "slug": "laboratories"
+   },
+   {
+    "label": "Publications",
+    "slug": "publications"
+   },
+   {
+    "label": "Syllabus",
+    "slug": "syllabus"
+   },
+   {
+    "label": "Class Time Tables",
+    "slug": "class-time-tables"
+   }
+  ],
+  "established": null
+ },
+ {
+  "slug": "mba",
+  "name": "Master of Business Administration",
+  "short": "MBA",
+  "legacy": "mba",
+  "code": "mba",
+  "hod": {
+   "name": "Dr. N. Janardhana Rao",
+   "designation": "Associate Professor and HoD, Department of Master of Business Administration",
+   "qualification": "M.B.A, M.Com, M.Phil., Ph.D, UGC-NET (Management), AP-SET (Commerce)",
+   "email": "mbahod@qiscet.edu.in",
+   "phone": "+91 7330783845",
+   "interests": "Accounting, Finance and Entrepreneurship",
+   "experience": "20 years",
+   "profile": null,
+   "photo": null,
+   "resume": null
+  },
+  "courses": [
+   {
+    "course": "Master of Business Administration",
+    "intake": "60"
+   }
+  ],
+  "intro": "The Department of MBA has been established in the year 2006; renamed as School of Management studies after getting autonomous status to the college in the year 2015, and striving to meet the growing demands of industry and society. Our Department has well…",
+  "news": "WELCOME TO THE MASTER OF BUSINESS ADMINISTRATION",
+  "subpages": [
+   {
+    "label": "Prominent Alumni",
+    "slug": "prominent-alumni"
+   },
+   {
+    "label": "Class Coordinators",
+    "slug": "class-coordinators"
+   },
+   {
+    "label": "Counsellors",
+    "slug": "counsellors"
+   },
+   {
+    "label": "Faculty",
+    "slug": "faculty"
+   },
+   {
+    "label": "Head of the Department",
+    "slug": "head-of-the-department"
+   },
+   {
+    "label": "Laboratories",
+    "slug": "laboratories"
+   },
+   {
+    "label": "Newsletters",
+    "slug": "newsletters"
+   },
+   {
+    "label": "Publications",
+    "slug": "publications"
+   },
+   {
+    "label": "Syllabus",
+    "slug": "syllabus"
+   },
+   {
+    "label": "Class Time Tables",
+    "slug": "class-time-tables"
+   }
+  ],
+  "established": null
+ },
+ {
+  "slug": "bca",
+  "name": "Bachelor of Computer Applications",
+  "short": "BCA",
+  "legacy": "bca",
+  "code": "bca",
+  "hod": {
+   "name": "Prof. K. Anka Babu",
+   "designation": "Professor & HOD of MCA Department",
+   "qualification": "M.C.A, M. Tech, (Ph. D)",
+   "email": "mcahod@qiscet.edu.in",
+   "phone": "+91 9246419530",
+   "interests": "Image Processing, Data Mining, Application Development, Software Engineering",
+   "experience": "24 years",
+   "profile": null,
+   "photo": null,
+   "resume": null
+  },
+  "courses": [
+   {
+    "course": "Bachelor of Computer Application",
+    "intake": "60"
+   }
+  ],
+  "intro": "The Bachelor of Computer Application department offers BCA Program in computer Application and was introduced in the academic year 2024–25. The BCA Program is a new age degree course in the field of computer applications. The duration of the course is…",
+  "news": "WELCOME TO THE MASTER OF COMPUTER APPLICATIONS",
+  "subpages": [
+   {
+    "label": "Faculty",
+    "slug": "faculty"
+   },
+   {
+    "label": "Head of the Department",
+    "slug": "head-of-the-department"
+   },
+   {
+    "label": "Syllabus",
+    "slug": "syllabus"
+   }
+  ],
+  "established": null
+ }
+]

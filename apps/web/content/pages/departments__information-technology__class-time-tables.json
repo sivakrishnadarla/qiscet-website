@@ -1,0 +1,36 @@
+{
+ "slug": "departments/information-technology/class-time-tables",
+ "section": "departments",
+ "sectionTitle": "Departments",
+ "title": "Class Time Tables – Information Technology",
+ "legacy": "https://qiscet.edu.in/qiscet/DEPARTMENTS_it_timetables.php",
+ "summary": null,
+ "blocks": [
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    {
+     "text": "IV Year-Time Table",
+     "links": [
+      {
+       "label": "IV Year-Time Table",
+       "href": "https://qiscet.edu.in/qiscet/departments/it/data/IV%20year%20Timetable.pdf"
+      }
+     ]
+    },
+    {
+     "text": "III Year-Time Table",
+     "links": [
+      {
+       "label": "III Year-Time Table",
+       "href": "https://qiscet.edu.in/qiscet/departments/it/data/III%20year%20Timetable.pdf"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "department": "information-technology",
+ "pageTitle": "Class Time Tables"
+}

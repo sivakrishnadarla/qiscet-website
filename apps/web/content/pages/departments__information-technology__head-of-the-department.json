@@ -1,0 +1,73 @@
+{
+ "slug": "departments/information-technology/head-of-the-department",
+ "section": "departments",
+ "sectionTitle": "Departments",
+ "title": "Head of the Department – Information Technology",
+ "legacy": "https://qiscet.edu.in/qiscet/DEPARTMENTS_it_hod.php",
+ "summary": null,
+ "blocks": [
+  {
+   "type": "table",
+   "rows": [
+    [
+     {
+      "text": "HOD Name :"
+     },
+     {
+      "text": "Dr. T. Sunitha"
+     }
+    ],
+    [
+     {
+      "text": "Designation :"
+     },
+     {
+      "text": "Assoc. Professor & HOD"
+     }
+    ],
+    [
+     {
+      "text": "Qualification :"
+     },
+     {
+      "text": "M.Tech, Ph.D"
+     }
+    ],
+    [
+     {
+      "text": "Email :"
+     },
+     {
+      "text": "ithod@qiscet.edu.in"
+     }
+    ],
+    [
+     {
+      "text": "Contact No :"
+     },
+     {
+      "text": "7013334607"
+     }
+    ],
+    [
+     {
+      "text": "Areas of Interest :"
+     },
+     {
+      "text": "Deep Learning Machine Learning. Data Mining. Data Science."
+     }
+    ],
+    [
+     {
+      "text": "Experience :"
+     },
+     {
+      "text": "19 Years"
+     }
+    ]
+   ]
+  }
+ ],
+ "department": "information-technology",
+ "pageTitle": "Head of the Department"
+}

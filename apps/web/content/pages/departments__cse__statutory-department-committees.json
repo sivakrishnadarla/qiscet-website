@@ -1,0 +1,36 @@
+{
+ "slug": "departments/cse/statutory-department-committees",
+ "section": "departments",
+ "sectionTitle": "Departments",
+ "title": "Statutory Department Committees – Computer Science & Engineering",
+ "legacy": "https://qiscet.edu.in/qiscet/DEPARTMENTS_cse_Statutory.php",
+ "summary": null,
+ "blocks": [
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    {
+     "text": "DAC",
+     "links": [
+      {
+       "label": "DAC",
+       "href": "https://qiscet.edu.in/qiscet/DEPARTMENTS_cse_dac.php"
+      }
+     ]
+    },
+    {
+     "text": "PAC",
+     "links": [
+      {
+       "label": "PAC",
+       "href": "https://qiscet.edu.in/qiscet/DEPARTMENTS_cse_pac.php"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "department": "cse",
+ "pageTitle": "Statutory Department Committees"
+}

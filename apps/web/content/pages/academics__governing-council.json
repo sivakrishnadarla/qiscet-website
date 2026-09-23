@@ -1,0 +1,48 @@
+{
+ "slug": "academics/governing-council",
+ "section": "academics",
+ "sectionTitle": "Academics",
+ "title": "Governing Council",
+ "legacy": "https://qiscet.edu.in/qiscet/ACADEMICS_governing_council.php",
+ "summary": null,
+ "blocks": [
+  {
+   "type": "heading",
+   "text": "Governing Council Meeting Reports",
+   "level": 4
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    {
+     "text": "29th GC Meeting Report",
+     "links": [
+      {
+       "label": "29th GC Meeting Report",
+       "href": "https://qiscet.edu.in/qiscet/pdfs/MOM%20of%2029th%20GC%20meeting.pdf"
+      }
+     ]
+    },
+    {
+     "text": "28th GC Meeting Report",
+     "links": [
+      {
+       "label": "28th GC Meeting Report",
+       "href": "https://qiscet.edu.in/qiscet/pdfs/28th%20GC%20finalized%20MOM.pdf"
+      }
+     ]
+    },
+    {
+     "text": "27th GC Meeting Report",
+     "links": [
+      {
+       "label": "27th GC Meeting Report",
+       "href": "https://qiscet.edu.in/qiscet/pdfs/GC%20Meeting%20MoM.pdf"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

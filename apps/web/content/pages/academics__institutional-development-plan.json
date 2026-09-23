@@ -1,0 +1,25 @@
+{
+ "slug": "academics/institutional-development-plan",
+ "section": "academics",
+ "sectionTitle": "Academics",
+ "title": "Institutional Development Plan",
+ "legacy": "https://qiscet.edu.in/qiscet/ACADEMICS_Strategic_Plan.php",
+ "summary": null,
+ "blocks": [
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    {
+     "text": "INSTITUTIONAL DEVELOPMENT PLAN - View PDF",
+     "links": [
+      {
+       "label": "View PDF",
+       "href": "https://qiscet.edu.in/qiscet/pdfs/Institute%20Strategic%20Plan.pdf"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

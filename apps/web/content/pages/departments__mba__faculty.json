@@ -1,0 +1,17 @@
+{
+ "slug": "departments/mba/faculty",
+ "section": "departments",
+ "sectionTitle": "Departments",
+ "title": "Faculty – Master of Business Administration",
+ "legacy": "https://qiscet.edu.in/qiscet/DEPARTMENTS_mba_faculty_list.php",
+ "summary": null,
+ "blocks": [
+  {
+   "type": "document",
+   "href": "https://qiscet.edu.in/qiscet/Faculty/QISCET%20-%20MBA%20-%20Faculty%20List.pdf",
+   "label": "View document (PDF)"
+  }
+ ],
+ "department": "mba",
+ "pageTitle": "Faculty"
+}

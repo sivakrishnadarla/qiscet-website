@@ -1,0 +1,54 @@
+{
+ "slug": "departments/information-technology/research-outcomes",
+ "section": "departments",
+ "sectionTitle": "Departments",
+ "title": "Research Outcomes – Information Technology",
+ "legacy": "https://qiscet.edu.in/qiscet/DEPARTMENTS_it_research.php",
+ "summary": null,
+ "blocks": [
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    {
+     "text": "Publications",
+     "links": [
+      {
+       "label": "Publications",
+       "href": "https://qiscet.edu.in/qiscet/departments/it/faculty%20publications.pdf"
+      }
+     ]
+    },
+    {
+     "text": "Books",
+     "links": [
+      {
+       "label": "Books",
+       "href": "https://qiscet.edu.in/qiscet/departments/it/Books.pdf"
+      }
+     ]
+    },
+    {
+     "text": "Patent",
+     "links": [
+      {
+       "label": "Patent",
+       "href": "https://qiscet.edu.in/qiscet/departments/it/patent/faculty%20PATENT1.pdf"
+      }
+     ]
+    },
+    {
+     "text": "Sponsored Research",
+     "links": [
+      {
+       "label": "Sponsored Research",
+       "href": "https://qiscet.edu.in/qiscet/departments/it/data/Sponsored%20Research.pdf"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "department": "information-technology",
+ "pageTitle": "Research Outcomes"
+}

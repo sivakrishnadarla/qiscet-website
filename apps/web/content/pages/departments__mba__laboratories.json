@@ -1,0 +1,73 @@
+{
+ "slug": "departments/mba/laboratories",
+ "section": "departments",
+ "sectionTitle": "Departments",
+ "title": "Laboratories – Master of Business Administration",
+ "legacy": "https://qiscet.edu.in/qiscet/DEPARTMENTS_mba_labs.php",
+ "summary": null,
+ "blocks": [
+  {
+   "type": "table",
+   "rows": [
+    [
+     {
+      "text": "S.No"
+     },
+     {
+      "text": "Name of lab/workshop"
+     }
+    ],
+    [
+     {
+      "text": "1"
+     },
+     {
+      "text": "Computer Application for Business - Lab"
+     }
+    ],
+    [
+     {
+      "text": "2"
+     },
+     {
+      "text": "Tally-Lab"
+     }
+    ],
+    [
+     {
+      "text": "3"
+     },
+     {
+      "text": "Aptitude Development-Lab"
+     }
+    ],
+    [
+     {
+      "text": "4"
+     },
+     {
+      "text": "Statistical Packages For Business Decisions Lab"
+     }
+    ],
+    [
+     {
+      "text": "5"
+     },
+     {
+      "text": "Financial Accounting And Controlling Lab"
+     }
+    ],
+    [
+     {
+      "text": "6"
+     },
+     {
+      "text": "Personality Development Lab"
+     }
+    ]
+   ]
+  }
+ ],
+ "department": "mba",
+ "pageTitle": "Laboratories"
+}

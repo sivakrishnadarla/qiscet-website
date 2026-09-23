@@ -1,0 +1,73 @@
+{
+ "slug": "departments/mba/head-of-the-department",
+ "section": "departments",
+ "sectionTitle": "Departments",
+ "title": "Head of the Department – Master of Business Administration",
+ "legacy": "https://qiscet.edu.in/qiscet/DEPARTMENTS_mba_hod.php",
+ "summary": null,
+ "blocks": [
+  {
+   "type": "table",
+   "rows": [
+    [
+     {
+      "text": "HOD Name:"
+     },
+     {
+      "text": "Dr. N. JANARDHANA RAO"
+     }
+    ],
+    [
+     {
+      "text": "Designation:"
+     },
+     {
+      "text": "Associate Professor and HoD, Department of Master of Business Administration"
+     }
+    ],
+    [
+     {
+      "text": "Qualification:"
+     },
+     {
+      "text": "M.B.A, M.Com, M.Phil., Ph.D, UGC-NET (Management), AP-SET (Commerce)"
+     }
+    ],
+    [
+     {
+      "text": "Email:"
+     },
+     {
+      "text": "mbahod@qiscet.edu.in"
+     }
+    ],
+    [
+     {
+      "text": "Contact No:"
+     },
+     {
+      "text": "+91 7330783845"
+     }
+    ],
+    [
+     {
+      "text": "Areas of Interest:"
+     },
+     {
+      "text": "Accounting, Finance and Entrepreneurship"
+     }
+    ],
+    [
+     {
+      "text": "Experience:"
+     },
+     {
+      "text": "20 years"
+     }
+    ]
+   ]
+  }
+ ],
+ "department": "mba",
+ "pageTitle": "Head of the Department"
+}

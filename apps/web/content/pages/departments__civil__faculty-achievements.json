@@ -1,0 +1,117 @@
+{
+ "slug": "departments/civil/faculty-achievements",
+ "section": "departments",
+ "sectionTitle": "Departments",
+ "title": "Faculty Achievements – Civil Engineering",
+ "legacy": "https://qiscet.edu.in/qiscet/DEPARTMENTS_ce_faculty_achievements.php",
+ "summary": null,
+ "blocks": [
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    {
+     "text": "Confrences & Workshops",
+     "links": [
+      {
+       "label": "Confrences & Workshops",
+       "href": "https://qiscet.edu.in/qiscet/departments/civil/1/Confrences%20%26%20Workshops.pdf"
+      }
+     ]
+    },
+    {
+     "text": "Consultancy & funded projects",
+     "links": [
+      {
+       "label": "Consultancy & funded projects",
+       "href": "https://qiscet.edu.in/qiscet/departments/civil/1/Consultancy%20%26%20funded%20projects.pdf"
+      }
+     ]
+    },
+    {
+     "text": "Faculty Certification Programs",
+     "links": [
+      {
+       "label": "Faculty Certification Programs",
+       "href": "https://qiscet.edu.in/qiscet/departments/civil/1/Faculty%20Certification%20Programs.pdf"
+      }
+     ]
+    },
+    {
+     "text": "faculty publications",
+     "links": [
+      {
+       "label": "faculty publications",
+       "href": "https://qiscet.edu.in/qiscet/departments/civil/1/faculty%20publications%20%281%29.pdf"
+      }
+     ]
+    },
+    {
+     "text": "Faculty Sports",
+     "links": [
+      {
+       "label": "Faculty Sports",
+       "href": "https://qiscet.edu.in/qiscet/departments/civil/1/Faculty%20Sports.pdf"
+      }
+     ]
+    },
+    {
+     "text": "Guest Lectures",
+     "links": [
+      {
+       "label": "Guest Lectures",
+       "href": "https://qiscet.edu.in/qiscet/departments/civil/1/GUEST%20LECTURES.pdf"
+      }
+     ]
+    },
+    {
+     "text": "Quality Improvement Programme",
+     "links": [
+      {
+       "label": "Quality Improvement Programme",
+       "href": "https://qiscet.edu.in/qiscet/departments/civil/1/Quality%20Improvement%20Program.pdf"
+      }
+     ]
+    },
+    {
+     "text": "Seminars External",
+     "links": [
+      {
+       "label": "Seminars External",
+       "href": "https://qiscet.edu.in/qiscet/departments/civil/1/SEMINARS%20EXTERNAL.pdf"
+      }
+     ]
+    },
+    {
+     "text": "Seminars Internal",
+     "links": [
+      {
+       "label": "Seminars Internal",
+       "href": "https://qiscet.edu.in/qiscet/departments/civil/1/Seminars%20Internal.pdf"
+      }
+     ]
+    },
+    {
+     "text": "Technical Quiz Attended",
+     "links": [
+      {
+       "label": "Technical Quiz Attended",
+       "href": "https://qiscet.edu.in/qiscet/departments/civil/1/TECHNICAL%20QUIZ%20ATTENDED.pdf"
+      }
+     ]
+    },
+    {
+     "text": "Technical Quiz Organized",
+     "links": [
+      {
+       "label": "Technical Quiz Organized",
+       "href": "https://qiscet.edu.in/qiscet/departments/civil/1/TECHNICAL%20QUIZ%20ORGANIZED.pdf"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "department": "civil",
+ "pageTitle": "Faculty Achievements"
+}

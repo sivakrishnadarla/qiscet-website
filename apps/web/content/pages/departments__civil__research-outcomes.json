@@ -1,0 +1,54 @@
+{
+ "slug": "departments/civil/research-outcomes",
+ "section": "departments",
+ "sectionTitle": "Departments",
+ "title": "Research Outcomes – Civil Engineering",
+ "legacy": "https://qiscet.edu.in/qiscet/DEPARTMENTS_ce_research.php",
+ "summary": null,
+ "blocks": [
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    {
+     "text": "Journals and publications",
+     "links": [
+      {
+       "label": "Journals and publications",
+       "href": "https://qiscet.edu.in/qiscet/departments/civil/FACULTY%20PUBLICATIONS.pdf"
+      }
+     ]
+    },
+    {
+     "text": "Books",
+     "links": [
+      {
+       "label": "Books",
+       "href": "https://qiscet.edu.in/qiscet/DEPARTMENTS_ce_books.php"
+      }
+     ]
+    },
+    {
+     "text": "Patents",
+     "links": [
+      {
+       "label": "Patents",
+       "href": "https://qiscet.edu.in/qiscet/DEPARTMENTS_ce_patent.php"
+      }
+     ]
+    },
+    {
+     "text": "Sponsored Research",
+     "links": [
+      {
+       "label": "Sponsored Research",
+       "href": "/departments/civil/research-outcomes"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "department": "civil",
+ "pageTitle": "Research Outcomes"
+}

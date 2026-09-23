@@ -1,0 +1,126 @@
+{
+ "slug": "departments/civil/value-added-courses",
+ "section": "departments",
+ "sectionTitle": "Departments",
+ "title": "Value Added Courses – Civil Engineering",
+ "legacy": "https://qiscet.edu.in/qiscet/DEPARTMENTS_ce_vac.php",
+ "summary": null,
+ "blocks": [
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    {
+     "text": "SC-2020-21",
+     "links": [
+      {
+       "label": "SC-2020-21",
+       "href": "https://qiscet.edu.in/qiscet/departments/civil/2020-21%20SC.pdf"
+      }
+     ]
+    },
+    {
+     "text": "smart steel structure design-2020-21",
+     "links": [
+      {
+       "label": "smart steel structure design-2020-21",
+       "href": "https://qiscet.edu.in/qiscet/departments/civil/2020-2021-smart%20steel%20structure%20design.pdf"
+      }
+     ]
+    },
+    {
+     "text": "BE&CA-2019-20",
+     "links": [
+      {
+       "label": "BE&CA-2019-20",
+       "href": "https://qiscet.edu.in/qiscet/departments/civil/2019-20%20BE%26CA.pdf"
+      }
+     ]
+    },
+    {
+     "text": "GSRSS-2019-20",
+     "links": [
+      {
+       "label": "GSRSS-2019-20",
+       "href": "https://qiscet.edu.in/qiscet/departments/civil/2019-20%20GSRSS.pdf"
+      }
+     ]
+    },
+    {
+     "text": "PN-2019-20",
+     "links": [
+      {
+       "label": "PN-2019-20",
+       "href": "https://qiscet.edu.in/qiscet/departments/civil/2019-20%20PN.pdf"
+      }
+     ]
+    },
+    {
+     "text": "I.E-2019-20",
+     "links": [
+      {
+       "label": "I.E-2019-20",
+       "href": "https://qiscet.edu.in/qiscet/departments/civil/2019-20%28.I.E.%29..pdf"
+      }
+     ]
+    },
+    {
+     "text": "Arc GIS-2018-19",
+     "links": [
+      {
+       "label": "Arc GIS-2018-19",
+       "href": "https://qiscet.edu.in/qiscet/departments/civil/2018-19%20Arc%20GIS.pdf"
+      }
+     ]
+    },
+    {
+     "text": "TEKLA-2018-19",
+     "links": [
+      {
+       "label": "TEKLA-2018-19",
+       "href": "https://qiscet.edu.in/qiscet/departments/civil/2018-19%20TEKLA.pdf"
+      }
+     ]
+    },
+    {
+     "text": "AS-2018-19",
+     "links": [
+      {
+       "label": "AS-2018-19",
+       "href": "https://qiscet.edu.in/qiscet/departments/civil/2018-19%20AS.pdf"
+      }
+     ]
+    },
+    {
+     "text": "PD-2018-19",
+     "links": [
+      {
+       "label": "PD-2018-19",
+       "href": "https://qiscet.edu.in/qiscet/departments/civil/2018-19%20PD.pdf"
+      }
+     ]
+    },
+    {
+     "text": "PRIMAVERA-2018-19",
+     "links": [
+      {
+       "label": "PRIMAVERA-2018-19",
+       "href": "https://qiscet.edu.in/qiscet/departments/civil/2018-19%20PRIMAVERA.pdf"
+      }
+     ]
+    },
+    {
+     "text": "SSSD-2018-19",
+     "links": [
+      {
+       "label": "SSSD-2018-19",
+       "href": "https://qiscet.edu.in/qiscet/departments/civil/2018-19%20SSSD.pdf"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "department": "civil",
+ "pageTitle": "Value Added Courses"
+}

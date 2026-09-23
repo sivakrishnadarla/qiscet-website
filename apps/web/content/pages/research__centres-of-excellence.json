@@ -1,0 +1,114 @@
+{
+ "slug": "research/centres-of-excellence",
+ "section": "research",
+ "sectionTitle": "Research & Development",
+ "title": "Centres of Excellence",
+ "legacy": "https://qiscet.edu.in/qiscet/ACADEMICS_centre_for_research_centre_for_excellence.php",
+ "summary": null,
+ "blocks": [
+  {
+   "type": "gallery",
+   "images": [
+    {
+     "src": "/images/acadamics/awards/c1.jpg",
+     "alt": ""
+    }
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "CENTER FOR BIO-FUELS"
+  },
+  {
+   "type": "gallery",
+   "images": [
+    {
+     "src": "/images/acadamics/awards/c2.jpg",
+     "alt": ""
+    }
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "CENTER FOR TESTING"
+  },
+  {
+   "type": "gallery",
+   "images": [
+    {
+     "src": "/images/acadamics/awards/c3.jpg",
+     "alt": ""
+    }
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "CENTER FOR POWER ELECTRONICS APPLICATIONS"
+  },
+  {
+   "type": "gallery",
+   "images": [
+    {
+     "src": "/images/acadamics/awards/c4.jpg",
+     "alt": ""
+    }
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "CENTER FOR ANTENNAS DEVELOPMENT"
+  },
+  {
+   "type": "gallery",
+   "images": [
+    {
+     "src": "/images/acadamics/awards/c5.jpg",
+     "alt": ""
+    }
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "CENTER FOR THERMO ELECTRICITY APPLICATIONS"
+  },
+  {
+   "type": "gallery",
+   "images": [
+    {
+     "src": "/images/acadamics/awards/c6.jpg",
+     "alt": ""
+    }
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "CENTER FOR MATERIALS DEVELOPMENT"
+  },
+  {
+   "type": "gallery",
+   "images": [
+    {
+     "src": "/images/acadamics/awards/c7.jpg",
+     "alt": ""
+    }
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "CENTER FOR PARTS & PRODUCT DEVELOPMENT"
+  },
+  {
+   "type": "gallery",
+   "images": [
+    {
+     "src": "/images/acadamics/awards/c8.jpg",
+     "alt": ""
+    }
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "CENTER FOR NETWORKING, CLOUD AND VIRTUALIZATION"
+  }
+ ]
+}

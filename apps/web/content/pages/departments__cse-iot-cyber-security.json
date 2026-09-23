@@ -1,0 +1,167 @@
+{
+ "slug": "departments/cse-iot-cyber-security",
+ "section": "departments",
+ "sectionTitle": "Departments",
+ "title": "CSE (IoT & Cyber Security including Blockchain Technology)",
+ "legacy": "https://qiscet.edu.in/qiscet/DEPARTMENTS_cse_IOT_CSIBT.php",
+ "summary": "The Department of Computer Science and Engineering (Internet of Things and Cyber Security with Blockchain Technologies) was established in the year 2021 with an intake of 60 students. We aim at…",
+ "blocks": [
+  {
+   "type": "paragraph",
+   "text": "The Department of Computer Science and Engineering (Internet of Things and Cyber Security with Blockchain Technologies) was established in the year 2021 with an intake of 60 students. We aim at grooming the students on context & project-based learning through mini projects, industry visits, internships, guest lectures, student activities & leadership events, professional society activities like Computer Society of India. We follow the concept of Blended learning through our curriculum where we combine the classroom teaching with online learning and independent study, allowing the students to have more control over the time, pace and style of their learning."
+  },
+  {
+   "type": "paragraph",
+   "text": "This program aims to develop students with the functional, operational, design, implementation and application aspects of IOT including cyber security and blockchain technology."
+  },
+  {
+   "type": "heading",
+   "text": "Courses",
+   "level": 4
+  },
+  {
+   "type": "table",
+   "rows": [
+    [
+     {
+      "text": "Courses Offered"
+     },
+     {
+      "text": "Intake"
+     }
+    ],
+    [
+     {
+      "text": "B.Tech - CSE (IOT&CSIBT)"
+     },
+     {
+      "text": "60"
+     }
+    ]
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "Vision",
+   "level": 4
+  },
+  {
+   "type": "paragraph",
+   "text": "To emerge as a premier department to build the professionals with strong foundation, research aptitude and socio-ethical skills with capability of working in global environment"
+  },
+  {
+   "type": "heading",
+   "text": "Mission",
+   "level": 4
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    {
+     "text": "To impart quality technical education with fundamental knowledge, analytical competence, programming and problem solving expertise"
+    },
+    {
+     "text": "To enhance the industry interaction with the department to improve the research and employability skills of the students."
+    },
+    {
+     "text": "To empower the learners with leadership qualities with effective communication skills to meet the worldwide demands of the industry."
+    },
+    {
+     "text": "To enable the graduates to involve in life-long learning with innovation with ethical aptitude to provide solutions to the present and future needs of the society"
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "B.Tech",
+   "level": 4
+  },
+  {
+   "type": "heading",
+   "text": "Programme Educational Objectives Of B.Tech (IOT&CSIBT)",
+   "level": 4
+  },
+  {
+   "type": "list",
+   "ordered": true,
+   "items": [
+    {
+     "text": "PEO 1: To gain expertise in engineering principles to solve problems associated to Computer Science and Engineering specialized with IoT, Cyber Security and Block Chain Technology"
+    },
+    {
+     "text": "PEO 2:To develop the talent of critical thinking, design and analyse to offer socially acceptable solutions to real-time problems in the domain of computing with global competence"
+    },
+    {
+     "text": "PEO 3:To inculcate managerial and entrepreneur skills with professional ethics and decision making aptitude in multidisciplinary field to meet the demands of industry"
+    },
+    {
+     "text": "PEO 4:To imbibe lifelong learning with research to adapt the dynamic changes in technology to solve complex problems of the society"
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "Programme Outcomes Of B.Tech (IOT&CSIBT)",
+   "level": 4
+  },
+  {
+   "type": "list",
+   "ordered": true,
+   "items": [
+    {
+     "text": "PO2. Problem analysis: Identify, formulate, review research literature, and analyze complex engineering problems reaching substantiated conclusions using first principles of mathematics, natural sciences, and engineering sciences."
+    },
+    {
+     "text": "PO3. Design/ development of solutions: Design solutions for complex engineering problems and design system components or processes that meet the specified needs with appropriate consideration for the public health and safety, and the cultural, societal, and environmental considerations."
+    },
+    {
+     "text": "PO4. Conduct investigations of complex problems: Use research-based knowledge and research methods including design of experiments, analysis and interpretation of data, and synthesis of the information to provide valid conclusions."
+    },
+    {
+     "text": "PO5. Modern tool usage: Create, select, and apply appropriate techniques, resources, and modern engineering and IT tools including prediction and modeling to complex engineering activities with an understanding of the limitations."
+    },
+    {
+     "text": "PO6. The engineer and society: Apply reasoning informed by the contextual knowledge to assess health, safety, legal and cultural issues and the consequent responsibilities relevant to the engineering practice."
+    },
+    {
+     "text": "PO7. Environment and sustainability: Understand the impact of the professional engineering solutions In societal and environmental contexts, and demonstrate the knowledge of and need for sustainable development."
+    },
+    {
+     "text": "PO8. Ethics: Apply ethical principles and commit to professional ethics and responsibilities and norms of the engineering practice."
+    },
+    {
+     "text": "PO9. Individual and team work: Function effectively as an individual, and as a member or leader in diverse teams, and in multidisciplinary settings."
+    },
+    {
+     "text": "PO10. Communication: Communicate effectively on complex engineering activities with the engineering community and with society at large, such as, being able to comprehend and write effective reports and design documentation, make effective presentations, and give and receive clear instructions."
+    },
+    {
+     "text": "PO11. Project management and finance: Demonstrate knowledge and understanding of the engineering and management principles and apply these to one's own work, as a member and leader in a team, to manage projects' and in multidisciplinary environments."
+    },
+    {
+     "text": "PO12. Life-long learning: Recognize the need for, and have the preparation and ability to engage in independent and life-long learning in the broadest context of technological change."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "Programme Specific Out Comes Of B.Tech (IOT&CSIBT)",
+   "level": 4
+  },
+  {
+   "type": "list",
+   "ordered": true,
+   "items": [
+    {
+     "text": "PSO 1: To apply customary software engineering ideologies to develop IT based solutions"
+    },
+    {
+     "text": "PSO 2: To gain real-world competency with emerging technologies and programming skills to secure software and hardware in the field of CSE Smart Automation"
+    }
+   ]
+  }
+ ],
+ "department": "cse-iot-cyber-security",
+ "isDepartmentHome": true
+}

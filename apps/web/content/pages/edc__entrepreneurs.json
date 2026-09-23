@@ -1,0 +1,25 @@
+{
+ "slug": "edc/entrepreneurs",
+ "section": "edc",
+ "sectionTitle": "Entrepreneurship Development Cell",
+ "title": "Entrepreneurs List",
+ "legacy": "https://qiscet.edu.in/qiscet/Enterpreneurslist.php",
+ "summary": null,
+ "blocks": [
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    {
+     "text": "Department Wise Entrepreneurs List",
+     "links": [
+      {
+       "label": "Department Wise Entrepreneurs List",
+       "href": "https://qiscet.edu.in/qiscet/edc/DeptwiseEntreprenuerslist.pdf"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

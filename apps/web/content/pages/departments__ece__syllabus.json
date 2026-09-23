@@ -1,0 +1,219 @@
+{
+ "slug": "departments/ece/syllabus",
+ "section": "departments",
+ "sectionTitle": "Departments",
+ "title": "Syllabus – Electronics & Communication Engineering",
+ "legacy": "https://qiscet.edu.in/qiscet/DEPARTMENTS_ece_syllabus.php",
+ "summary": null,
+ "blocks": [
+  {
+   "type": "table",
+   "rows": [
+    [
+     {
+      "text": "Regulation"
+     },
+     {
+      "text": "B.Tech"
+     }
+    ],
+    [
+     {
+      "text": "R-23 regulation"
+     },
+     {
+      "text": "2023-Admitted Batch-B.Tech-Syllabus",
+      "links": [
+       {
+        "label": "2023-Admitted Batch-B.Tech-Syllabus",
+        "href": "https://qiscet.edu.in/qiscet/departments/ece/data/ECE_R23_B.Tech.pdf"
+       }
+      ]
+     }
+    ],
+    [
+     {
+      "text": "R-20 regulation"
+     },
+     {
+      "text": "2021-Admitted Batch-B.Tech-Syllabus 2020-Admitted Batch-B.Tech-Syllabus",
+      "links": [
+       {
+        "label": "2021-Admitted Batch-B.Tech-Syllabus",
+        "href": "https://qiscet.edu.in/qiscet/departments/ece/data/R20%20B.Tech%20Syllabus%20from%202021%20admitted%20batches.pdf"
+       },
+       {
+        "label": "2020-Admitted Batch-B.Tech-Syllabus",
+        "href": "https://qiscet.edu.in/qiscet/departments/ece/data/R20%20B.Tech%20Syllabus%20for%202020%20admitted%20batch.pdf"
+       }
+      ]
+     }
+    ],
+    [
+     {
+      "text": "R-18 regulation"
+     },
+     {
+      "text": "B.Tech Syllabus",
+      "links": [
+       {
+        "label": "B.Tech Syllabus",
+        "href": "https://qiscet.edu.in/qiscet/departments/ece/syl_reg/R18%20UG%20ECE%20Book.pdf"
+       }
+      ]
+     }
+    ],
+    [
+     {
+      "text": "R-15 regulation"
+     },
+     {
+      "text": "B.Tech Syllabus",
+      "links": [
+       {
+        "label": "B.Tech Syllabus",
+        "href": "https://qiscet.edu.in/qiscet/departments/ece/syl_reg/R15-B.TECH%20-ECE.pdf"
+       }
+      ]
+     }
+    ],
+    [
+     {
+      "text": "Regulation"
+     },
+     {
+      "text": "M.Tech"
+     }
+    ],
+    [
+     {
+      "text": "R-23 regulation"
+     },
+     {
+      "text": "VLSI & ES Syllabus",
+      "links": [
+       {
+        "label": "VLSI & ES Syllabus",
+        "href": "https://qiscet.edu.in/qiscet/departments/ece/data/ECE_R23_M.Tech.pdf"
+       }
+      ]
+     }
+    ],
+    [
+     {
+      "text": "R-20 regulation"
+     },
+     {
+      "text": "DECS Syllabus",
+      "links": [
+       {
+        "label": "DECS Syllabus",
+        "href": "https://qiscet.edu.in/qiscet/departments/ece/syl_reg/R20_ece_DECS.pdf"
+       }
+      ]
+     }
+    ],
+    [
+     {
+      "text": "R-20 regulation"
+     },
+     {
+      "text": "VLSI & ES Syllabus",
+      "links": [
+       {
+        "label": "VLSI & ES Syllabus",
+        "href": "https://qiscet.edu.in/qiscet/departments/ece/syl_reg/R20_ece_VLSI%26ES%202.pdf"
+       }
+      ]
+     }
+    ],
+    [
+     {
+      "text": "R-18 regulation"
+     },
+     {
+      "text": "DECS Syllabus",
+      "links": [
+       {
+        "label": "DECS Syllabus",
+        "href": "https://qiscet.edu.in/qiscet/departments/ece/syl_reg/R18_ECE-DECS.pdf"
+       }
+      ]
+     }
+    ],
+    [
+     {
+      "text": "R-18 regulation"
+     },
+     {
+      "text": "VLSI & ES Syllabus",
+      "links": [
+       {
+        "label": "VLSI & ES Syllabus",
+        "href": "https://qiscet.edu.in/qiscet/departments/ece/syl_reg/R18_ECE-VLSI%26ES.pdf"
+       }
+      ]
+     }
+    ],
+    [
+     {
+      "text": "R-18 regulation"
+     },
+     {
+      "text": "DSCE Syllabus",
+      "links": [
+       {
+        "label": "DSCE Syllabus",
+        "href": "https://qiscet.edu.in/qiscet/departments/ece/syl_reg/R18_ECE-DSCE.pdf"
+       }
+      ]
+     }
+    ],
+    [
+     {
+      "text": "R-15 regulation"
+     },
+     {
+      "text": "DECS Syllabus",
+      "links": [
+       {
+        "label": "DECS Syllabus",
+        "href": "https://qiscet.edu.in/qiscet/departments/ece/syl_reg/DECS.pdf"
+       }
+      ]
+     }
+    ],
+    [
+     {
+      "text": "R-15 regulation"
+     },
+     {
+      "text": "VLSI & ES Syllabus",
+      "links": [
+       {
+        "label": "VLSI & ES Syllabus",
+        "href": "https://qiscet.edu.in/qiscet/departments/ece/syl_reg/VLSI%26ES.pdf"
+       }
+      ]
+     }
+    ],
+    [
+     {
+      "text": "R-15 regulation"
+     },
+     {
+      "text": "DSCE Syllabus",
+      "links": [
+       {
+        "label": "DSCE Syllabus",
+        "href": "https://qiscet.edu.in/qiscet/departments/ece/syl_reg/DSCE.pdf"
+       }
+      ]
+     }
+    ]
+   ]
+  }
+ ],
+ "department": "ece",
+ "pageTitle": "Syllabus"
+}

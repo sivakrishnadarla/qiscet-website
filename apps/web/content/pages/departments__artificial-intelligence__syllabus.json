@@ -1,0 +1,53 @@
+{
+ "slug": "departments/artificial-intelligence/syllabus",
+ "section": "departments",
+ "sectionTitle": "Departments",
+ "title": "Syllabus – Artificial Intelligence",
+ "legacy": "https://qiscet.edu.in/qiscet/DEPARTMENTS_ai_syllabus.php",
+ "summary": null,
+ "blocks": [
+  {
+   "type": "table",
+   "rows": [
+    [
+     {
+      "text": "Regulation"
+     },
+     {
+      "text": "B.Tech"
+     }
+    ],
+    [
+     {
+      "text": "R-23 Regulation"
+     },
+     {
+      "text": "AI Syllabus",
+      "links": [
+       {
+        "label": "AI Syllabus",
+        "href": "https://qiscet.edu.in/qiscet/departments/ai/AI_R23_SYLLABUS.pdf"
+       }
+      ]
+     }
+    ],
+    [
+     {
+      "text": "R-20 Regulation"
+     },
+     {
+      "text": "AI Syllabus",
+      "links": [
+       {
+        "label": "AI Syllabus",
+        "href": "https://qiscet.edu.in/qiscet/departments/ai/AI_R20_SYLLABUS.pdf"
+       }
+      ]
+     }
+    ]
+   ]
+  }
+ ],
+ "department": "artificial-intelligence",
+ "pageTitle": "Syllabus"
+}

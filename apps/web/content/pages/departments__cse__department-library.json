@@ -1,0 +1,27 @@
+{
+ "slug": "departments/cse/department-library",
+ "section": "departments",
+ "sectionTitle": "Departments",
+ "title": "Department Library – Computer Science & Engineering",
+ "legacy": "https://qiscet.edu.in/qiscet/DEPARTMENTS_cse_library.php",
+ "summary": null,
+ "blocks": [
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    {
+     "text": "List Of Library Books",
+     "links": [
+      {
+       "label": "List Of Library Books",
+       "href": "https://qiscet.edu.in/qiscet/departments/cse/data/Department%20Library%20details-%20CSE.pdf"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "department": "cse",
+ "pageTitle": "Department Library"
+}

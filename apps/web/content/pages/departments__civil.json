@@ -1,0 +1,184 @@
+{
+ "slug": "departments/civil",
+ "section": "departments",
+ "sectionTitle": "Departments",
+ "title": "Civil Engineering",
+ "legacy": "https://qiscet.edu.in/qiscet/DEPARTMENTS_ce.php",
+ "summary": "The department of Civil Engineering was established in the year 2014. The department offers B.Tech (Civil Engineering) from the academic year 2014, M.Tech (Transportation Engineering) from the…",
+ "blocks": [
+  {
+   "type": "paragraph",
+   "text": "The department of Civil Engineering was established in the year 2014. The department offers B.Tech (Civil Engineering) from the academic year 2014, M.Tech (Transportation Engineering) from the academic year 2019 and M.Tech (Structural Engineering) from the academic year 2021. The Civil Engineering Department is committed to provide opportunities for all students to become active life-long learners with the necessary competencies, industrial oriented skills, and good entrepreneur with moral values, able to contribute and succeed in adopting the global rapid technological changes. It aims to do this by enhancing learning and teaching capabilities through its highly qualified & dedicated faculty with good infra structural facilities, constantly contributing for the best performance and ensuring a good working environment for imparting better quality technical education. The department has qualified and experienced faculty members; many of them are with Ph.D. degree. The faculty members actively engage in research and constantly publish papers in International and National Journals. The department regularly organizes technical workshops for the faculty members to expose them to emerging areas."
+  },
+  {
+   "type": "heading",
+   "text": "Courses",
+   "level": 4
+  },
+  {
+   "type": "table",
+   "rows": [
+    [
+     {
+      "text": "Courses Offered"
+     },
+     {
+      "text": "Intake"
+     }
+    ],
+    [
+     {
+      "text": "B.Tech - CE (Civil Engineering)"
+     },
+     {
+      "text": "60"
+     }
+    ],
+    [
+     {
+      "text": "M.Tech - TS (Transportation Engineering)"
+     },
+     {
+      "text": "18"
+     }
+    ],
+    [
+     {
+      "text": "M.Tech - SE (Structural Engineering)"
+     },
+     {
+      "text": "18"
+     }
+    ]
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "Vision",
+   "level": 4
+  },
+  {
+   "type": "paragraph",
+   "text": "To be a world class academic centre for quality education and research in diverse areas of Civil Engineering, with a strong social commitment."
+  },
+  {
+   "type": "heading",
+   "text": "Mission",
+   "level": 4
+  },
+  {
+   "type": "paragraph",
+   "text": "The Civil Engineering Department is committed to provide opportunities for all students to become active life-long learners with the necessary competencies, industrial oriented skills, and good entrepreneur with moral values, able to contribute and succeed in adopting the global rapid technological changes. It aims to do this by enhancing learning and teaching capabilities through its highly qualified & dedicated faculty with good infra structural facilities, constantly contributing for the best performance and ensuring a good working environment for imparting better quality technical education."
+  },
+  {
+   "type": "paragraph",
+   "text": "M1: To enable the students with fundamental and advanced learning skills in the field of Civil engineering to face future challenges."
+  },
+  {
+   "type": "paragraph",
+   "text": "M2: To impart quality education in undergraduate level, with strong emphasis on Professional ethics and social commitment."
+  },
+  {
+   "type": "paragraph",
+   "text": "M3: To enable the students with higher education and research through advanced laboratories and to undertake collaborative projects with academia and industries"
+  },
+  {
+   "type": "paragraph",
+   "text": "M4: To enable the students to engage in scholarly activities, which strengthen the departmental regional, national and international reputation"
+  },
+  {
+   "type": "heading",
+   "text": "Programme Educational Objectives",
+   "level": 4
+  },
+  {
+   "type": "paragraph",
+   "text": "PEO1: Learn and Integrate: Graduate shall have knowledge in applied and basic engineering sciences to understand engineering principles which is necessary to formulate and solve problems related to Civil Engineering."
+  },
+  {
+   "type": "paragraph",
+   "text": "PEO2: Think and Create: Graduate shall have knowledge in experimentation, analysis and synthesis of Civil Engineering courses to Design/Innovate and create novel products/Solutions to real life problems."
+  },
+  {
+   "type": "paragraph",
+   "text": "PEO3: Practice Citizenship: Graduate shall have Managerial and entrepreneur skills, ethical and professional attitude in multidisciplinary approach to meet the needs of industry and society."
+  },
+  {
+   "type": "paragraph",
+   "text": "PEO4: Expertise: Graduate shall go for further studies, research, lifelong learning to adopt oneself in the phase of changing technologies to ensure the students to success in engineering position globally"
+  },
+  {
+   "type": "heading",
+   "text": "Programme Outcomes",
+   "level": 4
+  },
+  {
+   "type": "heading",
+   "text": "Engineering Graduates will be able to:",
+   "level": 5
+  },
+  {
+   "type": "paragraph",
+   "text": "PO1. An ability to apply the knowledge of mathematics, science, engineering fundamentals, and an engineering specialization to the solution of complex engineering problems."
+  },
+  {
+   "type": "paragraph",
+   "text": "PO2. An ability to Identify, formulate, review research literature, and analyze complex engineering problems reaching substantiated conclusions using first principles of mathematics, natural sciences, and engineering sciences."
+  },
+  {
+   "type": "paragraph",
+   "text": "PO3. An ability to Design solutions for complex engineering problems and design system components or processes that meet the specified needs with appropriate consideration for the public health and safety, and the cultural, societal, and environmental considerations."
+  },
+  {
+   "type": "paragraph",
+   "text": "PO4. An ability to Use research-based knowledge and research methods including design of experiments, analysis and interpretation of data, and synthesis of the information to provide valid conclusions."
+  },
+  {
+   "type": "paragraph",
+   "text": "PO5. An ability to create, select, and apply appropriate techniques, resources, and modern engineering and IT tools including prediction and modeling to complex engineering activities with an understanding of the limitations."
+  },
+  {
+   "type": "paragraph",
+   "text": "PO6. An ability to apply reasoning informed by the contextual knowledge to assess societal, health, safety, legal and cultural issues and the consequent responsibilities relevant to the professional engineering practice."
+  },
+  {
+   "type": "paragraph",
+   "text": "PO7. An ability to understand the impact of the professional engineering solutions in societal and environmental contexts, and demonstrate the knowledge of, and need for sustainable development."
+  },
+  {
+   "type": "paragraph",
+   "text": "PO8. An ability to apply ethical principles and commit to professional ethics and responsibilities and norms of the engineering practice."
+  },
+  {
+   "type": "paragraph",
+   "text": "PO9. An ability to Function effectively as an individual, and as a member or leader in diverse teams, and in multidisciplinary settings"
+  },
+  {
+   "type": "paragraph",
+   "text": "PO10. An ability to communicate effectively on complex engineering activities with the engineering community and with society at large, such as, being able to comprehend and write effective reports and design documentation, make effective presentations, and give and receive clear instructions."
+  },
+  {
+   "type": "paragraph",
+   "text": "PO11. An ability to demonstrate knowledge and understanding of the engineering and management principles and apply these to one’s own work, as a member and leader in a team, to manage projects and in multidisciplinary environments."
+  },
+  {
+   "type": "paragraph",
+   "text": "PO12. An ability to recognize the need for, and have the preparation and ability to engage in independent and life-long learning in the broadest context of technological change."
+  },
+  {
+   "type": "heading",
+   "text": "Programme Specific Out Comes",
+   "level": 4
+  },
+  {
+   "type": "paragraph",
+   "text": "PSO1. The graduates will plan, produce detailed drawings, write specification, and prepare cost estimates."
+  },
+  {
+   "type": "paragraph",
+   "text": "PSO2. Function as design consultants in construction industry for the design of civil engineering structures."
+  }
+ ],
+ "department": "civil",
+ "isDepartmentHome": true
+}

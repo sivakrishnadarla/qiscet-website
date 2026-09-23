@@ -1,0 +1,15 @@
+{
+ "slug": "iqac/faculty-self-appraisal",
+ "section": "iqac",
+ "sectionTitle": "IQAC",
+ "title": "Faculty Self-Appraisal Form",
+ "legacy": "https://qiscet.edu.in/qiscet/IQAC_faculty_self.php",
+ "summary": null,
+ "blocks": [
+  {
+   "type": "document",
+   "href": "https://qiscet.edu.in/qiscet/iqac/8.Faculty%20Self%20Appraisal%20Form-%20API-Format.pdf",
+   "label": "View document (PDF)"
+  }
+ ]
+}

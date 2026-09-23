@@ -1,0 +1,130 @@
+{
+ "slug": "departments/ai-data-science/laboratories",
+ "section": "departments",
+ "sectionTitle": "Departments",
+ "title": "Laboratories – Artificial Intelligence & Data Science",
+ "legacy": "https://qiscet.edu.in/qiscet/DEPARTMENTS_ai_ds_labs.php",
+ "summary": null,
+ "blocks": [
+  {
+   "type": "table",
+   "rows": [
+    [
+     {
+      "text": "S. No"
+     },
+     {
+      "text": "Name of the Lab"
+     },
+     {
+      "text": "Details"
+     }
+    ],
+    [
+     {
+      "text": "1"
+     },
+     {
+      "text": "CENTRE FOR COMPUTING SYSTEMS LAB"
+     },
+     {
+      "text": "View",
+      "links": [
+       {
+        "label": "View",
+        "href": "https://qiscet.edu.in/qiscet/departments/cse%20ds/CCENTRE%20FOR%20COMPUTING%20SYSTEMS%20LAB.pdf"
+       }
+      ]
+     }
+    ],
+    [
+     {
+      "text": "2"
+     },
+     {
+      "text": "CENTRE FOR COMPUTER SOFTWARE APPLICATIONS LAB"
+     },
+     {
+      "text": "View",
+      "links": [
+       {
+        "label": "View",
+        "href": "https://qiscet.edu.in/qiscet/departments/cse%20ds/CENTRE%20FOR%20COMPUTER%20SOFTWARE%20APPLICATIONS%20LAB.pdf"
+       }
+      ]
+     }
+    ],
+    [
+     {
+      "text": "3"
+     },
+     {
+      "text": "CENTRE FOR AI / ML / DS LAB"
+     },
+     {
+      "text": "View",
+      "links": [
+       {
+        "label": "View",
+        "href": "https://qiscet.edu.in/qiscet/departments/cse%20ds/CENTRE%20FOR%20AI%20%20ML%20DS%20LAB%20%20%281%29.pdf"
+       }
+      ]
+     }
+    ],
+    [
+     {
+      "text": "4"
+     },
+     {
+      "text": "CENTRE FOR CN, INFRA DEVELOPMENT & MANAGEMENT LAB"
+     },
+     {
+      "text": "View",
+      "links": [
+       {
+        "label": "View",
+        "href": "https://qiscet.edu.in/qiscet/departments/cse%20ds/CENTRE%20FOR%20CN%2C%20INFRA%20DEVELOPMENT%20%26%20MANAGEMENT%20LAB.pdf"
+       }
+      ]
+     }
+    ],
+    [
+     {
+      "text": "5"
+     },
+     {
+      "text": "CENTRE FOR C PROGRAMMING LAB"
+     },
+     {
+      "text": "View",
+      "links": [
+       {
+        "label": "View",
+        "href": "https://qiscet.edu.in/qiscet/departments/cse%20ds/CENTRE%20FOR%20C%20PROGRAMMING%20LAB.pdf"
+       }
+      ]
+     }
+    ],
+    [
+     {
+      "text": "5"
+     },
+     {
+      "text": "CENTRE FOR PYTHON PROGRAMMING LAB"
+     },
+     {
+      "text": "View",
+      "links": [
+       {
+        "label": "View",
+        "href": "https://qiscet.edu.in/qiscet/departments/cse%20ds/CENTRE%20FOR%20PYTHON%20PROGRAMMING%20LAB.pdf"
+       }
+      ]
+     }
+    ]
+   ]
+  }
+ ],
+ "department": "ai-data-science",
+ "pageTitle": "Laboratories"
+}

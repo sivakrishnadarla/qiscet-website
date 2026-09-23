@@ -1,0 +1,36 @@
+{
+ "slug": "departments/civil/statutory-department-committees",
+ "section": "departments",
+ "sectionTitle": "Departments",
+ "title": "Statutory Department Committees – Civil Engineering",
+ "legacy": "https://qiscet.edu.in/qiscet/DEPARTMENTS_ce_Statutory.php",
+ "summary": null,
+ "blocks": [
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    {
+     "text": "DAC",
+     "links": [
+      {
+       "label": "DAC",
+       "href": "https://qiscet.edu.in/qiscet/DEPARTMENTS_ce_dac.php"
+      }
+     ]
+    },
+    {
+     "text": "PAC",
+     "links": [
+      {
+       "label": "PAC",
+       "href": "https://qiscet.edu.in/qiscet/DEPARTMENTS_ce_pac.php"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "department": "civil",
+ "pageTitle": "Statutory Department Committees"
+}

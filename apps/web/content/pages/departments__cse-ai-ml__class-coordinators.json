@@ -1,0 +1,45 @@
+{
+ "slug": "departments/cse-ai-ml/class-coordinators",
+ "section": "departments",
+ "sectionTitle": "Departments",
+ "title": "Class Coordinators – CSE (Artificial Intelligence & Machine Learning)",
+ "legacy": "https://qiscet.edu.in/qiscet/DEPARTMENTS_CSE_AL_ML_teachers.php",
+ "summary": null,
+ "blocks": [
+  {
+   "type": "table",
+   "rows": [
+    [
+     {
+      "text": "S.No"
+     },
+     {
+      "text": "Class"
+     },
+     {
+      "text": "Section"
+     },
+     {
+      "text": "Name of the Staff"
+     }
+    ],
+    [
+     {
+      "text": "1"
+     },
+     {
+      "text": "II B.Tech"
+     },
+     {
+      "text": "1"
+     },
+     {
+      "text": "P.Anitha"
+     }
+    ]
+   ]
+  }
+ ],
+ "department": "cse-ai-ml",
+ "pageTitle": "Class Coordinators"
+}

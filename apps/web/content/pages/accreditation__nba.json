@@ -1,0 +1,20 @@
+{
+ "slug": "accreditation/nba",
+ "section": "accreditation",
+ "sectionTitle": "Accreditation",
+ "title": "NBA",
+ "legacy": "https://qiscet.edu.in/qiscet/ACCRIDATION_PROCESS_nba.php",
+ "summary": null,
+ "blocks": [
+  {
+   "type": "link",
+   "label": "Tier1 NBA DCS Report CE 2026",
+   "href": "https://qiscet.edu.in/qiscet/qiscet/accredation/e%20-%20NBA%20DCS%20Reprot%20CE%202026.pdf"
+  },
+  {
+   "type": "link",
+   "label": "Tier1 NBA DCS Report IT 2026",
+   "href": "https://qiscet.edu.in/qiscet/qiscet/accredation/e%20-%20NBA%20DCS%20Reprot%20IT%202026.pdf"
+  }
+ ]
+}

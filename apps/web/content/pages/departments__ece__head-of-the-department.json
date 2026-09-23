@@ -1,0 +1,95 @@
+{
+ "slug": "departments/ece/head-of-the-department",
+ "section": "departments",
+ "sectionTitle": "Departments",
+ "title": "Head of the Department – Electronics & Communication Engineering",
+ "legacy": "https://qiscet.edu.in/qiscet/DEPARTMENTS_ece_hod.php",
+ "summary": null,
+ "blocks": [
+  {
+   "type": "table",
+   "rows": [
+    [
+     {
+      "text": "HOD Name:"
+     },
+     {
+      "text": "Dr. CHINNI HIMA BINDU"
+     }
+    ],
+    [
+     {
+      "text": "Designation:"
+     },
+     {
+      "text": "Professor & HOD of ECE Department"
+     }
+    ],
+    [
+     {
+      "text": "Qualification:"
+     },
+     {
+      "text": "M.Tech.,PG(IIT Patna),Ph.D"
+     }
+    ],
+    [
+     {
+      "text": "Email:"
+     },
+     {
+      "text": "ecehod@qiscet.edu.in"
+     }
+    ],
+    [
+     {
+      "text": "Contact No:"
+     },
+     {
+      "text": "+91 9885396299"
+     }
+    ],
+    [
+     {
+      "text": "Areas of Interest:"
+     },
+     {
+      "text": "Communications, Signal Processing, Image Processing"
+     }
+    ],
+    [
+     {
+      "text": "Experience:"
+     },
+     {
+      "text": "21 years"
+     }
+    ],
+    [
+     {
+      "text": "Short Profile:"
+     },
+     {
+      "text": "Dr. Ch.Hima Bindu is a distinguished academician and researcher, currently serving as Professor and Head of the Department of Electronics and Communication Engineering at QIS College of Engineering and Technology (Autonomous), Ongole, Andhra Pradesh, India. She holds a B.Tech. from JNTU Hyderabad, an M.Tech. from JNTU Kakinada, and a Doctoral Degree from JNTUK Kakinada. Additionally, she has completed a PG program in Blockchain and Data Science from IIT Patna. With extensive research contributions, Dr. Hima Bindu has published in reputed international journals and conferences. She is an active reviewer for esteemed publishers such as Springer, Elsevier, and Wiley. Her research interests include Communications, Signal Processing, and Image Processing. She has authored textbooks, book chapters, and patents. Dr. Hima Bindu has successfully guided a Ph.D. scholar and currently supervises three doctoral candidates. She has secured significant research funding from AICTE, DST, and IEEE, including grants for AI, IoT, and medical imaging projects. She has chaired special sessions at IEEE and Springer conferences in Malaysia and Bangkok. Her achievements include multiple prestigious awards, such as the Excellence in Research Contribution Award (2024), IEEE India Council Award (2023), Best Women Researcher in Science & Technology Award (2020), and Young Researcher Award (2016). She is a senior IEEE member, an Ex-Com Member of IEEE Guntur Subsection, and a mentor for the AP Innovation Society. Beyond academia, she serves as a research advisor for Ekalavya Innovative Solutions and offers consultancy services to medical institutions. Her innovative ideas have been recognized at platforms like EUREKA, IIT Bombay."
+     }
+    ],
+    [
+     {
+      "text": "Resume:"
+     },
+     {
+      "text": "Resume",
+      "links": [
+       {
+        "label": "Resume",
+        "href": "https://qiscet.edu.in/qiscet/departments/ece/Dr.Ch.Hima_Bindu_profile.pdf"
+       }
+      ]
+     }
+    ]
+   ]
+  }
+ ],
+ "department": "ece",
+ "pageTitle": "Head of the Department"
+}

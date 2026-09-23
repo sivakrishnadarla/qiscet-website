@@ -1,0 +1,170 @@
+{
+ "slug": "departments/information-technology",
+ "section": "departments",
+ "sectionTitle": "Departments",
+ "title": "Information Technology",
+ "legacy": "https://qiscet.edu.in/qiscet/DEPARTMENTS_it.php",
+ "summary": "The Department of Information Technology at the QIS College of Engineering has been started in the year 2007 with the objective of promoting research and development, industrial consultancy, and…",
+ "blocks": [
+  {
+   "type": "paragraph",
+   "text": "The Department of Information Technology at the QIS College of Engineering has been started in the year 2007 with the objective of promoting research and development, industrial consultancy, and teaching in the frontier areas of Information Technology."
+  },
+  {
+   "type": "paragraph",
+   "text": "The Department of Information Technology was established to develop quality engineers to meet the current trends in the emerging world of IT. Our focus is on the development of all courses inculcating job - oriented, value based quality education in Information Technology and commercial application development. We provide students with the knowledge and skills to be an information technology professional, with particular skills in a chosen area.Students also have the opportunity to specialise in a particular aspect of ICT-related work."
+  },
+  {
+   "type": "heading",
+   "text": "Courses",
+   "level": 4
+  },
+  {
+   "type": "table",
+   "rows": [
+    [
+     {
+      "text": "Courses Offered"
+     },
+     {
+      "text": "Intake"
+     }
+    ],
+    [
+     {
+      "text": "B.Tech - IT (Information Technology)"
+     },
+     {
+      "text": "120"
+     }
+    ]
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "Vision",
+   "level": 4
+  },
+  {
+   "type": "paragraph",
+   "text": "The department of Information Technology envisions to create tenure and skilled intellectual IT professionals for serving to the country to achieve new milestone in research and industrial needs with blend of leadership and ethical values."
+  },
+  {
+   "type": "heading",
+   "text": "Mission",
+   "level": 4
+  },
+  {
+   "type": "list",
+   "ordered": true,
+   "items": [
+    {
+     "text": "To deliver the education that would enable the students to have a clear, conceptual understanding of the basic theories and principles of the information technology."
+    },
+    {
+     "text": "To provide technical solutions to meet the growing challenges as well as industries and research institute."
+    },
+    {
+     "text": "To produce graduates with high quality, state-of-art knowledge, innovation, ethics, lifelong professional career and social responsibility."
+    },
+    {
+     "text": "To provide a framework for promoting the industry-institution collaboration and empower the students in multidisciplinary activities."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "B.Tech",
+   "level": 4
+  },
+  {
+   "type": "heading",
+   "text": "Programme Educational Objectives Of B.Tech (IT)",
+   "level": 4
+  },
+  {
+   "type": "list",
+   "ordered": true,
+   "items": [
+    {
+     "text": "Graduate shall have knowledge in applied and basic engineering sciences to understand engineering principles which is necessary to formulate and solve problems related to Information Technology."
+    },
+    {
+     "text": "Graduate shall have knowledge in experimentation, analysis and synthesis of Information Technology courses to Design/Innovate and create novel products/Solutions to real life problems."
+    },
+    {
+     "text": "Graduate shall have Managerial and entrepreneur skills, ethical and professional attitude in multidisciplinary approach to meet the needs of industry and society."
+    },
+    {
+     "text": "Graduate shall go for further studies, research, lifelong learning to adopt oneself in the phase of changing technologies to ensure the students to success in engineering position globally."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "Programme Outcomes Of B.Tech (IT)",
+   "level": 4
+  },
+  {
+   "type": "list",
+   "ordered": true,
+   "items": [
+    {
+     "text": "Engineering Knowledge: Apply the knowledge of mathematics, science, engineering fundamentals, and an engineering specialization to the solution of complex engineering problems."
+    },
+    {
+     "text": "Problem Analysis: Identify, formulate, review research literature, and analyze complex engineering problems reaching substantiated conclusions using first principles of mathematics, natural sciences, and engineering sciences."
+    },
+    {
+     "text": "Design/development of solutions: Design solutions for complex engineering problems and design system components or processes that meet the specified needs with appropriate consideration for the public health and safety, and the cultural, societal, and environmental considerations."
+    },
+    {
+     "text": "Conduct investigations of complex problems: Use research-based knowledge and research methods including design of experiments, analysis and interpretation of data, and synthesis of the information to provide valid conclusions."
+    },
+    {
+     "text": "Modern Tool Usage: Create, select, and apply appropriate techniques, resources, and modern engineering and IT tools including prediction and modeling to complex engineering activities with an understanding of the limitations."
+    },
+    {
+     "text": "The Engineer and Society: Apply reasoning informed by the contextual knowledge to assess societal, health, safety, legal and cultural issues and the consequent responsibilities relevant to the professional engineering practice."
+    },
+    {
+     "text": "Environment and Sustainability: Understand the impact of the professional engineering solutions in societal and environmental contexts, and demonstrate the knowledge of, and need for sustainable development."
+    },
+    {
+     "text": "Ethics: Apply ethical principles and commit to professional ethics and responsibilities and norms of the engineering practice."
+    },
+    {
+     "text": "Individual and Team work: Function effectively as an individual, and as a member or leader in diverse teams, and in multidisciplinary settings."
+    },
+    {
+     "text": "Communication: Communicate effectively on complex engineering activities with the engineering community and with society at large, such as, being able to comprehend and write effective reports and design documentation, make effective presentations, and give and receive clear instructions."
+    },
+    {
+     "text": "Project Management and Finance: Demonstrate knowledge and understanding of the engineering and management principles and apply these to one’s own work, as a member and leader in a team, to manage projects and in multidisciplinary environments."
+    },
+    {
+     "text": "Life-long Learning: Recognize the need for, and have the preparation and ability to engage in independent and life-long learning in the broadest context of technological change."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "Programme Specific Out Comes Of B.Tech (IT)",
+   "level": 4
+  },
+  {
+   "type": "list",
+   "ordered": true,
+   "items": [
+    {
+     "text": "Domain Knowledge:The Information Technology graduates will able to identify and analyze end user needs and take them into account in the selection, creation, evaluation and administration of IT solutions."
+    },
+    {
+     "text": "Process Management:An ability to organize an IT infrastructure by managing, monitoring the resources and safeguard the data."
+    }
+   ]
+  }
+ ],
+ "department": "information-technology",
+ "isDepartmentHome": true
+}

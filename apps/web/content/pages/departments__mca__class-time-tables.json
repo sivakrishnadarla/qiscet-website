@@ -1,0 +1,27 @@
+{
+ "slug": "departments/mca/class-time-tables",
+ "section": "departments",
+ "sectionTitle": "Departments",
+ "title": "Class Time Tables – Master of Computer Applications",
+ "legacy": "https://qiscet.edu.in/qiscet/DEPARTMENTS_mca_timetables.php",
+ "summary": null,
+ "blocks": [
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    {
+     "text": "Class Time Tables",
+     "links": [
+      {
+       "label": "Class Time Tables",
+       "href": "https://qiscet.edu.in/qiscet/departments/mca/mca_timetables_21.pdf"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "department": "mca",
+ "pageTitle": "Class Time Tables"
+}

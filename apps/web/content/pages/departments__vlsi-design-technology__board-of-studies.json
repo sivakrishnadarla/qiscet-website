@@ -1,0 +1,45 @@
+{
+ "slug": "departments/vlsi-design-technology/board-of-studies",
+ "section": "departments",
+ "sectionTitle": "Departments",
+ "title": "Board of Studies – Electronics Engineering (VLSI Design & Technology)",
+ "legacy": "https://qiscet.edu.in/qiscet/DEPARTMENTS_eevt_BOS.php",
+ "summary": null,
+ "blocks": [
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    {
+     "text": "BoS Members",
+     "links": [
+      {
+       "label": "BoS Members",
+       "href": "https://qiscet.edu.in/qiscet/departments/eevt/EEVT_BOS_Members.pdf"
+      }
+     ]
+    },
+    {
+     "text": "5 th BoS Meeting",
+     "links": [
+      {
+       "label": "5 th BoS Meeting",
+       "href": "https://qiscet.edu.in/qiscet/departments/eevt/eevt_Fifth_BoS.pdf"
+      }
+     ]
+    },
+    {
+     "text": "4 th BoS Meeting",
+     "links": [
+      {
+       "label": "4 th BoS Meeting",
+       "href": "https://qiscet.edu.in/qiscet/departments/eevt/eevt_Fourth_BoS.pdf"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "department": "vlsi-design-technology",
+ "pageTitle": "Board of Studies"
+}

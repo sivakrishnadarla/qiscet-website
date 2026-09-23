@@ -1,0 +1,33 @@
+{
+ "slug": "examinations/student-verification",
+ "section": "examinations",
+ "sectionTitle": "Examinations",
+ "title": "Student Verification",
+ "legacy": "https://qiscet.edu.in/qiscet/studverify.php",
+ "summary": null,
+ "blocks": [
+  {
+   "type": "image",
+   "src": "/images/images/ver.jpg",
+   "alt": ""
+  },
+  {
+   "type": "heading",
+   "text": "For more details contact",
+   "level": 3
+  },
+  {
+   "type": "paragraph",
+   "text": "V Subramanyam"
+  },
+  {
+   "type": "paragraph",
+   "text": "+91 9246419522"
+  },
+  {
+   "type": "link",
+   "label": "Degree Verification",
+   "href": "https://work.icredify.com/degreeverify/qiscet"
+  }
+ ]
+}

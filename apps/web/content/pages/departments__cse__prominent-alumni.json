@@ -1,0 +1,31 @@
+{
+ "slug": "departments/cse/prominent-alumni",
+ "section": "departments",
+ "sectionTitle": "Departments",
+ "title": "Prominent Alumni – Computer Science & Engineering",
+ "legacy": "https://qiscet.edu.in/qiscet/DEPARTMENTS_cse_Prominent_Alumni_Members.php",
+ "summary": null,
+ "blocks": [
+  {
+   "type": "table",
+   "rows": [
+    [
+     {
+      "text": "S.no"
+     },
+     {
+      "text": "Name"
+     },
+     {
+      "text": "Designation"
+     },
+     {
+      "text": "Company"
+     }
+    ]
+   ]
+  }
+ ],
+ "department": "cse",
+ "pageTitle": "Prominent Alumni"
+}

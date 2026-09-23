@@ -1,0 +1,50 @@
+{
+ "slug": "about/route-maps",
+ "section": "about",
+ "sectionTitle": "About Us",
+ "title": "Route Maps – How to Reach QISCET",
+ "legacy": "https://qiscet.edu.in/qiscet/routs.php",
+ "summary": null,
+ "blocks": [
+  {
+   "type": "map",
+   "src": "https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d15379.623380579455!2d80.02515766993292!3d15.489495906295002!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e6!4m5!1s0x3a4b013750ef64f1%3A0x96baa2a134491a66!2sBank%20of%20Baroda%20ATM%2C%20Dharavari%20Thota%2C%20Bhagyanagar%2C%20Ongole%2C%20Andhra%20Pradesh!3m2!1d15.494155!2d80.048216!4m5!1s0x3a4b015caa06676d%3A0x9990b6b9455eda19!2sQIS%20College%20of%20Engineering%20and%20Technology%2C%20Ongole%2C%20Vegamukkapalem%2C%20Andhra%20Pradesh%20523272!3m2!1d15.479603!2d80.0196414!5e0!3m2!1sen!2sin!4v1611311181951!5m2!1sen!2sin"
+  },
+  {
+   "type": "heading",
+   "text": "QIS College Of Engineering and Technology To Head Post Office",
+   "level": 1
+  },
+  {
+   "type": "map",
+   "src": "https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d15379.456928118627!2d80.02528647120283!3d15.491733377837553!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e0!4m5!1s0x3a4b010370730083%3A0x7ad2e13976c6d58b!2sIndia+Post%2C+Bandla+Metla%2C+Ongole%2C+Andhra+Pradesh+523001!3m2!1d15.500545299999999!2d80.0486344!4m5!1s0x3a4b015caa06676d%3A0x9990b6b9455eda19!2sQIS+College+of+Engineering+and+Technology%2C+Ongole%2C+Vegamukkapalem%2C+Andhra+Pradesh+523272!3m2!1d15.479603!2d80.0196414!5e0!3m2!1sen!2sin!4v1513416102356"
+  },
+  {
+   "type": "heading",
+   "text": "QIS College Of Engineering and Technology To Railway Station",
+   "level": 1
+  },
+  {
+   "type": "map",
+   "src": "https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d30759.139898776182!2d80.02029739007212!3d15.49021416836607!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e6!4m5!1s0x3a4b011d084b2323%3A0x20af05aa0521e912!2sRailway%20station%2C%20Santhapet%2C%20Ongole%2C%20Andhra%20Pradesh!3m2!1d15.4980139!2d80.0567592!4m5!1s0x3a4b015caa06676d%3A0x9990b6b9455eda19!2sQIS%20College%20of%20Engineering%20and%20Technology%2C%20Ongole%2C%20Vegamukkapalem%2C%20Andhra%20Pradesh%20523272!3m2!1d15.479603!2d80.0196414!5e0!3m2!1sen!2sin!4v1611313138837!5m2!1sen!2sin"
+  },
+  {
+   "type": "heading",
+   "text": "QIS College Of Engineering and Technology To Bus Stand",
+   "level": 1
+  },
+  {
+   "type": "map",
+   "src": "https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d30757.7153279689!2d80.01331015997587!3d15.499786140413306!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e0!4m5!1s0x3a4b01a7c3615555%3A0x98d4920e7b1d0bb1!2sBUS+STAND+ONGOLE%2C+Pandaripuram%2C+Ongole%2C+Andhra+Pradesh!3m2!1d15.511321299999999!2d80.04150729999999!4m5!1s0x3a4b015caa06676d%3A0x9990b6b9455eda19!2sQIS+College+of+Engineering+and+Technology%2C+Ongole%2C+Vegamukkapalem%2C+Andhra+Pradesh+523272!3m2!1d15.479603!2d80.0196414!5e0!3m2!1sen!2sin!4v1513416270068"
+  },
+  {
+   "type": "heading",
+   "text": "QIS College Of Engineering and Technology To Vijayawada Airport",
+   "level": 1
+  },
+  {
+   "type": "map",
+   "src": "https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d981812.9099443468!2d79.84028027772767!3d16.002752986753134!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e0!4m5!1s0x3a35e2afebbdeff9%3A0x1bc844d2b2e24c5!2sVijayawada+Airport%2C+Gannavaram%2C+Andhra+Pradesh!3m2!1d16.523837999999998!2d80.7914172!4m5!1s0x3a4b015caa06676d%3A0x9990b6b9455eda19!2sQIS+College+of+Engineering+and+Technology%2C+Ongole%2C+Vegamukkapalem%2C+Andhra+Pradesh+523272!3m2!1d15.479603!2d80.0196414!5e0!3m2!1sen!2sin!4v1513418803468"
+  }
+ ]
+}

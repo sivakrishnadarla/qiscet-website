@@ -1,0 +1,90 @@
+{
+ "slug": "departments/ece/newsletters",
+ "section": "departments",
+ "sectionTitle": "Departments",
+ "title": "Newsletters – Electronics & Communication Engineering",
+ "legacy": "https://qiscet.edu.in/qiscet/DEPARTMENTS_ece_news_letters.php",
+ "summary": null,
+ "blocks": [
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    {
+     "text": "NEWS LETTER 2017",
+     "links": [
+      {
+       "label": "NEWS LETTER 2017",
+       "href": "https://qiscet.edu.in/qiscet/departments/ece/nsl/ece_newletter_2017.pdf"
+      }
+     ]
+    },
+    {
+     "text": "NEWS LETTER 2018",
+     "links": [
+      {
+       "label": "NEWS LETTER 2018",
+       "href": "https://qiscet.edu.in/qiscet/departments/ece/nsl/ece_newletter_2018.pdf"
+      }
+     ]
+    },
+    {
+     "text": "NEWS LETTER 2019",
+     "links": [
+      {
+       "label": "NEWS LETTER 2019",
+       "href": "https://qiscet.edu.in/qiscet/departments/ece/nsl/ece_newletter_2019.pdf"
+      }
+     ]
+    },
+    {
+     "text": "NEWS LETTER 2020",
+     "links": [
+      {
+       "label": "NEWS LETTER 2020",
+       "href": "https://qiscet.edu.in/qiscet/departments/ece/nsl/ece_newletter_2020.pdf"
+      }
+     ]
+    },
+    {
+     "text": "NEWS LETTER 2021",
+     "links": [
+      {
+       "label": "NEWS LETTER 2021",
+       "href": "https://qiscet.edu.in/qiscet/departments/ece/nsl/ece_newletter_2021.pdf"
+      }
+     ]
+    },
+    {
+     "text": "NEWS LETTER 2021",
+     "links": [
+      {
+       "label": "NEWS LETTER 2021",
+       "href": "https://qiscet.edu.in/qiscet/departments/ece/nsl/2021.pdf"
+      }
+     ]
+    },
+    {
+     "text": "NEWS LETTER 2022",
+     "links": [
+      {
+       "label": "NEWS LETTER 2022",
+       "href": "https://qiscet.edu.in/qiscet/departments/ece/newsletter%202022.pdf"
+      }
+     ]
+    },
+    {
+     "text": "NEWS LETTER 2023",
+     "links": [
+      {
+       "label": "NEWS LETTER 2023",
+       "href": "https://qiscet.edu.in/qiscet/departments/ece/newsletter%202023.pdf"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "department": "ece",
+ "pageTitle": "Newsletters"
+}

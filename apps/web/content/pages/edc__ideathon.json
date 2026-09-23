@@ -1,0 +1,100 @@
+{
+ "slug": "edc/ideathon",
+ "section": "edc",
+ "sectionTitle": "Entrepreneurship Development Cell",
+ "title": "Ideathon 1.0",
+ "legacy": "https://qiscet.edu.in/qiscet/edc_ideathon.php",
+ "summary": null,
+ "blocks": [
+  {
+   "type": "heading",
+   "text": "ENTREPRENEURSHIP DEVELOPMENT CELL",
+   "level": 3
+  },
+  {
+   "type": "heading",
+   "text": "THEMES OF THE EVENT",
+   "level": 4
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    {
+     "text": "Agriculture & Rural Development."
+    },
+    {
+     "text": "Education"
+    },
+    {
+     "text": "Food Processing/Nutrition/Biotech"
+    },
+    {
+     "text": "IoT based technologies (e.g. Security & Surveillance systems etc)"
+    },
+    {
+     "text": "Mining, Metals, Materials"
+    },
+    {
+     "text": "Renewable and affordable Energy."
+    },
+    {
+     "text": "Smart Vehicles/ Electric vehicle/ Electric vehicle motor and battery technology."
+    },
+    {
+     "text": "Software – Mobile & Web App Development"
+    },
+    {
+     "text": "Waste Management/Waste to Wealth Creation"
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "SUPPORT OFFERED FOR SELECTED TEAM",
+   "level": 4
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    {
+     "text": "Nominations of Validated Innovations from Institutions to take part in National Contests and Grand Challenges"
+    },
+    {
+     "text": "Mentoring and Training Support and Evaluations"
+    },
+    {
+     "text": "Funding Assistance and Incubation Linkage"
+    },
+    {
+     "text": "Acceleration and Investment Linkage Facilitation"
+    }
+   ]
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    {
+     "text": "Registration & Application Submission Procedure",
+     "links": [
+      {
+       "label": "Registration & Application Submission Procedure",
+       "href": "https://qiscet.edu.in/qiscet/edc/Yukti%20Portal%20Procedure.pdf"
+      }
+     ]
+    },
+    {
+     "text": "Registration & Application Submission Link",
+     "links": [
+      {
+       "label": "Registration & Application Submission Link",
+       "href": "https://yukti.mic.gov.in/login"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

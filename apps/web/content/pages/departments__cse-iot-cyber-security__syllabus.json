@@ -1,0 +1,79 @@
+{
+ "slug": "departments/cse-iot-cyber-security/syllabus",
+ "section": "departments",
+ "sectionTitle": "Departments",
+ "title": "Syllabus – CSE (IoT & Cyber Security including Blockchain Technology)",
+ "legacy": "https://qiscet.edu.in/qiscet/DEPARTMENTS_cse_IOT_CSIBT_syllabus.php",
+ "summary": null,
+ "blocks": [
+  {
+   "type": "table",
+   "rows": [
+    [
+     {
+      "text": "Regulation"
+     },
+     {
+      "text": "B.Tech"
+     },
+     {
+      "text": "Download"
+     }
+    ],
+    [
+     {
+      "text": "R-20 regulation"
+     },
+     {
+      "text": "CSE IOT & CSBT I - I Sem"
+     },
+     {
+      "text": "View",
+      "links": [
+       {
+        "label": "View",
+        "href": "https://qiscet.edu.in/qiscet/syallbus/6.%20R20%201-1_CS%28IOT%26BCT%29.pdf"
+       }
+      ]
+     }
+    ],
+    [
+     {
+      "text": "R-20 regulation"
+     },
+     {
+      "text": "CSE IOT & CSBT I - II Sem"
+     },
+     {
+      "text": "View",
+      "links": [
+       {
+        "label": "View",
+        "href": "https://qiscet.edu.in/qiscet/syallbus/6.%20R20%201-2_CS%28IOT%26BCT%29.pdf"
+       }
+      ]
+     }
+    ],
+    [
+     {
+      "text": "R-20 regulation"
+     },
+     {
+      "text": "CSE IOT & CSBT II - I Sem"
+     },
+     {
+      "text": "View",
+      "links": [
+       {
+        "label": "View",
+        "href": "https://qiscet.edu.in/qiscet/syallbus/CSE/R20%202-1_CSE%28IOT%29.pdf"
+       }
+      ]
+     }
+    ]
+   ]
+  }
+ ],
+ "department": "cse-iot-cyber-security",
+ "pageTitle": "Syllabus"
+}

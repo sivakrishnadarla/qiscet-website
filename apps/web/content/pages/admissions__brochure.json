@@ -1,0 +1,15 @@
+{
+ "slug": "admissions/brochure",
+ "section": "admissions",
+ "sectionTitle": "Admissions",
+ "title": "Admission Brochure",
+ "legacy": "https://qiscet.edu.in/qiscet/index_admission_brochure.php",
+ "summary": null,
+ "blocks": [
+  {
+   "type": "document",
+   "href": "https://qiscet.edu.in/qiscet/pdfs/brochure_2026.pdf",
+   "label": "View document (PDF)"
+  }
+ ]
+}

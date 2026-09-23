@@ -1,0 +1,497 @@
+{
+ "slug": "facilities/medical",
+ "section": "facilities",
+ "sectionTitle": "Facilities",
+ "title": "Medical Facility",
+ "legacy": "https://qiscet.edu.in/qiscet/FACILITIES_medical.php",
+ "summary": "The college provides healthcare facilities to students whenever required. FIRST AID KITs are available in the hostels and in the respective departments for the free of cost.",
+ "blocks": [
+  {
+   "type": "image",
+   "src": "/images/images/1.jpg",
+   "alt": "canteen"
+  },
+  {
+   "type": "image",
+   "src": "/images/images/2.jpg",
+   "alt": "canteen"
+  },
+  {
+   "type": "paragraph",
+   "text": "The college provides healthcare facilities to students whenever required. FIRST AID KITs are available in the hostels and in the respective departments for the free of cost."
+  },
+  {
+   "type": "paragraph",
+   "text": "In QISCET ongole there is a dispensary to give preliminary treatment to all the students and faculty members based on their health conditions."
+  },
+  {
+   "type": "paragraph",
+   "text": "A dispensary is the room or area in a hospital where medicine is prepared and given out to patients."
+  },
+  {
+   "type": "paragraph",
+   "text": "Our dispensary doctor Dr. K. Krishna Mohan, is taking care of seizure disease who are facing problems in the College. And also given primary treatment for many viral fevers, Headache, Vomiting’s, diarrhoea, and wounds or injuries in the Dispensary."
+  },
+  {
+   "type": "paragraph",
+   "text": "The dispensary doctor, has accepted the challenge of improving the health of Mr. Tarun, a IV B.Tech. (CSE, AI, and ML) student who has frequently fallen in class, labs, and on campus due to his ill health and suffering from the PSYCO-NUERO problem. This condition is considered the best practice in dispensary."
+  },
+  {
+   "type": "table",
+   "rows": [
+    [
+     {
+      "text": "Name"
+     },
+     {
+      "text": "Designation"
+     },
+     {
+      "text": "Mobile No"
+     }
+    ],
+    [
+     {
+      "text": "Dr. K. Krishna Mohan MBBS, MRSH (Lond.)"
+     },
+     {
+      "text": "Doctor (PG Diabetology)"
+     },
+     {
+      "text": "9440265244"
+     }
+    ],
+    [
+     {
+      "text": "M. Subhadramma"
+     },
+     {
+      "text": "GNM"
+     },
+     {
+      "text": "7032283450"
+     }
+    ],
+    [
+     {
+      "text": "G. Aruna"
+     },
+     {
+      "text": "MPHW"
+     },
+     {
+      "text": "9052903900"
+     }
+    ]
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "Facilities in the Dispensary."
+  },
+  {
+   "type": "list",
+   "ordered": true,
+   "items": [
+    {
+     "text": "FIRST AID FACILITIES AND EQUIPMENT: Cotton, Band-Aid, Hydrogen peroxide, ceframycin (ion), Iodine"
+    },
+    {
+     "text": "Beds : 4 Beds Available"
+    },
+    {
+     "text": "In case of Emergency ambulance service is available in the campus."
+    },
+    {
+     "text": "Medicine available"
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "List of Medicines Available",
+   "level": 4
+  },
+  {
+   "type": "table",
+   "rows": [
+    [
+     {
+      "text": "Sl.No"
+     },
+     {
+      "text": "MEDECINE NAME"
+     }
+    ],
+    [
+     {
+      "text": "1"
+     },
+     {
+      "text": "T.Paracetamol 500mg"
+     }
+    ],
+    [
+     {
+      "text": "2"
+     },
+     {
+      "text": "T.Diclo Fenac 50mg"
+     }
+    ],
+    [
+     {
+      "text": "3"
+     },
+     {
+      "text": "T.Aceclo Fenac-P"
+     }
+    ],
+    [
+     {
+      "text": "4"
+     },
+     {
+      "text": "T.Fenac-plus"
+     }
+    ],
+    [
+     {
+      "text": "5"
+     },
+     {
+      "text": "T.Cetrazin"
+     }
+    ],
+    [
+     {
+      "text": "6"
+     },
+     {
+      "text": "T.L-Hist mont."
+     }
+    ],
+    [
+     {
+      "text": "7"
+     },
+     {
+      "text": "Caps: Amoxicillin 500mg"
+     }
+    ],
+    [
+     {
+      "text": "8"
+     },
+     {
+      "text": "T.Omnicef 200mg"
+     }
+    ],
+    [
+     {
+      "text": "9"
+     },
+     {
+      "text": "T.Zinta 150MG"
+     }
+    ],
+    [
+     {
+      "text": "10"
+     },
+     {
+      "text": "T.Pantop 40mg"
+     }
+    ],
+    [
+     {
+      "text": "11"
+     },
+     {
+      "text": "T.Ciprofloxcin 500mg"
+     }
+    ],
+    [
+     {
+      "text": "12"
+     },
+     {
+      "text": "T.Domastal"
+     }
+    ],
+    [
+     {
+      "text": "13"
+     },
+     {
+      "text": "T.Meftal Spas"
+     }
+    ],
+    [
+     {
+      "text": "14"
+     },
+     {
+      "text": "T.Metrogyl 400mg"
+     }
+    ],
+    [
+     {
+      "text": "15"
+     },
+     {
+      "text": "T.Beplex Forte"
+     }
+    ],
+    [
+     {
+      "text": "16"
+     },
+     {
+      "text": "T.Orofer XT"
+     }
+    ],
+    [
+     {
+      "text": "17"
+     },
+     {
+      "text": "T.Zincovit"
+     }
+    ],
+    [
+     {
+      "text": "18"
+     },
+     {
+      "text": "T.Calcimox"
+     }
+    ],
+    [
+     {
+      "text": "19"
+     },
+     {
+      "text": "T.Azithromycin"
+     }
+    ],
+    [
+     {
+      "text": "20"
+     },
+     {
+      "text": "T.Albendazole"
+     }
+    ],
+    [
+     {
+      "text": "21"
+     },
+     {
+      "text": "Syp:Salbutamol"
+     }
+    ],
+    [
+     {
+      "text": "22"
+     },
+     {
+      "text": "Syp:Cheston Plus"
+     }
+    ],
+    [
+     {
+      "text": "23"
+     },
+     {
+      "text": "Syp:Brozeet"
+     }
+    ],
+    [
+     {
+      "text": "24"
+     },
+     {
+      "text": "Srp:Chlorpheniramine and dextromethorphan(CPM) Dextrose Thorphan"
+     }
+    ],
+    [
+     {
+      "text": "25"
+     },
+     {
+      "text": "Oin: Miconezole"
+     }
+    ],
+    [
+     {
+      "text": "26"
+     },
+     {
+      "text": "Oin:Ketaconazole"
+     }
+    ],
+    [
+     {
+      "text": "27"
+     },
+     {
+      "text": "OIN:Permethrin"
+     }
+    ],
+    [
+     {
+      "text": "28"
+     },
+     {
+      "text": "Oin:Sofrmycin"
+     }
+    ],
+    [
+     {
+      "text": "29"
+     },
+     {
+      "text": "Oin:Povidone Iodine"
+     }
+    ],
+    [
+     {
+      "text": "30"
+     },
+     {
+      "text": "Ciplox-D Eye-Ear"
+     }
+    ],
+    [
+     {
+      "text": "31"
+     },
+     {
+      "text": "Inj:Rantac"
+     }
+    ],
+    [
+     {
+      "text": "32"
+     },
+     {
+      "text": "T.Iron (Orofex XT)"
+     }
+    ],
+    [
+     {
+      "text": "33"
+     },
+     {
+      "text": "2CC Syringes"
+     }
+    ],
+    [
+     {
+      "text": "35"
+     },
+     {
+      "text": "3CC Syringes"
+     }
+    ],
+    [
+     {
+      "text": "36"
+     },
+     {
+      "text": "I.V Fluids RL"
+     }
+    ],
+    [
+     {
+      "text": "37"
+     },
+     {
+      "text": "T.Zincovit"
+     }
+    ],
+    [
+     {
+      "text": "38"
+     },
+     {
+      "text": "T.Amlokind AT"
+     }
+    ],
+    [
+     {
+      "text": "39"
+     },
+     {
+      "text": "T.Histac"
+     }
+    ],
+    [
+     {
+      "text": "40"
+     },
+     {
+      "text": "ORS-300"
+     }
+    ],
+    [
+     {
+      "text": "50"
+     },
+     {
+      "text": "Inj.Tetvac"
+     }
+    ],
+    [
+     {
+      "text": "51"
+     },
+     {
+      "text": "Tab. Deflokart"
+     }
+    ],
+    [
+     {
+      "text": "52"
+     },
+     {
+      "text": "Tab.Gluformin-G1"
+     }
+    ],
+    [
+     {
+      "text": "53"
+     },
+     {
+      "text": "Tab. Velda-M"
+     }
+    ],
+    [
+     {
+      "text": "54"
+     },
+     {
+      "text": "Tab. Telma-H"
+     }
+    ],
+    [
+     {
+      "text": "55"
+     },
+     {
+      "text": "Nasivion-drops"
+     }
+    ]
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "Any others: B.P. Apparatus, Thermometer, Blood glucose apparatus, weighing machine, Knee -Hammer, Torch light, Tongue depressor, Suture instruments."
+  },
+  {
+   "type": "paragraph",
+   "text": "\"MEDICINE means Mercy - Empathy - Dare - Integrity - Care - Ingenuity - Nobility - and Ethics.\""
+  }
+ ]
+}

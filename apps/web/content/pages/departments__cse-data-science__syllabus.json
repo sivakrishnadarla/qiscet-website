@@ -1,0 +1,56 @@
+{
+ "slug": "departments/cse-data-science/syllabus",
+ "section": "departments",
+ "sectionTitle": "Departments",
+ "title": "Syllabus – CSE (Data Science)",
+ "legacy": "https://qiscet.edu.in/qiscet/DEPARTMENTS_cse_ds_syllabus.php",
+ "summary": null,
+ "blocks": [
+  {
+   "type": "table",
+   "rows": [
+    [
+     {
+      "text": "Regulation"
+     },
+     {
+      "text": "B.Tech",
+      "colspan": 8
+     }
+    ],
+    [
+     {
+      "text": "R-23 Regulation"
+     },
+     {
+      "text": "CSE - DS Syllabus",
+      "links": [
+       {
+        "label": "CSE - DS Syllabus",
+        "href": "https://qiscet.edu.in/qiscet/departments/cse%20ds/CSDS_R23_SYLLABUS.pdf"
+       }
+      ],
+      "colspan": 8
+     }
+    ],
+    [
+     {
+      "text": "R-20 Regulation"
+     },
+     {
+      "text": "CSE - DS Syllabus",
+      "links": [
+       {
+        "label": "CSE - DS Syllabus",
+        "href": "https://qiscet.edu.in/qiscet/departments/cse%20ds/CSDS_R20_SYLLABUS.pdf"
+       }
+      ],
+      "colspan": 8
+     }
+    ]
+   ]
+  }
+ ],
+ "department": "cse-data-science",
+ "pageTitle": "Syllabus"
+}

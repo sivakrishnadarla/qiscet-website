@@ -1,0 +1,232 @@
+{
+ "slug": "departments/ece/laboratories",
+ "section": "departments",
+ "sectionTitle": "Departments",
+ "title": "Laboratories – Electronics & Communication Engineering",
+ "legacy": "https://qiscet.edu.in/qiscet/DEPARTMENTS_ece_labs.php",
+ "summary": null,
+ "blocks": [
+  {
+   "type": "table",
+   "rows": [
+    [
+     {
+      "text": "S.No"
+     },
+     {
+      "text": "Name of lab/workshop"
+     },
+     {
+      "text": "Details"
+     }
+    ],
+    [
+     {
+      "text": "1"
+     },
+     {
+      "text": "ANALOG COMMUNICATION & DIGITAL COMMUNIVATIONS LAB"
+     },
+     {
+      "text": "View",
+      "links": [
+       {
+        "label": "View",
+        "href": "https://qiscet.edu.in/qiscet/LAB/AC%20%26%20DC%20LAB.pdf"
+       }
+      ]
+     }
+    ],
+    [
+     {
+      "text": "2"
+     },
+     {
+      "text": "DIGITAL SIGNAL PROCESSING LAB"
+     },
+     {
+      "text": "View",
+      "links": [
+       {
+        "label": "View",
+        "href": "https://qiscet.edu.in/qiscet/LAB/DSP%20LAB.pdf"
+       }
+      ]
+     }
+    ],
+    [
+     {
+      "text": "3"
+     },
+     {
+      "text": "ELECTRONIC DEVICES & CIRCUIT LAB 1"
+     },
+     {
+      "text": "View",
+      "links": [
+       {
+        "label": "View",
+        "href": "https://qiscet.edu.in/qiscet/LAB/EDC%20LAB-1.pdf"
+       }
+      ]
+     }
+    ],
+    [
+     {
+      "text": "4"
+     },
+     {
+      "text": "ELECTRONIC DEVICES & CIRCUIT LAB 2"
+     },
+     {
+      "text": "View",
+      "links": [
+       {
+        "label": "View",
+        "href": "https://qiscet.edu.in/qiscet/LAB/EDC%20LAB-2.pdf"
+       }
+      ]
+     }
+    ],
+    [
+     {
+      "text": "5"
+     },
+     {
+      "text": "EMBEEDED SYSTEMS LAB"
+     },
+     {
+      "text": "View",
+      "links": [
+       {
+        "label": "View",
+        "href": "https://qiscet.edu.in/qiscet/LAB/ES%20LAB.pdf"
+       }
+      ]
+     }
+    ],
+    [
+     {
+      "text": "6"
+     },
+     {
+      "text": "INTEGERATED CIRCUIT/PULSE & DIGITAL CIRCUIT LAB"
+     },
+     {
+      "text": "View",
+      "links": [
+       {
+        "label": "View",
+        "href": "https://qiscet.edu.in/qiscet/LAB/IC%20%20PDC%20LAB.pdf"
+       }
+      ]
+     }
+    ],
+    [
+     {
+      "text": "7"
+     },
+     {
+      "text": "LINEAR & DIGITAL INTEGERATED CIRCUIT APPLICATIONS LAB"
+     },
+     {
+      "text": "View",
+      "links": [
+       {
+        "label": "View",
+        "href": "https://qiscet.edu.in/qiscet/LAB/LDICA.pdf"
+       }
+      ]
+     }
+    ],
+    [
+     {
+      "text": "8"
+     },
+     {
+      "text": "MICROPROCESSOR & MICRO CONTROLLER LAB"
+     },
+     {
+      "text": "View",
+      "links": [
+       {
+        "label": "View",
+        "href": "https://qiscet.edu.in/qiscet/LAB/MPMC%20LAB.pdf"
+       }
+      ]
+     }
+    ],
+    [
+     {
+      "text": "9"
+     },
+     {
+      "text": "MICROWAVE ENGINEERING LAB"
+     },
+     {
+      "text": "View",
+      "links": [
+       {
+        "label": "View",
+        "href": "https://qiscet.edu.in/qiscet/LAB/MWE%20LAB.pdf"
+       }
+      ]
+     }
+    ],
+    [
+     {
+      "text": "10"
+     },
+     {
+      "text": "NATIONAL INSTRUMENTATION LAB"
+     },
+     {
+      "text": "View",
+      "links": [
+       {
+        "label": "View",
+        "href": "https://qiscet.edu.in/qiscet/LAB/NI%20LAB.pdf"
+       }
+      ]
+     }
+    ],
+    [
+     {
+      "text": "11"
+     },
+     {
+      "text": "VLSI LAB"
+     },
+     {
+      "text": "View",
+      "links": [
+       {
+        "label": "View",
+        "href": "https://qiscet.edu.in/qiscet/LAB/PG%20LAB.pdf"
+       }
+      ]
+     }
+    ],
+    [
+     {
+      "text": "12"
+     },
+     {
+      "text": "LIST OF HARDWARE AND SOFTWARE IN DEPARTMENT"
+     },
+     {
+      "text": "View",
+      "links": [
+       {
+        "label": "View",
+        "href": "https://qiscet.edu.in/qiscet/departments/ece/data/List%20of%20Hardware%20and%20Software%20in%20Dept.pdf"
+       }
+      ]
+     }
+    ]
+   ]
+  }
+ ],
+ "department": "ece",
+ "pageTitle": "Laboratories"
+}

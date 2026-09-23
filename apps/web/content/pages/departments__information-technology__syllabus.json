@@ -1,0 +1,71 @@
+{
+ "slug": "departments/information-technology/syllabus",
+ "section": "departments",
+ "sectionTitle": "Departments",
+ "title": "Syllabus – Information Technology",
+ "legacy": "https://qiscet.edu.in/qiscet/DEPARTMENTS_it_syllabus.php",
+ "summary": null,
+ "blocks": [
+  {
+   "type": "table",
+   "rows": [
+    [
+     {
+      "text": "Regulation"
+     },
+     {
+      "text": "B.Tech",
+      "colspan": 8
+     }
+    ],
+    [
+     {
+      "text": "R-20 regulation"
+     },
+     {
+      "text": "B.Tech Syllabus",
+      "links": [
+       {
+        "label": "B.Tech Syllabus",
+        "href": "https://qiscet.edu.in/qiscet/departments/it/data/IT-R20%20Syllabus.pdf"
+       }
+      ],
+      "colspan": 8
+     }
+    ],
+    [
+     {
+      "text": "R-18 regulation"
+     },
+     {
+      "text": "B.Tech Syllabus",
+      "links": [
+       {
+        "label": "B.Tech Syllabus",
+        "href": "https://qiscet.edu.in/qiscet/departments/it/syl_reg/new/R18%20Syallabus.pdf"
+       }
+      ],
+      "colspan": 8
+     }
+    ],
+    [
+     {
+      "text": "R-15 regulation"
+     },
+     {
+      "text": "B.Tech Syllabus",
+      "links": [
+       {
+        "label": "B.Tech Syllabus",
+        "href": "https://qiscet.edu.in/qiscet/departments/it/syl_reg/IT-R15%20%20Syllabus.pdf"
+       }
+      ],
+      "colspan": 8
+     }
+    ]
+   ]
+  }
+ ],
+ "department": "information-technology",
+ "pageTitle": "Syllabus"
+}

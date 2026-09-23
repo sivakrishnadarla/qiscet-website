@@ -1,0 +1,106 @@
+{
+ "slug": "iqac/audits",
+ "section": "iqac",
+ "sectionTitle": "IQAC",
+ "title": "IQAC Audits",
+ "legacy": "https://qiscet.edu.in/qiscet/IQAC_audits.php",
+ "summary": null,
+ "blocks": [
+  {
+   "type": "heading",
+   "text": "IQAC Internal Audit",
+   "level": 4
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    {
+     "text": "Internal End Semester Section Level Internal Audit Format",
+     "links": [
+      {
+       "label": "Internal End Semester Section Level Internal Audit Format",
+       "href": "https://qiscet.edu.in/qiscet/iqac/internal_End%20Semester%20Section%20Level%20Internal%20audit%20format.pdf"
+      }
+     ]
+    },
+    {
+     "text": "Internal End Semester Program Level Auditor Evaluation Sheet",
+     "links": [
+      {
+       "label": "Internal End Semester Program Level Auditor Evaluation Sheet",
+       "href": "https://qiscet.edu.in/qiscet/iqac/internal_End%20Semester%20Program%20Level%20Auditor%20Evaluation%20Sheet.pdf"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "IQAC External Audit",
+   "level": 4
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    {
+     "text": "External Audits Report",
+     "links": [
+      {
+       "label": "External Audits Report",
+       "href": "https://qiscet.edu.in/qiscet/Audit/External%20Audits.pdf"
+      }
+     ]
+    },
+    {
+     "text": "External Activities To Be Audited",
+     "links": [
+      {
+       "label": "External Activities To Be Audited",
+       "href": "https://qiscet.edu.in/qiscet/iqac/external_Activities%20to%20be%20Audited.pdf"
+      }
+     ]
+    },
+    {
+     "text": "External Academic Audit Examinations",
+     "links": [
+      {
+       "label": "External Academic Audit Examinations",
+       "href": "https://qiscet.edu.in/qiscet/iqac/external_Academic%20Audit%20Examinations.pdf"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "Annual Report",
+   "level": 4
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    {
+     "text": "Report 1",
+     "links": [
+      {
+       "label": "Report 1",
+       "href": "https://qiscet.edu.in/qiscet/Audit/42%20Annual%20Report-1.pdf"
+      }
+     ]
+    },
+    {
+     "text": "Report 2",
+     "links": [
+      {
+       "label": "Report 2",
+       "href": "https://qiscet.edu.in/qiscet/Audit/42%20Annual%20Report-2.pdf"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,17 @@
+{
+ "slug": "departments/cse-iot-cyber-security/faculty",
+ "section": "departments",
+ "sectionTitle": "Departments",
+ "title": "Faculty – CSE (IoT & Cyber Security including Blockchain Technology)",
+ "legacy": "https://qiscet.edu.in/qiscet/DEPARTMENTS_cse_IOT_CSIBT_faculty_list.php",
+ "summary": null,
+ "blocks": [
+  {
+   "type": "document",
+   "href": "https://qiscet.edu.in/qiscet/Faculty/QISCET%20-%20CSE%20%20%28IOT%20%26%20CS%20with%20BCT%29%20-%20Faculty%20List.pdf",
+   "label": "View document (PDF)"
+  }
+ ],
+ "department": "cse-iot-cyber-security",
+ "pageTitle": "Faculty"
+}

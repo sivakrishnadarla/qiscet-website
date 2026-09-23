@@ -1,0 +1,308 @@
+{
+ "slug": "departments/cse/student-enrollment",
+ "section": "departments",
+ "sectionTitle": "Departments",
+ "title": "Student Enrollment – Computer Science & Engineering",
+ "legacy": "https://qiscet.edu.in/qiscet/DEPARTMENTS_cse_Admissions.php",
+ "summary": null,
+ "blocks": [
+  {
+   "type": "heading",
+   "text": "2024-2025",
+   "level": 4
+  },
+  {
+   "type": "heading",
+   "text": "II CSE",
+   "level": 4
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    {
+     "text": "II CSE-VIII",
+     "links": [
+      {
+       "label": "II CSE-VIII",
+       "href": "https://qiscet.edu.in/qiscet/departments/cse/stulist/II%20CSE-VIII.pdf"
+      }
+     ]
+    },
+    {
+     "text": "II CSE-VII",
+     "links": [
+      {
+       "label": "II CSE-VII",
+       "href": "https://qiscet.edu.in/qiscet/departments/cse/stulist/II%20CSE-VII.pdf"
+      }
+     ]
+    },
+    {
+     "text": "II CSE-VI",
+     "links": [
+      {
+       "label": "II CSE-VI",
+       "href": "https://qiscet.edu.in/qiscet/departments/cse/stulist/II%20CSE-VI.pdf"
+      }
+     ]
+    },
+    {
+     "text": "II CSE-V",
+     "links": [
+      {
+       "label": "II CSE-V",
+       "href": "https://qiscet.edu.in/qiscet/departments/cse/stulist/II%20CSE-V.pdf"
+      }
+     ]
+    },
+    {
+     "text": "II CSE-IV",
+     "links": [
+      {
+       "label": "II CSE-IV",
+       "href": "https://qiscet.edu.in/qiscet/departments/cse/stulist/II%20CSE-IV.pdf"
+      }
+     ]
+    },
+    {
+     "text": "II CSE-III",
+     "links": [
+      {
+       "label": "II CSE-III",
+       "href": "https://qiscet.edu.in/qiscet/departments/cse/stulist/II%20CSE-III.pdf"
+      }
+     ]
+    },
+    {
+     "text": "II CSE-II",
+     "links": [
+      {
+       "label": "II CSE-II",
+       "href": "https://qiscet.edu.in/qiscet/departments/cse/stulist/II%20CSE-II.pdf"
+      }
+     ]
+    },
+    {
+     "text": "II CSE-I",
+     "links": [
+      {
+       "label": "II CSE-I",
+       "href": "https://qiscet.edu.in/qiscet/departments/cse/stulist/II%20CSE-I.pdf"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "III CSE",
+   "level": 4
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    {
+     "text": "III CSE-VIII",
+     "links": [
+      {
+       "label": "III CSE-VIII",
+       "href": "https://qiscet.edu.in/qiscet/departments/cse/stulist/III%20CSE-VIII.pdf"
+      }
+     ]
+    },
+    {
+     "text": "III CSE-VII",
+     "links": [
+      {
+       "label": "III CSE-VII",
+       "href": "https://qiscet.edu.in/qiscet/departments/cse/stulist/III%20CSE-VII.pdf"
+      }
+     ]
+    },
+    {
+     "text": "III CSE-VI",
+     "links": [
+      {
+       "label": "III CSE-VI",
+       "href": "https://qiscet.edu.in/qiscet/departments/cse/stulist/III%20CSE-VI.pdf"
+      }
+     ]
+    },
+    {
+     "text": "III CSE-V",
+     "links": [
+      {
+       "label": "III CSE-V",
+       "href": "https://qiscet.edu.in/qiscet/departments/cse/stulist/III%20CSE-V.pdf"
+      }
+     ]
+    },
+    {
+     "text": "III CSE-IV",
+     "links": [
+      {
+       "label": "III CSE-IV",
+       "href": "https://qiscet.edu.in/qiscet/departments/cse/stulist/III%20CSE-IV.pdf"
+      }
+     ]
+    },
+    {
+     "text": "III CSE-III",
+     "links": [
+      {
+       "label": "III CSE-III",
+       "href": "https://qiscet.edu.in/qiscet/departments/cse/stulist/III%20CSE-III.pdf"
+      }
+     ]
+    },
+    {
+     "text": "III CSE-II",
+     "links": [
+      {
+       "label": "III CSE-II",
+       "href": "https://qiscet.edu.in/qiscet/departments/cse/stulist/III%20CSE-II.pdf"
+      }
+     ]
+    },
+    {
+     "text": "III CSE-I",
+     "links": [
+      {
+       "label": "III CSE-I",
+       "href": "https://qiscet.edu.in/qiscet/departments/cse/stulist/III%20CSE-I.pdf"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "IV CSE",
+   "level": 4
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    {
+     "text": "IV CSE-VIII",
+     "links": [
+      {
+       "label": "IV CSE-VIII",
+       "href": "https://qiscet.edu.in/qiscet/departments/cse/stulist/IV%20CSE-VIII.pdf"
+      }
+     ]
+    },
+    {
+     "text": "IV CSE-VII",
+     "links": [
+      {
+       "label": "IV CSE-VII",
+       "href": "https://qiscet.edu.in/qiscet/departments/cse/stulist/IV%20CSE-VII.pdf"
+      }
+     ]
+    },
+    {
+     "text": "IV CSE-VI",
+     "links": [
+      {
+       "label": "IV CSE-VI",
+       "href": "https://qiscet.edu.in/qiscet/departments/cse/stulist/IV%20CSE-VI.pdf"
+      }
+     ]
+    },
+    {
+     "text": "IV CSE-V",
+     "links": [
+      {
+       "label": "IV CSE-V",
+       "href": "https://qiscet.edu.in/qiscet/departments/cse/stulist/IV%20CSE-V.pdf"
+      }
+     ]
+    },
+    {
+     "text": "IV CSE-IV",
+     "links": [
+      {
+       "label": "IV CSE-IV",
+       "href": "https://qiscet.edu.in/qiscet/departments/cse/stulist/IV%20CSE-IV.pdf"
+      }
+     ]
+    },
+    {
+     "text": "IV CSE-III",
+     "links": [
+      {
+       "label": "IV CSE-III",
+       "href": "https://qiscet.edu.in/qiscet/departments/cse/stulist/IV%20CSE-III.pdf"
+      }
+     ]
+    },
+    {
+     "text": "IV CSE-II",
+     "links": [
+      {
+       "label": "IV CSE-II",
+       "href": "https://qiscet.edu.in/qiscet/departments/cse/stulist/IV%20CSE-II.pdf"
+      }
+     ]
+    },
+    {
+     "text": "IV CSE-I",
+     "links": [
+      {
+       "label": "IV CSE-I",
+       "href": "https://qiscet.edu.in/qiscet/departments/cse/stulist/IV%20CSE-I.pdf"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    {
+     "text": "2021-2022",
+     "links": [
+      {
+       "label": "2021-2022",
+       "href": "https://qiscet.edu.in/qiscet/departments/cse/data/21-22%20student%20admissions.pdf"
+      }
+     ]
+    },
+    {
+     "text": "2020-2021",
+     "links": [
+      {
+       "label": "2020-2021",
+       "href": "https://qiscet.edu.in/qiscet/departments/cse/data/20-21%20student%20admissions.pdf"
+      }
+     ]
+    },
+    {
+     "text": "2019-2020",
+     "links": [
+      {
+       "label": "2019-2020",
+       "href": "https://qiscet.edu.in/qiscet/departments/cse/data/19-20%20Student%20Admissions.pdf"
+      }
+     ]
+    },
+    {
+     "text": "2018-2019",
+     "links": [
+      {
+       "label": "2018-2019",
+       "href": "https://qiscet.edu.in/qiscet/departments/cse/data/18-19%20Student%20Admissions.pdf"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "department": "cse",
+ "pageTitle": "Student Enrollment"
+}

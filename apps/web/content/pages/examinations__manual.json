@@ -1,0 +1,15 @@
+{
+ "slug": "examinations/manual",
+ "section": "examinations",
+ "sectionTitle": "Examinations",
+ "title": "Examinations Manual",
+ "legacy": "https://qiscet.edu.in/qiscet/EXAMINATIONS_manual.php",
+ "summary": null,
+ "blocks": [
+  {
+   "type": "document",
+   "href": "https://qiscet.edu.in/qiscet/examcell-timetbl/Manualforexam%20section.pdf",
+   "label": "View document (PDF)"
+  }
+ ]
+}

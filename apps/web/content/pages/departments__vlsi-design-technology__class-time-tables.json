@@ -1,0 +1,54 @@
+{
+ "slug": "departments/vlsi-design-technology/class-time-tables",
+ "section": "departments",
+ "sectionTitle": "Departments",
+ "title": "Class Time Tables – Electronics Engineering (VLSI Design & Technology)",
+ "legacy": "https://qiscet.edu.in/qiscet/DEPARTMENTS_eevt_timetables.php",
+ "summary": null,
+ "blocks": [
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    {
+     "text": "2024-25 III- II Semester Time Table",
+     "links": [
+      {
+       "label": "2024-25 III- II Semester Time Table",
+       "href": "https://qiscet.edu.in/qiscet/departments/eevt/timetables/2024-25_III-II_TT_EEVT.pdf"
+      }
+     ]
+    },
+    {
+     "text": "2024-25 II- II Semester Time Table",
+     "links": [
+      {
+       "label": "2024-25 II- II Semester Time Table",
+       "href": "https://qiscet.edu.in/qiscet/departments/eevt/timetables/2024-25_II-II_TT_EEVT.pdf"
+      }
+     ]
+    },
+    {
+     "text": "2024-25 III- I Semester Time Table",
+     "links": [
+      {
+       "label": "2024-25 III- I Semester Time Table",
+       "href": "https://qiscet.edu.in/qiscet/departments/eevt/timetables/2024-25_III-I_TT_EEVT.pdf"
+      }
+     ]
+    },
+    {
+     "text": "2024-25 II- I Semester Time Table",
+     "links": [
+      {
+       "label": "2024-25 II- I Semester Time Table",
+       "href": "https://qiscet.edu.in/qiscet/departments/eevt/timetables/2024-25_II-I_TT_EEVT.pdf"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "department": "vlsi-design-technology",
+ "pageTitle": "Class Time Tables"
+}

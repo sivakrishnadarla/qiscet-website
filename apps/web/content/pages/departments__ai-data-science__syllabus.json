@@ -1,0 +1,56 @@
+{
+ "slug": "departments/ai-data-science/syllabus",
+ "section": "departments",
+ "sectionTitle": "Departments",
+ "title": "Syllabus – Artificial Intelligence & Data Science",
+ "legacy": "https://qiscet.edu.in/qiscet/DEPARTMENTS_ai_ds_syllabus.php",
+ "summary": null,
+ "blocks": [
+  {
+   "type": "table",
+   "rows": [
+    [
+     {
+      "text": "Regulation"
+     },
+     {
+      "text": "B.Tech",
+      "colspan": 8
+     }
+    ],
+    [
+     {
+      "text": "R-23 Regulation"
+     },
+     {
+      "text": "AI & DS Syllabus",
+      "links": [
+       {
+        "label": "AI & DS Syllabus",
+        "href": "https://qiscet.edu.in/qiscet/departments/ai-ds/AIDS_R23_SYLLABUS.pdf"
+       }
+      ],
+      "colspan": 8
+     }
+    ],
+    [
+     {
+      "text": "R-20 Regulation"
+     },
+     {
+      "text": "AI & DS Syllabus",
+      "links": [
+       {
+        "label": "AI & DS Syllabus",
+        "href": "https://qiscet.edu.in/qiscet/departments/ai-ds/AIDS_R20_SYLLABUS.pdf"
+       }
+      ],
+      "colspan": 8
+     }
+    ]
+   ]
+  }
+ ],
+ "department": "ai-data-science",
+ "pageTitle": "Syllabus"
+}

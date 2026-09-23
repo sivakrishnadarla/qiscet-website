@@ -1,0 +1,48 @@
+{
+ "slug": "iqac/finance-audits",
+ "section": "iqac",
+ "sectionTitle": "IQAC",
+ "title": "Finance Audits",
+ "legacy": "https://qiscet.edu.in/qiscet/Finance_audits.php",
+ "summary": null,
+ "blocks": [
+  {
+   "type": "heading",
+   "text": "Finance Audit",
+   "level": 4
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    {
+     "text": "Audit Statements FY 2023-2024",
+     "links": [
+      {
+       "label": "Audit Statements FY 2023-2024",
+       "href": "https://qiscet.edu.in/qiscet/Audit/Audit_2023-2024.pdf"
+      }
+     ]
+    },
+    {
+     "text": "Audit Statements FY 2022-2023",
+     "links": [
+      {
+       "label": "Audit Statements FY 2022-2023",
+       "href": "https://qiscet.edu.in/qiscet/Audit/Audit_2022-2023.pdf"
+      }
+     ]
+    },
+    {
+     "text": "Audit Statements FY 2021-2022",
+     "links": [
+      {
+       "label": "Audit Statements FY 2021-2022",
+       "href": "https://qiscet.edu.in/qiscet/Audit/Audit_2021-2022.pdf"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

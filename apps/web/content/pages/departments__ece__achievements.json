@@ -1,0 +1,54 @@
+{
+ "slug": "departments/ece/achievements",
+ "section": "departments",
+ "sectionTitle": "Departments",
+ "title": "Achievements – Electronics & Communication Engineering",
+ "legacy": "https://qiscet.edu.in/qiscet/DEPARTMENTS_ece_achievements.php",
+ "summary": null,
+ "blocks": [
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    {
+     "text": "Student Achievements 2023-2025",
+     "links": [
+      {
+       "label": "Student Achievements 2023-2025",
+       "href": "https://qiscet.edu.in/qiscet/departments/ece/Student_Achievements_2023-2025.pdf"
+      }
+     ]
+    },
+    {
+     "text": "Student Achievements 2018-2022",
+     "links": [
+      {
+       "label": "Student Achievements 2018-2022",
+       "href": "https://qiscet.edu.in/qiscet/departments/ece/STUDENT%20ACHIEVEMENTS.pdf"
+      }
+     ]
+    },
+    {
+     "text": "Student Internnship",
+     "links": [
+      {
+       "label": "Student Internnship",
+       "href": "https://qiscet.edu.in/qiscet/departments/ece/Student_Internnship.pdf"
+      }
+     ]
+    },
+    {
+     "text": "Student Publications",
+     "links": [
+      {
+       "label": "Student Publications",
+       "href": "https://qiscet.edu.in/qiscet/departments/ece/Student_Publications.pdf"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "department": "ece",
+ "pageTitle": "Achievements"
+}

@@ -1,0 +1,31 @@
+{
+ "slug": "departments/mba/counsellors",
+ "section": "departments",
+ "sectionTitle": "Departments",
+ "title": "Counsellors – Master of Business Administration",
+ "legacy": "https://qiscet.edu.in/qiscet/DEPARTMENTS_mba_counsellors.php",
+ "summary": null,
+ "blocks": [
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    {
+     "text": "Student Mentors I MBA | II MBA",
+     "links": [
+      {
+       "label": "I MBA",
+       "href": "https://qiscet.edu.in/qiscet/departments/mba/Student_Counsellors_IMBA.pdf"
+      },
+      {
+       "label": "II MBA",
+       "href": "https://qiscet.edu.in/qiscet/departments/mba/Student_Counsellors_IIMBA.pdf"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "department": "mba",
+ "pageTitle": "Counsellors"
+}

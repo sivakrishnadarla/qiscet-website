@@ -1,0 +1,17 @@
+{
+ "slug": "departments/cse-data-science/faculty",
+ "section": "departments",
+ "sectionTitle": "Departments",
+ "title": "Faculty – CSE (Data Science)",
+ "legacy": "https://qiscet.edu.in/qiscet/DEPARTMENTS_cse_ds_faculty_list.php",
+ "summary": null,
+ "blocks": [
+  {
+   "type": "document",
+   "href": "https://qiscet.edu.in/qiscet/Faculty/QISCET%20-%20CSE%20%28DS%29%20-%20Faculty%20List.pdf",
+   "label": "View document (PDF)"
+  }
+ ],
+ "department": "cse-data-science",
+ "pageTitle": "Faculty"
+}

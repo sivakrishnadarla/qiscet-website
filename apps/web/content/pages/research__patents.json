@@ -1,0 +1,79 @@
+{
+ "slug": "research/patents",
+ "section": "research",
+ "sectionTitle": "Research & Development",
+ "title": "Patents",
+ "legacy": "https://qiscet.edu.in/qiscet/index_patents.php",
+ "summary": null,
+ "blocks": [
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    {
+     "text": "2024-25",
+     "links": [
+      {
+       "label": "2024-25",
+       "href": "https://qiscet.edu.in/qiscet/pdfs/PATENTS%20PUBLISHED%20DURING%20THE%20YEAR%202024-25.pdf"
+      }
+     ]
+    },
+    {
+     "text": "2023-24",
+     "links": [
+      {
+       "label": "2023-24",
+       "href": "https://qiscet.edu.in/qiscet/pdfs/PATENTS%20PUBLISHED%20DURING%20THE%20YEAR%202023-24.pdf"
+      }
+     ]
+    },
+    {
+     "text": "2022-23",
+     "links": [
+      {
+       "label": "2022-23",
+       "href": "https://qiscet.edu.in/qiscet/pdfs/PATENTS%20PUBLISHED%20DURING%20THE%20YEAR%202022-23.pdf"
+      }
+     ]
+    },
+    {
+     "text": "2021-22",
+     "links": [
+      {
+       "label": "2021-22",
+       "href": "https://qiscet.edu.in/qiscet/pdfs/PATENTS%20PUBLISHED%20DURING%20THE%20YEAR%202021-22.pdf"
+      }
+     ]
+    },
+    {
+     "text": "2020-21",
+     "links": [
+      {
+       "label": "2020-21",
+       "href": "https://qiscet.edu.in/qiscet/pdfs/PATENTS%20PUBLISHED%20DURING%20THE%20YEAR%202020-21.pdf"
+      }
+     ]
+    },
+    {
+     "text": "2019-20",
+     "links": [
+      {
+       "label": "2019-20",
+       "href": "https://qiscet.edu.in/qiscet/pdfs/PATENTS%20PUIBLISHED%20DURING%20THE%20YEAR%202019-20.pdf"
+      }
+     ]
+    },
+    {
+     "text": "2018-19",
+     "links": [
+      {
+       "label": "2018-19",
+       "href": "https://qiscet.edu.in/qiscet/pdfs/PATENTS%20PUBLISHED%20DURING%20THE%20YEAR%202018-19.pdf"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

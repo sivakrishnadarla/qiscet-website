@@ -1,0 +1,45 @@
+{
+ "slug": "departments/civil/consultancy",
+ "section": "departments",
+ "sectionTitle": "Departments",
+ "title": "Consultancy – Civil Engineering",
+ "legacy": "https://qiscet.edu.in/qiscet/DEPARTMENTS_ce_consultancy.php",
+ "summary": null,
+ "blocks": [
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    {
+     "text": "Industry Consultancy 2023 - 24",
+     "links": [
+      {
+       "label": "Industry Consultancy 2023 - 24",
+       "href": "https://qiscet.edu.in/qiscet/departments/civil/ACADEMIC_YEAR_2023-24.pdf"
+      }
+     ]
+    },
+    {
+     "text": "Industry Consultancy 2022 - 23",
+     "links": [
+      {
+       "label": "Industry Consultancy 2022 - 23",
+       "href": "https://qiscet.edu.in/qiscet/departments/civil/ACADEMIC_YEAR_2022-23.pdf"
+      }
+     ]
+    },
+    {
+     "text": "Industry Consultancy 2020 - 21",
+     "links": [
+      {
+       "label": "Industry Consultancy 2020 - 21",
+       "href": "https://qiscet.edu.in/qiscet/departments/civil/INDUSTRY%20CONSULTANCY.pdf"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "department": "civil",
+ "pageTitle": "Consultancy"
+}

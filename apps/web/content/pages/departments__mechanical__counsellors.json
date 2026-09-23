@@ -1,0 +1,185 @@
+{
+ "slug": "departments/mechanical/counsellors",
+ "section": "departments",
+ "sectionTitle": "Departments",
+ "title": "Counsellors – Mechanical Engineering",
+ "legacy": "https://qiscet.edu.in/qiscet/DEPARTMENTS_me_counsellors.php",
+ "summary": null,
+ "blocks": [
+  {
+   "type": "table",
+   "rows": [
+    [
+     {
+      "text": "S.No"
+     },
+     {
+      "text": "Staff Name"
+     },
+     {
+      "text": "Year / Section / Batch"
+     },
+     {
+      "text": "Student Roll Nos"
+     }
+    ],
+    [
+     {
+      "text": "1"
+     },
+     {
+      "text": "Prof U.Haribabu"
+     },
+     {
+      "text": "III B. Tech - I"
+     },
+     {
+      "text": "20491A0301 - 20491A0314, 21495A0301 - 21495A0307(L)"
+     }
+    ],
+    [
+     {
+      "text": "2"
+     },
+     {
+      "text": "Y.Kalyan Krishna"
+     },
+     {
+      "text": "III B. Tech - I"
+     },
+     {
+      "text": "20491A0315 - 20491A0327, 21495A0308 - 21495A0313(L)"
+     }
+    ],
+    [
+     {
+      "text": "3"
+     },
+     {
+      "text": "D.V Sai Teja"
+     },
+     {
+      "text": "III B. Tech - I"
+     },
+     {
+      "text": "20491A0321 - 20491A0340"
+     }
+    ],
+    [
+     {
+      "text": "4"
+     },
+     {
+      "text": "Dr.G.NavaneethaKrishnan"
+     },
+     {
+      "text": "III B. Tech - II"
+     },
+     {
+      "text": "21495A0320 - 21495A0335(L)"
+     }
+    ],
+    [
+     {
+      "text": "5"
+     },
+     {
+      "text": "Dr.T.Seshaiah"
+     },
+     {
+      "text": "III B. Tech - II"
+     },
+     {
+      "text": "21495A0336 - 21495A0351(L)"
+     }
+    ],
+    [
+     {
+      "text": "6"
+     },
+     {
+      "text": "B.Siva Teja"
+     },
+     {
+      "text": "III B. Tech - II"
+     },
+     {
+      "text": "21495A0368 - 21495A0383(L)"
+     }
+    ],
+    [
+     {
+      "text": "7"
+     },
+     {
+      "text": "Satish Kumar"
+     },
+     {
+      "text": "III B. Tech - II"
+     },
+     {
+      "text": "21495A0352 - 21495A0367(L)"
+     }
+    ],
+    [
+     {
+      "text": "8"
+     },
+     {
+      "text": "Dr.D.Elayaraja"
+     },
+     {
+      "text": "IV B. Tech - I"
+     },
+     {
+      "text": "19491A0301 - 19491A0328"
+     }
+    ],
+    [
+     {
+      "text": "9"
+     },
+     {
+      "text": "V.S.J.C.Prasad"
+     },
+     {
+      "text": "IV B. Tech - I"
+     },
+     {
+      "text": "19495A0329- 19495A0351"
+     }
+    ],
+    [
+     {
+      "text": "10"
+     },
+     {
+      "text": "V.Gopinadh"
+     },
+     {
+      "text": "IV B. Tech - II"
+     },
+     {
+      "text": "19491A0353 - 19491A0367, 20495A0301 - 20495A0311 (L)"
+     }
+    ],
+    [
+     {
+      "text": "11"
+     },
+     {
+      "text": "N.Manikanta"
+     },
+     {
+      "text": "IV B. Tech - II"
+     },
+     {
+      "text": "20495A0312 - 20495A0335 (L)"
+     }
+    ]
+   ]
+  }
+ ],
+ "department": "mechanical",
+ "pageTitle": "Counsellors"
+}

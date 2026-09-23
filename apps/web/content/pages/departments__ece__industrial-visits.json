@@ -1,0 +1,27 @@
+{
+ "slug": "departments/ece/industrial-visits",
+ "section": "departments",
+ "sectionTitle": "Departments",
+ "title": "Industrial Visits – Electronics & Communication Engineering",
+ "legacy": "https://qiscet.edu.in/qiscet/DEPARTMENTS_ece_visit.php",
+ "summary": null,
+ "blocks": [
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    {
+     "text": "Industrial Visit",
+     "links": [
+      {
+       "label": "Industrial Visit",
+       "href": "https://qiscet.edu.in/qiscet/departments/ece/data/Industrial%20Visit.pdf"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "department": "ece",
+ "pageTitle": "Industrial Visits"
+}

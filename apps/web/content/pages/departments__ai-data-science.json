@@ -1,0 +1,171 @@
+{
+ "slug": "departments/ai-data-science",
+ "section": "departments",
+ "sectionTitle": "Departments",
+ "title": "Artificial Intelligence & Data Science",
+ "legacy": "https://qiscet.edu.in/qiscet/DEPARTMENTS_AI_DS.php",
+ "summary": "The Department of Artificial Intelligence & Data Science was established in the year 2022. It has become one of the most sought-after branches among engineering aspirants. The college conducts…",
+ "blocks": [
+  {
+   "type": "paragraph",
+   "text": "(Artificial Intelligence & Data Science)"
+  },
+  {
+   "type": "paragraph",
+   "text": "The Department of Artificial Intelligence & Data Science was established in the year 2022. It has become one of the most sought-after branches among engineering aspirants. The college conducts examinations, and the degree is awarded by JNTU Kakinada. The university integrates the latest advancements in Artificial Intelligence, Data Science, Machine Learning, Deep Learning, Big Data Analytics, Data Mining, and allied fields in a dynamic manner. This ensures that students gain expertise in data-driven decision-making, predictive analytics, and AI-powered innovations, preparing them for careers in cutting-edge industries."
+  },
+  {
+   "type": "paragraph",
+   "text": "The Artificial Intelligence and Data Science (AIDS) Engineering branch focuses on integrating AI technologies with data-driven decision-making to solve complex real-world problems. This interdisciplinary field combines machine learning, deep learning, big data analytics, cloud computing, and data visualization to extract meaningful insights from vast datasets and build intelligent systems. Our program is designed to equip students with technical expertise, analytical skills, and ethical AI principles to drive innovation in industries such as healthcare, finance, Cybersecurity, automation, and smart cities. Through research, industry collaborations, and hands-on training, we aim to develop skilled professionals who can leverage AI and data science to create impactful solutions for a smarter and more connected world."
+  },
+  {
+   "type": "heading",
+   "text": "Courses",
+   "level": 4
+  },
+  {
+   "type": "table",
+   "rows": [
+    [
+     {
+      "text": "Courses Offered"
+     },
+     {
+      "text": "Intake"
+     }
+    ],
+    [
+     {
+      "text": "B.Tech - AI & DS (Artificial Intelligence & Data Science)"
+     },
+     {
+      "text": "180"
+     }
+    ]
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "Vision",
+   "level": 4
+  },
+  {
+   "type": "paragraph",
+   "text": "To be a globally recognized center of excellence in Artificial Intelligence and Data Science Engineering, fostering innovation, research, and ethical AI-driven data solutions for technological advancements and societal progress."
+  },
+  {
+   "type": "heading",
+   "text": "Mission",
+   "level": 4
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    {
+     "text": "To advance AI and data science education, research, and innovation while ensuring ethical and responsible data-driven decision-making."
+    },
+    {
+     "text": "To equip students with expertise in machine learning,big data analytics, and AI-driven automation, fostering innovation and industry collaboration."
+    },
+    {
+     "text": "To integrate AI and data science into real-world applications, support entrepreneurship, and promote lifelong learning, creating intelligent solutions that drive technological progress and improve human lives."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "B.Tech",
+   "level": 4
+  },
+  {
+   "type": "heading",
+   "text": "Programme Educational Objectives Of B.Tech (AI & DS)",
+   "level": 4
+  },
+  {
+   "type": "list",
+   "ordered": true,
+   "items": [
+    {
+     "text": "PEO1. Graduates will have solid foundation in fundamentals of computer science and engineering required to solve computing problems and create innovative software products and solutions for the real life problems."
+    },
+    {
+     "text": "PEO2. Graduates will have technical competence and skills to use modern and cost-effective tools and technologies and have extensive and effective practical skills in computer science and engineering to pursue a career as a computer engineer."
+    },
+    {
+     "text": "PEO3. Graduates will have attributes like professionals with world class academic excellence, ethics, best practices, values, social concerns, lifelong learning and openness to other international cultures to meet the global needs."
+    },
+    {
+     "text": "PEO4. Graduates will have managerial and entrepreneur skills with cross-cultural etiquettes, leading to a sustainable competitive edge in R&D and meeting societal needs."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "Programme Outcomes Of B.Tech (AI & DS)",
+   "level": 4
+  },
+  {
+   "type": "list",
+   "ordered": true,
+   "items": [
+    {
+     "text": "PO1. Engineering knowledge: Apply the knowledge of mathematics, science, engineering fundamentals, and an engineering specialization to the solution of complex engineering problems."
+    },
+    {
+     "text": "PO2. Problem analysis: Identify, formulate, review research literature, and analyze complex engineering problems reaching substantiated conclusions using first principles of mathematics, natural sciences, and engineering sciences."
+    },
+    {
+     "text": "PO3. Design/ development of solutions: Design solutions for complex engineering problems and design system components or processes that meet the specified needs with appropriate consideration for the public health and safety, and the cultural, societal, and environmental considerations."
+    },
+    {
+     "text": "PO4. Conduct investigations of complex problems: Use research-based knowledge and research methods including design of experiments, analysis and interpretation of data, and synthesis of the information to provide valid conclusions."
+    },
+    {
+     "text": "PO5. Modern tool usage: Create, select, and apply appropriate techniques, resources, and modern engineering and IT tools including prediction and modeling to complex engineering activities with an understanding of the limitations."
+    },
+    {
+     "text": "PO6. The engineer and society: Apply reasoning informed by the contextual knowledge to assess health, safety, legal and cultural issues and the consequent responsibilities relevant to the engineering practice."
+    },
+    {
+     "text": "PO7. Environment and sustainability: Understand the impact of the professional engineering solutions In societal and environmental contexts, and demonstrate the knowledge of and need for sustainable development."
+    },
+    {
+     "text": "PO8. Ethics: Apply ethical principles and commit to professional ethics and responsibilities and norms of the engineering practice."
+    },
+    {
+     "text": "PO9. Individual and team work: Function effectively as an individual, and as a member or leader in diverse teams, and in multidisciplinary settings."
+    },
+    {
+     "text": "PO10. Communication: Communicate effectively on complex engineering activities with the engineering community and with society at large, such as, being able to comprehend and write effective reports and design documentation, make effective presentations, and give and receive clear instructions."
+    },
+    {
+     "text": "PO11. Project management and finance: Demonstrate knowledge and understanding of the engineering and management principles and apply these to one's own work, as a member and leader in a team, to manage projects' and in multidisciplinary environments."
+    },
+    {
+     "text": "PO12. Life-long learning: Recognize the need for, and have the preparation and ability to engage in independent and life-long learning in the broadest context of technological change."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "Programme Specific Out Comes Of B.Tech (AI & DS)",
+   "level": 4
+  },
+  {
+   "type": "list",
+   "ordered": true,
+   "items": [
+    {
+     "text": "PSO1. Domain Knowledge: An ability to understand, analyze and develop computer programs in the areas related to Algorithms, System Software, Multimedia, Web Design, Big Data and Analytics and Networking for efficient design of computer based systems of varying complexity to meet the need of the software industry."
+    },
+    {
+     "text": "PSO2. Process Management: An Ability to organize and apply standard practices and strategies in software product development by managing and monitoring the resources and safeguarding the data."
+    }
+   ]
+  }
+ ],
+ "department": "ai-data-science",
+ "isDepartmentHome": true
+}

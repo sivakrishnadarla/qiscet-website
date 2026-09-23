@@ -1,0 +1,66 @@
+{
+ "slug": "about/about-qiscet",
+ "section": "about",
+ "sectionTitle": "About Us",
+ "title": "About QISCET",
+ "legacy": "https://qiscet.edu.in/qiscet/ABOUT_US_about_qiscet.php",
+ "summary": "The QIS College of Engineering and Technology was established in the year 1998, and sponsored by Sri Nidamanuri Educational Society to promote technological education to meet the requirements of a…",
+ "blocks": [
+  {
+   "type": "paragraph",
+   "text": "The QIS College of Engineering and Technology was established in the year 1998, and sponsored by Sri Nidamanuri Educational Society to promote technological education to meet the requirements of a developing nation in the context of global concern at the threshold of the twenty first century."
+  },
+  {
+   "type": "paragraph",
+   "text": "A team of educated, enlightened, experienced technocrats with vision, firmly determined to promote high quality education is striving to provide every facility for achieving excellence. The college is one of the best colleges in and around the Prakasam Dist. The Standards of teaching are very high when compared with the other colleges. The college is affiliated to the Jawaharlal Nehru Technological University, Kakinada."
+  },
+  {
+   "type": "paragraph",
+   "text": "The Engineering Programs offered at QIS College of Engineering are designed for career initiation and growth in the competitive market place. There is equal emphasis on theoretical concepts as well as practical insights, making our programs the right weapons to conquer the career goals."
+  },
+  {
+   "type": "image",
+   "src": "/images/images/office.jpg",
+   "alt": ""
+  },
+  {
+   "type": "heading",
+   "text": "Reaching QISCET",
+   "level": 1
+  },
+  {
+   "type": "paragraph",
+   "text": "The Campus is located at about 2 km from Ongole town, on Ongole-Pondur road adjoining the National Highway-5, in a calm and salubrious atmosphere with beautiful landscape."
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    {
+     "text": "Ponduru Road,"
+    },
+    {
+     "text": "vengamukkapalem,"
+    },
+    {
+     "text": "Ongole,"
+    },
+    {
+     "text": "Prakasam Dist,"
+    },
+    {
+     "text": "Andhra Pradesh - 523272"
+    },
+    {
+     "text": "Route Maps",
+     "links": [
+      {
+       "label": "Route Maps",
+       "href": "/about/route-maps"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

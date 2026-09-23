@@ -1,0 +1,63 @@
+{
+ "slug": "departments/cse/internships",
+ "section": "departments",
+ "sectionTitle": "Departments",
+ "title": "Internships – Computer Science & Engineering",
+ "legacy": "https://qiscet.edu.in/qiscet/DEPARTMENTS_cse_Internship.php",
+ "summary": null,
+ "blocks": [
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    {
+     "text": "INTERNSHIP 2020-21",
+     "links": [
+      {
+       "label": "INTERNSHIP 2020-21",
+       "href": "https://qiscet.edu.in/qiscet/departments/cse/data/INTERNSHIP%2020-21.pdf"
+      }
+     ]
+    },
+    {
+     "text": "INTERNSHIP 2019-20",
+     "links": [
+      {
+       "label": "INTERNSHIP 2019-20",
+       "href": "https://qiscet.edu.in/qiscet/departments/cse/data/INTERNSHIP%2019-20.pdf"
+      }
+     ]
+    },
+    {
+     "text": "INTERNSHIP 2018-19",
+     "links": [
+      {
+       "label": "INTERNSHIP 2018-19",
+       "href": "https://qiscet.edu.in/qiscet/departments/cse/data/INTERNSHIP%2018-19.pdf"
+      }
+     ]
+    },
+    {
+     "text": "INTERNSHIP 2017-18",
+     "links": [
+      {
+       "label": "INTERNSHIP 2017-18",
+       "href": "https://qiscet.edu.in/qiscet/departments/cse/data/INTERNSHIP%2017-18.pdf"
+      }
+     ]
+    },
+    {
+     "text": "INTERNSHIP 2016-17",
+     "links": [
+      {
+       "label": "INTERNSHIP 2016-17",
+       "href": "https://qiscet.edu.in/qiscet/departments/cse/data/INTERNSHIP%2016-17.pdf"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "department": "cse",
+ "pageTitle": "Internships"
+}

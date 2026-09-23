@@ -1,0 +1,23 @@
+{
+ "slug": "about/vision-mission",
+ "section": "about",
+ "sectionTitle": "About Us",
+ "title": "Vision & Mission",
+ "legacy": "https://qiscet.edu.in/qiscet/ABOUT_US_vision_mission.php",
+ "summary": "To provide high quality education by introducing innovation and creativity in academics and research with societal commitment and to be the knowledge hub in the region and to produce skilled human…",
+ "blocks": [
+  {
+   "type": "paragraph",
+   "text": "To provide high quality education by introducing innovation and creativity in academics and research with societal commitment and to be the knowledge hub in the region and to produce skilled human resources with strong leadership capabilities to kindle the knowledge driven economy of the nation and to make ethically strong citizens."
+  },
+  {
+   "type": "heading",
+   "text": "MISSION",
+   "level": 1
+  },
+  {
+   "type": "paragraph",
+   "text": "The college is committed to develop through good governance, resource building, quality teaching-learning with strong fundamentals high impact research, constructive community engagement, well trained skilled human power in line with National development, capacity building, knowledge management and the continuing education programmes."
+  }
+ ]
+}

@@ -1,0 +1,36 @@
+{
+ "slug": "departments/ece/faculty-achievements",
+ "section": "departments",
+ "sectionTitle": "Departments",
+ "title": "Faculty Achievements – Electronics & Communication Engineering",
+ "legacy": "https://qiscet.edu.in/qiscet/DEPARTMENTS_ece_faculty_achievements.php",
+ "summary": null,
+ "blocks": [
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    {
+     "text": "Awards",
+     "links": [
+      {
+       "label": "Awards",
+       "href": "https://qiscet.edu.in/qiscet/departments/ece/data/AWARDS_2019-25.pdf"
+      }
+     ]
+    },
+    {
+     "text": "Faculty Interactions outside world",
+     "links": [
+      {
+       "label": "Faculty Interactions outside world",
+       "href": "https://qiscet.edu.in/qiscet/departments/ece/data/faculty%20acheivements.pdf"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "department": "ece",
+ "pageTitle": "Faculty Achievements"
+}

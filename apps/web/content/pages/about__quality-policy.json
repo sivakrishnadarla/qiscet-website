@@ -1,0 +1,26 @@
+{
+ "slug": "about/quality-policy",
+ "section": "about",
+ "sectionTitle": "About Us",
+ "title": "Quality Policy",
+ "legacy": "https://qiscet.edu.in/qiscet/ABOUT_US_quality_policy.php",
+ "summary": "QIS College of Engineering & Technology ensures quality Teaching-learning process, Research, Outreach services, societal commitments with high ethical values and Leadership in Technical &…",
+ "blocks": [
+  {
+   "type": "paragraph",
+   "text": "QIS College of Engineering & Technology ensures quality Teaching-learning process, Research, Outreach services, societal commitments with high ethical values and Leadership in Technical & Professional Education by imparting the high quality education. It is dedicated to nurture a culture of continuous quality improvement and optimum utilization of resources to achieve academic excellence."
+  },
+  {
+   "type": "paragraph",
+   "text": "QUALITY MEANS DOING IT RIGHT WHEN NO ONE IS LOOKING."
+  },
+  {
+   "type": "paragraph",
+   "text": "Henry"
+  },
+  {
+   "type": "paragraph",
+   "text": "Ford"
+  }
+ ]
+}

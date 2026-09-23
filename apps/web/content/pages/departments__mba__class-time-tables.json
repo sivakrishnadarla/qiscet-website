@@ -1,0 +1,27 @@
+{
+ "slug": "departments/mba/class-time-tables",
+ "section": "departments",
+ "sectionTitle": "Departments",
+ "title": "Class Time Tables – Master of Business Administration",
+ "legacy": "https://qiscet.edu.in/qiscet/DEPARTMENTS_mba_timetables.php",
+ "summary": null,
+ "blocks": [
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    {
+     "text": "Class Time Tables",
+     "links": [
+      {
+       "label": "Class Time Tables",
+       "href": "https://qiscet.edu.in/qiscet/departments/mba/mba_class_time_tables_25.pdf"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "department": "mba",
+ "pageTitle": "Class Time Tables"
+}

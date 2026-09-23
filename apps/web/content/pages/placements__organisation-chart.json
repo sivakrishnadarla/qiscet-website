@@ -1,0 +1,15 @@
+{
+ "slug": "placements/organisation-chart",
+ "section": "placements",
+ "sectionTitle": "Training & Placements",
+ "title": "Placement Department",
+ "legacy": "https://qiscet.edu.in/qiscet/PLACEMENT_AND_TRAINING_chart.php",
+ "summary": null,
+ "blocks": [
+  {
+   "type": "image",
+   "src": "/images/placement_training/t-p-flow-chat.jpg",
+   "alt": "careers"
+  }
+ ]
+}

@@ -1,0 +1,61 @@
+{
+ "slug": "placements/placement-details",
+ "section": "placements",
+ "sectionTitle": "Training & Placements",
+ "title": "Placement Details",
+ "legacy": "https://qiscet.edu.in/qiscet/PLACEMENT_AND_TRAINING_CHARTS.php",
+ "summary": null,
+ "blocks": [
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    {
+     "text": "Placement Details 2025-2026",
+     "links": [
+      {
+       "label": "Placement Details 2025-2026",
+       "href": "https://qiscet.edu.in/qiscet/departments/Training%20%26%20Placement/2025-2026%20PLACEMENTS2.pdf"
+      }
+     ]
+    },
+    {
+     "text": "Placement Details 2024-2025",
+     "links": [
+      {
+       "label": "Placement Details 2024-2025",
+       "href": "https://qiscet.edu.in/qiscet/departments/Training%20%26%20Placement/2024-2025%20PLACEMENTS4.pdf"
+      }
+     ]
+    },
+    {
+     "text": "Placement Details 2023-2024",
+     "links": [
+      {
+       "label": "Placement Details 2023-2024",
+       "href": "https://qiscet.edu.in/qiscet/departments/Training%20%26%20Placement/2023-2024%20PLACEMENTS.pdf"
+      }
+     ]
+    },
+    {
+     "text": "Placement Details 2022-2023",
+     "links": [
+      {
+       "label": "Placement Details 2022-2023",
+       "href": "https://qiscet.edu.in/qiscet/departments/Training%20%26%20Placement/2022-2023%20PLACEMENTS.pdf"
+      }
+     ]
+    },
+    {
+     "text": "Placement Details 2021-2022",
+     "links": [
+      {
+       "label": "Placement Details 2021-2022",
+       "href": "https://qiscet.edu.in/qiscet/departments/Training%20%26%20Placement/2021-2022%20PLACEMENTS.pdf"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

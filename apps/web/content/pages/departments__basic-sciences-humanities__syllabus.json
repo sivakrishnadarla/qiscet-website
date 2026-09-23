@@ -1,0 +1,154 @@
+{
+ "slug": "departments/basic-sciences-humanities/syllabus",
+ "section": "departments",
+ "sectionTitle": "Departments",
+ "title": "Syllabus – Basic Sciences & Humanities",
+ "legacy": "https://qiscet.edu.in/qiscet/DEPARTMENTS_hs_syllabus.php",
+ "summary": null,
+ "blocks": [
+  {
+   "type": "table",
+   "rows": [
+    [
+     {
+      "text": "Regulation"
+     },
+     {
+      "text": "BS & H",
+      "colspan": 8
+     }
+    ],
+    [
+     {
+      "text": "R-23 Regulation"
+     },
+     {
+      "text": "BS&H Syllabus",
+      "links": [
+       {
+        "label": "BS&H Syllabus",
+        "href": "https://qiscet.edu.in/qiscet/departments/hs/bs_h_R23%20Syllabus.pdf"
+       }
+      ]
+     }
+    ],
+    [
+     {
+      "text": "RR-20 Regulation"
+     },
+     {
+      "text": "CSE || CS(AI&ML) || AI || CS-DS || CS&IT || CS(AI&ML) || CS(IOT&BCT) || CS-BS || ECE || IT || EEE || ME || CIVIL",
+      "links": [
+       {
+        "label": "CSE",
+        "href": "https://qiscet.edu.in/qiscet/departments/hs/RR20%20CSE%20SEM-1%20COURSE%20STRUCTURE_UG.pdf"
+       },
+       {
+        "label": "CS(AI&ML)",
+        "href": "https://qiscet.edu.in/qiscet/departments/hs/RR20%20CS%28AI%26ML%29%20SEM-1%20COURSE%20STRUCTURE_UG.pdf"
+       },
+       {
+        "label": "AI",
+        "href": "https://qiscet.edu.in/qiscet/departments/hs/RR20%20AI%20SEM-1%20COURSE%20STRUCTURE_UG.pdf"
+       },
+       {
+        "label": "CS-DS",
+        "href": "https://qiscet.edu.in/qiscet/departments/hs/RR20%20CS-DS%20SEM-1%20COURSE%20STRYCTURE_UG.pdf"
+       },
+       {
+        "label": "CS&IT",
+        "href": "https://qiscet.edu.in/qiscet/departments/hs/RR20%20CS%26IT%20SEM-1%20COURSE%20STRUCTURE_UG.pdf"
+       },
+       {
+        "label": "CS(AI&ML)",
+        "href": "https://qiscet.edu.in/qiscet/departments/hs/RR20%20CS%28AI%26ML%29%20SEM-1%20COURSE%20STRUCTURE_UG.pdf"
+       },
+       {
+        "label": "CS(IOT&BCT)",
+        "href": "https://qiscet.edu.in/qiscet/departments/hs/RR20%20CS%28IOT%26BCT%29%20SEM-1%20COURSE%20STRUCTURE_UG.pdf"
+       },
+       {
+        "label": "CS-BS",
+        "href": "https://qiscet.edu.in/qiscet/departments/hs/RR20%20CS-BS%20SEM-1%20COURSE%20STRUCTURE_UG.pdf"
+       },
+       {
+        "label": "ECE",
+        "href": "https://qiscet.edu.in/qiscet/departments/hs/RR20%20ECE%20SEM-1%20COURSE%20STRUCTURE_UG.pdf"
+       },
+       {
+        "label": "IT",
+        "href": "https://qiscet.edu.in/qiscet/departments/hs/RR20%20IT%20SEM-1%20COURSE%20STRUCTURE_UG.pdf"
+       },
+       {
+        "label": "EEE",
+        "href": "https://qiscet.edu.in/qiscet/departments/hs/RR20%20EEE%20SEM-1%20COURSE%20STRUCTURE_UG.pdf"
+       },
+       {
+        "label": "ME",
+        "href": "https://qiscet.edu.in/qiscet/departments/hs/RR20%20ME%20SEM-1%20COURSE%20STRUCTURE_UG.pdf"
+       },
+       {
+        "label": "CIVIL",
+        "href": "https://qiscet.edu.in/qiscet/departments/hs/RR20%20CIVIL%20SEM-1%20COURSE%20STRUCTURE_UG.pdf"
+       }
+      ]
+     }
+    ],
+    [
+     {
+      "text": "R-20 Regulation"
+     },
+     {
+      "text": "CSE|| CSE-BS|| CSE-DS|| ECE|| EEE|| ME|| CIVIL",
+      "links": [
+       {
+        "label": "CSE",
+        "href": "https://qiscet.edu.in/qiscet/departments/hs/R20%20CSE%20COURSE%20STRUCTURE_UG.pdf"
+       },
+       {
+        "label": "CSE-BS",
+        "href": "https://qiscet.edu.in/qiscet/departments/hs/R20%20CSE-BS%20COURSE%20STRUCTURE_UG.pdf"
+       },
+       {
+        "label": "CSE-DS",
+        "href": "https://qiscet.edu.in/qiscet/departments/hs/R20%20CSE-DS%20COURSE%20STRUCTURE_UG.pdf"
+       },
+       {
+        "label": "ECE",
+        "href": "https://qiscet.edu.in/qiscet/departments/hs/R20%20ECE%20COURSE%20STRUCTURE_UG.pdf"
+       },
+       {
+        "label": "EEE",
+        "href": "https://qiscet.edu.in/qiscet/departments/hs/R20%20EEE%20COURSE%20STRUCTURE_UG.pdf"
+       },
+       {
+        "label": "ME",
+        "href": "https://qiscet.edu.in/qiscet/departments/hs/R20%20ME%20COURSE%20STRUCTURE_UG.pdf"
+       },
+       {
+        "label": "CIVIL",
+        "href": "https://qiscet.edu.in/qiscet/departments/hs/R20%20CIVIL%20ENGINEERING%20COURSE%20STRUCTURE_UG.pdf"
+       }
+      ]
+     }
+    ],
+    [
+     {
+      "text": "R-18 Regulation"
+     },
+     {
+      "text": "BS&H Syllabus",
+      "links": [
+       {
+        "label": "BS&H Syllabus",
+        "href": "https://qiscet.edu.in/qiscet/departments/hs/bs_h_R18%20First%20Year%20Courses.pdf"
+       }
+      ]
+     }
+    ]
+   ]
+  }
+ ],
+ "department": "basic-sciences-humanities",
+ "pageTitle": "Syllabus"
+}

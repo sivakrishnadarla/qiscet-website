@@ -1,0 +1,181 @@
+{
+ "slug": "departments/basic-sciences-humanities/laboratories",
+ "section": "departments",
+ "sectionTitle": "Departments",
+ "title": "Laboratories – Basic Sciences & Humanities",
+ "legacy": "https://qiscet.edu.in/qiscet/DEPARTMENTS_hs_labs.php",
+ "summary": null,
+ "blocks": [
+  {
+   "type": "table",
+   "rows": [
+    [
+     {
+      "text": "S.No"
+     },
+     {
+      "text": "Name of lab/workshop"
+     },
+     {
+      "text": "Details"
+     }
+    ],
+    [
+     {
+      "text": "1"
+     },
+     {
+      "text": "Physics Lab-1"
+     },
+     {
+      "text": "View",
+      "links": [
+       {
+        "label": "View",
+        "href": "https://qiscet.edu.in/qiscet/departments/hs/PHYSICS%20LAB-1.pdf"
+       }
+      ]
+     }
+    ],
+    [
+     {
+      "text": "2"
+     },
+     {
+      "text": "Physics Lab-2"
+     },
+     {
+      "text": "View",
+      "links": [
+       {
+        "label": "View",
+        "href": "https://qiscet.edu.in/qiscet/departments/hs/PHYSICS%20LAB-2.pdf"
+       }
+      ]
+     }
+    ],
+    [
+     {
+      "text": "3"
+     },
+     {
+      "text": "Chemistry Lab-1"
+     },
+     {
+      "text": "View",
+      "links": [
+       {
+        "label": "View",
+        "href": "https://qiscet.edu.in/qiscet/departments/hs/Chemistry%20Lab-1.pdf"
+       }
+      ]
+     }
+    ],
+    [
+     {
+      "text": "4"
+     },
+     {
+      "text": "Chemistry Lab-2"
+     },
+     {
+      "text": "View",
+      "links": [
+       {
+        "label": "View",
+        "href": "https://qiscet.edu.in/qiscet/departments/hs/Chemistry%20Lab-2.pdf"
+       }
+      ]
+     }
+    ],
+    [
+     {
+      "text": "5"
+     },
+     {
+      "text": "Engilsh Communication Skills Lab-1"
+     },
+     {
+      "text": "View",
+      "links": [
+       {
+        "label": "View",
+        "href": "https://qiscet.edu.in/qiscet/departments/hs/ECS%20LAB-1%20%281%29.pdf"
+       }
+      ]
+     }
+    ],
+    [
+     {
+      "text": "6"
+     },
+     {
+      "text": "Engilsh Communication Skills Lab-2"
+     },
+     {
+      "text": "View",
+      "links": [
+       {
+        "label": "View",
+        "href": "https://qiscet.edu.in/qiscet/departments/hs/ECS%20LAB-2.pdf"
+       }
+      ]
+     }
+    ],
+    [
+     {
+      "text": "7"
+     },
+     {
+      "text": "Center For Electrical Foundation Lab"
+     },
+     {
+      "text": "View",
+      "links": [
+       {
+        "label": "View",
+        "href": "https://qiscet.edu.in/qiscet/departments/hs/CENTER%20FOR%20ELECTRICAL%20FOUNDATION%20LAB.pdf"
+       }
+      ]
+     }
+    ],
+    [
+     {
+      "text": "8"
+     },
+     {
+      "text": "Center For Phython Programming Lab"
+     },
+     {
+      "text": "View",
+      "links": [
+       {
+        "label": "View",
+        "href": "https://qiscet.edu.in/qiscet/departments/hs/CENTER%20FOR%20PHYTHON%20PROGRAMMING%20LAB.pdf"
+       }
+      ]
+     }
+    ],
+    [
+     {
+      "text": "9"
+     },
+     {
+      "text": "Center For C Programming Lab"
+     },
+     {
+      "text": "View",
+      "links": [
+       {
+        "label": "View",
+        "href": "https://qiscet.edu.in/qiscet/departments/hs/CENTER%20FOR%20C%20PROGRAMMING%20LAB.pdf"
+       }
+      ]
+     }
+    ]
+   ]
+  }
+ ],
+ "department": "basic-sciences-humanities",
+ "pageTitle": "Laboratories"
+}

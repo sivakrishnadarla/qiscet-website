@@ -1,0 +1,63 @@
+{
+ "slug": "departments/mechanical/student-achievements",
+ "section": "departments",
+ "sectionTitle": "Departments",
+ "title": "Student Achievements – Mechanical Engineering",
+ "legacy": "https://qiscet.edu.in/qiscet/DEPARTMENTS_me_student_achievements.php",
+ "summary": null,
+ "blocks": [
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    {
+     "text": "Student publications",
+     "links": [
+      {
+       "label": "Student publications",
+       "href": "https://qiscet.edu.in/qiscet/departments/me/data/Student%20publications.pdf"
+      }
+     ]
+    },
+    {
+     "text": "Industrial Visits",
+     "links": [
+      {
+       "label": "Industrial Visits",
+       "href": "https://qiscet.edu.in/qiscet/departments/me/data/Industrial%20Visits.pdf"
+      }
+     ]
+    },
+    {
+     "text": "Internship",
+     "links": [
+      {
+       "label": "Internship",
+       "href": "https://qiscet.edu.in/qiscet/departments/me/data/Internship.pdf"
+      }
+     ]
+    },
+    {
+     "text": "Students Participation",
+     "links": [
+      {
+       "label": "Students Participation",
+       "href": "https://qiscet.edu.in/qiscet/departments/me/data/Students%20Participation.pdf"
+      }
+     ]
+    },
+    {
+     "text": "Skill Development Programs For Students",
+     "links": [
+      {
+       "label": "Skill Development Programs For Students",
+       "href": "https://qiscet.edu.in/qiscet/departments/me/data/Skill%20Development%20Programs%20for%20students.pdf"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "department": "mechanical",
+ "pageTitle": "Student Achievements"
+}

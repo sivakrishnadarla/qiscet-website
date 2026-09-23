@@ -1,0 +1,108 @@
+{
+ "slug": "departments/cse/class-time-tables",
+ "section": "departments",
+ "sectionTitle": "Departments",
+ "title": "Class Time Tables – Computer Science & Engineering",
+ "legacy": "https://qiscet.edu.in/qiscet/DEPARTMENTS_cse_timetables.php",
+ "summary": null,
+ "blocks": [
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    {
+     "text": "IIIrd B.Tech CSE 1",
+     "links": [
+      {
+       "label": "IIIrd B.Tech CSE 1",
+       "href": "https://qiscet.edu.in/qiscet/departments/cse/Time%20table/III%20CSE%201.pdf"
+      }
+     ]
+    },
+    {
+     "text": "IIIrd B.Tech CSE 2",
+     "links": [
+      {
+       "label": "IIIrd B.Tech CSE 2",
+       "href": "https://qiscet.edu.in/qiscet/departments/cse/Time%20table/III%20CSE%202.pdf"
+      }
+     ]
+    },
+    {
+     "text": "IIIrd B.Tech CSE 3",
+     "links": [
+      {
+       "label": "IIIrd B.Tech CSE 3",
+       "href": "https://qiscet.edu.in/qiscet/departments/cse/Time%20table/III%20CSE%203.pdf"
+      }
+     ]
+    },
+    {
+     "text": "IIIrd B.Tech CSE 4",
+     "links": [
+      {
+       "label": "IIIrd B.Tech CSE 4",
+       "href": "https://qiscet.edu.in/qiscet/departments/cse/Time%20table/III%20CSE%204.pdf"
+      }
+     ]
+    },
+    {
+     "text": "IIIrd B.Tech CSE 5",
+     "links": [
+      {
+       "label": "IIIrd B.Tech CSE 5",
+       "href": "https://qiscet.edu.in/qiscet/departments/cse/Time%20table/III%20CSE%205.pdf"
+      }
+     ]
+    },
+    {
+     "text": "IVth B.Tech CSE 1",
+     "links": [
+      {
+       "label": "IVth B.Tech CSE 1",
+       "href": "https://qiscet.edu.in/qiscet/departments/cse/Time%20table/IV%20CSE%201.pdf"
+      }
+     ]
+    },
+    {
+     "text": "IVth B.Tech CSE 2",
+     "links": [
+      {
+       "label": "IVth B.Tech CSE 2",
+       "href": "https://qiscet.edu.in/qiscet/departments/cse/Time%20table/IV%20CSE%202.pdf"
+      }
+     ]
+    },
+    {
+     "text": "IVth B.Tech CSE 3",
+     "links": [
+      {
+       "label": "IVth B.Tech CSE 3",
+       "href": "https://qiscet.edu.in/qiscet/departments/cse/Time%20table/IV%20CSE%203.pdf"
+      }
+     ]
+    },
+    {
+     "text": "IVth B.Tech CSE 4",
+     "links": [
+      {
+       "label": "IVth B.Tech CSE 4",
+       "href": "https://qiscet.edu.in/qiscet/departments/cse/Time%20table/IV%20CSE%204.pdf"
+      }
+     ]
+    },
+    {
+     "text": "IVth B.Tech CSE 5",
+     "links": [
+      {
+       "label": "IVth B.Tech CSE 5",
+       "href": "https://qiscet.edu.in/qiscet/departments/cse/Time%20table/IV%20CSE%205.pdf"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "department": "cse",
+ "pageTitle": "Class Time Tables"
+}

@@ -1,0 +1,30 @@
+{
+ "slug": "departments/eee/academic-audit",
+ "section": "departments",
+ "sectionTitle": "Departments",
+ "title": "Academic Audit – Electrical & Electronics Engineering",
+ "legacy": "https://qiscet.edu.in/qiscet/DEPARTMENTS_eee_academicaudit.php",
+ "summary": null,
+ "blocks": [
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    {
+     "text": "Internal Academic Audit"
+    },
+    {
+     "text": "External Academic Audit",
+     "links": [
+      {
+       "label": "External Academic Audit",
+       "href": "https://qiscet.edu.in/qiscet/DEPARTMENTS_eee_exacademicaudit.php"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "department": "eee",
+ "pageTitle": "Academic Audit"
+}

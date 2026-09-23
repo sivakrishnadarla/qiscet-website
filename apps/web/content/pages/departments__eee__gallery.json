@@ -1,0 +1,79 @@
+{
+ "slug": "departments/eee/gallery",
+ "section": "departments",
+ "sectionTitle": "Departments",
+ "title": "Gallery – Electrical & Electronics Engineering",
+ "legacy": "https://qiscet.edu.in/qiscet/DEPARTMENTS_eee_gallary.php",
+ "summary": null,
+ "blocks": [
+  {
+   "type": "table",
+   "rows": [
+    [
+     {
+      "text": "S.No"
+     },
+     {
+      "text": "Name of Events"
+     },
+     {
+      "text": "Details"
+     }
+    ],
+    [
+     {
+      "text": "1"
+     },
+     {
+      "text": "Gallery 1"
+     },
+     {
+      "text": "VIEW",
+      "links": [
+       {
+        "label": "VIEW",
+        "href": "https://qiscet.edu.in/qiscet/DEPARTMENTS_eee_tab_gallery.php"
+       }
+      ]
+     }
+    ],
+    [
+     {
+      "text": "2"
+     },
+     {
+      "text": "Gallery 2"
+     },
+     {
+      "text": "VIEW",
+      "links": [
+       {
+        "label": "VIEW",
+        "href": "https://qiscet.edu.in/qiscet/DEPARTMENTS_eee_tab_gallery2.php"
+       }
+      ]
+     }
+    ],
+    [
+     {
+      "text": "3"
+     },
+     {
+      "text": "Gallery 3"
+     },
+     {
+      "text": "VIEW",
+      "links": [
+       {
+        "label": "VIEW",
+        "href": "https://qiscet.edu.in/qiscet/DEPARTMENTS_eee_alu_gallary.php"
+       }
+      ]
+     }
+    ]
+   ]
+  }
+ ],
+ "department": "eee",
+ "pageTitle": "Gallery"
+}

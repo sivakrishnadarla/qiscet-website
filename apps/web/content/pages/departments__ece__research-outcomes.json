@@ -1,0 +1,54 @@
+{
+ "slug": "departments/ece/research-outcomes",
+ "section": "departments",
+ "sectionTitle": "Departments",
+ "title": "Research Outcomes – Electronics & Communication Engineering",
+ "legacy": "https://qiscet.edu.in/qiscet/DEPARTMENTS_ece_research.php",
+ "summary": null,
+ "blocks": [
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    {
+     "text": "Publications",
+     "links": [
+      {
+       "label": "Publications",
+       "href": "https://qiscet.edu.in/qiscet/departments/ece/data/SummaryOfPublications.pdf"
+      }
+     ]
+    },
+    {
+     "text": "Funded Projects",
+     "links": [
+      {
+       "label": "Funded Projects",
+       "href": "https://qiscet.edu.in/qiscet/departments/ece/Funded%20Projects.pdf"
+      }
+     ]
+    },
+    {
+     "text": "Books Published",
+     "links": [
+      {
+       "label": "Books Published",
+       "href": "https://qiscet.edu.in/qiscet/departments/ece/data/eceBooks2025.pdf"
+      }
+     ]
+    },
+    {
+     "text": "Patents",
+     "links": [
+      {
+       "label": "Patents",
+       "href": "https://qiscet.edu.in/qiscet/DEPARTMENTS_ece_patent.php"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "department": "ece",
+ "pageTitle": "Research Outcomes"
+}

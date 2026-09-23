@@ -1,0 +1,54 @@
+{
+ "slug": "departments/ece/placements",
+ "section": "departments",
+ "sectionTitle": "Departments",
+ "title": "Placements – Electronics & Communication Engineering",
+ "legacy": "https://qiscet.edu.in/qiscet/DEPARTMENTS_ece_Placements.php",
+ "summary": null,
+ "blocks": [
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    {
+     "text": "Consolidated Placement Details",
+     "links": [
+      {
+       "label": "Consolidated Placement Details",
+       "href": "https://qiscet.edu.in/qiscet/departments/ece/Placement%20data.pdf"
+      }
+     ]
+    },
+    {
+     "text": "Placement-2022-24",
+     "links": [
+      {
+       "label": "Placement-2022-24",
+       "href": "https://qiscet.edu.in/qiscet/departments/ece/data/Placements_2022-24.pdf"
+      }
+     ]
+    },
+    {
+     "text": "Placement-2021-22",
+     "links": [
+      {
+       "label": "Placement-2021-22",
+       "href": "https://qiscet.edu.in/qiscet/departments/ece/data/2021-22%20placed%20student%20details-NBA.pdf"
+      }
+     ]
+    },
+    {
+     "text": "Placement-2019-21",
+     "links": [
+      {
+       "label": "Placement-2019-21",
+       "href": "https://qiscet.edu.in/qiscet/departments/ece/data/ECE_PLACEMENT.pdf"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "department": "ece",
+ "pageTitle": "Placements"
+}

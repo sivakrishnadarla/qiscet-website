@@ -1,0 +1,54 @@
+{
+ "slug": "departments/civil/extra-curricular-activities",
+ "section": "departments",
+ "sectionTitle": "Departments",
+ "title": "Extra-Curricular Activities – Civil Engineering",
+ "legacy": "https://qiscet.edu.in/qiscet/DEPARTMENTS_ce_nss.php",
+ "summary": null,
+ "blocks": [
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    {
+     "text": "2021-22 NSS EVENTS FILE",
+     "links": [
+      {
+       "label": "2021-22 NSS EVENTS FILE",
+       "href": "https://qiscet.edu.in/qiscet/departments/civil/NSS%20Activities%202021-2022.pdf"
+      }
+     ]
+    },
+    {
+     "text": "2020-21 NSS EVENTS FILE",
+     "links": [
+      {
+       "label": "2020-21 NSS EVENTS FILE",
+       "href": "https://qiscet.edu.in/qiscet/departments/civil/NSS%20Acitivities%202020-2021.pdf"
+      }
+     ]
+    },
+    {
+     "text": "2019-20 NSS EVENTS FILE",
+     "links": [
+      {
+       "label": "2019-20 NSS EVENTS FILE",
+       "href": "https://qiscet.edu.in/qiscet/departments/civil/NSS%20Activities%202019-2020.pdf"
+      }
+     ]
+    },
+    {
+     "text": "2018-19 NSS EVENTS FILE",
+     "links": [
+      {
+       "label": "2018-19 NSS EVENTS FILE",
+       "href": "https://qiscet.edu.in/qiscet/departments/civil/NSS%20Acitivites%202018-2019.pdf"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "department": "civil",
+ "pageTitle": "Extra-Curricular Activities"
+}

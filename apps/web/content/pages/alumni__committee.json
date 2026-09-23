@@ -1,0 +1,52 @@
+{
+ "slug": "alumni/committee",
+ "section": "alumni",
+ "sectionTitle": "Alumni",
+ "title": "Alumni Committee",
+ "legacy": "https://qiscet.edu.in/qiscet/Alumni_Committee.php",
+ "summary": null,
+ "blocks": [
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    {
+     "text": "Alumni Committee 2025",
+     "links": [
+      {
+       "label": "Alumni Committee 2025",
+       "href": "https://qiscet.edu.in/qiscet/departments/Alumni/Committe/Alumni_Committe_2025.pdf"
+      }
+     ]
+    },
+    {
+     "text": "Alumni Committee 2024",
+     "links": [
+      {
+       "label": "Alumni Committee 2024",
+       "href": "https://qiscet.edu.in/qiscet/departments/Alumni/Committe/Alumni_Committe_2024.pdf"
+      }
+     ]
+    },
+    {
+     "text": "Alumni Committee 2023",
+     "links": [
+      {
+       "label": "Alumni Committee 2023",
+       "href": "https://qiscet.edu.in/qiscet/departments/Alumni/Committe/Alumni_Committe_2023.pdf"
+      }
+     ]
+    },
+    {
+     "text": "Alumni Committee 2022",
+     "links": [
+      {
+       "label": "Alumni Committee 2022",
+       "href": "https://qiscet.edu.in/qiscet/departments/Alumni/Committe/Alumni_Committe_2022.pdf"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

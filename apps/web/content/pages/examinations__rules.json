@@ -1,0 +1,40 @@
+{
+ "slug": "examinations/rules",
+ "section": "examinations",
+ "sectionTitle": "Examinations",
+ "title": "Examination Rules",
+ "legacy": "https://qiscet.edu.in/qiscet/EXAMINATIONS_rules.php",
+ "summary": null,
+ "blocks": [
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    {
+     "text": "Instructions to the Students",
+     "links": [
+      {
+       "label": "Instructions to the Students",
+       "href": "https://qiscet.edu.in/qiscet/examcell-timetbl/QIS-studentsinstructions.pdf"
+      }
+     ],
+     "images": [
+      "/images/images/new_blink.jpg"
+     ]
+    },
+    {
+     "text": "Malpratice Rules & Punishment",
+     "links": [
+      {
+       "label": "Malpratice Rules & Punishment",
+       "href": "https://qiscet.edu.in/qiscet/examcell-timetbl/malpraticerules1.pdf"
+      }
+     ],
+     "images": [
+      "/images/images/new_blink.jpg"
+     ]
+    }
+   ]
+  }
+ ]
+}

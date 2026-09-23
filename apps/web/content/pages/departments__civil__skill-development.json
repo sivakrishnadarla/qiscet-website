@@ -1,0 +1,54 @@
+{
+ "slug": "departments/civil/skill-development",
+ "section": "departments",
+ "sectionTitle": "Departments",
+ "title": "Skill Development – Civil Engineering",
+ "legacy": "https://qiscet.edu.in/qiscet/DEPARTMENTS_ce_skill.php",
+ "summary": null,
+ "blocks": [
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    {
+     "text": "PRINCIPLES OF TRANSPORTATION ENGINEERING",
+     "links": [
+      {
+       "label": "PRINCIPLES OF TRANSPORTATION ENGINEERING",
+       "href": "https://qiscet.edu.in/qiscet/departments/civil/1/PRINCIPLES%20OF%20TRANSPORTATION%20ENGINEERING.pdf"
+      }
+     ]
+    },
+    {
+     "text": "STAAD.PRO",
+     "links": [
+      {
+       "label": "STAAD.PRO",
+       "href": "https://qiscet.edu.in/qiscet/departments/civil/1/STAAD.PRO.pdf"
+      }
+     ]
+    },
+    {
+     "text": "APPLIED SURVEYING",
+     "links": [
+      {
+       "label": "APPLIED SURVEYING",
+       "href": "https://qiscet.edu.in/qiscet/departments/civil/1/APPLIED%20SURVEYING.pdf"
+      }
+     ]
+    },
+    {
+     "text": "AUTOCAD (2D)",
+     "links": [
+      {
+       "label": "AUTOCAD (2D)",
+       "href": "https://qiscet.edu.in/qiscet/departments/civil/1/AUTOCAD%20%282D%29.pdf"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "department": "civil",
+ "pageTitle": "Skill Development"
+}

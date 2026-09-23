@@ -1,0 +1,127 @@
+{
+ "slug": "facilities/physical-education/staff",
+ "section": "facilities",
+ "sectionTitle": "Facilities",
+ "title": "Physical Education Staff",
+ "legacy": "https://qiscet.edu.in/qiscet/FACILITIES_physical_education_staff.php",
+ "summary": null,
+ "blocks": [
+  {
+   "type": "table",
+   "rows": [
+    [
+     {
+      "text": "S.No"
+     },
+     {
+      "text": "Staff Name"
+     },
+     {
+      "text": "Qualification"
+     },
+     {
+      "text": "Designation"
+     }
+    ],
+    [
+     {
+      "text": "01"
+     },
+     {
+      "text": "DR.K.KOTESWAR RAO"
+     },
+     {
+      "text": "MA, MPED,MPHIL, PHD"
+     },
+     {
+      "text": "Physical Director & Head"
+     }
+    ],
+    [
+     {
+      "text": "02"
+     },
+     {
+      "text": "MR. N. VENKATA RAO"
+     },
+     {
+      "text": "MPED"
+     },
+     {
+      "text": "Physical Director"
+     }
+    ],
+    [
+     {
+      "text": "03"
+     },
+     {
+      "text": "K.AJAYKUMAR"
+     },
+     {
+      "text": "BCOM, MPED"
+     },
+     {
+      "text": "Physical Director"
+     }
+    ],
+    [
+     {
+      "text": "04"
+     },
+     {
+      "text": "K.INDRAJA"
+     },
+     {
+      "text": "BCOM, MPED"
+     },
+     {
+      "text": "Physical Director"
+     }
+    ],
+    [
+     {
+      "text": "05"
+     },
+     {
+      "text": "M.SANJEEVAIAH"
+     },
+     {
+      "text": "B.A, MPED"
+     },
+     {
+      "text": "Physical Director"
+     }
+    ],
+    [
+     {
+      "text": "06"
+     },
+     {
+      "text": "A.CHENNAKESAVALU"
+     },
+     {
+      "text": "BCOM, MPED"
+     },
+     {
+      "text": "Physical Director"
+     }
+    ],
+    [
+     {
+      "text": "07"
+     },
+     {
+      "text": "N.SIVA KUMARI"
+     },
+     {
+      "text": "BCOM ,BPED"
+     },
+     {
+      "text": "Physical Director"
+     }
+    ]
+   ]
+  }
+ ]
+}

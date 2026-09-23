@@ -1,0 +1,79 @@
+{
+ "slug": "facilities/library/minutes",
+ "section": "facilities",
+ "sectionTitle": "Facilities",
+ "title": "Library Committee Minutes",
+ "legacy": "https://qiscet.edu.in/qiscet/FACILITIES_library_mom.php",
+ "summary": null,
+ "blocks": [
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    {
+     "text": "21.02.2025",
+     "links": [
+      {
+       "label": "21.02.2025",
+       "href": "https://qiscet.edu.in/qiscet/library_mom/21.02.2025.pdf"
+      }
+     ]
+    },
+    {
+     "text": "11.07.2024",
+     "links": [
+      {
+       "label": "11.07.2024",
+       "href": "https://qiscet.edu.in/qiscet/library_mom/11.07.2024.pdf"
+      }
+     ]
+    },
+    {
+     "text": "26.02.2024",
+     "links": [
+      {
+       "label": "26.02.2024",
+       "href": "https://qiscet.edu.in/qiscet/library_mom/26.02.2024.pdf"
+      }
+     ]
+    },
+    {
+     "text": "11.12.2023",
+     "links": [
+      {
+       "label": "11.12.2023",
+       "href": "https://qiscet.edu.in/qiscet/library_mom/11.12.2023.pdf"
+      }
+     ]
+    },
+    {
+     "text": "11.08.2023",
+     "links": [
+      {
+       "label": "11.08.2023",
+       "href": "https://qiscet.edu.in/qiscet/library_mom/11.08.2023.pdf"
+      }
+     ]
+    },
+    {
+     "text": "25.04.2023",
+     "links": [
+      {
+       "label": "25.04.2023",
+       "href": "https://qiscet.edu.in/qiscet/library_mom/25.04.2023.pdf"
+      }
+     ]
+    },
+    {
+     "text": "03.06.2022",
+     "links": [
+      {
+       "label": "03.06.2022",
+       "href": "https://qiscet.edu.in/qiscet/library_mom/03.06.2022.pdf"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

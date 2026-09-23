@@ -1,0 +1,45 @@
+{
+ "slug": "departments/eee/counsellors",
+ "section": "departments",
+ "sectionTitle": "Departments",
+ "title": "Counsellors – Electrical & Electronics Engineering",
+ "legacy": "https://qiscet.edu.in/qiscet/DEPARTMENTS_eee_counsellors.php",
+ "summary": null,
+ "blocks": [
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    {
+     "text": "Counsellors List 2024 - 25",
+     "links": [
+      {
+       "label": "Counsellors List 2024 - 25",
+       "href": "https://qiscet.edu.in/qiscet/departments/eee/counsellors/councillors%20list%2024-25.pdf"
+      }
+     ]
+    },
+    {
+     "text": "Counsellors List 2023 - 24",
+     "links": [
+      {
+       "label": "Counsellors List 2023 - 24",
+       "href": "https://qiscet.edu.in/qiscet/departments/eee/counsellors/counsellor_list_23-24.pdf"
+      }
+     ]
+    },
+    {
+     "text": "Counsellors List 2022 - 23",
+     "links": [
+      {
+       "label": "Counsellors List 2022 - 23",
+       "href": "https://qiscet.edu.in/qiscet/departments/eee/counsellors/counsellors_list_22-23.pdf"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "department": "eee",
+ "pageTitle": "Counsellors"
+}

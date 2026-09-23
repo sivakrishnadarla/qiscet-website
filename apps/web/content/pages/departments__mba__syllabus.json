@@ -1,0 +1,171 @@
+{
+ "slug": "departments/mba/syllabus",
+ "section": "departments",
+ "sectionTitle": "Departments",
+ "title": "Syllabus – Master of Business Administration",
+ "legacy": "https://qiscet.edu.in/qiscet/DEPARTMENTS_mba_syllabus.php",
+ "summary": null,
+ "blocks": [
+  {
+   "type": "heading",
+   "text": "MBA Regulations",
+   "level": 4
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    {
+     "text": "R23 Regulation Syllabus",
+     "links": [
+      {
+       "label": "R23 Regulation Syllabus",
+       "href": "https://qiscet.edu.in/qiscet/departments/mba/MBA_R23_Syllabus.pdf"
+      }
+     ]
+    },
+    {
+     "text": "R20 Regulation Syllabus",
+     "links": [
+      {
+       "label": "R20 Regulation Syllabus",
+       "href": "https://qiscet.edu.in/qiscet/departments/mba/MBA_R20_Syllabus.pdf"
+      }
+     ]
+    },
+    {
+     "text": "R18 Regulation Syllabus",
+     "links": [
+      {
+       "label": "R18 Regulation Syllabus",
+       "href": "https://qiscet.edu.in/qiscet/departments/mba/MBA_R18_Syllabus.pdf"
+      }
+     ]
+    },
+    {
+     "text": "R15 Regulation Syllabus",
+     "links": [
+      {
+       "label": "R15 Regulation Syllabus",
+       "href": "https://qiscet.edu.in/qiscet/departments/mba/FINAL_QISMBA-R15%20regulations.pdf"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "MBA SYLLABUS",
+   "level": 4
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    {
+     "text": "Ist SEM SYLLABUS",
+     "links": [
+      {
+       "label": "Ist SEM SYLLABUS",
+       "href": "https://qiscet.edu.in/qiscet/departments/mba/MBA%20R23%20Syllabus-I%20semester.pdf"
+      }
+     ]
+    },
+    {
+     "text": "Ind SEM SYLLABUS",
+     "links": [
+      {
+       "label": "Ind SEM SYLLABUS",
+       "href": "https://qiscet.edu.in/qiscet/departments/mba/MBA%20R23%20Syllabus-II%20semester.pdf"
+      }
+     ]
+    },
+    {
+     "text": "IIIrd SEM SYLLABUS",
+     "links": [
+      {
+       "label": "IIIrd SEM SYLLABUS",
+       "href": "https://qiscet.edu.in/qiscet/departments/mba/MBA%20R23%20Syllabus-III%20semester.pdf"
+      }
+     ]
+    },
+    {
+     "text": "IVth SEM SYLLABUS",
+     "links": [
+      {
+       "label": "IVth SEM SYLLABUS",
+       "href": "https://qiscet.edu.in/qiscet/departments/mba/MBA%20R23%20Syllabus-IV%20semester.pdf"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "MBA Electives Syllabus",
+   "level": 4
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    {
+     "text": "Business Entrepreneurship",
+     "links": [
+      {
+       "label": "Business Entrepreneurship",
+       "href": "https://qiscet.edu.in/qiscet/departments/mba/business%20entrepreneurship.pdf"
+      }
+     ]
+    },
+    {
+     "text": "Financial Management",
+     "links": [
+      {
+       "label": "Financial Management",
+       "href": "https://qiscet.edu.in/qiscet/departments/mba/financial%20management.pdf"
+      }
+     ]
+    },
+    {
+     "text": "Human Resource Management",
+     "links": [
+      {
+       "label": "Human Resource Management",
+       "href": "https://qiscet.edu.in/qiscet/departments/mba/human%20resource%20management.pdf"
+      }
+     ]
+    },
+    {
+     "text": "Marketing Management",
+     "links": [
+      {
+       "label": "Marketing Management",
+       "href": "https://qiscet.edu.in/qiscet/departments/mba/marketing%20management.pdf"
+      }
+     ]
+    },
+    {
+     "text": "Operations and Logistics Management",
+     "links": [
+      {
+       "label": "Operations and Logistics Management",
+       "href": "https://qiscet.edu.in/qiscet/departments/mba/operations%20and%20logistics%20management.pdf"
+      }
+     ]
+    },
+    {
+     "text": "systems",
+     "links": [
+      {
+       "label": "systems",
+       "href": "https://qiscet.edu.in/qiscet/departments/mba/systems.pdf"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "department": "mba",
+ "pageTitle": "Syllabus"
+}

@@ -1,0 +1,45 @@
+{
+ "slug": "departments/civil/board-of-studies",
+ "section": "departments",
+ "sectionTitle": "Departments",
+ "title": "Board of Studies – Civil Engineering",
+ "legacy": "https://qiscet.edu.in/qiscet/DEPARTMENTS_ce_BOS.php",
+ "summary": null,
+ "blocks": [
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    {
+     "text": "Meeting Minutes of BOS-15",
+     "links": [
+      {
+       "label": "Meeting Minutes of BOS-15",
+       "href": "https://qiscet.edu.in/qiscet/departments/civil/BOS-15.pdf"
+      }
+     ]
+    },
+    {
+     "text": "Meeting Minutes of BOS-13",
+     "links": [
+      {
+       "label": "Meeting Minutes of BOS-13",
+       "href": "https://qiscet.edu.in/qiscet/departments/civil/BoS-13%20MoM%27s.pdf"
+      }
+     ]
+    },
+    {
+     "text": "Meeting Minutes of BOS-12",
+     "links": [
+      {
+       "label": "Meeting Minutes of BOS-12",
+       "href": "https://qiscet.edu.in/qiscet/departments/civil/12th%20BOS%20MEETING.pdf"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "department": "civil",
+ "pageTitle": "Board of Studies"
+}

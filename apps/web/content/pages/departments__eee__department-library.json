@@ -1,0 +1,27 @@
+{
+ "slug": "departments/eee/department-library",
+ "section": "departments",
+ "sectionTitle": "Departments",
+ "title": "Department Library – Electrical & Electronics Engineering",
+ "legacy": "https://qiscet.edu.in/qiscet/DEPARTMENTS_eee_library.php",
+ "summary": null,
+ "blocks": [
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    {
+     "text": "List Of Books",
+     "links": [
+      {
+       "label": "List Of Books",
+       "href": "https://qiscet.edu.in/qiscet/departments/eee/eee_Library_Books19-24.pdf"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "department": "eee",
+ "pageTitle": "Department Library"
+}

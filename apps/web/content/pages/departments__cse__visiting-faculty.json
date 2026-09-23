@@ -1,0 +1,99 @@
+{
+ "slug": "departments/cse/visiting-faculty",
+ "section": "departments",
+ "sectionTitle": "Departments",
+ "title": "Visiting Faculty – Computer Science & Engineering",
+ "legacy": "https://qiscet.edu.in/qiscet/DEPARTMENTS_cse_Visitingfaculty.php",
+ "summary": null,
+ "blocks": [
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    {
+     "text": "Dr. B.V.SUBBA RAO",
+     "links": [
+      {
+       "label": "Dr. B.V.SUBBA RAO",
+       "href": "https://qiscet.edu.in/qiscet/departments/cse/data/Dr%20B.V%20SUBBA%20RAO.pdf"
+      }
+     ]
+    },
+    {
+     "text": "Dr. T.SATYANARYANA",
+     "links": [
+      {
+       "label": "Dr. T.SATYANARYANA",
+       "href": "https://qiscet.edu.in/qiscet/departments/cse/data/Dr%20Chandrasekhara%20Reddy%20Chennuru.pdf"
+      }
+     ]
+    },
+    {
+     "text": "Dr. K.YAVANA RANI",
+     "links": [
+      {
+       "label": "Dr. K.YAVANA RANI",
+       "href": "https://qiscet.edu.in/qiscet/departments/cse/data/Dr%20K%20YAVANARANI.pdf"
+      }
+     ]
+    },
+    {
+     "text": "Dr. Ch.CHANDRA SEKHAR REDDY",
+     "links": [
+      {
+       "label": "Dr. Ch.CHANDRA SEKHAR REDDY",
+       "href": "https://qiscet.edu.in/qiscet/departments/cse/data/Dr%20T%20Satyanarayana.pdf"
+      }
+     ]
+    },
+    {
+     "text": "Dr. B. Mohan Rao",
+     "links": [
+      {
+       "label": "Dr. B. Mohan Rao",
+       "href": "https://qiscet.edu.in/qiscet/departments/cse/data/Dr%20B%20Mohan%20Rao.pdf"
+      }
+     ]
+    },
+    {
+     "text": "Mr. Sreeram Mitta",
+     "links": [
+      {
+       "label": "Mr. Sreeram Mitta",
+       "href": "https://qiscet.edu.in/qiscet/departments/cse/data/Sreeram_New_Sreeram%20Mitta.pdf"
+      }
+     ]
+    },
+    {
+     "text": "Mrs. SUSHMA VEMPARALA",
+     "links": [
+      {
+       "label": "Mrs. SUSHMA VEMPARALA",
+       "href": "https://qiscet.edu.in/qiscet/departments/cse/data/Sushma_Resume.pdf"
+      }
+     ]
+    },
+    {
+     "text": "Mr. Anilkumar Katari",
+     "links": [
+      {
+       "label": "Mr. Anilkumar Katari",
+       "href": "https://qiscet.edu.in/qiscet/departments/cse/data/Anilkumar_Katari.pdf"
+      }
+     ]
+    },
+    {
+     "text": "Mr. Venkata Ramanaiah Vaka",
+     "links": [
+      {
+       "label": "Mr. Venkata Ramanaiah Vaka",
+       "href": "https://qiscet.edu.in/qiscet/departments/cse/data/Venkat_Vaka_ETL_Debeloper.pdf"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "department": "cse",
+ "pageTitle": "Visiting Faculty"
+}

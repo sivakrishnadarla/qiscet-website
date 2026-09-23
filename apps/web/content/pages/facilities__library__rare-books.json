@@ -1,0 +1,51 @@
+{
+ "slug": "facilities/library/rare-books",
+ "section": "facilities",
+ "sectionTitle": "Facilities",
+ "title": "Rare Books",
+ "legacy": "https://qiscet.edu.in/qiscet/FACILITIES_library_rarebooks.php",
+ "summary": null,
+ "blocks": [
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    {
+     "text": "1. Printed Rare Books collection",
+     "links": [
+      {
+       "label": "1. Printed Rare Books collection",
+       "href": "https://qiscet.edu.in/qiscet/manuscripts/printed_rarebooks_qiscet.pdf"
+      }
+     ]
+    },
+    {
+     "text": "2. Rare e-books"
+    },
+    {
+     "text": "3. Manuscripts",
+     "links": [
+      {
+       "label": "3. Manuscripts",
+       "href": "https://qiscet.edu.in/qiscet/manuscripts/manuscripts.pdf"
+      }
+     ]
+    },
+    {
+     "text": "4. indianmanuscripts.com",
+     "links": [
+      {
+       "label": "4. indianmanuscripts.com",
+       "href": "http://indianmanuscripts.com"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "RARE E-BOOKS",
+   "level": 1
+  }
+ ]
+}

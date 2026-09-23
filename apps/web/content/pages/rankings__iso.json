@@ -1,0 +1,15 @@
+{
+ "slug": "rankings/iso",
+ "section": "rankings",
+ "sectionTitle": "Rankings & Certifications",
+ "title": "ISO Certification",
+ "legacy": "https://qiscet.edu.in/qiscet/RANKING_iso.php",
+ "summary": null,
+ "blocks": [
+  {
+   "type": "link",
+   "label": "ISO Certificate",
+   "href": "https://qiscet.edu.in/qiscet/pdfs/QIS_COLLEGE_OF_ENGINEERING_TECHNOLOGY_ISO_2026.pdf"
+  }
+ ]
+}

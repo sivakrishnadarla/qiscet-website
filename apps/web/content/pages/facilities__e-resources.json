@@ -1,0 +1,187 @@
+{
+ "slug": "facilities/e-resources",
+ "section": "facilities",
+ "sectionTitle": "Facilities",
+ "title": "E-Learning & E-Resources",
+ "legacy": "https://qiscet.edu.in/qiscet/e-resources.php",
+ "summary": "Click on Browse → Journals & Magazines for 205 e-journals Package.",
+ "blocks": [
+  {
+   "type": "heading",
+   "text": "E-Resources",
+   "level": 2
+  },
+  {
+   "type": "heading",
+   "text": "IEEE",
+   "level": 3
+  },
+  {
+   "type": "paragraph",
+   "text": "Institution of Electrical & Electronics Engineering"
+  },
+  {
+   "type": "paragraph",
+   "text": "URL: ieeexplore.ieee.org",
+   "links": [
+    {
+     "label": "ieeexplore.ieee.org",
+     "href": "https://ieeexplore.ieee.org"
+    }
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "Click on Browse → Journals & Magazines for 205 e-journals Package."
+  },
+  {
+   "type": "paragraph",
+   "text": "Full-text available year-wise & month-wise, with PDF download options."
+  },
+  {
+   "type": "heading",
+   "text": "Elsevier - ScienceDirect",
+   "level": 3
+  },
+  {
+   "type": "paragraph",
+   "text": "URL: www.sciencedirect.com",
+   "links": [
+    {
+     "label": "www.sciencedirect.com",
+     "href": "https://www.sciencedirect.com"
+    }
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "Type the required journal in the keyword column to find full-text articles available year-wise & month-wise."
+  },
+  {
+   "type": "heading",
+   "text": "Springer",
+   "level": 3
+  },
+  {
+   "type": "paragraph",
+   "text": "Springer 3 Subjects Collection (Engineering, CSE & Management)"
+  },
+  {
+   "type": "paragraph",
+   "text": "URL: link.springer.com",
+   "links": [
+    {
+     "label": "link.springer.com",
+     "href": "https://link.springer.com"
+    }
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "Search for the required journal to access full-text articles year-wise & month-wise."
+  },
+  {
+   "type": "heading",
+   "text": "DELNET",
+   "level": 3
+  },
+  {
+   "type": "paragraph",
+   "text": "URL: delnet.nic.in",
+   "links": [
+    {
+     "label": "delnet.nic.in",
+     "href": "http://delnet.nic.in/"
+    }
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "Click on DELNET Online (Left Side Centre Screen)"
+  },
+  {
+   "type": "paragraph",
+   "text": "Login credentials for this resource are available from the Central Library help desk."
+  },
+  {
+   "type": "paragraph",
+   "text": "Go to E-Journals (Full Text) → Engineering Technology and E-Journals"
+  },
+  {
+   "type": "heading",
+   "text": "NPTEL",
+   "level": 3
+  },
+  {
+   "type": "paragraph",
+   "text": "URL: nptel.qiscet.edu.in",
+   "links": [
+    {
+     "label": "nptel.qiscet.edu.in",
+     "href": "http://nptel.qiscet.edu.in"
+    }
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "Access 511 courses and 18,499 video lectures for all departments. NPTEL Student Local Chapter is also available."
+  },
+  {
+   "type": "heading",
+   "text": "NDL (National Digital Library)",
+   "level": 3
+  },
+  {
+   "type": "paragraph",
+   "text": "URL: ndl.iitkgp.ac.in",
+   "links": [
+    {
+     "label": "ndl.iitkgp.ac.in",
+     "href": "https://ndl.iitkgp.ac.in/"
+    }
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "Login credentials for this resource are available from the Central Library help desk."
+  },
+  {
+   "type": "heading",
+   "text": "Shodh Sindhu",
+   "level": 3
+  },
+  {
+   "type": "paragraph",
+   "text": "URL: ess.inflibnet.ac.in",
+   "links": [
+    {
+     "label": "ess.inflibnet.ac.in",
+     "href": "https://ess.inflibnet.ac.in/"
+    }
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "Full-text e-resources available."
+  },
+  {
+   "type": "heading",
+   "text": "QISCET E-Resources",
+   "level": 3
+  },
+  {
+   "type": "paragraph",
+   "text": "URL: QISCET E-Resources Intranet Users URL: QISCET E-Resources",
+   "links": [
+    {
+     "label": "QISCET E-Resources",
+     "href": "http://103.159.33.71/qiscet"
+    }
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "Curriculum Subject wise e-resources available."
+  }
+ ]
+}

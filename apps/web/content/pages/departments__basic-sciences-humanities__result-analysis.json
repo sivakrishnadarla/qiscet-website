@@ -1,0 +1,54 @@
+{
+ "slug": "departments/basic-sciences-humanities/result-analysis",
+ "section": "departments",
+ "sectionTitle": "Departments",
+ "title": "Result Analysis – Basic Sciences & Humanities",
+ "legacy": "https://qiscet.edu.in/qiscet/DEPARTMENTS_hs_analysis.php",
+ "summary": null,
+ "blocks": [
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    {
+     "text": "SEM-I 2023-2024",
+     "links": [
+      {
+       "label": "SEM-I 2023-2024",
+       "href": "https://qiscet.edu.in/qiscet/departments/hs/data/23-24%20sem-1.pdf"
+      }
+     ]
+    },
+    {
+     "text": "SEM-II 2023-2024",
+     "links": [
+      {
+       "label": "SEM-II 2023-2024",
+       "href": "https://qiscet.edu.in/qiscet/departments/hs/data/23-24%20sem-2.pdf"
+      }
+     ]
+    },
+    {
+     "text": "SEM-I 2022-2023",
+     "links": [
+      {
+       "label": "SEM-I 2022-2023",
+       "href": "https://qiscet.edu.in/qiscet/departments/hs/data/22-23%20sem-1.pdf"
+      }
+     ]
+    },
+    {
+     "text": "SEM-II 2022-2023",
+     "links": [
+      {
+       "label": "SEM-II 2022-2023",
+       "href": "https://qiscet.edu.in/qiscet/departments/hs/data/22-23%20sem-2.pdf"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "department": "basic-sciences-humanities",
+ "pageTitle": "Result Analysis"
+}

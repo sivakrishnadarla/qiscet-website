@@ -1,0 +1,95 @@
+{
+ "slug": "research",
+ "section": "research",
+ "sectionTitle": "Research & Development",
+ "title": "Research & Development",
+ "legacy": "https://qiscet.edu.in/qiscet/ACADEMICS_centre_for_research.php",
+ "summary": "QIS College of Engineering and Technology is committed to the pursuit of excellence in research and aiming to lead the national agenda across the spectrum of science and technology. We ensure all the…",
+ "blocks": [
+  {
+   "type": "paragraph",
+   "text": "QIS College of Engineering and Technology is committed to the pursuit of excellence in research and aiming to lead the national agenda across the spectrum of science and technology. We ensure all the core and inter disciplinary areas in research by approving the highest norms and standards."
+  },
+  {
+   "type": "paragraph",
+   "text": "Overview"
+  },
+  {
+   "type": "paragraph",
+   "text": "Centre for Research and Development is a state-of-the-art facilitation centre to promote research in cutting edge technologies and develop tools, gadgets, methodologies and techniques to cater the needs of industry in specific and society at large."
+  },
+  {
+   "type": "paragraph",
+   "text": "Vision"
+  },
+  {
+   "type": "paragraph",
+   "text": "To become a state-of-the-art facilitation centre to promote research in cutting edge technologies and develop tools, gadgets, methodologies and techniques to cater the needs of industry in specific and society at large."
+  },
+  {
+   "type": "paragraph",
+   "text": "Mission"
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    {
+     "text": "Develop infrastructure with world class facilities"
+    },
+    {
+     "text": "Engage quality manpower to build the strong indigenous research base"
+    },
+    {
+     "text": "Create a multidisciplinary and collaborative research environment"
+    },
+    {
+     "text": "Promote technology transfer in association with government agencies, institutions and industries"
+    },
+    {
+     "text": "Practice high standards of research ethics, transparency and accountability"
+    }
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "Objectives"
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    {
+     "text": "Facilitate research by encouraging innovations, incubations and intellects"
+    },
+    {
+     "text": "Identify potential national and international research partners to address the changing needs and demands of the industry"
+    },
+    {
+     "text": "Foster sustainable solutions to specific societal needs"
+    },
+    {
+     "text": "Encourage technology transfer and commercialization activities"
+    },
+    {
+     "text": "Generate intellectual property as a consequence of research activities"
+    }
+   ]
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    {
+     "text": "Research Policy",
+     "links": [
+      {
+       "label": "Research Policy",
+       "href": "https://qiscet.edu.in/qiscet/pdfs/Research%20Policy.pdf"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

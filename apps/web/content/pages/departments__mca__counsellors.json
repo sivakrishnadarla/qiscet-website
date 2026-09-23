@@ -1,0 +1,107 @@
+{
+ "slug": "departments/mca/counsellors",
+ "section": "departments",
+ "sectionTitle": "Departments",
+ "title": "Counsellors – Master of Computer Applications",
+ "legacy": "https://qiscet.edu.in/qiscet/DEPARTMENTS_mca_counsellors.php",
+ "summary": null,
+ "blocks": [
+  {
+   "type": "table",
+   "rows": [
+    [
+     {
+      "text": "QIS COLLEGE OF ENGINEERING AND TECHNOLOGY :: ONGOLE DEPARTMENT OF MCA STUDENT COUNSELLORS",
+      "colspan": 5
+     }
+    ],
+    [
+     {
+      "text": "S. No"
+     },
+     {
+      "text": "Dept"
+     },
+     {
+      "text": "Name of the MENTOR"
+     },
+     {
+      "text": "Student Reg.No"
+     }
+    ],
+    [
+     {
+      "text": "1"
+     },
+     {
+      "text": "SK. ANJANEYULU BABU"
+     },
+     {
+      "text": "I MCA"
+     },
+     {
+      "text": "21491F0001-20"
+     }
+    ],
+    [
+     {
+      "text": "2"
+     },
+     {
+      "text": "SK. AYISHA"
+     },
+     {
+      "text": "I MCA"
+     },
+     {
+      "text": "19491F0021-33"
+     }
+    ],
+    [
+     {
+      "text": "3"
+     },
+     {
+      "text": "K. JAYAKRISHNA"
+     },
+     {
+      "text": "II MCA"
+     },
+     {
+      "text": "19491F0001-9"
+     }
+    ],
+    [
+     {
+      "text": "4"
+     },
+     {
+      "text": "V.TEJASWANI"
+     },
+     {
+      "text": "III MCA"
+     },
+     {
+      "text": "18491F0001-39"
+     }
+    ],
+    [
+     {
+      "text": "5"
+     },
+     {
+      "text": "A. SRAVANTHI"
+     },
+     {
+      "text": "III MCA"
+     },
+     {
+      "text": "19495F0001-27"
+     }
+    ]
+   ]
+  }
+ ],
+ "department": "mca",
+ "pageTitle": "Counsellors"
+}

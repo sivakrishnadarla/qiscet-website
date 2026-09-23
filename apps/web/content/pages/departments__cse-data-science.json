@@ -1,0 +1,167 @@
+{
+ "slug": "departments/cse-data-science",
+ "section": "departments",
+ "sectionTitle": "Departments",
+ "title": "CSE (Data Science)",
+ "legacy": "https://qiscet.edu.in/qiscet/DEPARTMENTS_cse_ds.php",
+ "summary": "The Department of Computer Science & Engineering (Data Science) was established in the year 2020. It has become one of the most sought-after branches among engineering aspirants. The college conducts…",
+ "blocks": [
+  {
+   "type": "paragraph",
+   "text": "The Department of Computer Science & Engineering (Data Science) was established in the year 2020. It has become one of the most sought-after branches among engineering aspirants. The college conducts examinations, and the degree is awarded by JNTU Kakinada. The university integrates the latest advancements in Data Science, Machine Learning, Artificial Intelligence, Big Data Analytics, Data Mining, Data Warehousing, and related fields in a dynamic manner. This ensures that students gain hands-on expertise in data-driven technologies, predictive modeling, and real-world problem-solving, preparing them for careers in the evolving field of Data Science."
+  },
+  {
+   "type": "paragraph",
+   "text": "The Computer Science and Engineering (Data Science) branch is dedicated to harnessing the power of data analytics, machine learning, artificial intelligence, and big data technologies to extract valuable insights and drive intelligent decision-making. This program blends computer science principles with statistical and analytical techniques, preparing students to solve complex problems in various industries, including healthcare, finance, Cybersecurity, business intelligence, and smart cities. With a strong emphasis on innovation, research, and ethical data handling, we aim to equip students with technical expertise, problem-solving skills, and industryoriented knowledge to become future-ready data scientists and AI professionals. Through handson learning, industry collaborations, and cutting-edge tools, we prepare students to leverage data for impactful, real-world solutions that contribute to technological and societal progress."
+  },
+  {
+   "type": "heading",
+   "text": "Courses",
+   "level": 4
+  },
+  {
+   "type": "table",
+   "rows": [
+    [
+     {
+      "text": "Courses Offered"
+     },
+     {
+      "text": "Intake"
+     }
+    ],
+    [
+     {
+      "text": "B.Tech - CSE (Data Science)"
+     },
+     {
+      "text": "240"
+     }
+    ]
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "Vision",
+   "level": 4
+  },
+  {
+   "type": "paragraph",
+   "text": "To be a globally recognized center of excellence in Computer Science and Data Science, driving innovation, research, and ethical data-driven solutions to revolutionize industries and improve human lives."
+  },
+  {
+   "type": "heading",
+   "text": "Mission",
+   "level": 4
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    {
+     "text": "To advance education, research, and innovation in Data Science and Computer Science Engineering while ensuring ethical and responsible data usage."
+    },
+    {
+     "text": "To equip students with expertise in big data analytics, machine learning, artificial intelligence, and cloud computing, fostering innovation and collaboration with industries."
+    },
+    {
+     "text": "To integrate data-driven solutions into real-world applications, support technological entrepreneurship, and promote continuous learning, empowering professionals to shape the future of the digital world."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "B.Tech",
+   "level": 4
+  },
+  {
+   "type": "heading",
+   "text": "Programme Educational Objectives Of B.Tech (CSE-DS)",
+   "level": 4
+  },
+  {
+   "type": "list",
+   "ordered": true,
+   "items": [
+    {
+     "text": "PEO1. Graduates will have solid foundation in fundamentals of computer science and engineering required to solve computing problems and create innovative software products and solutions for the real life problems."
+    },
+    {
+     "text": "PEO2. Graduates will have technical competence and skills to use modern and cost-effective tools and technologies and have extensive and effective practical skills in computer science and engineering to pursue a career as a computer engineer."
+    },
+    {
+     "text": "PEO3. Graduates will have attributes like professionals with world class academic excellence, ethics, best practices, values, social concerns, lifelong learning and openness to other international cultures to meet the global needs."
+    },
+    {
+     "text": "PEO4. Graduates will have managerial and entrepreneur skills with cross-cultural etiquettes, leading to a sustainable competitive edge in R&D and meeting societal needs."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "Programme Outcomes Of B.Tech (CSE-DS)",
+   "level": 4
+  },
+  {
+   "type": "list",
+   "ordered": true,
+   "items": [
+    {
+     "text": "PO1. Engineering knowledge: Apply the knowledge of mathematics, science, engineering fundamentals, and an engineering specialization to the solution of complex engineering problems."
+    },
+    {
+     "text": "PO2. Problem analysis: Identify, formulate, review research literature, and analyze complex engineering problems reaching substantiated conclusions using first principles of mathematics, natural sciences, and engineering sciences."
+    },
+    {
+     "text": "PO3. Design/ development of solutions: Design solutions for complex engineering problems and design system components or processes that meet the specified needs with appropriate consideration for the public health and safety, and the cultural, societal, and environmental considerations."
+    },
+    {
+     "text": "PO4. Conduct investigations of complex problems: Use research-based knowledge and research methods including design of experiments, analysis and interpretation of data, and synthesis of the information to provide valid conclusions."
+    },
+    {
+     "text": "PO5. Modern tool usage: Create, select, and apply appropriate techniques, resources, and modern engineering and IT tools including prediction and modeling to complex engineering activities with an understanding of the limitations."
+    },
+    {
+     "text": "PO6. The engineer and society: Apply reasoning informed by the contextual knowledge to assess health, safety, legal and cultural issues and the consequent responsibilities relevant to the engineering practice."
+    },
+    {
+     "text": "PO7. Environment and sustainability: Understand the impact of the professional engineering solutions In societal and environmental contexts, and demonstrate the knowledge of and need for sustainable development."
+    },
+    {
+     "text": "PO8. Ethics: Apply ethical principles and commit to professional ethics and responsibilities and norms of the engineering practice."
+    },
+    {
+     "text": "PO9. Individual and team work: Function effectively as an individual, and as a member or leader in diverse teams, and in multidisciplinary settings."
+    },
+    {
+     "text": "PO10. Communication: Communicate effectively on complex engineering activities with the engineering community and with society at large, such as, being able to comprehend and write effective reports and design documentation, make effective presentations, and give and receive clear instructions."
+    },
+    {
+     "text": "PO11. Project management and finance: Demonstrate knowledge and understanding of the engineering and management principles and apply these to one's own work, as a member and leader in a team, to manage projects' and in multidisciplinary environments."
+    },
+    {
+     "text": "PO12. Life-long learning: Recognize the need for, and have the preparation and ability to engage in independent and life-long learning in the broadest context of technological change."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "Programme Specific Out Comes Of B.Tech (CSE-DS)",
+   "level": 4
+  },
+  {
+   "type": "list",
+   "ordered": true,
+   "items": [
+    {
+     "text": "PSO1. Domain Knowledge: An ability to understand, analyze and develop computer programs in the areas related to Algorithms, System Software, Multimedia, Web Design, Big Data and Analytics and Networking for efficient design of computer based systems of varying complexity to meet the need of the software industry."
+    },
+    {
+     "text": "PSO2. Process Management: An Ability to organize and apply standard practices and strategies in software product development by managing and monitoring the resources and safeguarding the data."
+    }
+   ]
+  }
+ ],
+ "department": "cse-data-science",
+ "isDepartmentHome": true
+}

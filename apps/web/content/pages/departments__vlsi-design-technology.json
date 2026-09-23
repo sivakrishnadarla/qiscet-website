@@ -1,0 +1,158 @@
+{
+ "slug": "departments/vlsi-design-technology",
+ "section": "departments",
+ "sectionTitle": "Departments",
+ "title": "Electronics Engineering (VLSI Design & Technology)",
+ "legacy": "https://qiscet.edu.in/qiscet/DEPARTMENTS_eevt.php",
+ "summary": "The Department of Electronics Engineering (VLSI Design and Technology) was started in the year 2022. It provides students with a strong foundation in digital and analog integrated circuit (IC)…",
+ "blocks": [
+  {
+   "type": "paragraph",
+   "text": "The Department of Electronics Engineering (VLSI Design and Technology) was started in the year 2022. It provides students with a strong foundation in digital and analog integrated circuit (IC) design, FPGA-based prototyping, ASIC development, and semiconductor device modeling. The curriculum is designed to equip students with expertise in EDA tools such as Cadence, Synopsys, Mentor Graphics, and Xilinx, ensuring they are industry-ready. the department actively engages in cutting-edge research areas, including AI/ML in VLSI, photonic ICs, and nanoelectronics. Collaborations with industry leaders and research organizations provide students with practical exposure and opportunities to work on real-world semiconductor challenges."
+  },
+  {
+   "type": "paragraph",
+   "text": "The department is equipped with state-of-the-art laboratories to support hands-on learning and research in VLSI design and technology. The VLSI Design Lab offers high-end computing facilities for HDL programming, RTL design, synthesis, and verification. The ASIC and FPGA Lab enables students to implement and test digital designs using industry-standard FPGA boards."
+  },
+  {
+   "type": "heading",
+   "text": "Courses",
+   "level": 4
+  },
+  {
+   "type": "table",
+   "rows": [
+    [
+     {
+      "text": "Courses Offered"
+     },
+     {
+      "text": "Intake"
+     }
+    ],
+    [
+     {
+      "text": "B.Tech - Electronics Engineering (VLSI Design & Technology)"
+     },
+     {
+      "text": "60"
+     }
+    ]
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "Vision",
+   "level": 4
+  },
+  {
+   "type": "paragraph",
+   "text": "To be a centre of high quality education and research in the field of electronics and communication engineering in order to fulfil the worldwide needs and to produce entrepreneurs with a synthesis of ethical principles and societal goals."
+  },
+  {
+   "type": "heading",
+   "text": "Mission",
+   "level": 4
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    {
+     "text": "To impart quality education to meet the needs of the industry and research in the field of Electronics and Communication Engineering."
+    },
+    {
+     "text": "To encourage an environment conducive to innovation, creativity, team spirit and entrepreneurial leadership in Electronics and Communication Engineering."
+    },
+    {
+     "text": "To foster networking with Alumni, Software Industries, Institutes and other stakeholders for effective interaction."
+    },
+    {
+     "text": "To practice and promote high standards of ethical values through societal commitment."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "B.Tech",
+   "level": 4
+  },
+  {
+   "type": "heading",
+   "text": "Programme Educational Objectives Of B.Tech (EEVT)",
+   "level": 4
+  },
+  {
+   "type": "list",
+   "ordered": true,
+   "items": [
+    {
+     "text": "LEARN AND INTEGRATE:Graduates must have understanding of applied and fundamental engineering sciences in order to comprehend engineering principles, which are required to create and solve problems pertaining to Electronics and Communication Engineering."
+    },
+    {
+     "text": "THINK AND CREATE:Students graduating from this programme are expected to have knowledge in the areas of experimentation, analysis, and synthesis pertaining to Electronics and Communication Engineering. Classes that focus on design, innovation, and the creation of unique products and solutions to real-world challenges."
+    },
+    {
+     "text": "PRACTICE CITIZENSHIP:In order to fulfil the requirements of both industry and society, graduates are expected to have skills in management and entrepreneurship, an ethical and professional mindset, and a multidisciplinary approach."
+    },
+    {
+     "text": "EXPERTISE:Graduates are encouraged to pursue more education, participate in research, and engage in lifelong learning in order to adapt themselves to the rapidly evolving technological landscape and to increase their chances of finding success in engineering positions around the world."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "Programme Outcomes Of B.Tech (EEVT)",
+   "level": 4
+  },
+  {
+   "type": "list",
+   "ordered": true,
+   "items": [
+    {
+     "text": "An ability to apply the knowledge of mathematics, science, engineering fundamentals, and an engineering specialization to the solution of complex engineering problems."
+    },
+    {
+     "text": "An ability to identify, formulate, review research literature, and analyze complex engineering problems reaching substantiated conclusions using first principles of mathematics, natural sciences, and engineering sciences."
+    },
+    {
+     "text": "An ability to Design solutions for complex engineering problems and design system components or processes that meet the specified needs with appropriate consideration for the public health and safety, and the cultural, societal, and environmental considerations."
+    },
+    {
+     "text": "An ability to use research-based knowledge and research methods including design of experiments, analysis and interpretation of data, and synthesis of the information to provide valid conclusions."
+    },
+    {
+     "text": "An ability to create, select, and apply appropriate techniques, resources, and modern engineering and IT tools including prediction and modeling to complex engineering activities with an understanding of the limitations."
+    },
+    {
+     "text": "An ability to apply reasoning informed by the contextual knowledge to assess societal, health, safety, legal and cultural issues and the consequent responsibilities relevant to the professional engineering practice."
+    },
+    {
+     "text": "An ability to understand the impact of the professional engineering solutions in societal and environmental contexts, and demonstrate the knowledge of, and need for sustainable development."
+    },
+    {
+     "text": "An ability to apply ethical principles and commit to professional ethics and responsibilities and norms of the engineering practice."
+    },
+    {
+     "text": "An ability to function effectively as an individual, and as a member or leader in diverse teams, and in multidisciplinary settings."
+    },
+    {
+     "text": "An ability to communicate effectively on complex engineering activities with the engineering community and with society at large, such as, being able to comprehend and write effective reports and design documentation, make effective presentations, and give and receive clear instructions."
+    },
+    {
+     "text": "An ability to demonstrate knowledge and understanding of the engineering and management principles and apply these to one’s own work, as a member and leader in a team, to manage projects and in multidisciplinary environments."
+    },
+    {
+     "text": "An ability to recognize the need for, and have the preparation and ability to engage in independent and life-long learning in the broadest context of technological change."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "Programme Specific Out Comes Of B.Tech (EEVT)",
+   "level": 4
+  }
+ ],
+ "department": "vlsi-design-technology",
+ "isDepartmentHome": true
+}

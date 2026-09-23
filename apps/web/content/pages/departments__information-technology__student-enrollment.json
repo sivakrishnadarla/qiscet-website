@@ -1,0 +1,45 @@
+{
+ "slug": "departments/information-technology/student-enrollment",
+ "section": "departments",
+ "sectionTitle": "Departments",
+ "title": "Student Enrollment – Information Technology",
+ "legacy": "https://qiscet.edu.in/qiscet/DEPARTMENTS_it_admission.php",
+ "summary": null,
+ "blocks": [
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    {
+     "text": "Student Enrollment - 2021-22",
+     "links": [
+      {
+       "label": "Student Enrollment - 2021-22",
+       "href": "https://qiscet.edu.in/qiscet/departments/it/data/Student%20Adimission%20-2021-22.pdf"
+      }
+     ]
+    },
+    {
+     "text": "Student Enrollment - 2020-21",
+     "links": [
+      {
+       "label": "Student Enrollment - 2020-21",
+       "href": "https://qiscet.edu.in/qiscet/departments/it/data/Student%20Adimission%20-2020-21.pdf"
+      }
+     ]
+    },
+    {
+     "text": "Student Enrollment - 2019-20",
+     "links": [
+      {
+       "label": "Student Enrollment - 2019-20",
+       "href": "https://qiscet.edu.in/qiscet/departments/it/data/Student%20Adimission%20-2019-20.pdf"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "department": "information-technology",
+ "pageTitle": "Student Enrollment"
+}

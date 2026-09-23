@@ -1,0 +1,87 @@
+{
+ "slug": "departments/information-technology/class-coordinators",
+ "section": "departments",
+ "sectionTitle": "Departments",
+ "title": "Class Coordinators – Information Technology",
+ "legacy": "https://qiscet.edu.in/qiscet/DEPARTMENTS_it_class_teachers.php",
+ "summary": null,
+ "blocks": [
+  {
+   "type": "table",
+   "rows": [
+    [
+     {
+      "text": "S.No"
+     },
+     {
+      "text": "Class"
+     },
+     {
+      "text": "Section"
+     },
+     {
+      "text": "Name of the Staff"
+     }
+    ],
+    [
+     {
+      "text": "1"
+     },
+     {
+      "text": "II B. Tech"
+     },
+     {
+      "text": "A Section"
+     },
+     {
+      "text": "K. Anitha"
+     }
+    ],
+    [
+     {
+      "text": "2"
+     },
+     {
+      "text": "II B. Tech"
+     },
+     {
+      "text": "B Section"
+     },
+     {
+      "text": "Sd. Shahada"
+     }
+    ],
+    [
+     {
+      "text": "3"
+     },
+     {
+      "text": "III B. Tech"
+     },
+     {
+      "text": "-"
+     },
+     {
+      "text": "N. SaiKiran"
+     }
+    ],
+    [
+     {
+      "text": "4"
+     },
+     {
+      "text": "IV B. Tech"
+     },
+     {
+      "text": "-"
+     },
+     {
+      "text": "K. Sreenath"
+     }
+    ]
+   ]
+  }
+ ],
+ "department": "information-technology",
+ "pageTitle": "Class Coordinators"
+}

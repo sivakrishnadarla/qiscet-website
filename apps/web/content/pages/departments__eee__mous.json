@@ -1,0 +1,27 @@
+{
+ "slug": "departments/eee/mous",
+ "section": "departments",
+ "sectionTitle": "Departments",
+ "title": "MoUs – Electrical & Electronics Engineering",
+ "legacy": "https://qiscet.edu.in/qiscet/DEPARTMENTS_eee_mou.php",
+ "summary": null,
+ "blocks": [
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    {
+     "text": "LIST OF MEMORANDUM OF UNDERSTANDING",
+     "links": [
+      {
+       "label": "LIST OF MEMORANDUM OF UNDERSTANDING",
+       "href": "https://qiscet.edu.in/qiscet/departments/eee/MOU%27S.pdf"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "department": "eee",
+ "pageTitle": "MoUs"
+}

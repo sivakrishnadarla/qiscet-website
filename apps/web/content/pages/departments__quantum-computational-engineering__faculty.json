@@ -1,0 +1,97 @@
+{
+ "slug": "departments/quantum-computational-engineering/faculty",
+ "section": "departments",
+ "sectionTitle": "Departments",
+ "title": "Faculty – Quantum Computational Engineering",
+ "legacy": "https://qiscet.edu.in/qiscet/DEPARTMENTS_qce_faculty_list.php",
+ "summary": null,
+ "blocks": [
+  {
+   "type": "table",
+   "rows": [
+    [
+     {
+      "text": "S.No"
+     },
+     {
+      "text": "Name"
+     },
+     {
+      "text": "Qualification"
+     },
+     {
+      "text": "Designation"
+     },
+     {
+      "text": "Email"
+     },
+     {
+      "text": "Area of Interest"
+     }
+    ],
+    [
+     {
+      "text": "1"
+     },
+     {
+      "text": "Dr. Alok Kumar Sahoo"
+     },
+     {
+      "text": "M. Sc., Ph.D."
+     },
+     {
+      "text": "Assistant Professor & HOD-IC, QCE"
+     },
+     {
+      "text": "alokkumar.s@qiscet.edu.in"
+     },
+     {
+      "text": "Low temperature magnetism, Dielectric Spectroscopy, Neutron Diffraction, Quantum Computing"
+     }
+    ],
+    [
+     {
+      "text": "2"
+     },
+     {
+      "text": "Mr. Dibyajyoti Maharana"
+     },
+     {
+      "text": "Integrated M. Sc."
+     },
+     {
+      "text": "Assistant Professor, QCE"
+     },
+     {
+      "text": "dibyajyoti.m@qiscet.edu.in"
+     },
+     {
+      "text": "Magnetism, Dielectric Spectroscopy, Multiferroic, Quantum Computing, Supercapacitor"
+     }
+    ],
+    [
+     {
+      "text": "3"
+     },
+     {
+      "text": "Ms. Yashaswini Hota"
+     },
+     {
+      "text": "M. Sc."
+     },
+     {
+      "text": "Assistant Professor, QCE"
+     },
+     {
+      "text": "yashaswini.h@qiscet.edu.in"
+     },
+     {
+      "text": "Quantum Cascade Laser, Terahertz Radiation, Photonics, Nuclear Particle Physics, Quantum Computing"
+     }
+    ]
+   ]
+  }
+ ],
+ "department": "quantum-computational-engineering",
+ "pageTitle": "Faculty"
+}

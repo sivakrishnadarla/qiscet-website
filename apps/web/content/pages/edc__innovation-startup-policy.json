@@ -1,0 +1,40 @@
+{
+ "slug": "edc/innovation-startup-policy",
+ "section": "edc",
+ "sectionTitle": "Entrepreneurship Development Cell",
+ "title": "Innovation & Startup Policy",
+ "legacy": "https://qiscet.edu.in/qiscet/Innovation_Startup_Policy.php",
+ "summary": null,
+ "blocks": [
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    {
+     "text": "NISP policy by GoI",
+     "links": [
+      {
+       "label": "NISP policy by GoI",
+       "href": "https://qiscet.edu.in/qiscet/edc/NISP%20policy%20by%20GoI.pdf"
+      }
+     ],
+     "images": [
+      "/images/images/new_blink.jpg"
+     ]
+    },
+    {
+     "text": "NISP policy of QISCET",
+     "links": [
+      {
+       "label": "NISP policy of QISCET",
+       "href": "https://qiscet.edu.in/qiscet/edc/Policy%20for%20QISCET-NISP_v1_Updated.pdf"
+      }
+     ],
+     "images": [
+      "/images/images/new_blink.jpg"
+     ]
+    }
+   ]
+  }
+ ]
+}

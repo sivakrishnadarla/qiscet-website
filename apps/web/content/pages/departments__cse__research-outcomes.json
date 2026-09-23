@@ -1,0 +1,54 @@
+{
+ "slug": "departments/cse/research-outcomes",
+ "section": "departments",
+ "sectionTitle": "Departments",
+ "title": "Research Outcomes – Computer Science & Engineering",
+ "legacy": "https://qiscet.edu.in/qiscet/DEPARTMENTS_cse_research.php",
+ "summary": null,
+ "blocks": [
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    {
+     "text": "Journals and publications",
+     "links": [
+      {
+       "label": "Journals and publications",
+       "href": "https://qiscet.edu.in/qiscet/DEPARTMENTS_cse_publications.php"
+      }
+     ]
+    },
+    {
+     "text": "Books",
+     "links": [
+      {
+       "label": "Books",
+       "href": "https://qiscet.edu.in/qiscet/departments/cse/Books.pdf"
+      }
+     ]
+    },
+    {
+     "text": "Patents",
+     "links": [
+      {
+       "label": "Patents",
+       "href": "https://qiscet.edu.in/qiscet/DEPARTMENTS_cse_Patents.php"
+      }
+     ]
+    },
+    {
+     "text": "Sponsored Research",
+     "links": [
+      {
+       "label": "Sponsored Research",
+       "href": "https://qiscet.edu.in/qiscet/DEPARTMENTS_cse_Sponsored_Research.php"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "department": "cse",
+ "pageTitle": "Research Outcomes"
+}

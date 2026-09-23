@@ -1,0 +1,15 @@
+{
+ "slug": "about/board-of-governors",
+ "section": "about",
+ "sectionTitle": "About Us",
+ "title": "Board of Governors",
+ "legacy": "https://qiscet.edu.in/qiscet/ABOUT_US_governers.php",
+ "summary": null,
+ "blocks": [
+  {
+   "type": "image",
+   "src": "/images/council/28thgoverningcouncil-members_page-0001.jpg",
+   "alt": ""
+  }
+ ]
+}

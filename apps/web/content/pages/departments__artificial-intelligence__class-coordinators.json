@@ -1,0 +1,45 @@
+{
+ "slug": "departments/artificial-intelligence/class-coordinators",
+ "section": "departments",
+ "sectionTitle": "Departments",
+ "title": "Class Coordinators – Artificial Intelligence",
+ "legacy": "https://qiscet.edu.in/qiscet/DEPARTMENTS_ai_class_teachers.php",
+ "summary": null,
+ "blocks": [
+  {
+   "type": "table",
+   "rows": [
+    [
+     {
+      "text": "S.No"
+     },
+     {
+      "text": "Class"
+     },
+     {
+      "text": "Section"
+     },
+     {
+      "text": "Name of the Staff"
+     }
+    ],
+    [
+     {
+      "text": "1"
+     },
+     {
+      "text": "II B.Tech"
+     },
+     {
+      "text": "1"
+     },
+     {
+      "text": "M.Rama"
+     }
+    ]
+   ]
+  }
+ ],
+ "department": "artificial-intelligence",
+ "pageTitle": "Class Coordinators"
+}

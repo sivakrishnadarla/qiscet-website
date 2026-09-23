@@ -1,0 +1,167 @@
+{
+ "slug": "departments/artificial-intelligence",
+ "section": "departments",
+ "sectionTitle": "Departments",
+ "title": "Artificial Intelligence",
+ "legacy": "https://qiscet.edu.in/qiscet/DEPARTMENTS_AI.php",
+ "summary": "The Department of Artificial Intelligence & Engineering was established in the year 2021. It has quickly become one of the most sought-after branches among engineering aspirants. The college conducts…",
+ "blocks": [
+  {
+   "type": "paragraph",
+   "text": "The Department of Artificial Intelligence & Engineering was established in the year 2021. It has quickly become one of the most sought-after branches among engineering aspirants. The college conducts examinations, and the degree is awarded by JNTU Kakinada. The university integrates the latest advancements in Artificial Intelligence, Machine Learning, Deep Learning, Natural Language Processing, Computer Vision, Data Science, and allied fields in a dynamic manner. This ensures that students are exposed to cutting-edge technological developments throughout the program, preparing them for innovation and research in AI-driven industries."
+  },
+  {
+   "type": "paragraph",
+   "text": "The Artificial Intelligence (AI) Engineering branch focuses on developing intelligent systems that can think, learn, and adapt like humans. This field integrates computer science, data science, machine learning, deep learning, robotics, and natural language processing to create innovative AI-driven solutions. Our program is designed to equip students with cutting-edge knowledge, practical skills, and ethical AI principles to solve real-world challenges across industries such as healthcare, automation, finance, Cybersecurity, and smart cities. With a strong foundation in research, industry collaboration, and innovation, we aim to produce AI professionals who can shape the future of technology responsibly and effectively."
+  },
+  {
+   "type": "heading",
+   "text": "Courses",
+   "level": 4
+  },
+  {
+   "type": "table",
+   "rows": [
+    [
+     {
+      "text": "Courses Offered"
+     },
+     {
+      "text": "Intake"
+     }
+    ],
+    [
+     {
+      "text": "B.Tech - AI (Artificial Inteligence)"
+     },
+     {
+      "text": "60"
+     }
+    ]
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "Vision",
+   "level": 4
+  },
+  {
+   "type": "paragraph",
+   "text": "To be a globally recognized center of excellence in Artificial Intelligence Engineering, fostering innovation, ethical AI development, and real-world impact for the advancement of technology. and society."
+  },
+  {
+   "type": "heading",
+   "text": "Mission",
+   "level": 4
+  },
+  {
+   "type": "list",
+   "ordered": true,
+   "items": [
+    {
+     "text": "To advance AI education, research, and innovation while ensuring ethical and responsible AIdevelopment."
+    },
+    {
+     "text": "To equip students with expertise in machine learning, robotics, and deep learning,fostering innovation and industry collaboration."
+    },
+    {
+     "text": "To integrate AI into real-world applications,support entrepreneurship, and promote lifelong learning, creating AI solutions that drive technological progress and societal well-being."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "B.Tech",
+   "level": 4
+  },
+  {
+   "type": "heading",
+   "text": "Programme Educational Objectives Of B.Tech (AI)",
+   "level": 4
+  },
+  {
+   "type": "list",
+   "ordered": true,
+   "items": [
+    {
+     "text": "Graduate shall have knowledge in applied and basic engineering sciences to understand engineering principles which is necessary to formulate and solve problems related to Artificial Inteligence."
+    },
+    {
+     "text": "Graduate shall have knowledge in experimentation, analysis and synthesis of Artificial Inteligence courses to Design/Innovate and create novel products/Solutions to real life problems."
+    },
+    {
+     "text": "Graduate shall have Managerial and entrepreneur skills, ethical and professional attitude in multidisciplinary approach to meet the needs of industry and society."
+    },
+    {
+     "text": "Graduate shall go for further studies, research, lifelong learning to adopt oneself in the phase of changing technologies to ensure the students to success in engineering position globally."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "Programme Outcomes Of B.Tech (AI)",
+   "level": 4
+  },
+  {
+   "type": "list",
+   "ordered": true,
+   "items": [
+    {
+     "text": "Engineering Knowledge: Apply the knowledge of mathematics, science, engineering fundamentals, and an engineering specialization to the solution of complex engineering problems."
+    },
+    {
+     "text": "Problem Analysis: Identify, formulate, review research literature, and analyze complex engineering problems reaching substantiated conclusions using first principles of mathematics, natural sciences, and engineering sciences."
+    },
+    {
+     "text": "Design/development of solutions: Design solutions for complex engineering problems and design system components or processes that meet the specified needs with appropriate consideration for the public health and safety, and the cultural, societal, and environmental considerations."
+    },
+    {
+     "text": "Conduct investigations of complex problems: Use research-based knowledge and research methods including design of experiments, analysis and interpretation of data, and synthesis of the information to provide valid conclusions."
+    },
+    {
+     "text": "Modern Tool Usage: Create, select, and apply appropriate techniques, resources, and modern engineering and AI tools including prediction and modeling to complex engineering activities with an understanding of the limitations."
+    },
+    {
+     "text": "The Engineer and Society: Apply reasoning informed by the contextual knowledge to assess societal, health, safety, legal and cultural issues and the consequent responsibilities relevant to the professional engineering practice."
+    },
+    {
+     "text": "Environment and Sustainability: Understand the impact of the professional engineering solutions in societal and environmental contexts, and demonstrate the knowledge of, and need for sustainable development."
+    },
+    {
+     "text": "Ethics: Apply ethical principles and commit to professional ethics and responsibilities and norms of the engineering practice."
+    },
+    {
+     "text": "Individual and Team work: Function effectively as an individual, and as a member or leader in diverse teams, and in multidisciplinary settings."
+    },
+    {
+     "text": "Communication: Communicate effectively on complex engineering activities with the engineering community and with society at large, such as, being able to comprehend and write effective reports and design documentation, make effective presentations, and give and receive clear instructions."
+    },
+    {
+     "text": "Project Management and Finance: Demonstrate knowledge and understanding of the engineering and management principles and apply these to one’s own work, as a member and leader in a team, to manage projects and in multidisciplinary environments."
+    },
+    {
+     "text": "Life-long Learning: Recognize the need for, and have the preparation and ability to engage in independent and life-long learning in the broadest context of technological change."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "Programme Specific Out Comes Of B.Tech (AI)",
+   "level": 4
+  },
+  {
+   "type": "list",
+   "ordered": true,
+   "items": [
+    {
+     "text": "Domain Knowledge:The Artificial Inteligence graduates will able to identify and analyze end user needs and take them into account in the selection, creation, evaluation and administration of AI solutions."
+    },
+    {
+     "text": "Process Management:An ability to organize an AI infrastructure by managing, monitoring the resources and safeguard the data."
+    }
+   ]
+  }
+ ],
+ "department": "artificial-intelligence",
+ "isDepartmentHome": true
+}

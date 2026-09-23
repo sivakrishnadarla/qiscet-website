@@ -1,0 +1,47 @@
+{
+ "slug": "facilities/divyangjan",
+ "section": "facilities",
+ "sectionTitle": "Facilities",
+ "title": "Divyangjan Facilities",
+ "legacy": "https://qiscet.edu.in/qiscet/Facilities_Divyangian.php",
+ "summary": "The infrastructural facilities at QISCET is Divyangjan friendly in order to make the study environment more convenient for the disabled students.",
+ "blocks": [
+  {
+   "type": "image",
+   "src": "/images/images/lift.jpg",
+   "alt": "Diviyangian Facilities"
+  },
+  {
+   "type": "paragraph",
+   "text": "The infrastructural facilities at QISCET is Divyangjan friendly in order to make the study environment more convenient for the disabled students."
+  },
+  {
+   "type": "paragraph",
+   "text": "The college has following facilities:"
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    {
+     "text": "Physical Conveniences/Facilities"
+    },
+    {
+     "text": "Ramp"
+    },
+    {
+     "text": "Wheel Chairs"
+    },
+    {
+     "text": "Lift"
+    },
+    {
+     "text": "Disable friendly wash Rooms"
+    },
+    {
+     "text": "Scribes for examination"
+    }
+   ]
+  }
+ ]
+}

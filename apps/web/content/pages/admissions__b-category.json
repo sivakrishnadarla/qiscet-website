@@ -1,0 +1,15 @@
+{
+ "slug": "admissions/b-category",
+ "section": "admissions",
+ "sectionTitle": "Admissions",
+ "title": "B-Category (Management Quota) Admissions",
+ "legacy": "https://qiscet.edu.in/qiscet/bcat_moreinfo.php",
+ "summary": null,
+ "blocks": [
+  {
+   "type": "image",
+   "src": "/images/bcat/cet_bcat24.jpg",
+   "alt": "careers"
+  }
+ ]
+}

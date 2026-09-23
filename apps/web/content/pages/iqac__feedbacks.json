@@ -1,0 +1,61 @@
+{
+ "slug": "iqac/feedbacks",
+ "section": "iqac",
+ "sectionTitle": "IQAC",
+ "title": "IQAC Feedbacks",
+ "legacy": "https://qiscet.edu.in/qiscet/IQAC_feedbacks.php",
+ "summary": null,
+ "blocks": [
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    {
+     "text": "Students Feedback on Curriculum",
+     "links": [
+      {
+       "label": "Students Feedback on Curriculum",
+       "href": "https://forms.gle/HcA7rphWArqGpaJQ7"
+      }
+     ]
+    },
+    {
+     "text": "Teachers Feedback on Curriculum",
+     "links": [
+      {
+       "label": "Teachers Feedback on Curriculum",
+       "href": "https://forms.gle/yqR3m2DRzUAd4An76"
+      }
+     ]
+    },
+    {
+     "text": "Parents Feedback on Curriculum",
+     "links": [
+      {
+       "label": "Parents Feedback on Curriculum",
+       "href": "https://forms.gle/BKS1396RmuPBf2My9"
+      }
+     ]
+    },
+    {
+     "text": "Alumni Feedback on Curriculum",
+     "links": [
+      {
+       "label": "Alumni Feedback on Curriculum",
+       "href": "https://forms.gle/QozMXtmS5iqJih5V9"
+      }
+     ]
+    },
+    {
+     "text": "Employers Feedback on Curriculum",
+     "links": [
+      {
+       "label": "Employers Feedback on Curriculum",
+       "href": "https://forms.gle/3ugCu4wgcQSxYzT17"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

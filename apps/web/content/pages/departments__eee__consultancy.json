@@ -1,0 +1,27 @@
+{
+ "slug": "departments/eee/consultancy",
+ "section": "departments",
+ "sectionTitle": "Departments",
+ "title": "Consultancy – Electrical & Electronics Engineering",
+ "legacy": "https://qiscet.edu.in/qiscet/DEPARTMENTS_eee_consultancy.php",
+ "summary": null,
+ "blocks": [
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    {
+     "text": "Consultancy",
+     "links": [
+      {
+       "label": "Consultancy",
+       "href": "https://qiscet.edu.in/qiscet/departments/eee/Consultancy.pdf"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "department": "eee",
+ "pageTitle": "Consultancy"
+}

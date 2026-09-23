@@ -1,0 +1,17 @@
+{
+ "slug": "departments/mechanical/faculty",
+ "section": "departments",
+ "sectionTitle": "Departments",
+ "title": "Faculty – Mechanical Engineering",
+ "legacy": "https://qiscet.edu.in/qiscet/DEPARTMENTS_me_faculty_list.php",
+ "summary": null,
+ "blocks": [
+  {
+   "type": "document",
+   "href": "https://qiscet.edu.in/qiscet/Faculty/QISCET%20-%20ME%20-%20Faculty%20List.pdf",
+   "label": "View document (PDF)"
+  }
+ ],
+ "department": "mechanical",
+ "pageTitle": "Faculty"
+}

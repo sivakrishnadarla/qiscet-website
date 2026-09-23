@@ -1,0 +1,73 @@
+{
+ "slug": "departments/artificial-intelligence/head-of-the-department",
+ "section": "departments",
+ "sectionTitle": "Departments",
+ "title": "Head of the Department – Artificial Intelligence",
+ "legacy": "https://qiscet.edu.in/qiscet/DEPARTMENTS_AI_HOD.php",
+ "summary": null,
+ "blocks": [
+  {
+   "type": "table",
+   "rows": [
+    [
+     {
+      "text": "HOD Name:"
+     },
+     {
+      "text": "Dr. M.Muthamizh Selvam"
+     }
+    ],
+    [
+     {
+      "text": "Designation:"
+     },
+     {
+      "text": "Assoc Professor & HOD"
+     }
+    ],
+    [
+     {
+      "text": "Qualification:"
+     },
+     {
+      "text": "M.Tech, Ph.D"
+     }
+    ],
+    [
+     {
+      "text": "Email:"
+     },
+     {
+      "text": "selvam.m@qiscet.edu.in"
+     }
+    ],
+    [
+     {
+      "text": "Contact No:"
+     },
+     {
+      "text": "9487087286"
+     }
+    ],
+    [
+     {
+      "text": "Areas of Interest:"
+     },
+     {
+      "text": "Machine Learning, Artificial Intelligence, Distribution Pricing and Big Data Analysis."
+     }
+    ],
+    [
+     {
+      "text": "Experience:"
+     },
+     {
+      "text": "5 years"
+     }
+    ]
+   ]
+  }
+ ],
+ "department": "artificial-intelligence",
+ "pageTitle": "Head of the Department"
+}

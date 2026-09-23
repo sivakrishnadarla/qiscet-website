@@ -1,0 +1,66 @@
+{
+ "slug": "facilities/transport",
+ "section": "facilities",
+ "sectionTitle": "Facilities",
+ "title": "Transport",
+ "legacy": "https://qiscet.edu.in/qiscet/FACILITIES_Transport.php",
+ "summary": "QIS Educational Institutions Transport policy aimed at aligning the demand and supply of the Institutional transport services through effective management of the Institutional vehicles, increasing…",
+ "blocks": [
+  {
+   "type": "image",
+   "src": "/images/transport/transport_img.jpg",
+   "alt": ""
+  },
+  {
+   "type": "paragraph",
+   "text": "QIS Educational Institutions Transport policy aimed at aligning the demand and supply of the Institutional transport services through effective management of the Institutional vehicles, increasing staff and students understanding of the overall institutional fleet programs, Provide greater accountability of the Institutional fleet, comprehensively operate, maintain and repair vehicles to acceptable safety standards."
+  },
+  {
+   "type": "heading",
+   "text": "Vision",
+   "level": 5
+  },
+  {
+   "type": "paragraph",
+   "text": "The vision of Transport department is to provide affordable & quality transportation service to students and staff members of QIS Educational Institutions and to be widely recognized as the premiere provider of transportation in our country."
+  },
+  {
+   "type": "heading",
+   "text": "Mission",
+   "level": 5
+  },
+  {
+   "type": "paragraph",
+   "text": "The mission of Transportation department is to provide safe, effective and efficient transportation to and from the intuition for eligible students and staff members. It is the further responsibility of the Transportation department to provide such services economically and in accordance with sound management policies and procedures under the direction of the Institutional Transportation Committee."
+  },
+  {
+   "type": "heading",
+   "text": "Route and Timetable",
+   "level": 5
+  },
+  {
+   "type": "link",
+   "label": "Bus Time Table",
+   "href": "https://qiscet.edu.in/qiscet/pdfs/Bus%20Routes%20%26%20Timings%202025-2026.pdf"
+  },
+  {
+   "type": "heading",
+   "text": "Rules and Regulations",
+   "level": 5
+  },
+  {
+   "type": "link",
+   "label": "View",
+   "href": "https://qiscet.edu.in/qiscet/pdfs/Transport%20Rules%20%26%20Regulation.pdf"
+  },
+  {
+   "type": "heading",
+   "text": "Contact Us",
+   "level": 5
+  },
+  {
+   "type": "paragraph",
+   "text": "Mr.Madala Srinivasulu,Director Transport, +91 9246419527"
+  }
+ ]
+}

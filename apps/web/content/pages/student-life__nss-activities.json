@@ -1,0 +1,35 @@
+{
+ "slug": "student-life/nss-activities",
+ "section": "student-life",
+ "sectionTitle": "Student Life",
+ "title": "NSS Activity Reports",
+ "legacy": "https://qiscet.edu.in/qiscet/ACADEMICS_Extra_Curricular_Activities_NSS_Activities.php",
+ "summary": null,
+ "blocks": [
+  {
+   "type": "link",
+   "label": "NSS Activities 2024 - 2025",
+   "href": "https://qiscet.edu.in/qiscet/eca/NSS_Activities_Report_2024-2025.pdf"
+  },
+  {
+   "type": "link",
+   "label": "NCC Activities 2023 - 2024",
+   "href": "https://qiscet.edu.in/qiscet/eca/NSS_Activities_Report_2023-2024.pdf"
+  },
+  {
+   "type": "link",
+   "label": "NSS Activities 2022 - 2023",
+   "href": "https://qiscet.edu.in/qiscet/eca/NSS_Activities_Report_2022-2023.pdf"
+  },
+  {
+   "type": "link",
+   "label": "NCC Activities 2021 - 2022",
+   "href": "https://qiscet.edu.in/qiscet/eca/NSS_Activities_Report_2021-2022.pdf"
+  },
+  {
+   "type": "link",
+   "label": "NSS Gallery",
+   "href": "/gallery"
+  }
+ ]
+}

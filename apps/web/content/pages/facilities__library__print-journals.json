@@ -1,0 +1,39 @@
+{
+ "slug": "facilities/library/print-journals",
+ "section": "facilities",
+ "sectionTitle": "Facilities",
+ "title": "Print Journals & Magazines",
+ "legacy": "https://qiscet.edu.in/qiscet/FACILITIES_library_print_journals_and_magazines.php",
+ "summary": null,
+ "blocks": [
+  {
+   "type": "image",
+   "src": "/images/library/gallery/journals-area.jpg",
+   "alt": ""
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    {
+     "text": "Journals and Magazines Print Year Wise Subscription Details",
+     "links": [
+      {
+       "label": "Journals and Magazines Print Year Wise Subscription Details",
+       "href": "https://qiscet.edu.in/qiscet/library/pdfs/Details_of_PRINT_JOURNALS_magazines12.pdf"
+      }
+     ]
+    },
+    {
+     "text": "List of Print Journals for 2026 Dept Wise Subscription Details",
+     "links": [
+      {
+       "label": "List of Print Journals for 2026 Dept Wise Subscription Details",
+       "href": "https://qiscet.edu.in/qiscet/library/pdfs/LIST_OF_JOURNALS_WITH%20DEP_%20WISE_AMOUNT_SPENT12.pdf"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

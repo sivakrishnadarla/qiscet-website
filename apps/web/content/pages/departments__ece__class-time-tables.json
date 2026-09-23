@@ -1,0 +1,90 @@
+{
+ "slug": "departments/ece/class-time-tables",
+ "section": "departments",
+ "sectionTitle": "Departments",
+ "title": "Class Time Tables – Electronics & Communication Engineering",
+ "legacy": "https://qiscet.edu.in/qiscet/DEPARTMENTS_ece_timetables.php",
+ "summary": null,
+ "blocks": [
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    {
+     "text": "2024-25 Semester-II Time Table",
+     "links": [
+      {
+       "label": "2024-25 Semester-II Time Table",
+       "href": "https://qiscet.edu.in/qiscet/departments/ece/data/2024-25_2%20TT.pdf"
+      }
+     ]
+    },
+    {
+     "text": "2024-25 Semester-I Time Table",
+     "links": [
+      {
+       "label": "2024-25 Semester-I Time Table",
+       "href": "https://qiscet.edu.in/qiscet/departments/ece/data/2024-25_1%20TT.pdf"
+      }
+     ]
+    },
+    {
+     "text": "2023-24 Semester-II Time Table",
+     "links": [
+      {
+       "label": "2023-24 Semester-II Time Table",
+       "href": "https://qiscet.edu.in/qiscet/departments/ece/data/2023-24_2%20TT.pdf"
+      }
+     ]
+    },
+    {
+     "text": "2023-24 Semester-I Time Table",
+     "links": [
+      {
+       "label": "2023-24 Semester-I Time Table",
+       "href": "https://qiscet.edu.in/qiscet/departments/ece/data/2023-24_1%20TT.pdf"
+      }
+     ]
+    },
+    {
+     "text": "2022-23 Semester-I Time Table",
+     "links": [
+      {
+       "label": "2022-23 Semester-I Time Table",
+       "href": "https://qiscet.edu.in/qiscet/departments/ece/data/2022-23%20TT.pdf"
+      }
+     ]
+    },
+    {
+     "text": "2021-22 Semester-II - Time Table",
+     "links": [
+      {
+       "label": "2021-22 Semester-II - Time Table",
+       "href": "https://qiscet.edu.in/qiscet/departments/ece/time%20tables/2021-22%20TT%20-%20Copy.pdf"
+      }
+     ]
+    },
+    {
+     "text": "2021-22 Semester-I - Time Table",
+     "links": [
+      {
+       "label": "2021-22 Semester-I - Time Table",
+       "href": "https://qiscet.edu.in/qiscet/departments/ece/time%20tables/2021-22%201st%20sem.pdf"
+      }
+     ]
+    },
+    {
+     "text": "2020-21 Semester-II - Time Table",
+     "links": [
+      {
+       "label": "2020-21 Semester-II - Time Table",
+       "href": "https://qiscet.edu.in/qiscet/departments/ece/time%20tables/2020-21%20second%20sem.pdf"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "department": "ece",
+ "pageTitle": "Class Time Tables"
+}

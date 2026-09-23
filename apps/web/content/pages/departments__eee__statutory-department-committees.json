@@ -1,0 +1,36 @@
+{
+ "slug": "departments/eee/statutory-department-committees",
+ "section": "departments",
+ "sectionTitle": "Departments",
+ "title": "Statutory Department Committees – Electrical & Electronics Engineering",
+ "legacy": "https://qiscet.edu.in/qiscet/DEPARTMENTS_eee_Statutory.php",
+ "summary": null,
+ "blocks": [
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    {
+     "text": "DAC",
+     "links": [
+      {
+       "label": "DAC",
+       "href": "https://qiscet.edu.in/qiscet/DEPARTMENTS_eee_dac.php"
+      }
+     ]
+    },
+    {
+     "text": "PAC",
+     "links": [
+      {
+       "label": "PAC",
+       "href": "https://qiscet.edu.in/qiscet/DEPARTMENTS_eee_pac.php"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "department": "eee",
+ "pageTitle": "Statutory Department Committees"
+}

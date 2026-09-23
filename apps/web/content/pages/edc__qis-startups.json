@@ -1,0 +1,55 @@
+{
+ "slug": "edc/qis-startups",
+ "section": "edc",
+ "sectionTitle": "Entrepreneurship Development Cell",
+ "title": "Start-ups at QIS",
+ "legacy": "https://qiscet.edu.in/qiscet/edc_startup_qis.php",
+ "summary": null,
+ "blocks": [
+  {
+   "type": "image",
+   "src": "/images/edc_startups/smartsoda.jpg",
+   "alt": ""
+  },
+  {
+   "type": "paragraph",
+   "text": "Smart Soda Wala"
+  },
+  {
+   "type": "image",
+   "src": "/images/edc_startups/smarthelmet.jpg",
+   "alt": ""
+  },
+  {
+   "type": "paragraph",
+   "text": "Smart Helmet"
+  },
+  {
+   "type": "image",
+   "src": "/images/edc_startups/kvjb.jpg",
+   "alt": ""
+  },
+  {
+   "type": "paragraph",
+   "text": "KVJB Enterprise"
+  },
+  {
+   "type": "image",
+   "src": "/images/edc_startups/srichakra.jpg",
+   "alt": ""
+  },
+  {
+   "type": "paragraph",
+   "text": "Sri Chakra"
+  },
+  {
+   "type": "image",
+   "src": "/images/edc_startups/salinesy.jpg",
+   "alt": ""
+  },
+  {
+   "type": "paragraph",
+   "text": "salinesy HealthCare"
+  }
+ ]
+}

@@ -1,0 +1,131 @@
+{
+ "slug": "departments/civil/laboratories",
+ "section": "departments",
+ "sectionTitle": "Departments",
+ "title": "Laboratories – Civil Engineering",
+ "legacy": "https://qiscet.edu.in/qiscet/DEPARTMENTS_ce_labs.php",
+ "summary": null,
+ "blocks": [
+  {
+   "type": "table",
+   "rows": [
+    [
+     {
+      "text": "S.No"
+     },
+     {
+      "text": "Name of lab"
+     }
+    ],
+    [
+     {
+      "text": "1"
+     },
+     {
+      "text": "Surveying lab"
+     }
+    ],
+    [
+     {
+      "text": "2"
+     },
+     {
+      "text": "Fluid mechanics & hydraulic machinery lab"
+     }
+    ],
+    [
+     {
+      "text": "3"
+     },
+     {
+      "text": "Strength of materials lab"
+     }
+    ],
+    [
+     {
+      "text": "4"
+     },
+     {
+      "text": "Concrete technology lab"
+     }
+    ],
+    [
+     {
+      "text": "5"
+     },
+     {
+      "text": "Geotechnical engineering lab"
+     }
+    ],
+    [
+     {
+      "text": "6"
+     },
+     {
+      "text": "Engineering geology lab"
+     }
+    ],
+    [
+     {
+      "text": "7"
+     },
+     {
+      "text": "Transportation engineering lab"
+     }
+    ],
+    [
+     {
+      "text": "8"
+     },
+     {
+      "text": "AutoCAD lab"
+     }
+    ],
+    [
+     {
+      "text": "9"
+     },
+     {
+      "text": "Staad Lab"
+     }
+    ],
+    [
+     {
+      "text": "10"
+     },
+     {
+      "text": "Rivet Structures"
+     }
+    ],
+    [
+     {
+      "text": "11"
+     },
+     {
+      "text": "E-Tabs"
+     }
+    ],
+    [
+     {
+      "text": "12"
+     },
+     {
+      "text": "Environmental Engineering Lab"
+     }
+    ]
+   ]
+  },
+  {
+   "type": "link",
+   "label": "Class Rooms & Labs",
+   "href": "https://qiscet.edu.in/qiscet/departments/civil/LABS.pdf"
+  },
+  {
+   "type": "link",
+   "label": "Major Equipment In Each Lab",
+   "href": "https://qiscet.edu.in/qiscet/departments/civil/MAJOR%20EQUIPMENT%20IN%20EACH%20LAB.pdf"
+  }
+ ],
+ "department": "civil",
+ "pageTitle": "Laboratories"
+}

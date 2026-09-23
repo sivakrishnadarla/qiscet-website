@@ -1,0 +1,103 @@
+{
+ "slug": "departments/eee/innovations-by-faculty",
+ "section": "departments",
+ "sectionTitle": "Departments",
+ "title": "Innovations by Faculty – Electrical & Electronics Engineering",
+ "legacy": "https://qiscet.edu.in/qiscet/DEPARTMENTS_eee_innovation.php",
+ "summary": null,
+ "blocks": [
+  {
+   "type": "table",
+   "rows": [
+    [
+     {
+      "text": "S.No"
+     },
+     {
+      "text": "Faculty Name"
+     },
+     {
+      "text": "Course Title"
+     },
+     {
+      "text": "YouTube Link"
+     },
+     {
+      "text": "Year Developed"
+     }
+    ],
+    [
+     {
+      "text": "1"
+     },
+     {
+      "text": "Dr. B Mouli Chandra"
+     },
+     {
+      "text": "Basics in Electrical and Electronics Engg"
+     },
+     {
+      "text": "Watch",
+      "links": [
+       {
+        "label": "Watch",
+        "href": "https://www.youtube.com/watch?v=kROnZPOxQ4w"
+       }
+      ]
+     },
+     {
+      "text": "2022"
+     }
+    ],
+    [
+     {
+      "text": "2"
+     },
+     {
+      "text": "Dr. B Venkata Prashanth"
+     },
+     {
+      "text": "Electrical Circuits and Control Systems"
+     },
+     {
+      "text": "Watch",
+      "links": [
+       {
+        "label": "Watch",
+        "href": "https://www.youtube.com/watch?v=JcYPvjP1UBA"
+       }
+      ]
+     },
+     {
+      "text": "2023"
+     }
+    ],
+    [
+     {
+      "text": "3"
+     },
+     {
+      "text": "Dr. M Kavitha"
+     },
+     {
+      "text": "Electronic Devices and Circuits"
+     },
+     {
+      "text": "Watch",
+      "links": [
+       {
+        "label": "Watch",
+        "href": "https://www.youtube.com/watch?v=aZQoXLoQrE4"
+       }
+      ]
+     },
+     {
+      "text": "2023"
+     }
+    ]
+   ]
+  }
+ ],
+ "department": "eee",
+ "pageTitle": "Innovations by Faculty"
+}

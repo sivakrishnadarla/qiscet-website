@@ -1,0 +1,90 @@
+{
+ "slug": "departments/eee/class-time-tables",
+ "section": "departments",
+ "sectionTitle": "Departments",
+ "title": "Class Time Tables – Electrical & Electronics Engineering",
+ "legacy": "https://qiscet.edu.in/qiscet/DEPARTMENTS_eee_timetables.php",
+ "summary": null,
+ "blocks": [
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    {
+     "text": "IV - I (B) Timetable",
+     "links": [
+      {
+       "label": "IV - I (B) Timetable",
+       "href": "https://qiscet.edu.in/qiscet/departments/eee/timetables/IV_Year_Sem-I_Week_TT_EEE-B.pdf"
+      }
+     ]
+    },
+    {
+     "text": "IV - I (A) Timetable",
+     "links": [
+      {
+       "label": "IV - I (A) Timetable",
+       "href": "https://qiscet.edu.in/qiscet/departments/eee/timetables/IV_Year_Sem-I_Week_TT_EEE-A.pdf"
+      }
+     ]
+    },
+    {
+     "text": "III - II (B) Timetable",
+     "links": [
+      {
+       "label": "III - II (B) Timetable",
+       "href": "https://qiscet.edu.in/qiscet/departments/eee/timetables/III_Year_Sem-II_Week_TT_EEE-B.pdf"
+      }
+     ]
+    },
+    {
+     "text": "III - II (A) Timetable",
+     "links": [
+      {
+       "label": "III - II (A) Timetable",
+       "href": "https://qiscet.edu.in/qiscet/departments/eee/timetables/III_Year_Sem-II_Week_TT_EEE-A.pdf"
+      }
+     ]
+    },
+    {
+     "text": "II - II (B) Timetable",
+     "links": [
+      {
+       "label": "II - II (B) Timetable",
+       "href": "https://qiscet.edu.in/qiscet/departments/eee/timetables/II_Year_Sem-II_Week_TT_EEE-B.pdf"
+      }
+     ]
+    },
+    {
+     "text": "II - II (A) Timetable",
+     "links": [
+      {
+       "label": "II - II (A) Timetable",
+       "href": "https://qiscet.edu.in/qiscet/departments/eee/timetables/II_Year_Sem-II_Week_TT_EEE-A.pdf"
+      }
+     ]
+    },
+    {
+     "text": "II - I (B) Timetable",
+     "links": [
+      {
+       "label": "II - I (B) Timetable",
+       "href": "https://qiscet.edu.in/qiscet/departments/eee/timetables/II_Year_Sem-I_Week_TT_EEE-B.pdf"
+      }
+     ]
+    },
+    {
+     "text": "II - I (A) Timetable",
+     "links": [
+      {
+       "label": "II - I (A) Timetable",
+       "href": "https://qiscet.edu.in/qiscet/departments/eee/timetables/II_Year_Sem-I_Week_TT_EEE_A.pdf"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "department": "eee",
+ "pageTitle": "Class Time Tables"
+}

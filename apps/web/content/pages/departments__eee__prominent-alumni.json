@@ -1,0 +1,171 @@
+{
+ "slug": "departments/eee/prominent-alumni",
+ "section": "departments",
+ "sectionTitle": "Departments",
+ "title": "Prominent Alumni – Electrical & Electronics Engineering",
+ "legacy": "https://qiscet.edu.in/qiscet/DEPARTMENTS_eee_Prominent_Alumni_Members.php",
+ "summary": null,
+ "blocks": [
+  {
+   "type": "table",
+   "rows": [
+    [
+     {
+      "text": "S.no"
+     },
+     {
+      "text": "Name"
+     },
+     {
+      "text": "Designation"
+     },
+     {
+      "text": "Company"
+     }
+    ],
+    [
+     {
+      "text": "1"
+     },
+     {
+      "text": "G.Sridevi"
+     },
+     {
+      "text": "Software Engineer"
+     },
+     {
+      "text": "Tech Mahindra"
+     }
+    ],
+    [
+     {
+      "text": "2"
+     },
+     {
+      "text": "M.Sravani"
+     },
+     {
+      "text": "Software Engineer"
+     },
+     {
+      "text": "Tech Mahindra"
+     }
+    ],
+    [
+     {
+      "text": "3"
+     },
+     {
+      "text": "M.Deepika"
+     },
+     {
+      "text": "Software Engineer"
+     },
+     {
+      "text": "Cosmic Circuits"
+     }
+    ],
+    [
+     {
+      "text": "4"
+     },
+     {
+      "text": "J.Samyuktha"
+     },
+     {
+      "text": "Software Engineer"
+     },
+     {
+      "text": "Infosys"
+     }
+    ],
+    [
+     {
+      "text": "5"
+     },
+     {
+      "text": "M.Venkata Lakshmi"
+     },
+     {
+      "text": "Software Engineer"
+     },
+     {
+      "text": "CTS"
+     }
+    ],
+    [
+     {
+      "text": "6"
+     },
+     {
+      "text": "Sai Lakshmi Dedeepya"
+     },
+     {
+      "text": "Software Engineer"
+     },
+     {
+      "text": "L&T"
+     }
+    ],
+    [
+     {
+      "text": "7"
+     },
+     {
+      "text": "T.Ajay Kumar"
+     },
+     {
+      "text": "Software Engineer"
+     },
+     {
+      "text": "HCL"
+     }
+    ],
+    [
+     {
+      "text": "8"
+     },
+     {
+      "text": "O.Chandra Vadana"
+     },
+     {
+      "text": "Software Engineer"
+     },
+     {
+      "text": "Tech Mahindra"
+     }
+    ],
+    [
+     {
+      "text": "9"
+     },
+     {
+      "text": "P.Samyuktha"
+     },
+     {
+      "text": "Software Engineer"
+     },
+     {
+      "text": "DELL"
+     }
+    ],
+    [
+     {
+      "text": "10"
+     },
+     {
+      "text": "T.Priyanka"
+     },
+     {
+      "text": "Software Engineer"
+     },
+     {
+      "text": "Infosys"
+     }
+    ]
+   ]
+  }
+ ],
+ "department": "eee",
+ "pageTitle": "Prominent Alumni"
+}

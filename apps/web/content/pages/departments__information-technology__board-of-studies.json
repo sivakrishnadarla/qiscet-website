@@ -1,0 +1,54 @@
+{
+ "slug": "departments/information-technology/board-of-studies",
+ "section": "departments",
+ "sectionTitle": "Departments",
+ "title": "Board of Studies – Information Technology",
+ "legacy": "https://qiscet.edu.in/qiscet/DEPARTMENTS_it_BOS.php",
+ "summary": null,
+ "blocks": [
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    {
+     "text": "Meeting Minutes of BOS 13",
+     "links": [
+      {
+       "label": "Meeting Minutes of BOS 13",
+       "href": "https://qiscet.edu.in/qiscet/departments/it/bos/13th%20Bos.pdf"
+      }
+     ]
+    },
+    {
+     "text": "Meeting Minutes of BOS 12",
+     "links": [
+      {
+       "label": "Meeting Minutes of BOS 12",
+       "href": "https://qiscet.edu.in/qiscet/departments/it/bos/IT_BOS-12.pdf"
+      }
+     ]
+    },
+    {
+     "text": "Meeting Minutes of BOS 11",
+     "links": [
+      {
+       "label": "Meeting Minutes of BOS 11",
+       "href": "https://qiscet.edu.in/qiscet/departments/it/bos/IT_BOS-11.pdf"
+      }
+     ]
+    },
+    {
+     "text": "Meeting Minutes of BOS 10",
+     "links": [
+      {
+       "label": "Meeting Minutes of BOS 10",
+       "href": "https://qiscet.edu.in/qiscet/departments/it/bos/IT_BOS-10.pdf"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "department": "information-technology",
+ "pageTitle": "Board of Studies"
+}

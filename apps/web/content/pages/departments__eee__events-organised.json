@@ -1,0 +1,36 @@
+{
+ "slug": "departments/eee/events-organised",
+ "section": "departments",
+ "sectionTitle": "Departments",
+ "title": "Events Organised – Electrical & Electronics Engineering",
+ "legacy": "https://qiscet.edu.in/qiscet/DEPARTMENTS_eee_organised.php",
+ "summary": null,
+ "blocks": [
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    {
+     "text": "Conferences",
+     "links": [
+      {
+       "label": "Conferences",
+       "href": "https://qiscet.edu.in/qiscet/departments/eee/Conferences2024.pdf"
+      }
+     ]
+    },
+    {
+     "text": "STTP/FDP",
+     "links": [
+      {
+       "label": "STTP/FDP",
+       "href": "https://qiscet.edu.in/qiscet/departments/eee/sttp3.pdf"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "department": "eee",
+ "pageTitle": "Events Organised"
+}

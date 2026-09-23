@@ -1,0 +1,32 @@
+{
+ "slug": "careers",
+ "section": "careers",
+ "sectionTitle": "Careers",
+ "title": "Careers at QISCET",
+ "legacy": "https://qiscet.edu.in/qiscet/careers.php",
+ "summary": null,
+ "blocks": [
+  {
+   "type": "heading",
+   "text": "Now hiring for the following positions:",
+   "level": 4
+  },
+  {
+   "type": "paragraph",
+   "text": "Networking Manager"
+  },
+  {
+   "type": "paragraph",
+   "text": "Software Engineer – ERP/MIS"
+  },
+  {
+   "type": "paragraph",
+   "text": "Web Developer"
+  },
+  {
+   "type": "heading",
+   "text": "For inquiries, please contact: 9246419574",
+   "level": 4
+  }
+ ]
+}

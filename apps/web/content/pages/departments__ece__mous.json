@@ -1,0 +1,27 @@
+{
+ "slug": "departments/ece/mous",
+ "section": "departments",
+ "sectionTitle": "Departments",
+ "title": "MoUs – Electronics & Communication Engineering",
+ "legacy": "https://qiscet.edu.in/qiscet/DEPARTMENTS_ece_mou.php",
+ "summary": null,
+ "blocks": [
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    {
+     "text": "List of MoU’s",
+     "links": [
+      {
+       "label": "List of MoU’s",
+       "href": "https://qiscet.edu.in/qiscet/departments/ece/data/MOUS%202019-25.pdf"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "department": "ece",
+ "pageTitle": "MoUs"
+}

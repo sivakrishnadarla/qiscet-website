@@ -1,0 +1,27 @@
+{
+ "slug": "departments/mechanical/mous",
+ "section": "departments",
+ "sectionTitle": "Departments",
+ "title": "MoUs – Mechanical Engineering",
+ "legacy": "https://qiscet.edu.in/qiscet/DEPARTMENTS_me_mou.php",
+ "summary": null,
+ "blocks": [
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    {
+     "text": "List of MoU’s",
+     "links": [
+      {
+       "label": "List of MoU’s",
+       "href": "https://qiscet.edu.in/qiscet/departments/me/data/Mous1.pdf"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "department": "mechanical",
+ "pageTitle": "MoUs"
+}

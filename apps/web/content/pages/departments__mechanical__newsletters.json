@@ -1,0 +1,137 @@
+{
+ "slug": "departments/mechanical/newsletters",
+ "section": "departments",
+ "sectionTitle": "Departments",
+ "title": "Newsletters – Mechanical Engineering",
+ "legacy": "https://qiscet.edu.in/qiscet/DEPARTMENTS_me_news_letters.php",
+ "summary": null,
+ "blocks": [
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    {
+     "text": "NEWS LETTER MAY 2024 - NOV 2024",
+     "links": [
+      {
+       "label": "NEWS LETTER MAY 2024 - NOV 2024",
+       "href": "https://qiscet.edu.in/qiscet/departments/me/NEWS%20LETTER%20MAY%202024%20-%20NOV%202024.pdf"
+      }
+     ]
+    },
+    {
+     "text": "NEWS LETTER DEC 2023 - APR 2024",
+     "links": [
+      {
+       "label": "NEWS LETTER DEC 2023 - APR 2024",
+       "href": "https://qiscet.edu.in/qiscet/departments/me/NEWS%20LETTER%20DEC%202023%20-%20APR%202024.pdf"
+      }
+     ]
+    },
+    {
+     "text": "NEWS LETTER MAY 2023 - NOV 2023",
+     "links": [
+      {
+       "label": "NEWS LETTER MAY 2023 - NOV 2023",
+       "href": "https://qiscet.edu.in/qiscet/departments/me/NEWS%20LETTER%20MAY%202023%20-%20NOV%202023.pdf"
+      }
+     ]
+    },
+    {
+     "text": "NEWS LETTER DEC 2022 - APR 2023",
+     "links": [
+      {
+       "label": "NEWS LETTER DEC 2022 - APR 2023",
+       "href": "https://qiscet.edu.in/qiscet/departments/me/NEWS%20LETTER%20DEC%202022%20-%20APR%202023.pdf"
+      }
+     ]
+    },
+    {
+     "text": "NEWS LETTER MAY 2022 - OCT 2022",
+     "links": [
+      {
+       "label": "NEWS LETTER MAY 2022 - OCT 2022",
+       "href": "https://qiscet.edu.in/qiscet/departments/me/Newsletter%20May%202022%20to%20Oct%202022.pdf"
+      }
+     ]
+    },
+    {
+     "text": "NEWS LETTER NOV 2020 - APR 2021",
+     "links": [
+      {
+       "label": "NEWS LETTER NOV 2020 - APR 2021",
+       "href": "https://qiscet.edu.in/qiscet/departments/me/Newsletter%20Nov%202020%20to%20April%202021.pdf"
+      }
+     ]
+    },
+    {
+     "text": "NEWS LETTER MAY 2020 - OCT 2020",
+     "links": [
+      {
+       "label": "NEWS LETTER MAY 2020 - OCT 2020",
+       "href": "https://qiscet.edu.in/qiscet/departments/me/Newsletter%20May%202020%20to%20Oct%202020.pdf"
+      }
+     ]
+    },
+    {
+     "text": "NEWS LETTER MAY 2019 - OCT 2019",
+     "links": [
+      {
+       "label": "NEWS LETTER MAY 2019 - OCT 2019",
+       "href": "https://qiscet.edu.in/qiscet/departments/me/Newsletter%20May%202019-Oct%202019.pdf"
+      }
+     ]
+    },
+    {
+     "text": "NEWS LETTER NOV 2018 - APR 2019",
+     "links": [
+      {
+       "label": "NEWS LETTER NOV 2018 - APR 2019",
+       "href": "https://qiscet.edu.in/qiscet/departments/me/Newsletter%20Nov%202018-Apr%202019.pdf"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "Magazines",
+   "level": 1
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    {
+     "text": "MAGAZINE JAN 2025",
+     "links": [
+      {
+       "label": "MAGAZINE JAN 2025",
+       "href": "https://qiscet.edu.in/qiscet/departments/me/Magazine%20Jan%202025.pdf"
+      }
+     ]
+    },
+    {
+     "text": "MAGAZINE JUL 2024",
+     "links": [
+      {
+       "label": "MAGAZINE JUL 2024",
+       "href": "https://qiscet.edu.in/qiscet/departments/me/Magazine%20Jul%202024.pdf"
+      }
+     ]
+    },
+    {
+     "text": "MAGAZINE JAN 2024",
+     "links": [
+      {
+       "label": "MAGAZINE JAN 2024",
+       "href": "https://qiscet.edu.in/qiscet/departments/me/Magazine%20Jan%202024.pdf"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "department": "mechanical",
+ "pageTitle": "Newsletters"
+}

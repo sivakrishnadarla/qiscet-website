@@ -1,0 +1,200 @@
+{
+ "slug": "departments/cse/syllabus",
+ "section": "departments",
+ "sectionTitle": "Departments",
+ "title": "Syllabus – Computer Science & Engineering",
+ "legacy": "https://qiscet.edu.in/qiscet/DEPARTMENTS_cse_syllabus.php",
+ "summary": null,
+ "blocks": [
+  {
+   "type": "table",
+   "rows": [
+    [
+     {
+      "text": "Regulation"
+     },
+     {
+      "text": "B.Tech",
+      "colspan": 8
+     }
+    ],
+    [
+     {
+      "text": "R-13 regulation"
+     },
+     {
+      "text": "B.Tech Syllabus",
+      "links": [
+       {
+        "label": "B.Tech Syllabus",
+        "href": "https://qiscet.edu.in/qiscet/departments/cse/R13%20_CSE.pdf"
+       }
+      ],
+      "colspan": 8
+     }
+    ],
+    [
+     {
+      "text": "R-15 regulation"
+     },
+     {
+      "text": "B.Tech Syllabus",
+      "links": [
+       {
+        "label": "B.Tech Syllabus",
+        "href": "https://qiscet.edu.in/qiscet/departments/cse/syl_reg/R15%20UG.pdf"
+       }
+      ],
+      "colspan": 8
+     }
+    ],
+    [
+     {
+      "text": "R-18 regulation"
+     },
+     {
+      "text": "B.Tech Syllabus",
+      "links": [
+       {
+        "label": "B.Tech Syllabus",
+        "href": "https://qiscet.edu.in/qiscet/departments/cse/syl_reg/R18_UG_CSE_Syllabus%20Book%20Printing.pdf"
+       }
+      ],
+      "colspan": 8
+     }
+    ],
+    [
+     {
+      "text": "R-20 regulation"
+     },
+     {
+      "text": "B.Tech Syllabus",
+      "links": [
+       {
+        "label": "B.Tech Syllabus",
+        "href": "https://qiscet.edu.in/qiscet/departments/cse/data/R20%20syllabus%20Book.pdf"
+       }
+      ],
+      "colspan": 8
+     }
+    ],
+    [
+     {
+      "text": "Regulation"
+     },
+     {
+      "text": "M.Tech",
+      "colspan": 8
+     }
+    ],
+    [
+     {
+      "text": "R-13 regulation"
+     },
+     {
+      "text": "CSE Syllabus",
+      "links": [
+       {
+        "label": "CSE Syllabus",
+        "href": "https://qiscet.edu.in/qiscet/departments/cse/R13%20M.TECH%20Computer%20Science%20%26%20Engineering.pdf"
+       }
+      ],
+      "colspan": 8
+     }
+    ],
+    [
+     {
+      "text": "R-13 regulation"
+     },
+     {
+      "text": "CS Syllabus",
+      "links": [
+       {
+        "label": "CS Syllabus",
+        "href": "https://qiscet.edu.in/qiscet/departments/cse/R13%20M.TECH%20Computer%20Science.pdf"
+       }
+      ],
+      "colspan": 8
+     }
+    ],
+    [
+     {
+      "text": "R-15 regulation"
+     },
+     {
+      "text": "CSE Syllabus",
+      "links": [
+       {
+        "label": "CSE Syllabus",
+        "href": "https://qiscet.edu.in/qiscet/departments/cse/syl_reg/R15%20PG%20-%20CSE.pdf"
+       }
+      ],
+      "colspan": 8
+     }
+    ],
+    [
+     {
+      "text": "R-15 regulation"
+     },
+     {
+      "text": "CS Syllabus",
+      "links": [
+       {
+        "label": "CS Syllabus",
+        "href": "https://qiscet.edu.in/qiscet/departments/cse/syl_reg/R15%20PG%20-%20CS.pdf"
+       }
+      ],
+      "colspan": 8
+     }
+    ],
+    [
+     {
+      "text": "R-18 regulation"
+     },
+     {
+      "text": "CSE Syllabus",
+      "links": [
+       {
+        "label": "CSE Syllabus",
+        "href": "https://qiscet.edu.in/qiscet/departments/cse/syl_reg/R18%20PG_CSE.pdf"
+       }
+      ],
+      "colspan": 8
+     }
+    ],
+    [
+     {
+      "text": "R-18 regulation"
+     },
+     {
+      "text": "CS Syllabus",
+      "links": [
+       {
+        "label": "CS Syllabus",
+        "href": "https://qiscet.edu.in/qiscet/departments/cse/syl_reg/R18%20PG_CS.pdf"
+       }
+      ],
+      "colspan": 8
+     }
+    ],
+    [
+     {
+      "text": "R-20 regulation"
+     },
+     {
+      "text": "CSE Syllabus",
+      "links": [
+       {
+        "label": "CSE Syllabus",
+        "href": "https://qiscet.edu.in/qiscet/departments/cse/syl_reg/R20%20PG_CSE_Syllabus%20updated.pdf"
+       }
+      ],
+      "colspan": 8
+     }
+    ]
+   ]
+  }
+ ],
+ "department": "cse",
+ "pageTitle": "Syllabus"
+}

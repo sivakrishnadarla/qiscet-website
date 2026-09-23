@@ -1,0 +1,25 @@
+{
+ "slug": "iqac/meeting-minutes",
+ "section": "iqac",
+ "sectionTitle": "IQAC",
+ "title": "IQAC Meeting Minutes",
+ "legacy": "https://qiscet.edu.in/qiscet/IQAC_Meeting_Minutes.php",
+ "summary": null,
+ "blocks": [
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    {
+     "text": "IQAC Meeting Minutes 2024-25",
+     "links": [
+      {
+       "label": "IQAC Meeting Minutes 2024-25",
+       "href": "https://qiscet.edu.in/qiscet/iqac/IQACMeeting202425.pdf"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

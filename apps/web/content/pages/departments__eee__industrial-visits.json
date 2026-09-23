@@ -1,0 +1,27 @@
+{
+ "slug": "departments/eee/industrial-visits",
+ "section": "departments",
+ "sectionTitle": "Departments",
+ "title": "Industrial Visits – Electrical & Electronics Engineering",
+ "legacy": "https://qiscet.edu.in/qiscet/DEPARTMENTS_eee_visit.php",
+ "summary": null,
+ "blocks": [
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    {
+     "text": "Industrial Visit",
+     "links": [
+      {
+       "label": "Industrial Visit",
+       "href": "https://qiscet.edu.in/qiscet/departments/eee/Industrial%20Visit.pdf"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "department": "eee",
+ "pageTitle": "Industrial Visits"
+}

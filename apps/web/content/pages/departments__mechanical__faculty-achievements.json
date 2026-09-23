@@ -1,0 +1,45 @@
+{
+ "slug": "departments/mechanical/faculty-achievements",
+ "section": "departments",
+ "sectionTitle": "Departments",
+ "title": "Faculty Achievements – Mechanical Engineering",
+ "legacy": "https://qiscet.edu.in/qiscet/DEPARTMENTS_me_faculty_achievements.php",
+ "summary": null,
+ "blocks": [
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    {
+     "text": "Sponsored Research",
+     "links": [
+      {
+       "label": "Sponsored Research",
+       "href": "https://qiscet.edu.in/qiscet/departments/me/data/sponsored%20research1.pdf"
+      }
+     ]
+    },
+    {
+     "text": "Internship Summary",
+     "links": [
+      {
+       "label": "Internship Summary",
+       "href": "https://qiscet.edu.in/qiscet/departments/me/data/Internship%20Summary.pdf"
+      }
+     ]
+    },
+    {
+     "text": "Publication Summary and Quality of Publications",
+     "links": [
+      {
+       "label": "Publication Summary and Quality of Publications",
+       "href": "https://qiscet.edu.in/qiscet/departments/me/data/Publication%20Summary%20and%20Quality%20of%20Publications.pdf"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "department": "mechanical",
+ "pageTitle": "Faculty Achievements"
+}

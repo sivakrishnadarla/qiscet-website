@@ -1,0 +1,27 @@
+{
+ "slug": "departments/cse-ai-ml/nptel",
+ "section": "departments",
+ "sectionTitle": "Departments",
+ "title": "NPTEL – CSE (Artificial Intelligence & Machine Learning)",
+ "legacy": "https://qiscet.edu.in/qiscet/DEPARTMENTS_CSE_AL_ML_NPTEL.php",
+ "summary": null,
+ "blocks": [
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    {
+     "text": "2023-2024",
+     "links": [
+      {
+       "label": "2023-2024",
+       "href": "https://qiscet.edu.in/qiscet/departments/ai-ml/AIML_NPTEL%2023-24.pdf"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "department": "cse-ai-ml",
+ "pageTitle": "NPTEL"
+}

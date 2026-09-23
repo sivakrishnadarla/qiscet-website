@@ -1,0 +1,87 @@
+{
+ "slug": "departments/mechanical/class-coordinators",
+ "section": "departments",
+ "sectionTitle": "Departments",
+ "title": "Class Coordinators – Mechanical Engineering",
+ "legacy": "https://qiscet.edu.in/qiscet/DEPARTMENTS_me_class_teachers.php",
+ "summary": null,
+ "blocks": [
+  {
+   "type": "table",
+   "rows": [
+    [
+     {
+      "text": "S.No"
+     },
+     {
+      "text": "Class"
+     },
+     {
+      "text": "Section/Specialization"
+     },
+     {
+      "text": "Name of the Staff"
+     }
+    ],
+    [
+     {
+      "text": "1"
+     },
+     {
+      "text": "II B.Tech"
+     },
+     {
+      "text": "A"
+     },
+     {
+      "text": "Mr. P. Tagore Kumar"
+     }
+    ],
+    [
+     {
+      "text": "2"
+     },
+     {
+      "text": "III B.Tech"
+     },
+     {
+      "text": "A"
+     },
+     {
+      "text": "Mrs. M. Haritha"
+     }
+    ],
+    [
+     {
+      "text": "3"
+     },
+     {
+      "text": "IV B.Tech"
+     },
+     {
+      "text": "A"
+     },
+     {
+      "text": "Dr. Ch. Venkata Rao"
+     }
+    ],
+    [
+     {
+      "text": "4"
+     },
+     {
+      "text": "M.Tech"
+     },
+     {
+      "text": "TE"
+     },
+     {
+      "text": "Dr. K. Chandra Sekhar"
+     }
+    ]
+   ]
+  }
+ ],
+ "department": "mechanical",
+ "pageTitle": "Class Coordinators"
+}

@@ -1,0 +1,19 @@
+{
+ "slug": "facilities/media-centre",
+ "section": "facilities",
+ "sectionTitle": "Facilities",
+ "title": "Media Centre (e-Content)",
+ "legacy": "https://qiscet.edu.in/qiscet/Facilities_media_center.php",
+ "summary": "The Media Centre has been set up in the campus with the objective of providing in house E Content Preparation Facility which enables quality Video lectures to our students. This Centre helps the…",
+ "blocks": [
+  {
+   "type": "image",
+   "src": "/images/images/media1.jpg",
+   "alt": "Media Center"
+  },
+  {
+   "type": "paragraph",
+   "text": "The Media Centre has been set up in the campus with the objective of providing in house E Content Preparation Facility which enables quality Video lectures to our students. This Centre helps the faculty in creating high quality Video Lectures and E contents to serve the students.The Centre is supported with advanced Hardware and Softwares tools."
+  }
+ ]
+}

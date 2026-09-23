@@ -1,0 +1,125 @@
+{
+ "slug": "departments/eee/syllabus",
+ "section": "departments",
+ "sectionTitle": "Departments",
+ "title": "Syllabus – Electrical & Electronics Engineering",
+ "legacy": "https://qiscet.edu.in/qiscet/DEPARTMENTS_eee_syllabus.php",
+ "summary": null,
+ "blocks": [
+  {
+   "type": "table",
+   "rows": [
+    [
+     {
+      "text": "Regulation"
+     },
+     {
+      "text": "B.Tech",
+      "colspan": 8
+     }
+    ],
+    [
+     {
+      "text": "R-15 regulation"
+     },
+     {
+      "text": "B.Tech Syllabus",
+      "links": [
+       {
+        "label": "B.Tech Syllabus",
+        "href": "https://qiscet.edu.in/qiscet/departments/eee/syl_reg/eee_r15_btech.pdf"
+       }
+      ],
+      "colspan": 8
+     }
+    ],
+    [
+     {
+      "text": "R-20 regulation"
+     },
+     {
+      "text": "B.Tech Syllabus",
+      "links": [
+       {
+        "label": "B.Tech Syllabus",
+        "href": "https://qiscet.edu.in/qiscet/departments/eee/R20_UG_EEE_FINAL.pdf"
+       }
+      ],
+      "colspan": 8
+     }
+    ],
+    [
+     {
+      "text": "R-23 regulation"
+     },
+     {
+      "text": "B.Tech Syllabus",
+      "links": [
+       {
+        "label": "B.Tech Syllabus",
+        "href": "https://qiscet.edu.in/qiscet/departments/eee/R23_UG_EEE_FINAL.pdf"
+       }
+      ],
+      "colspan": 8
+     }
+    ],
+    [
+     {
+      "text": "Regulation"
+     },
+     {
+      "text": "M.Tech",
+      "colspan": 8
+     }
+    ],
+    [
+     {
+      "text": "R-15 regulation"
+     },
+     {
+      "text": "PS Syllabus",
+      "links": [
+       {
+        "label": "PS Syllabus",
+        "href": "https://qiscet.edu.in/qiscet/departments/eee/syl_reg/R15EEE%20MTech%20PS.pdf"
+       }
+      ],
+      "colspan": 8
+     }
+    ],
+    [
+     {
+      "text": "R-15 regulation"
+     },
+     {
+      "text": "PEPS Syllabus",
+      "links": [
+       {
+        "label": "PEPS Syllabus",
+        "href": "https://qiscet.edu.in/qiscet/departments/eee/syl_reg/R15EEE%20MTech%20PEPS.pdf"
+       }
+      ],
+      "colspan": 8
+     }
+    ],
+    [
+     {
+      "text": "R-18 regulation"
+     },
+     {
+      "text": "PS & A Syllabus",
+      "links": [
+       {
+        "label": "PS & A Syllabus",
+        "href": "https://qiscet.edu.in/qiscet/departments/eee/syl_reg/R18_EEE-PS%26A.pdf"
+       }
+      ],
+      "colspan": 8
+     }
+    ]
+   ]
+  }
+ ],
+ "department": "eee",
+ "pageTitle": "Syllabus"
+}

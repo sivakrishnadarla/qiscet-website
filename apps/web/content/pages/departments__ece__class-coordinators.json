@@ -1,0 +1,941 @@
+{
+ "slug": "departments/ece/class-coordinators",
+ "section": "departments",
+ "sectionTitle": "Departments",
+ "title": "Class Coordinators – Electronics & Communication Engineering",
+ "legacy": "https://qiscet.edu.in/qiscet/DEPARTMENTS_ece_class_teachers.php",
+ "summary": null,
+ "blocks": [
+  {
+   "type": "table",
+   "rows": [
+    [
+     {
+      "text": "S.No."
+     },
+     {
+      "text": "Faculty Name"
+     },
+     {
+      "text": "Co-ordinators"
+     },
+     {
+      "text": "Class Incharges"
+     }
+    ],
+    [
+     {
+      "text": "1"
+     },
+     {
+      "text": "Dr. Ch. Hima Bindu"
+     },
+     {
+      "text": "HOD"
+     },
+     {
+      "text": "--"
+     }
+    ],
+    [
+     {
+      "text": "2"
+     },
+     {
+      "text": "Y.V. Bhaskar Reddy"
+     },
+     {
+      "text": "DCE"
+     },
+     {
+      "text": "--"
+     }
+    ],
+    [
+     {
+      "text": "3"
+     },
+     {
+      "text": "Dr. I. Venu Gopal"
+     },
+     {
+      "text": "Collabrations Coordinator"
+     },
+     {
+      "text": "--"
+     }
+    ],
+    [
+     {
+      "text": "4"
+     },
+     {
+      "text": "Dr. OVSS Prasad"
+     },
+     {
+      "text": "Centre for Embedded Systems Lab Coordinator"
+     },
+     {
+      "text": "--"
+     }
+    ],
+    [
+     {
+      "text": "5"
+     },
+     {
+      "text": "Dr. K. Muralibabu"
+     },
+     {
+      "text": "Student Development Cell Coordinator"
+     },
+     {
+      "text": "--"
+     }
+    ],
+    [
+     {
+      "text": "6"
+     },
+     {
+      "text": "Dr. J. Kaliappan"
+     },
+     {
+      "text": "BOS Coordinator"
+     },
+     {
+      "text": "--"
+     }
+    ],
+    [
+     {
+      "text": "7"
+     },
+     {
+      "text": "Dr. S. Venkatesan"
+     },
+     {
+      "text": "Finance Coordinator"
+     },
+     {
+      "text": "--"
+     }
+    ],
+    [
+     {
+      "text": "8"
+     },
+     {
+      "text": "Dr. R. Sivakumar"
+     },
+     {
+      "text": "Website Coordinator"
+     },
+     {
+      "text": "--"
+     }
+    ],
+    [
+     {
+      "text": "9"
+     },
+     {
+      "text": "Dr. J.N. Swaminathan"
+     },
+     {
+      "text": "Project Coordinator-1"
+     },
+     {
+      "text": "--"
+     }
+    ],
+    [
+     {
+      "text": "10"
+     },
+     {
+      "text": "Dr. A.V.L. Narayana Rao"
+     },
+     {
+      "text": "Dept level BRP Coordinator"
+     },
+     {
+      "text": "--"
+     }
+    ],
+    [
+     {
+      "text": "11"
+     },
+     {
+      "text": "Dr. S. Sureshkumar"
+     },
+     {
+      "text": "Institute EDC Coordinator"
+     },
+     {
+      "text": "--"
+     }
+    ],
+    [
+     {
+      "text": "12"
+     },
+     {
+      "text": "Dr. M.L.S.N. Swarajya Lakshmi"
+     },
+     {
+      "text": "Institute level BRP Coordinator"
+     },
+     {
+      "text": "--"
+     }
+    ],
+    [
+     {
+      "text": "13"
+     },
+     {
+      "text": "Dr. K.C. Kullayappa Naik"
+     },
+     {
+      "text": "Planning & Scheduling Coordinator"
+     },
+     {
+      "text": "--"
+     }
+    ],
+    [
+     {
+      "text": "14"
+     },
+     {
+      "text": "Dr. V.S. Nishok"
+     },
+     {
+      "text": "IQAC Coordinator"
+     },
+     {
+      "text": "--"
+     }
+    ],
+    [
+     {
+      "text": "15"
+     },
+     {
+      "text": "Dr. Prasad Jones Christydass S."
+     },
+     {
+      "text": "Institute level Curriculum Development"
+     },
+     {
+      "text": "--"
+     }
+    ],
+    [
+     {
+      "text": "16"
+     },
+     {
+      "text": "Dr. Kuheli Mondal"
+     },
+     {
+      "text": "MPMC Lab Incharge"
+     },
+     {
+      "text": "--"
+     }
+    ],
+    [
+     {
+      "text": "17"
+     },
+     {
+      "text": "Dr. G. Sivaraman"
+     },
+     {
+      "text": "Consultancy Coordinator"
+     },
+     {
+      "text": "--"
+     }
+    ],
+    [
+     {
+      "text": "18"
+     },
+     {
+      "text": "Dr. B. Maheswara Rao"
+     },
+     {
+      "text": "VLSI LAB Incharge"
+     },
+     {
+      "text": "--"
+     }
+    ],
+    [
+     {
+      "text": "19"
+     },
+     {
+      "text": "Dr. C. Karthick"
+     },
+     {
+      "text": "Admissions Coordinator"
+     },
+     {
+      "text": "--"
+     }
+    ],
+    [
+     {
+      "text": "20"
+     },
+     {
+      "text": "Dr. K. Rajsekhar"
+     },
+     {
+      "text": "Energy Resources Coordinator"
+     },
+     {
+      "text": "--"
+     }
+    ],
+    [
+     {
+      "text": "21"
+     },
+     {
+      "text": "B. Malleswari"
+     },
+     {
+      "text": "PG Academic Coordinator"
+     },
+     {
+      "text": "--"
+     }
+    ],
+    [
+     {
+      "text": "22"
+     },
+     {
+      "text": "V. Jai Kumar"
+     },
+     {
+      "text": "R&D Coordinator-1"
+     },
+     {
+      "text": "--"
+     }
+    ],
+    [
+     {
+      "text": "23"
+     },
+     {
+      "text": "M. Madhavi"
+     },
+     {
+      "text": "Environmental Resources Coordinator"
+     },
+     {
+      "text": "--"
+     }
+    ],
+    [
+     {
+      "text": "24"
+     },
+     {
+      "text": "K. Ramanjaneyulu"
+     },
+     {
+      "text": "ADC LAB Incharge"
+     },
+     {
+      "text": "--"
+     }
+    ],
+    [
+     {
+      "text": "25"
+     },
+     {
+      "text": "I. Saidulu"
+     },
+     {
+      "text": "Dept Library Incharge"
+     },
+     {
+      "text": "--"
+     }
+    ],
+    [
+     {
+      "text": "26"
+     },
+     {
+      "text": "P. Prakash"
+     },
+     {
+      "text": "Placement Skilling Cordinator"
+     },
+     {
+      "text": "--"
+     }
+    ],
+    [
+     {
+      "text": "27"
+     },
+     {
+      "text": "K.S.N. Vittal"
+     },
+     {
+      "text": "Assessments and Evaluations Coordinator-1"
+     },
+     {
+      "text": "--"
+     }
+    ],
+    [
+     {
+      "text": "28"
+     },
+     {
+      "text": "M. Hari Babu"
+     },
+     {
+      "text": "HR Coordinator-1"
+     },
+     {
+      "text": "--"
+     }
+    ],
+    [
+     {
+      "text": "29"
+     },
+     {
+      "text": "K. Latha"
+     },
+     {
+      "text": "HR Coordinator-2"
+     },
+     {
+      "text": "--"
+     }
+    ],
+    [
+     {
+      "text": "30"
+     },
+     {
+      "text": "S. Anitha"
+     },
+     {
+      "text": "FDP Coordinator"
+     },
+     {
+      "text": "--"
+     }
+    ],
+    [
+     {
+      "text": "31"
+     },
+     {
+      "text": "A. Sirisha"
+     },
+     {
+      "text": "News Letter Coordinator"
+     },
+     {
+      "text": "--"
+     }
+    ],
+    [
+     {
+      "text": "32"
+     },
+     {
+      "text": "P. Praveen Kumar"
+     },
+     {
+      "text": "SS Lab Incharge"
+     },
+     {
+      "text": "--"
+     }
+    ],
+    [
+     {
+      "text": "33"
+     },
+     {
+      "text": "G. Sai Sravanthi"
+     },
+     {
+      "text": "Alumni Coordinator"
+     },
+     {
+      "text": "--"
+     }
+    ],
+    [
+     {
+      "text": "34"
+     },
+     {
+      "text": "M. Madhu Babu"
+     },
+     {
+      "text": "Discipline Coordinator"
+     },
+     {
+      "text": "--"
+     }
+    ],
+    [
+     {
+      "text": "35"
+     },
+     {
+      "text": "P. Gowri Sankar"
+     },
+     {
+      "text": "Minutes of meeting Coordinator"
+     },
+     {
+      "text": "--"
+     }
+    ],
+    [
+     {
+      "text": "36"
+     },
+     {
+      "text": "S. Papi Reddy"
+     },
+     {
+      "text": "R&D Coordinator-2"
+     },
+     {
+      "text": "--"
+     }
+    ],
+    [
+     {
+      "text": "37"
+     },
+     {
+      "text": "V. Madhava Reddy"
+     },
+     {
+      "text": "Equipment & Furniture Infra Coordinator"
+     },
+     {
+      "text": "--"
+     }
+    ],
+    [
+     {
+      "text": "38"
+     },
+     {
+      "text": "T. Ashok Babu"
+     },
+     {
+      "text": "Project Coordinator-2"
+     },
+     {
+      "text": "--"
+     }
+    ],
+    [
+     {
+      "text": "39"
+     },
+     {
+      "text": "B. Sravan Kumar"
+     },
+     {
+      "text": "Placement Drives Conduction Coordinator"
+     },
+     {
+      "text": "--"
+     }
+    ],
+    [
+     {
+      "text": "40"
+     },
+     {
+      "text": "N. Sravani"
+     },
+     {
+      "text": "LDICA Lab Incharge"
+     },
+     {
+      "text": "--"
+     }
+    ],
+    [
+     {
+      "text": "41"
+     },
+     {
+      "text": "P. V. M. Vijaya Bhaskar"
+     },
+     {
+      "text": "Community (Geographical) Resource Coordinator"
+     },
+     {
+      "text": "--"
+     }
+    ],
+    [
+     {
+      "text": "42"
+     },
+     {
+      "text": "D. Brahmananda Rao"
+     },
+     {
+      "text": "Research Lab Coordinator"
+     },
+     {
+      "text": "--"
+     }
+    ],
+    [
+     {
+      "text": "43"
+     },
+     {
+      "text": "K. Malini"
+     },
+     {
+      "text": "Assessments and Evaluations Coordinator-2"
+     },
+     {
+      "text": "--"
+     }
+    ],
+    [
+     {
+      "text": "44"
+     },
+     {
+      "text": "J. Sriram Pavan"
+     },
+     {
+      "text": "NAAC and NBA Coordinator"
+     },
+     {
+      "text": "--"
+     }
+    ],
+    [
+     {
+      "text": "45"
+     },
+     {
+      "text": "M. Brahmam"
+     },
+     {
+      "text": "EDC LAB-2 INCHARGE"
+     },
+     {
+      "text": "--"
+     }
+    ],
+    [
+     {
+      "text": "46"
+     },
+     {
+      "text": "E. Babitha"
+     },
+     {
+      "text": "EDC LAB-1 INCHARGE"
+     },
+     {
+      "text": "--"
+     }
+    ],
+    [
+     {
+      "text": "47"
+     },
+     {
+      "text": "N. Chaitanya"
+     },
+     {
+      "text": "DSP LAB INCHARGE"
+     },
+     {
+      "text": "--"
+     }
+    ],
+    [
+     {
+      "text": "48"
+     },
+     {
+      "text": "K. Chervitha"
+     },
+     {
+      "text": "Civil Infra Coordinator"
+     },
+     {
+      "text": "--"
+     }
+    ],
+    [
+     {
+      "text": "49"
+     },
+     {
+      "text": "S.S. Abinayaa"
+     },
+     {
+      "text": "--"
+     },
+     {
+      "text": "II ECE F"
+     }
+    ],
+    [
+     {
+      "text": "50"
+     },
+     {
+      "text": "R. Navya Sree"
+     },
+     {
+      "text": "--"
+     },
+     {
+      "text": "III ECE C"
+     }
+    ],
+    [
+     {
+      "text": "51"
+     },
+     {
+      "text": "R. Vijaya Bhaskar"
+     },
+     {
+      "text": "--"
+     },
+     {
+      "text": "III ECE B"
+     }
+    ],
+    [
+     {
+      "text": "52"
+     },
+     {
+      "text": "V. Saranya Devi"
+     },
+     {
+      "text": "--"
+     },
+     {
+      "text": "III ECE A"
+     }
+    ],
+    [
+     {
+      "text": "53"
+     },
+     {
+      "text": "G. Venkateswarlu"
+     },
+     {
+      "text": "--"
+     },
+     {
+      "text": "III ECE D"
+     }
+    ],
+    [
+     {
+      "text": "54"
+     },
+     {
+      "text": "A. Sukanya"
+     },
+     {
+      "text": "--"
+     },
+     {
+      "text": "II ECE A"
+     }
+    ],
+    [
+     {
+      "text": "55"
+     },
+     {
+      "text": "K. Hari Krishna"
+     },
+     {
+      "text": "CAC Coordinator"
+     },
+     {
+      "text": "--"
+     }
+    ],
+    [
+     {
+      "text": "56"
+     },
+     {
+      "text": "G. Sridevi"
+     },
+     {
+      "text": "--"
+     },
+     {
+      "text": "II ECE B"
+     }
+    ],
+    [
+     {
+      "text": "57"
+     },
+     {
+      "text": "V. Udayini"
+     },
+     {
+      "text": "--"
+     },
+     {
+      "text": "II ECE D"
+     }
+    ],
+    [
+     {
+      "text": "58"
+     },
+     {
+      "text": "A. Pavani"
+     },
+     {
+      "text": "--"
+     },
+     {
+      "text": "II ECE E"
+     }
+    ],
+    [
+     {
+      "text": "59"
+     },
+     {
+      "text": "G. Prathyusha"
+     },
+     {
+      "text": "--"
+     },
+     {
+      "text": "IV ECE A"
+     }
+    ],
+    [
+     {
+      "text": "60"
+     },
+     {
+      "text": "M. Srinivasa Rao"
+     },
+     {
+      "text": "UG- Academics Coordinator"
+     },
+     {
+      "text": "--"
+     }
+    ],
+    [
+     {
+      "text": "61"
+     },
+     {
+      "text": "D. Suvarna Lakshmi"
+     },
+     {
+      "text": "--"
+     },
+     {
+      "text": "IV ECE C"
+     }
+    ],
+    [
+     {
+      "text": "62"
+     },
+     {
+      "text": "D. Nayab Rasool"
+     },
+     {
+      "text": "--"
+     },
+     {
+      "text": "IV ECE D"
+     }
+    ],
+    [
+     {
+      "text": "63"
+     },
+     {
+      "text": "G.V.S.S. Siva Kumar"
+     },
+     {
+      "text": "Placement Training Coordinator"
+     },
+     {
+      "text": "--"
+     }
+    ],
+    [
+     {
+      "text": "64"
+     },
+     {
+      "text": "K. Anitha"
+     },
+     {
+      "text": "--"
+     },
+     {
+      "text": "IV ECE B"
+     }
+    ],
+    [
+     {
+      "text": "65"
+     },
+     {
+      "text": "B. Venkateswarlu"
+     },
+     {
+      "text": "Water Resources Coordinator"
+     },
+     {
+      "text": "--"
+     }
+    ]
+   ]
+  }
+ ],
+ "department": "ece",
+ "pageTitle": "Class Coordinators"
+}

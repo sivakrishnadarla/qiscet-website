@@ -1,0 +1,72 @@
+{
+  "id": "cms_example_admissions",
+  "kind": "blog",
+  "slug": "blog/eapcet-counselling-code-qise",
+  "status": "draft",
+  "title": "What is the EAPCET counselling code of QISCET?",
+  "section": "blog",
+  "sectionTitle": "Blog",
+  "summary": "Example AEO post. It stays a draft until a staff member publishes it.",
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "How counselling works"
+    },
+    {
+      "type": "paragraph",
+      "text": "70% of seats (Category A) are filled by the Government of Andhra Pradesh through AP EAPCET counselling. 30% (Category B) are filled by the college as per government norms. Diploma holders join the second year through AP ECET."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "How to ask the admissions office"
+    },
+    {
+      "type": "paragraph",
+      "text": "Call the admissions helpline or the college office, or write to the principal. Office hours are Monday to Saturday, 9:00 AM to 5:00 PM. Do not rely on unofficial numbers circulating on social media."
+    }
+  ],
+  "seo": {
+    "metaTitle": "EAPCET counselling code QISE | QISCET, Ongole",
+    "metaDescription": "The AP EAPCET counselling code for QIS College of Engineering & Technology, Ongole is QISE. Call +91 92464 19530 for 2026-27 admissions today.",
+    "keywords": ["QISCET EAPCET code", "QISE", "engineering college Ongole", "QISCET admissions"],
+    "canonicalPath": "/blog/eapcet-counselling-code-qise",
+    "ogImage": "",
+    "noIndex": false,
+    "schemaType": "BlogPosting",
+    "speakable": true,
+    "llmSummary": "The AP EAPCET and ECET counselling code for QIS College of Engineering & Technology (QISCET), Ongole, is QISE. QISCET is an autonomous college on Pondur Road, Vengamukkapalem, Ongole, Prakasam District, Andhra Pradesh – 523272. For 2026-27 admissions, call +91 92464 19530 or +91 92464 19542, or email principal@qiscet.edu.in. Category A seats are filled by the state through EAPCET; Category B seats are filled by the college.",
+    "primaryQuestion": "What is the EAPCET counselling code of QISCET Ongole?",
+    "keyFacts": [
+      { "label": "Counselling code", "value": "QISE" },
+      { "label": "Admissions helpline", "value": "+91 92464 19530" },
+      { "label": "College office", "value": "+91 92464 19542" },
+      { "label": "Email", "value": "principal@qiscet.edu.in" }
+    ],
+    "faqs": [
+      {
+        "question": "What is the EAPCET counselling code of QISCET?",
+        "answer": "The AP EAPCET and ECET counselling code for QIS College of Engineering & Technology, Ongole is QISE."
+      },
+      {
+        "question": "How can I contact QISCET admissions?",
+        "answer": "Call +91 92464 19530 or +91 92464 19542, or email principal@qiscet.edu.in. The office is open Monday to Saturday, 9:00 AM to 5:00 PM, at Pondur Road, Vengamukkapalem, Ongole – 523272."
+      }
+    ],
+    "author": "QIS College of Engineering & Technology",
+    "datePublished": "2026-09-23",
+    "dateModified": "2026-09-23",
+    "mentions": ["QISCET", "QISE", "Ongole", "AP EAPCET", "JNTUK"]
+  },
+  "coverImage": "",
+  "coverAlt": "",
+  "featured": false,
+  "showInNav": false,
+  "source": "cms",
+  "previousSlugs": [],
+  "createdAt": "2026-09-23T00:00:00.000Z",
+  "updatedAt": "2026-09-23T00:00:00.000Z",
+  "createdBy": "system",
+  "updatedBy": "system"
+}

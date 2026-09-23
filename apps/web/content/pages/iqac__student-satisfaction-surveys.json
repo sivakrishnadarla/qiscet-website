@@ -1,0 +1,48 @@
+{
+ "slug": "iqac/student-satisfaction-surveys",
+ "section": "iqac",
+ "sectionTitle": "IQAC",
+ "title": "NAAC Student Satisfaction Surveys",
+ "legacy": "https://qiscet.edu.in/qiscet/NAAC_Student_Satisfaction_surveys.php",
+ "summary": null,
+ "blocks": [
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    {
+     "text": "NAAC STUDENT SATISFACTION SURVEY 2020-21",
+     "links": [
+      {
+       "label": "NAAC STUDENT SATISFACTION SURVEY 2020-21",
+       "href": "https://qiscet.edu.in/qiscet/iqac/NAAC_Survey_report_2020-2021.pdf"
+      }
+     ]
+    },
+    {
+     "text": "NAAC STUDENT SATISFACTION SURVEY 2019-20",
+     "links": [
+      {
+       "label": "NAAC STUDENT SATISFACTION SURVEY 2019-20",
+       "href": "https://qiscet.edu.in/qiscet/iqac/NAAC_Survey_report_2019-2020.pdf"
+      }
+     ]
+    },
+    {
+     "text": "NAAC STUDENT SATISFACTION SURVEY 2018-19",
+     "links": [
+      {
+       "label": "NAAC STUDENT SATISFACTION SURVEY 2018-19",
+       "href": "https://qiscet.edu.in/qiscet/iqac/NAAC_Survey_report_2018-2019.pdf"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "image",
+   "src": "/images/iqac/naac_student_satisfaction_survey.jpg",
+   "alt": "Naac student satisfacton survey"
+  }
+ ]
+}

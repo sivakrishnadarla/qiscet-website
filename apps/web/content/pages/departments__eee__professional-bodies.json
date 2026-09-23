@@ -1,0 +1,83 @@
+{
+ "slug": "departments/eee/professional-bodies",
+ "section": "departments",
+ "sectionTitle": "Departments",
+ "title": "Professional Bodies – Electrical & Electronics Engineering",
+ "legacy": "https://qiscet.edu.in/qiscet/DEPARTMENTS_eee_professional.php",
+ "summary": null,
+ "blocks": [
+  {
+   "type": "table",
+   "rows": [
+    [
+     {
+      "text": "",
+      "images": [
+       "/images/departments/eee/iei_logo.jpg"
+      ]
+     },
+     {
+      "text": "The Institution of Engineers (India) [IEI] is the largest multi-disciplinary professional body of engineers, established in 1920 with its Headquarters located in Kolkata and incorporated under Royal Charter on 9th September, 1935 by the then His Majesty of King George V."
+     },
+     {
+      "text": "CERTIFICATE-2024 CERTIFICATE-2023",
+      "links": [
+       {
+        "label": "CERTIFICATE-2024",
+        "href": "https://qiscet.edu.in/qiscet/departments/eee/CERTIFICATE-2024.pdf"
+       },
+       {
+        "label": "CERTIFICATE-2023",
+        "href": "https://qiscet.edu.in/qiscet/departments/eee/CERTIFICATE-2023.pdf"
+       }
+      ]
+     }
+    ]
+   ]
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    {
+     "text": "Advisor Letter 2024",
+     "links": [
+      {
+       "label": "Advisor Letter 2024",
+       "href": "https://qiscet.edu.in/qiscet/departments/eee/Advisor%20letter2024.pdf"
+      }
+     ]
+    },
+    {
+     "text": "Advisor Letter 2023",
+     "links": [
+      {
+       "label": "Advisor Letter 2023",
+       "href": "https://qiscet.edu.in/qiscet/departments/eee/Advisor%20letter2023.pdf"
+      }
+     ]
+    },
+    {
+     "text": "Student List IEI 2024",
+     "links": [
+      {
+       "label": "Student List IEI 2024",
+       "href": "https://qiscet.edu.in/qiscet/departments/eee/student%20iei2024.pdf"
+      }
+     ]
+    },
+    {
+     "text": "Student List IEI 2023",
+     "links": [
+      {
+       "label": "Student List IEI 2023",
+       "href": "https://qiscet.edu.in/qiscet/departments/eee/student%20iei2023.pdf"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "department": "eee",
+ "pageTitle": "Professional Bodies"
+}
