@@ -63,7 +63,7 @@ export default function FloatingActions() {
         type="button"
         aria-label="Back to top"
         onClick={() => window.scrollTo({ top: 0, behavior: 'smooth' })}
-        className={`fixed bottom-20 right-4 z-40 inline-flex h-11 w-11 items-center justify-center rounded-full bg-navy-900 text-white shadow-lift transition md:bottom-6 md:right-6 ${top ? 'translate-y-0 opacity-100' : 'pointer-events-none translate-y-4 opacity-0'}`}
+        className={`fixed bottom-36 right-4 z-40 inline-flex h-11 w-11 items-center justify-center rounded-full bg-navy-900 text-white shadow-lift transition md:bottom-24 md:right-6 ${top ? 'translate-y-0 opacity-100' : 'pointer-events-none translate-y-4 opacity-0'}`}
       >
         <ArrowUp className="h-5 w-5" />
       </button>
