@@ -111,38 +111,10 @@ export default function Header() {
         </div>
       </div>
 
-      {/* Main bar */}
+      {/* Main bar — full college name beside the emblem; menu sits on its own row so it cannot cover the name */}
       <div ref={navRef} className="relative border-b border-navy-100 bg-white/95 backdrop-blur supports-[backdrop-filter]:bg-white/85">
-        <div className="container-x flex h-[72px] items-center gap-2 xl:gap-3 xl:px-5">
-          <Logo />
-
-          <nav aria-label="Primary" className="hidden min-w-0 flex-1 justify-center overflow-x-auto xl:flex [scrollbar-width:none]">
-            <ul className="flex items-center gap-0.5">
-              {mainNav.map((item, i) => (
-                <li key={item.label} onMouseEnter={() => item.columns && enter(i)} onMouseLeave={() => item.columns && leave()}>
-                  {item.columns ? (
-                    <button
-                      type="button"
-                      aria-expanded={open === i}
-                      aria-haspopup="true"
-                      onClick={() => setOpen(open === i ? null : i)}
-                      className={clsx(
-                        'inline-flex items-center gap-1 whitespace-nowrap rounded-full px-2 py-2 text-[13px] font-semibold text-navy-900 transition hover:bg-navy-50 hover:text-navy-700 2xl:px-2.5 2xl:text-sm',
-                        open === i && 'bg-navy-50 text-navy-700',
-                      )}
-                    >
-                      {item.label}
-                      <ChevronDown className={clsx('h-3.5 w-3.5 shrink-0 transition', open === i && 'rotate-180')} />
-                    </button>
-                  ) : (
-                    <Link href={item.href!} className="inline-flex items-center whitespace-nowrap rounded-full px-2 py-2 text-[13px] font-semibold text-navy-900 hover:bg-navy-50 hover:text-navy-700 2xl:px-2.5 2xl:text-sm">
-                      {item.label}
-                    </Link>
-                  )}
-                </li>
-              ))}
-            </ul>
-          </nav>
+        <div className="container-x flex min-h-[72px] items-center gap-3 py-2">
+          <Logo className="flex-1 md:flex-none" />
 
           <div className="ml-auto flex shrink-0 items-center gap-2">
             <Link href="/search" className="hidden h-10 w-10 items-center justify-center rounded-full text-navy-800 hover:bg-navy-50 lg:inline-flex" aria-label="Search">
@@ -151,11 +123,39 @@ export default function Header() {
             <Link href="/apply" className="btn-primary hidden !px-4 sm:inline-flex">
               Apply Now
             </Link>
-            <button type="button" onClick={() => setMobile(true)} className="inline-flex h-11 w-11 items-center justify-center rounded-full border border-navy-100 text-navy-900 xl:hidden" aria-label="Open menu">
+            <button type="button" onClick={() => setMobile(true)} className="inline-flex h-11 w-11 items-center justify-center rounded-full border border-navy-100 text-navy-900 lg:hidden" aria-label="Open menu">
               <Menu className="h-6 w-6" />
             </button>
           </div>
         </div>
+
+        <nav aria-label="Primary" className="hidden overflow-x-auto border-t border-navy-100 lg:block [scrollbar-width:none]">
+          <ul className="container-x flex w-max min-w-full items-center justify-center gap-0.5">
+            {mainNav.map((item, i) => (
+              <li key={item.label} onMouseEnter={() => item.columns && enter(i)} onMouseLeave={() => item.columns && leave()}>
+                {item.columns ? (
+                  <button
+                    type="button"
+                    aria-expanded={open === i}
+                    aria-haspopup="true"
+                    onClick={() => setOpen(open === i ? null : i)}
+                    className={clsx(
+                      'inline-flex items-center gap-1 whitespace-nowrap rounded-full px-2.5 py-2.5 text-[13px] font-semibold text-navy-900 transition hover:bg-navy-50 hover:text-navy-700 xl:px-3.5 xl:text-sm',
+                      open === i && 'bg-navy-50 text-navy-700',
+                    )}
+                  >
+                    {item.label}
+                    <ChevronDown className={clsx('h-3.5 w-3.5 shrink-0 transition', open === i && 'rotate-180')} />
+                  </button>
+                ) : (
+                  <Link href={item.href!} className="inline-flex items-center whitespace-nowrap rounded-full px-2.5 py-2.5 text-[13px] font-semibold text-navy-900 hover:bg-navy-50 hover:text-navy-700 xl:px-3.5 xl:text-sm">
+                    {item.label}
+                  </Link>
+                )}
+              </li>
+            ))}
+          </ul>
+        </nav>
 
         {open !== null && mainNav[open]?.columns ? (
           <MegaPanel item={mainNav[open]} onEnter={() => enter(open)} onLeave={leave} />
@@ -163,7 +163,7 @@ export default function Header() {
       </div>
 
       {/* Mobile drawer */}
-      <div className={clsx('fixed inset-0 z-[60] xl:hidden', mobile ? 'pointer-events-auto' : 'pointer-events-none')} aria-hidden={!mobile}>
+      <div className={clsx('fixed inset-0 z-[60] lg:hidden', mobile ? 'pointer-events-auto' : 'pointer-events-none')} aria-hidden={!mobile}>
         <div className={clsx('absolute inset-0 bg-navy-950/60 backdrop-blur-sm transition-opacity', mobile ? 'opacity-100' : 'opacity-0')} onClick={() => setMobile(false)} />
         <div className={clsx('absolute right-0 top-0 flex h-full w-[88%] max-w-sm flex-col bg-white shadow-2xl transition-transform duration-300', mobile ? 'translate-x-0' : 'translate-x-full')} role="dialog" aria-modal="true" aria-label="Menu">
           <div className="flex items-center justify-between border-b border-navy-100 p-4">
