@@ -62,7 +62,7 @@ export default function Footer() {
   ].filter((s) => !!s.href);
 
   return (
-    <footer className="relative mt-16 bg-navy-950 text-navy-100" itemScope itemType="https://schema.org/CollegeOrUniversity">
+    <footer className="relative mt-16 bg-navy-950 pb-16 text-navy-100 md:pb-0" itemScope itemType="https://schema.org/CollegeOrUniversity">
       {/* Accreditation strip */}
       <div className="border-b border-white/10 bg-navy-900">
         <div className="container-x flex flex-wrap items-center justify-center gap-x-8 gap-y-3 py-5 text-center">

@@ -1,147 +1,147 @@
 {
- "slug": "facilities/library",
- "section": "facilities",
- "sectionTitle": "Facilities",
- "title": "Central Library",
- "legacy": "https://qiscet.edu.in/qiscet/FACILITIES_library.php",
- "summary": "“One Best Book is Equal to Hundred Good Friends but one Good Friend is Equal to Library”- A P J Abdul Kalam",
- "blocks": [
-  {
-   "type": "paragraph",
-   "text": "“One Best Book is Equal to Hundred Good Friends but one Good Friend is Equal to Library”- A P J Abdul Kalam"
-  },
-  {
-   "type": "image",
-   "src": "/images/library/gallery/issue-area.jpg",
-   "alt": "canteen"
-  },
-  {
-   "type": "paragraph",
-   "text": "“Google can bring you back 100,000 answers, a librarian can bring you back the right one.” – Neil Gaiman"
-  },
-  {
-   "type": "paragraph",
-   "text": "It is rightly said “knowledge is power”. Therefore Library is one of the most key components of an educational institution. Hence, the Library is also called as the “Heart of the institution”."
-  },
-  {
-   "type": "paragraph",
-   "text": "The college has well established central library with plinth area of 12,000 sq ft building. The central library has rich collection of Books, National & International Print Journals, Magazines, e journals, e books, DELNET membership with ILL, NPTEL video lectures, NDL Membership, Shodh Sindhu Membership, Fully automation with barcode technology for transactions, OPAC (Online Public Access Catalogue), Digital library with 360 mbps internet facility to 59 systems, reprographic facility, Online Print facility, Department libraries, Back volumes of periodicals, Project reports, CD’s and Sc & St Book bank library books and all daily news papers."
-  },
-  {
-   "type": "heading",
-   "text": "VISION",
-   "level": 4
-  },
-  {
-   "type": "list",
-   "ordered": false,
-   "items": [
+  "slug": "facilities/library",
+  "section": "facilities",
+  "sectionTitle": "Facilities",
+  "title": "Central Library",
+  "legacy": "https://qiscet.edu.in/qiscet/FACILITIES_library.php",
+  "summary": "“One Best Book is Equal to Hundred Good Friends but one Good Friend is Equal to Library”- A P J Abdul Kalam",
+  "blocks": [
     {
-     "text": "Library aims to be best among engineering college libraries in the country."
+      "type": "paragraph",
+      "text": "“One Best Book is Equal to Hundred Good Friends but one Good Friend is Equal to Library”- A P J Abdul Kalam"
     },
     {
-     "text": "Library intends in incorporating the latest technology and adopts user friendly approach towards students and faculty communities."
+      "type": "image",
+      "src": "/images/library/gallery/issue-area.jpg",
+      "alt": "Central Library"
     },
     {
-     "text": "Library intends to offer comprehensive services related to propagation of knowledge."
+      "type": "paragraph",
+      "text": "“Google can bring you back 100,000 answers, a librarian can bring you back the right one.” – Neil Gaiman"
+    },
+    {
+      "type": "paragraph",
+      "text": "It is rightly said “knowledge is power”. Therefore Library is one of the most key components of an educational institution. Hence, the Library is also called as the “Heart of the institution”."
+    },
+    {
+      "type": "paragraph",
+      "text": "The college has well established central library with plinth area of 12,000 sq ft building. The central library has rich collection of Books, National & International Print Journals, Magazines, e journals, e books, DELNET membership with ILL, NPTEL video lectures, NDL Membership, Shodh Sindhu Membership, Fully automation with barcode technology for transactions, OPAC (Online Public Access Catalogue), Digital library with 360 mbps internet facility to 59 systems, reprographic facility, Online Print facility, Department libraries, Back volumes of periodicals, Project reports, CD’s and Sc & St Book bank library books and all daily news papers."
+    },
+    {
+      "type": "heading",
+      "text": "VISION",
+      "level": 4
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Library aims to be best among engineering college libraries in the country."
+        },
+        {
+          "text": "Library intends in incorporating the latest technology and adopts user friendly approach towards students and faculty communities."
+        },
+        {
+          "text": "Library intends to offer comprehensive services related to propagation of knowledge."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "MISSION",
+      "level": 4
+    },
+    {
+      "type": "paragraph",
+      "text": "Library service as a resource center and aims to develop a comprehensive collection of document’s useful for faculty and students of the institute and provides an efficient dissemination of knowledge."
+    },
+    {
+      "type": "heading",
+      "text": "WORKING HOURS",
+      "level": 4
+    },
+    {
+      "type": "paragraph",
+      "text": "Working days 7 A.M to 8 P.M Holidays 10 A.M to 5 P.M Any changes the timings shall be notified from time to time in the central Library notice board."
+    },
+    {
+      "type": "paragraph",
+      "text": "Long Term Goals:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Developing Institution publications."
+        },
+        {
+          "text": "Providing online library facilities for students and faculties."
+        },
+        {
+          "text": "Developing a consortium of all Engineering college libraries with resource sharing and networking."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Short Term Goals:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "To serve the academic needs of all students and faculty members."
+        },
+        {
+          "text": "As a center for collection of books and Journals of all related subjects."
+        },
+        {
+          "text": "To develop a comprehensive collection of information required for teaching and reference purpose."
+        },
+        {
+          "text": "To acquire, organize Information resources to meet the present and future needs of its users."
+        },
+        {
+          "text": "Provide timely access to requested materials."
+        },
+        {
+          "text": "Build digital library infrastructure."
+        },
+        {
+          "text": "Simplify search/discovery of library resources. (OPAC)"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Objectives:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "To provide an appropriate and comfortable ambience for the library users."
+        },
+        {
+          "text": "To make library & information system as user friendly as possible with the applications of information and communication technology."
+        },
+        {
+          "text": "To increase the range of information, multimedia and computer resources available to users."
+        },
+        {
+          "text": "To increase user resources and services through evaluation, planning and budgeting."
+        },
+        {
+          "text": "To serve the community as a center of reliable information."
+        },
+        {
+          "text": "To create a comprehensive networked information environment, a seamless rich set of tools and resources for the college community."
+        }
+      ]
     }
-   ]
-  },
-  {
-   "type": "heading",
-   "text": "MISSION",
-   "level": 4
-  },
-  {
-   "type": "paragraph",
-   "text": "Library service as a resource center and aims to develop a comprehensive collection of document’s useful for faculty and students of the institute and provides an efficient dissemination of knowledge."
-  },
-  {
-   "type": "heading",
-   "text": "WORKING HOURS",
-   "level": 4
-  },
-  {
-   "type": "paragraph",
-   "text": "Working days 7 A.M to 8 P.M Holidays 10 A.M to 5 P.M Any changes the timings shall be notified from time to time in the central Library notice board."
-  },
-  {
-   "type": "paragraph",
-   "text": "Long Term Goals:"
-  },
-  {
-   "type": "list",
-   "ordered": false,
-   "items": [
-    {
-     "text": "Developing Institution publications."
-    },
-    {
-     "text": "Providing online library facilities for students and faculties."
-    },
-    {
-     "text": "Developing a consortium of all Engineering college libraries with resource sharing and networking."
-    }
-   ]
-  },
-  {
-   "type": "paragraph",
-   "text": "Short Term Goals:"
-  },
-  {
-   "type": "list",
-   "ordered": false,
-   "items": [
-    {
-     "text": "To serve the academic needs of all students and faculty members."
-    },
-    {
-     "text": "As a center for collection of books and Journals of all related subjects."
-    },
-    {
-     "text": "To develop a comprehensive collection of information required for teaching and reference purpose."
-    },
-    {
-     "text": "To acquire, organize Information resources to meet the present and future needs of its users."
-    },
-    {
-     "text": "Provide timely access to requested materials."
-    },
-    {
-     "text": "Build digital library infrastructure."
-    },
-    {
-     "text": "Simplify search/discovery of library resources. (OPAC)"
-    }
-   ]
-  },
-  {
-   "type": "paragraph",
-   "text": "Objectives:"
-  },
-  {
-   "type": "list",
-   "ordered": false,
-   "items": [
-    {
-     "text": "To provide an appropriate and comfortable ambience for the library users."
-    },
-    {
-     "text": "To make library & information system as user friendly as possible with the applications of information and communication technology."
-    },
-    {
-     "text": "To increase the range of information, multimedia and computer resources available to users."
-    },
-    {
-     "text": "To increase user resources and services through evaluation, planning and budgeting."
-    },
-    {
-     "text": "To serve the community as a center of reliable information."
-    },
-    {
-     "text": "To create a comprehensive networked information environment, a seamless rich set of tools and resources for the college community."
-    }
-   ]
-  }
- ]
+  ]
 }

@@ -1,58 +1,58 @@
 {
- "slug": "facilities/hostel",
- "section": "facilities",
- "sectionTitle": "Facilities",
- "title": "Hostel (Boys & Girls)",
- "legacy": "https://qiscet.edu.in/qiscet/FACILITIES_hostel.php",
- "summary": "Separate hostels have been provided for boys and girls on campus with all facilities to provide homely accommodation, Healthy and hygienic food, Internet facility, round the clock security and…",
- "blocks": [
-  {
-   "type": "image",
-   "src": "/images/images/hostel1.jpg",
-   "alt": "canteen"
-  },
-  {
-   "type": "paragraph",
-   "text": "Separate hostels have been provided for boys and girls on campus with all facilities to provide homely accommodation, Healthy and hygienic food, Internet facility, round the clock security and general stores are made available at the hostel. Resident wardens are available. They take care of student's medical and other essential support regularly. Healthy meals prepared at the hostel Mess."
-  },
-  {
-   "type": "paragraph",
-   "text": "The room is allocated on the first-come first serve basis and availability once the hostel fee is paid in full."
-  },
-  {
-   "type": "paragraph",
-   "text": "Strict compliance is adhered to ensure that the campus follows “No Ragging” ethos."
-  },
-  {
-   "type": "paragraph",
-   "text": "Facilities"
-  },
-  {
-   "type": "list",
-   "ordered": false,
-   "items": [
+  "slug": "facilities/hostel",
+  "section": "facilities",
+  "sectionTitle": "Facilities",
+  "title": "Hostel (Boys & Girls)",
+  "legacy": "https://qiscet.edu.in/qiscet/FACILITIES_hostel.php",
+  "summary": "Separate hostels have been provided for boys and girls on campus with all facilities to provide homely accommodation, Healthy and hygienic food, Internet facility, round the clock security and…",
+  "blocks": [
     {
-     "text": "Uninterrupted power supply"
+      "type": "image",
+      "src": "/images/images/hostel1.jpg",
+      "alt": "Hostel (Boys & Girls)"
     },
     {
-     "text": "Uninterrupted Clean and Hygienic RO Drinking water supply"
+      "type": "paragraph",
+      "text": "Separate hostels have been provided for boys and girls on campus with all facilities to provide homely accommodation, Healthy and hygienic food, Internet facility, round the clock security and general stores are made available at the hostel. Resident wardens are available. They take care of student's medical and other essential support regularly. Healthy meals prepared at the hostel Mess."
     },
     {
-     "text": "Uninterrupted Internet/ Wi-Fi"
+      "type": "paragraph",
+      "text": "The room is allocated on the first-come first serve basis and availability once the hostel fee is paid in full."
     },
     {
-     "text": "Safe & Secure environment"
+      "type": "paragraph",
+      "text": "Strict compliance is adhered to ensure that the campus follows “No Ragging” ethos."
     },
     {
-     "text": "Well Equipped Gymnasium, Yoga"
+      "type": "paragraph",
+      "text": "Facilities"
     },
     {
-     "text": "Indoor and outdoor Games"
-    },
-    {
-     "text": "Laundry"
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Uninterrupted power supply"
+        },
+        {
+          "text": "Uninterrupted Clean and Hygienic RO Drinking water supply"
+        },
+        {
+          "text": "Uninterrupted Internet/ Wi-Fi"
+        },
+        {
+          "text": "Safe & Secure environment"
+        },
+        {
+          "text": "Well Equipped Gymnasium, Yoga"
+        },
+        {
+          "text": "Indoor and outdoor Games"
+        },
+        {
+          "text": "Laundry"
+        }
+      ]
     }
-   ]
-  }
- ]
+  ]
 }

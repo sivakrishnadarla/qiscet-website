@@ -22,7 +22,7 @@ export default function ProgramsGrid() {
                 {g.items.map((it) => (
                   <li key={it.name}>
                     <Link href={it.href} className="group flex items-center justify-between gap-3 rounded-lg px-4 py-2.5 text-sm text-ink-soft transition hover:bg-saffron-50 hover:text-navy-900">
-                      <span>{it.name}</span>
+                      <span className="min-w-0 leading-5">{it.name}</span>
                       <span className="flex shrink-0 items-center gap-2">
                         {it.intake ? <span className="rounded-full bg-navy-50 px-2 py-0.5 text-[11px] font-bold text-navy-800 group-hover:bg-white">{it.intake} seats</span> : null}
                         <ArrowUpRight className="h-4 w-4 text-navy-300 transition group-hover:text-saffron-500" />

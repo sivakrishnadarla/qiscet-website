@@ -79,29 +79,29 @@ export default function Header() {
     setOpen(i);
   };
   const leave = () => {
-    closeTimer.current = setTimeout(() => setOpen(null), 160);
+    closeTimer.current = setTimeout(() => setOpen(null), 280);
   };
 
   return (
     <header className={clsx('sticky top-0 z-50 transition-shadow', scrolled && 'shadow-lift')}>
       {/* Utility bar */}
       <div className="hidden bg-navy-950 text-[13px] text-navy-100 lg:block">
-        <div className="container-x flex h-9 items-center justify-between">
+        <div className="container-x flex h-9 items-center justify-between gap-4 overflow-x-auto">
           <div className="flex items-center gap-5">
-            <a href={site.phoneHref} className="inline-flex items-center gap-1.5 hover:text-white">
+            <a href={site.phoneHref} className="inline-flex shrink-0 items-center gap-1.5 whitespace-nowrap hover:text-white">
               <Phone className="h-3.5 w-3.5 text-saffron-400" /> {site.phone}
             </a>
-            <a href={`mailto:${site.email}`} className="inline-flex items-center gap-1.5 hover:text-white">
+            <a href={`mailto:${site.email}`} className="inline-flex shrink-0 items-center gap-1.5 whitespace-nowrap hover:text-white">
               <Mail className="h-3.5 w-3.5 text-saffron-400" /> {site.email}
             </a>
-            <span className="rounded bg-white/10 px-2 py-0.5 font-semibold text-white">
+            <span className="shrink-0 whitespace-nowrap rounded bg-white/10 px-2 py-0.5 font-semibold text-white">
               Counselling Code: <span className="text-saffron-300">{site.counsellingCode}</span>
             </span>
           </div>
           <ul className="flex items-center gap-4">
             {utilityNav.map((l) => (
               <li key={l.label}>
-                <SmartLink href={l.href} className="inline-flex items-center gap-1 hover:text-white">
+                <SmartLink href={l.href} className="inline-flex items-center gap-1 whitespace-nowrap hover:text-white">
                   {l.label}
                   {l.external ? <ExternalLink className="h-3 w-3 opacity-60" /> : null}
                 </SmartLink>
@@ -112,14 +112,14 @@ export default function Header() {
       </div>
 
       {/* Main bar */}
-      <div className="border-b border-navy-100 bg-white/95 backdrop-blur supports-[backdrop-filter]:bg-white/85">
-        <div className="container-x flex h-[72px] items-center justify-between gap-4">
+      <div ref={navRef} className="relative border-b border-navy-100 bg-white/95 backdrop-blur supports-[backdrop-filter]:bg-white/85">
+        <div className="container-x flex h-[72px] items-center gap-2 xl:gap-3 xl:px-5">
           <Logo />
 
-          <nav ref={navRef} aria-label="Primary" className="hidden xl:block">
-            <ul className="flex items-center gap-1">
+          <nav aria-label="Primary" className="hidden min-w-0 flex-1 justify-center overflow-x-auto xl:flex [scrollbar-width:none]">
+            <ul className="flex items-center gap-0.5">
               {mainNav.map((item, i) => (
-                <li key={item.label} className="relative" onMouseEnter={() => item.columns && enter(i)} onMouseLeave={() => item.columns && leave()}>
+                <li key={item.label} onMouseEnter={() => item.columns && enter(i)} onMouseLeave={() => item.columns && leave()}>
                   {item.columns ? (
                     <button
                       type="button"
@@ -127,33 +127,28 @@ export default function Header() {
                       aria-haspopup="true"
                       onClick={() => setOpen(open === i ? null : i)}
                       className={clsx(
-                        'inline-flex items-center gap-1 rounded-full px-3.5 py-2 text-[14px] font-semibold text-navy-900 transition hover:bg-navy-50 hover:text-navy-700',
+                        'inline-flex items-center gap-1 whitespace-nowrap rounded-full px-2 py-2 text-[13px] font-semibold text-navy-900 transition hover:bg-navy-50 hover:text-navy-700 2xl:px-2.5 2xl:text-sm',
                         open === i && 'bg-navy-50 text-navy-700',
                       )}
                     >
                       {item.label}
-                      <ChevronDown className={clsx('h-4 w-4 transition', open === i && 'rotate-180')} />
+                      <ChevronDown className={clsx('h-3.5 w-3.5 shrink-0 transition', open === i && 'rotate-180')} />
                     </button>
                   ) : (
-                    <Link href={item.href!} className="inline-flex items-center rounded-full px-3.5 py-2 text-[14px] font-semibold text-navy-900 hover:bg-navy-50 hover:text-navy-700">
+                    <Link href={item.href!} className="inline-flex items-center whitespace-nowrap rounded-full px-2 py-2 text-[13px] font-semibold text-navy-900 hover:bg-navy-50 hover:text-navy-700 2xl:px-2.5 2xl:text-sm">
                       {item.label}
                     </Link>
                   )}
                 </li>
               ))}
             </ul>
-
-            {/* Mega panel */}
-            {open !== null && mainNav[open]?.columns ? (
-              <MegaPanel item={mainNav[open]} onEnter={() => enter(open)} onLeave={leave} />
-            ) : null}
           </nav>
 
-          <div className="flex items-center gap-2">
+          <div className="ml-auto flex shrink-0 items-center gap-2">
             <Link href="/search" className="hidden h-10 w-10 items-center justify-center rounded-full text-navy-800 hover:bg-navy-50 lg:inline-flex" aria-label="Search">
               <Search className="h-5 w-5" />
             </Link>
-            <Link href="/apply" className="btn-primary hidden animate-pulseSoft sm:inline-flex">
+            <Link href="/apply" className="btn-primary hidden !px-4 sm:inline-flex">
               Apply Now
             </Link>
             <button type="button" onClick={() => setMobile(true)} className="inline-flex h-11 w-11 items-center justify-center rounded-full border border-navy-100 text-navy-900 xl:hidden" aria-label="Open menu">
@@ -161,6 +156,10 @@ export default function Header() {
             </button>
           </div>
         </div>
+
+        {open !== null && mainNav[open]?.columns ? (
+          <MegaPanel item={mainNav[open]} onEnter={() => enter(open)} onLeave={leave} />
+        ) : null}
       </div>
 
       {/* Mobile drawer */}
@@ -237,19 +236,19 @@ function MegaPanel({ item, onEnter, onLeave }: { item: NavItem; onEnter: () => v
     <div
       onMouseEnter={onEnter}
       onMouseLeave={onLeave}
-      className={clsx('absolute left-1/2 top-full z-50 -translate-x-1/2 pt-3 animate-fadeUp', wide ? 'w-[min(1100px,calc(100vw-2rem))]' : 'w-[min(760px,calc(100vw-2rem))]')}
+      className="absolute inset-x-0 top-full z-50 px-4 pt-2 animate-fadeUp"
     >
-      <div className="overflow-hidden rounded-2xl border border-navy-100 bg-white shadow-lift">
+      <div className={clsx('mx-auto overflow-hidden rounded-2xl border border-navy-100 bg-white shadow-lift', wide ? 'max-w-[1100px]' : 'max-w-[820px]')}>
         <div className={clsx('grid', item.featured ? (wide ? 'grid-cols-[1fr_1fr_1fr_260px]' : 'grid-cols-[1fr_1fr_260px]') : wide ? 'grid-cols-3' : 'grid-cols-2')}>
           {cols.map((col) => (
-            <div key={col.heading} className="border-r border-navy-50 p-6 last:border-r-0">
+            <div key={col.heading} className="min-w-0 border-r border-navy-50 p-5 last:border-r-0 xl:p-6">
               <p className="mb-3 text-[11px] font-bold uppercase tracking-[0.16em] text-saffron-600">{col.heading}</p>
               <ul className="space-y-1">
                 {col.links.map((l) => (
                   <li key={l.href + l.label}>
                     <SmartLink href={l.href} className="group flex items-start gap-2 rounded-lg px-2 py-1.5 text-[13.5px] text-ink-soft transition hover:bg-navy-50 hover:text-navy-900">
                       <ChevronRight className="mt-[3px] h-3.5 w-3.5 shrink-0 text-navy-300 transition group-hover:translate-x-0.5 group-hover:text-saffron-500" />
-                      <span>{l.label}</span>
+                      <span className="min-w-0">{l.label}</span>
                       {l.badge ? <span className="ml-auto rounded bg-saffron-100 px-1.5 py-0.5 text-[10px] font-bold text-saffron-700">{l.badge}</span> : null}
                       {l.external ? <ExternalLink className="ml-auto mt-1 h-3 w-3 opacity-50" /> : null}
                     </SmartLink>

@@ -1,56 +1,56 @@
 {
- "slug": "facilities/library/librarian",
- "section": "facilities",
- "sectionTitle": "Facilities",
- "title": "About the Librarian",
- "legacy": "https://qiscet.edu.in/qiscet/FACILITIES_library_about_Librarian.php",
- "summary": "Accredited by NBA (Tier 1) NAAC “A+” Grade & ISO 9001:2015 Certified Institution",
- "blocks": [
-  {
-   "type": "image",
-   "src": "/images/images/librarianandhead1.jpg",
-   "alt": "canteen"
-  },
-  {
-   "type": "link",
-   "label": "Librarian Profile",
-   "href": "https://qiscet.edu.in/qiscet/library/pdfs/Librarian_Profile3.pdf"
-  },
-  {
-   "type": "paragraph",
-   "text": "Dr. Srinivas Nalluri."
-  },
-  {
-   "type": "paragraph",
-   "text": "M.A, M.L.I.Sc, M.Phil, PGDLAN & Ph.D"
-  },
-  {
-   "type": "paragraph",
-   "text": "Librarian & Head, Central Library"
-  },
-  {
-   "type": "paragraph",
-   "text": "QIS College of Engineering & Technology, Autonomous"
-  },
-  {
-   "type": "paragraph",
-   "text": "Accredited by NBA (Tier 1) NAAC “A+” Grade & ISO 9001:2015 Certified Institution"
-  },
-  {
-   "type": "paragraph",
-   "text": "Vengamukkpalem - 523 272, Pondur Road"
-  },
-  {
-   "type": "paragraph",
-   "text": "ONGOLE, Prakasam District, Andhra Pradesh, India."
-  },
-  {
-   "type": "paragraph",
-   "text": "9290303372 (Calling) & 9866451665 (WhatsApp)"
-  },
-  {
-   "type": "paragraph",
-   "text": "librarianqis2007@gmail.com"
-  }
- ]
+  "slug": "facilities/library/librarian",
+  "section": "facilities",
+  "sectionTitle": "Facilities",
+  "title": "About the Librarian",
+  "legacy": "https://qiscet.edu.in/qiscet/FACILITIES_library_about_Librarian.php",
+  "summary": "Accredited by NBA (Tier 1) NAAC “A+” Grade & ISO 9001:2015 Certified Institution",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "/images/images/librarianandhead1.jpg",
+      "alt": "About the Librarian"
+    },
+    {
+      "type": "link",
+      "label": "Librarian Profile",
+      "href": "https://qiscet.edu.in/qiscet/library/pdfs/Librarian_Profile3.pdf"
+    },
+    {
+      "type": "paragraph",
+      "text": "Dr. Srinivas Nalluri."
+    },
+    {
+      "type": "paragraph",
+      "text": "M.A, M.L.I.Sc, M.Phil, PGDLAN & Ph.D"
+    },
+    {
+      "type": "paragraph",
+      "text": "Librarian & Head, Central Library"
+    },
+    {
+      "type": "paragraph",
+      "text": "QIS College of Engineering & Technology, Autonomous"
+    },
+    {
+      "type": "paragraph",
+      "text": "Accredited by NBA (Tier 1) NAAC “A+” Grade & ISO 9001:2015 Certified Institution"
+    },
+    {
+      "type": "paragraph",
+      "text": "Vengamukkpalem - 523 272, Pondur Road"
+    },
+    {
+      "type": "paragraph",
+      "text": "ONGOLE, Prakasam District, Andhra Pradesh, India."
+    },
+    {
+      "type": "paragraph",
+      "text": "9290303372 (Calling) & 9866451665 (WhatsApp)"
+    },
+    {
+      "type": "paragraph",
+      "text": "librarianqis2007@gmail.com"
+    }
+  ]
 }

@@ -1,894 +1,894 @@
 {
- "slug": "facilities/physical-education",
- "section": "facilities",
- "sectionTitle": "Facilities",
- "title": "Physical Education & Sports",
- "legacy": "https://qiscet.edu.in/qiscet/FACILITIES_physical_education.php",
- "summary": "QISCET has well equipped games and sports department under charge of physical director. QISCET believes in a sound mind in sound body. Students are encouraged to play various indoor and outdoor games…",
- "blocks": [
-  {
-   "type": "image",
-   "src": "/images/images/physical_education_header.jpg",
-   "alt": "canteen"
-  },
-  {
-   "type": "paragraph",
-   "text": "QISCET has well equipped games and sports department under charge of physical director. QISCET believes in a sound mind in sound body. Students are encouraged to play various indoor and outdoor games and sports participation in competition is also encouraged. QISCET conducted tournaments and summer coaching camps in various games and sports. Students participated in university, state and national level tournaments."
-  },
-  {
-   "type": "heading",
-   "text": "VISION",
-   "level": 4
-  },
-  {
-   "type": "paragraph",
-   "text": "All students will be physically active and educated, having acquired motor skills to perform a variety of physical activities, physical fitness knowledge, and intrinsic motivation to pursue a healthy and active lifestyle."
-  },
-  {
-   "type": "heading",
-   "text": "MISSION",
-   "level": 4
-  },
-  {
-   "type": "paragraph",
-   "text": "The mission of the Physical Education Program is to provide a comprehensive, progressive, and articulated physical education program through quality. Our students will attain the knowledge and skills to be physically active and healthy for life in the 21st century."
-  },
-  {
-   "type": "heading",
-   "text": "Outdoor Facilities",
-   "level": 4
-  },
-  {
-   "type": "table",
-   "rows": [
-    [
-     {
-      "text": "S.No."
-     },
-     {
-      "text": "Name"
-     },
-     {
-      "text": "No. of Courts"
-     },
-     {
-      "text": "Category"
-     }
-    ],
-    [
-     {
-      "text": "1"
-     },
-     {
-      "text": "Tennikoit"
-     },
-     {
-      "text": "2"
-     },
-     {
-      "text": "Women"
-     }
-    ],
-    [
-     {
-      "text": "2"
-     },
-     {
-      "text": "Throw Ball"
-     },
-     {
-      "text": "2"
-     },
-     {
-      "text": "Women"
-     }
-    ],
-    [
-     {
-      "text": "3"
-     },
-     {
-      "text": "Khokoo"
-     },
-     {
-      "text": "1"
-     },
-     {
-      "text": "Men/Women"
-     }
-    ],
-    [
-     {
-      "text": "4"
-     },
-     {
-      "text": "Kabbadi"
-     },
-     {
-      "text": "2"
-     },
-     {
-      "text": "Men"
-     }
-    ],
-    [
-     {
-      "text": "5"
-     },
-     {
-      "text": "Volley Ball"
-     },
-     {
-      "text": "3"
-     },
-     {
-      "text": "Men/Women"
-     }
-    ],
-    [
-     {
-      "text": "6"
-     },
-     {
-      "text": "Cricket net Practice"
-     },
-     {
-      "text": "2"
-     },
-     {
-      "text": "Men"
-     }
-    ],
-    [
-     {
-      "text": "7"
-     },
-     {
-      "text": "Horizontal Bar"
-     },
-     {
-      "text": "1"
-     },
-     {
-      "text": "Men/Women"
-     }
-    ],
-    [
-     {
-      "text": "8"
-     },
-     {
-      "text": "Parallel Bar"
-     },
-     {
-      "text": "1"
-     },
-     {
-      "text": "Men/Women"
-     }
-    ],
-    [
-     {
-      "text": "9"
-     },
-     {
-      "text": "Athletics Track (400 Mts)"
-     },
-     {
-      "text": "1"
-     },
-     {
-      "text": "Coming Up"
-     }
-    ],
-    [
-     {
-      "text": "10"
-     },
-     {
-      "text": "Cricket Ground"
-     },
-     {
-      "text": "1"
-     },
-     {
-      "text": "Coming Up"
-     }
-    ],
-    [
-     {
-      "text": "11"
-     },
-     {
-      "text": "Basket ball Court"
-     },
-     {
-      "text": "2"
-     },
-     {
-      "text": "Men/women"
-     }
-    ],
-    [
-     {
-      "text": "12"
-     },
-     {
-      "text": "Foot ball Field"
-     },
-     {
-      "text": "1"
-     },
-     {
-      "text": "Coming Up"
-     }
-    ]
-   ]
-  },
-  {
-   "type": "heading",
-   "text": "Jury of appeal comity",
-   "level": 4
-  },
-  {
-   "type": "list",
-   "ordered": false,
-   "items": [
+  "slug": "facilities/physical-education",
+  "section": "facilities",
+  "sectionTitle": "Facilities",
+  "title": "Physical Education & Sports",
+  "legacy": "https://qiscet.edu.in/qiscet/FACILITIES_physical_education.php",
+  "summary": "QISCET has well equipped games and sports department under charge of physical director. QISCET believes in a sound mind in sound body. Students are encouraged to play various indoor and outdoor games…",
+  "blocks": [
     {
-     "text": "Principal"
+      "type": "image",
+      "src": "/images/images/physical_education_header.jpg",
+      "alt": "Physical Education & Sports"
     },
     {
-     "text": "Vice Principal"
+      "type": "paragraph",
+      "text": "QISCET has well equipped games and sports department under charge of physical director. QISCET believes in a sound mind in sound body. Students are encouraged to play various indoor and outdoor games and sports participation in competition is also encouraged. QISCET conducted tournaments and summer coaching camps in various games and sports. Students participated in university, state and national level tournaments."
     },
     {
-     "text": "Physical director"
+      "type": "heading",
+      "text": "VISION",
+      "level": 4
     },
     {
-     "text": "Discipline Committee"
+      "type": "paragraph",
+      "text": "All students will be physically active and educated, having acquired motor skills to perform a variety of physical activities, physical fitness knowledge, and intrinsic motivation to pursue a healthy and active lifestyle."
+    },
+    {
+      "type": "heading",
+      "text": "MISSION",
+      "level": 4
+    },
+    {
+      "type": "paragraph",
+      "text": "The mission of the Physical Education Program is to provide a comprehensive, progressive, and articulated physical education program through quality. Our students will attain the knowledge and skills to be physically active and healthy for life in the 21st century."
+    },
+    {
+      "type": "heading",
+      "text": "Outdoor Facilities",
+      "level": 4
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "S.No."
+          },
+          {
+            "text": "Name"
+          },
+          {
+            "text": "No. of Courts"
+          },
+          {
+            "text": "Category"
+          }
+        ],
+        [
+          {
+            "text": "1"
+          },
+          {
+            "text": "Tennikoit"
+          },
+          {
+            "text": "2"
+          },
+          {
+            "text": "Women"
+          }
+        ],
+        [
+          {
+            "text": "2"
+          },
+          {
+            "text": "Throw Ball"
+          },
+          {
+            "text": "2"
+          },
+          {
+            "text": "Women"
+          }
+        ],
+        [
+          {
+            "text": "3"
+          },
+          {
+            "text": "Khokoo"
+          },
+          {
+            "text": "1"
+          },
+          {
+            "text": "Men/Women"
+          }
+        ],
+        [
+          {
+            "text": "4"
+          },
+          {
+            "text": "Kabbadi"
+          },
+          {
+            "text": "2"
+          },
+          {
+            "text": "Men"
+          }
+        ],
+        [
+          {
+            "text": "5"
+          },
+          {
+            "text": "Volley Ball"
+          },
+          {
+            "text": "3"
+          },
+          {
+            "text": "Men/Women"
+          }
+        ],
+        [
+          {
+            "text": "6"
+          },
+          {
+            "text": "Cricket net Practice"
+          },
+          {
+            "text": "2"
+          },
+          {
+            "text": "Men"
+          }
+        ],
+        [
+          {
+            "text": "7"
+          },
+          {
+            "text": "Horizontal Bar"
+          },
+          {
+            "text": "1"
+          },
+          {
+            "text": "Men/Women"
+          }
+        ],
+        [
+          {
+            "text": "8"
+          },
+          {
+            "text": "Parallel Bar"
+          },
+          {
+            "text": "1"
+          },
+          {
+            "text": "Men/Women"
+          }
+        ],
+        [
+          {
+            "text": "9"
+          },
+          {
+            "text": "Athletics Track (400 Mts)"
+          },
+          {
+            "text": "1"
+          },
+          {
+            "text": "Coming Up"
+          }
+        ],
+        [
+          {
+            "text": "10"
+          },
+          {
+            "text": "Cricket Ground"
+          },
+          {
+            "text": "1"
+          },
+          {
+            "text": "Coming Up"
+          }
+        ],
+        [
+          {
+            "text": "11"
+          },
+          {
+            "text": "Basket ball Court"
+          },
+          {
+            "text": "2"
+          },
+          {
+            "text": "Men/women"
+          }
+        ],
+        [
+          {
+            "text": "12"
+          },
+          {
+            "text": "Foot ball Field"
+          },
+          {
+            "text": "1"
+          },
+          {
+            "text": "Coming Up"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Jury of appeal comity",
+      "level": 4
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Principal"
+        },
+        {
+          "text": "Vice Principal"
+        },
+        {
+          "text": "Physical director"
+        },
+        {
+          "text": "Discipline Committee"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Aims and objectives of the department",
+      "level": 4
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "To encourage sports men ship and to promote friendly relations among the various college departments"
+        },
+        {
+          "text": "To raise the standards of sports and prevailing in the colleges and to work for development of values through sports among students"
+        },
+        {
+          "text": "To organize tournaments in different sports and games every year"
+        },
+        {
+          "text": "To make participation in inter college, inter university state and national level in different games and sports like Cricket, athletics"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "No. of Players required for each team",
+      "level": 4
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "S.No."
+          },
+          {
+            "text": "Game"
+          },
+          {
+            "text": "Category"
+          },
+          {
+            "text": "No of Players : Main / Substitute"
+          }
+        ],
+        [
+          {
+            "text": "1"
+          },
+          {
+            "text": "Chess"
+          },
+          {
+            "text": "Men/ Women"
+          },
+          {
+            "text": "1+2 (S+D) / Nil"
+          }
+        ],
+        [
+          {
+            "text": "2"
+          },
+          {
+            "text": "Caroms"
+          },
+          {
+            "text": "Men/ Women"
+          },
+          {
+            "text": "1+2 (S+D) / Nil"
+          }
+        ],
+        [
+          {
+            "text": "3"
+          },
+          {
+            "text": "Table Tennis"
+          },
+          {
+            "text": "Men/ Women"
+          },
+          {
+            "text": "1+2 (S+D) / Nil"
+          }
+        ],
+        [
+          {
+            "text": "4"
+          },
+          {
+            "text": "Throw Ball"
+          },
+          {
+            "text": "Women"
+          },
+          {
+            "text": ""
+          }
+        ],
+        [
+          {
+            "text": "5"
+          },
+          {
+            "text": "Tennikoit"
+          },
+          {
+            "text": "Women"
+          },
+          {
+            "text": "1+2 (S+D) / Nil"
+          }
+        ],
+        [
+          {
+            "text": "6"
+          },
+          {
+            "text": "Volley Ball"
+          },
+          {
+            "text": "Men"
+          },
+          {
+            "text": ""
+          }
+        ],
+        [
+          {
+            "text": "7"
+          },
+          {
+            "text": "Basket Ball"
+          },
+          {
+            "text": "Men"
+          },
+          {
+            "text": ""
+          }
+        ],
+        [
+          {
+            "text": "8"
+          },
+          {
+            "text": "Cricket"
+          },
+          {
+            "text": "Men"
+          },
+          {
+            "text": "11-May"
+          }
+        ],
+        [
+          {
+            "text": "9"
+          },
+          {
+            "text": "Khookho"
+          },
+          {
+            "text": "Men/Women"
+          },
+          {
+            "text": "09-Apr"
+          }
+        ],
+        [
+          {
+            "text": "10"
+          },
+          {
+            "text": "Kabbadi"
+          },
+          {
+            "text": "Men"
+          },
+          {
+            "text": "07-May"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Systems of Matches Playing",
+      "level": 4
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "S.No."
+          },
+          {
+            "text": "Game"
+          },
+          {
+            "text": "Rounds"
+          },
+          {
+            "text": "Semi & Finals"
+          }
+        ],
+        [
+          {
+            "text": "1"
+          },
+          {
+            "text": "Chess"
+          },
+          {
+            "text": "Single Match System"
+          },
+          {
+            "text": "Single board systems"
+          }
+        ],
+        [
+          {
+            "text": "2"
+          },
+          {
+            "text": "Caroms"
+          },
+          {
+            "text": "Single Match System"
+          },
+          {
+            "text": "Best of Boards"
+          }
+        ],
+        [
+          {
+            "text": "3"
+          },
+          {
+            "text": "Table Tennis"
+          },
+          {
+            "text": "Single Match System"
+          },
+          {
+            "text": "Best of Matches"
+          }
+        ],
+        [
+          {
+            "text": "4"
+          },
+          {
+            "text": "Tennikoit"
+          },
+          {
+            "text": "Single Match System"
+          },
+          {
+            "text": "Best of Matches"
+          }
+        ],
+        [
+          {
+            "text": "5"
+          },
+          {
+            "text": "Volley Ball"
+          },
+          {
+            "text": "Single Match System"
+          },
+          {
+            "text": "Best of Matches"
+          }
+        ],
+        [
+          {
+            "text": "6"
+          },
+          {
+            "text": "Throw Ball"
+          },
+          {
+            "text": "Single Match System"
+          },
+          {
+            "text": "Best of Matches"
+          }
+        ],
+        [
+          {
+            "text": "7"
+          },
+          {
+            "text": "Cricket"
+          },
+          {
+            "text": "20 Overs Match"
+          },
+          {
+            "text": "25 Overs"
+          }
+        ],
+        [
+          {
+            "text": "8"
+          },
+          {
+            "text": "Khookho"
+          },
+          {
+            "text": "10+5+10"
+          },
+          {
+            "text": "10+5+10"
+          }
+        ],
+        [
+          {
+            "text": "9"
+          },
+          {
+            "text": "Kabbadi"
+          },
+          {
+            "text": "7+5+7"
+          },
+          {
+            "text": "7+5+7"
+          }
+        ],
+        [
+          {
+            "text": "10"
+          },
+          {
+            "text": "Basket Ball"
+          },
+          {
+            "text": "20+10+20"
+          },
+          {
+            "text": "20+10+20"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Rules and Regulations of the Competitions",
+      "level": 4
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "All the teams and individuals requested to report at the respective ground and places as maintained by the event coordinator"
+        },
+        {
+          "text": "If a team comes individually late the team has individual would be considers a walk over"
+        },
+        {
+          "text": "The matches will be played knock out basis"
+        },
+        {
+          "text": "Referee decision is final in all matches"
+        },
+        {
+          "text": "Draw will be taken by department of physical education and coordinators"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Rules of College team selections",
+      "level": 4
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Skill of their games performance and playing ability performance"
+        },
+        {
+          "text": "Character of discipline in the college"
+        },
+        {
+          "text": "The Players who selected college team in any event he/she should obey the rules of departments"
+        },
+        {
+          "text": "If any player found indiscipline character will be send out immediately. Both physical director and sports coordinator will be the selectors for the college team"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Working Hours",
+      "level": 4
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Gym (3.00 PM onwards) A modern gymnasium with latest equipment is provided for the physical fitness of the students giving proper training to the students"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Gymnasium Rules",
+      "level": 4
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Every student will be allowed 60 Min per day"
+        },
+        {
+          "text": "Do not eat before exercise"
+        },
+        {
+          "text": "Do not enter with chapels, wear sports shoes"
+        },
+        {
+          "text": "Wear a Tea shirt and Lower track"
+        },
+        {
+          "text": "Bring One small towel to wipe your sweat"
+        },
+        {
+          "text": "Handle equipment gently"
+        },
+        {
+          "text": "Maintain strict silence"
+        },
+        {
+          "text": "Do not run, shout and drag inside the gym"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Details of different Equipment",
+      "level": 4
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "Boys Gym Equipment"
+          },
+          {
+            "text": "Girls Gym Equipment"
+          }
+        ],
+        [
+          {
+            "text": "Multi gym 4 station"
+          },
+          {
+            "text": "TREADMILL AF 210"
+          }
+        ],
+        [
+          {
+            "text": "Squat Machine"
+          },
+          {
+            "text": "ELLIPTICAL CROSS TRAINER AF 243 EL"
+          }
+        ],
+        [
+          {
+            "text": "Lat pull down"
+          },
+          {
+            "text": "RECUMBENT BIKE AF 263R"
+          }
+        ],
+        [
+          {
+            "text": "Olympic bench press"
+          },
+          {
+            "text": "UPRIGHT BIKE AF 278 U"
+          }
+        ],
+        [
+          {
+            "text": "Olympic Bench Press decline"
+          },
+          {
+            "text": "GYM AF 709"
+          }
+        ],
+        [
+          {
+            "text": "T-bar"
+          },
+          {
+            "text": "GYM AF 4600"
+          }
+        ],
+        [
+          {
+            "text": "Bench Press"
+          },
+          {
+            "text": "SIT UP BENCH AF 905"
+          }
+        ],
+        [
+          {
+            "text": "Sit up Bench"
+          },
+          {
+            "text": "TWISTER 2 IN I"
+          }
+        ],
+        [
+          {
+            "text": "Elliptical trainer"
+          },
+          {
+            "text": "DUMBBELLS"
+          }
+        ],
+        [
+          {
+            "text": "Hyper extension"
+          },
+          {
+            "text": "GYM BALLS"
+          }
+        ],
+        [
+          {
+            "text": "Gym balls"
+          },
+          {
+            "text": ""
+          }
+        ],
+        [
+          {
+            "text": "Dumbles"
+          },
+          {
+            "text": ""
+          }
+        ],
+        [
+          {
+            "text": "Olympic plates and rods"
+          },
+          {
+            "text": ""
+          }
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Details of different Equipment",
+      "level": 4
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Chess and Caroms: Six Chess Boards, six carom boards with seating capacity is provided"
+        },
+        {
+          "text": "One TT board of STAG provided"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Planning for implementations of college Teams",
+      "level": 4
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Planning to participate students in inters college; inter university state and national level in different games and sports like Cricket, athletics?"
+        },
+        {
+          "text": "Planning teams to train in professional way for facing competitions apart from college schedule"
+        },
+        {
+          "text": "Planning in organizing tournaments in different sports and games"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "GYM",
+      "level": 4
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Planning students to utilize gym by giving proper training"
+        },
+        {
+          "text": "Planning of expansion of gym with some latest equipment like twister, thread mill etc?"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "GENERAL",
+      "level": 4
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Scheduling of time table weekly wise for each and every class"
+        },
+        {
+          "text": "Exhibiting participant?s competition results to all departments and in Newsletters"
+        }
+      ]
     }
-   ]
-  },
-  {
-   "type": "heading",
-   "text": "Aims and objectives of the department",
-   "level": 4
-  },
-  {
-   "type": "list",
-   "ordered": false,
-   "items": [
-    {
-     "text": "To encourage sports men ship and to promote friendly relations among the various college departments"
-    },
-    {
-     "text": "To raise the standards of sports and prevailing in the colleges and to work for development of values through sports among students"
-    },
-    {
-     "text": "To organize tournaments in different sports and games every year"
-    },
-    {
-     "text": "To make participation in inter college, inter university state and national level in different games and sports like Cricket, athletics"
-    }
-   ]
-  },
-  {
-   "type": "heading",
-   "text": "No. of Players required for each team",
-   "level": 4
-  },
-  {
-   "type": "table",
-   "rows": [
-    [
-     {
-      "text": "S.No."
-     },
-     {
-      "text": "Game"
-     },
-     {
-      "text": "Category"
-     },
-     {
-      "text": "No of Players : Main / Substitute"
-     }
-    ],
-    [
-     {
-      "text": "1"
-     },
-     {
-      "text": "Chess"
-     },
-     {
-      "text": "Men/ Women"
-     },
-     {
-      "text": "1+2 (S+D) / Nil"
-     }
-    ],
-    [
-     {
-      "text": "2"
-     },
-     {
-      "text": "Caroms"
-     },
-     {
-      "text": "Men/ Women"
-     },
-     {
-      "text": "1+2 (S+D) / Nil"
-     }
-    ],
-    [
-     {
-      "text": "3"
-     },
-     {
-      "text": "Table Tennis"
-     },
-     {
-      "text": "Men/ Women"
-     },
-     {
-      "text": "1+2 (S+D) / Nil"
-     }
-    ],
-    [
-     {
-      "text": "4"
-     },
-     {
-      "text": "Throw Ball"
-     },
-     {
-      "text": "Women"
-     },
-     {
-      "text": ""
-     }
-    ],
-    [
-     {
-      "text": "5"
-     },
-     {
-      "text": "Tennikoit"
-     },
-     {
-      "text": "Women"
-     },
-     {
-      "text": "1+2 (S+D) / Nil"
-     }
-    ],
-    [
-     {
-      "text": "6"
-     },
-     {
-      "text": "Volley Ball"
-     },
-     {
-      "text": "Men"
-     },
-     {
-      "text": ""
-     }
-    ],
-    [
-     {
-      "text": "7"
-     },
-     {
-      "text": "Basket Ball"
-     },
-     {
-      "text": "Men"
-     },
-     {
-      "text": ""
-     }
-    ],
-    [
-     {
-      "text": "8"
-     },
-     {
-      "text": "Cricket"
-     },
-     {
-      "text": "Men"
-     },
-     {
-      "text": "11-May"
-     }
-    ],
-    [
-     {
-      "text": "9"
-     },
-     {
-      "text": "Khookho"
-     },
-     {
-      "text": "Men/Women"
-     },
-     {
-      "text": "09-Apr"
-     }
-    ],
-    [
-     {
-      "text": "10"
-     },
-     {
-      "text": "Kabbadi"
-     },
-     {
-      "text": "Men"
-     },
-     {
-      "text": "07-May"
-     }
-    ]
-   ]
-  },
-  {
-   "type": "heading",
-   "text": "Systems of Matches Playing",
-   "level": 4
-  },
-  {
-   "type": "table",
-   "rows": [
-    [
-     {
-      "text": "S.No."
-     },
-     {
-      "text": "Game"
-     },
-     {
-      "text": "Rounds"
-     },
-     {
-      "text": "Semi & Finals"
-     }
-    ],
-    [
-     {
-      "text": "1"
-     },
-     {
-      "text": "Chess"
-     },
-     {
-      "text": "Single Match System"
-     },
-     {
-      "text": "Single board systems"
-     }
-    ],
-    [
-     {
-      "text": "2"
-     },
-     {
-      "text": "Caroms"
-     },
-     {
-      "text": "Single Match System"
-     },
-     {
-      "text": "Best of Boards"
-     }
-    ],
-    [
-     {
-      "text": "3"
-     },
-     {
-      "text": "Table Tennis"
-     },
-     {
-      "text": "Single Match System"
-     },
-     {
-      "text": "Best of Matches"
-     }
-    ],
-    [
-     {
-      "text": "4"
-     },
-     {
-      "text": "Tennikoit"
-     },
-     {
-      "text": "Single Match System"
-     },
-     {
-      "text": "Best of Matches"
-     }
-    ],
-    [
-     {
-      "text": "5"
-     },
-     {
-      "text": "Volley Ball"
-     },
-     {
-      "text": "Single Match System"
-     },
-     {
-      "text": "Best of Matches"
-     }
-    ],
-    [
-     {
-      "text": "6"
-     },
-     {
-      "text": "Throw Ball"
-     },
-     {
-      "text": "Single Match System"
-     },
-     {
-      "text": "Best of Matches"
-     }
-    ],
-    [
-     {
-      "text": "7"
-     },
-     {
-      "text": "Cricket"
-     },
-     {
-      "text": "20 Overs Match"
-     },
-     {
-      "text": "25 Overs"
-     }
-    ],
-    [
-     {
-      "text": "8"
-     },
-     {
-      "text": "Khookho"
-     },
-     {
-      "text": "10+5+10"
-     },
-     {
-      "text": "10+5+10"
-     }
-    ],
-    [
-     {
-      "text": "9"
-     },
-     {
-      "text": "Kabbadi"
-     },
-     {
-      "text": "7+5+7"
-     },
-     {
-      "text": "7+5+7"
-     }
-    ],
-    [
-     {
-      "text": "10"
-     },
-     {
-      "text": "Basket Ball"
-     },
-     {
-      "text": "20+10+20"
-     },
-     {
-      "text": "20+10+20"
-     }
-    ]
-   ]
-  },
-  {
-   "type": "heading",
-   "text": "Rules and Regulations of the Competitions",
-   "level": 4
-  },
-  {
-   "type": "list",
-   "ordered": false,
-   "items": [
-    {
-     "text": "All the teams and individuals requested to report at the respective ground and places as maintained by the event coordinator"
-    },
-    {
-     "text": "If a team comes individually late the team has individual would be considers a walk over"
-    },
-    {
-     "text": "The matches will be played knock out basis"
-    },
-    {
-     "text": "Referee decision is final in all matches"
-    },
-    {
-     "text": "Draw will be taken by department of physical education and coordinators"
-    }
-   ]
-  },
-  {
-   "type": "heading",
-   "text": "Rules of College team selections",
-   "level": 4
-  },
-  {
-   "type": "list",
-   "ordered": false,
-   "items": [
-    {
-     "text": "Skill of their games performance and playing ability performance"
-    },
-    {
-     "text": "Character of discipline in the college"
-    },
-    {
-     "text": "The Players who selected college team in any event he/she should obey the rules of departments"
-    },
-    {
-     "text": "If any player found indiscipline character will be send out immediately. Both physical director and sports coordinator will be the selectors for the college team"
-    }
-   ]
-  },
-  {
-   "type": "heading",
-   "text": "Working Hours",
-   "level": 4
-  },
-  {
-   "type": "list",
-   "ordered": false,
-   "items": [
-    {
-     "text": "Gym (3.00 PM onwards) A modern gymnasium with latest equipment is provided for the physical fitness of the students giving proper training to the students"
-    }
-   ]
-  },
-  {
-   "type": "heading",
-   "text": "Gymnasium Rules",
-   "level": 4
-  },
-  {
-   "type": "list",
-   "ordered": false,
-   "items": [
-    {
-     "text": "Every student will be allowed 60 Min per day"
-    },
-    {
-     "text": "Do not eat before exercise"
-    },
-    {
-     "text": "Do not enter with chapels, wear sports shoes"
-    },
-    {
-     "text": "Wear a Tea shirt and Lower track"
-    },
-    {
-     "text": "Bring One small towel to wipe your sweat"
-    },
-    {
-     "text": "Handle equipment gently"
-    },
-    {
-     "text": "Maintain strict silence"
-    },
-    {
-     "text": "Do not run, shout and drag inside the gym"
-    }
-   ]
-  },
-  {
-   "type": "heading",
-   "text": "Details of different Equipment",
-   "level": 4
-  },
-  {
-   "type": "table",
-   "rows": [
-    [
-     {
-      "text": "Boys Gym Equipment"
-     },
-     {
-      "text": "Girls Gym Equipment"
-     }
-    ],
-    [
-     {
-      "text": "Multi gym 4 station"
-     },
-     {
-      "text": "TREADMILL AF 210"
-     }
-    ],
-    [
-     {
-      "text": "Squat Machine"
-     },
-     {
-      "text": "ELLIPTICAL CROSS TRAINER AF 243 EL"
-     }
-    ],
-    [
-     {
-      "text": "Lat pull down"
-     },
-     {
-      "text": "RECUMBENT BIKE AF 263R"
-     }
-    ],
-    [
-     {
-      "text": "Olympic bench press"
-     },
-     {
-      "text": "UPRIGHT BIKE AF 278 U"
-     }
-    ],
-    [
-     {
-      "text": "Olympic Bench Press decline"
-     },
-     {
-      "text": "GYM AF 709"
-     }
-    ],
-    [
-     {
-      "text": "T-bar"
-     },
-     {
-      "text": "GYM AF 4600"
-     }
-    ],
-    [
-     {
-      "text": "Bench Press"
-     },
-     {
-      "text": "SIT UP BENCH AF 905"
-     }
-    ],
-    [
-     {
-      "text": "Sit up Bench"
-     },
-     {
-      "text": "TWISTER 2 IN I"
-     }
-    ],
-    [
-     {
-      "text": "Elliptical trainer"
-     },
-     {
-      "text": "DUMBBELLS"
-     }
-    ],
-    [
-     {
-      "text": "Hyper extension"
-     },
-     {
-      "text": "GYM BALLS"
-     }
-    ],
-    [
-     {
-      "text": "Gym balls"
-     },
-     {
-      "text": ""
-     }
-    ],
-    [
-     {
-      "text": "Dumbles"
-     },
-     {
-      "text": ""
-     }
-    ],
-    [
-     {
-      "text": "Olympic plates and rods"
-     },
-     {
-      "text": ""
-     }
-    ]
-   ]
-  },
-  {
-   "type": "heading",
-   "text": "Details of different Equipment",
-   "level": 4
-  },
-  {
-   "type": "list",
-   "ordered": false,
-   "items": [
-    {
-     "text": "Chess and Caroms: Six Chess Boards, six carom boards with seating capacity is provided"
-    },
-    {
-     "text": "One TT board of STAG provided"
-    }
-   ]
-  },
-  {
-   "type": "heading",
-   "text": "Planning for implementations of college Teams",
-   "level": 4
-  },
-  {
-   "type": "list",
-   "ordered": false,
-   "items": [
-    {
-     "text": "Planning to participate students in inters college; inter university state and national level in different games and sports like Cricket, athletics?"
-    },
-    {
-     "text": "Planning teams to train in professional way for facing competitions apart from college schedule"
-    },
-    {
-     "text": "Planning in organizing tournaments in different sports and games"
-    }
-   ]
-  },
-  {
-   "type": "heading",
-   "text": "GYM",
-   "level": 4
-  },
-  {
-   "type": "list",
-   "ordered": false,
-   "items": [
-    {
-     "text": "Planning students to utilize gym by giving proper training"
-    },
-    {
-     "text": "Planning of expansion of gym with some latest equipment like twister, thread mill etc?"
-    }
-   ]
-  },
-  {
-   "type": "heading",
-   "text": "GENERAL",
-   "level": 4
-  },
-  {
-   "type": "list",
-   "ordered": false,
-   "items": [
-    {
-     "text": "Scheduling of time table weekly wise for each and every class"
-    },
-    {
-     "text": "Exhibiting participant?s competition results to all departments and in Newsletters"
-    }
-   ]
-  }
- ]
+  ]
 }

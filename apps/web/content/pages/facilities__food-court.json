@@ -1,19 +1,19 @@
 {
- "slug": "facilities/food-court",
- "section": "facilities",
- "sectionTitle": "Facilities",
- "title": "Food Court",
- "legacy": "https://qiscet.edu.in/qiscet/FACILITIES_foodcourt.php",
- "summary": "A diverse menu with a range of delicacies is offered at subsidized pricing. QIS is keen on adhering to its Health and Hygiene Policy and it is for this reason that the food court is not outsourced…",
- "blocks": [
-  {
-   "type": "image",
-   "src": "/images/images/foodcourt.jpg",
-   "alt": "canteen"
-  },
-  {
-   "type": "paragraph",
-   "text": "A diverse menu with a range of delicacies is offered at subsidized pricing. QIS is keen on adhering to its Health and Hygiene Policy and it is for this reason that the food court is not outsourced but is monitored directly by the Institute. However, it is worthwhile mentioning here that the scope of the food court is not deemed to be confined to merely satiating the appetite."
-  }
- ]
+  "slug": "facilities/food-court",
+  "section": "facilities",
+  "sectionTitle": "Facilities",
+  "title": "Food Court",
+  "legacy": "https://qiscet.edu.in/qiscet/FACILITIES_foodcourt.php",
+  "summary": "A diverse menu with a range of delicacies is offered at subsidized pricing. QIS is keen on adhering to its Health and Hygiene Policy and it is for this reason that the food court is not outsourced…",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "/images/images/foodcourt.jpg",
+      "alt": "Food Court"
+    },
+    {
+      "type": "paragraph",
+      "text": "A diverse menu with a range of delicacies is offered at subsidized pricing. QIS is keen on adhering to its Health and Hygiene Policy and it is for this reason that the food court is not outsourced but is monitored directly by the Institute. However, it is worthwhile mentioning here that the scope of the food court is not deemed to be confined to merely satiating the appetite."
+    }
+  ]
 }

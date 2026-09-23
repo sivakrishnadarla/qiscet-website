@@ -1,19 +1,19 @@
 {
- "slug": "facilities/cafeteria",
- "section": "facilities",
- "sectionTitle": "Facilities",
- "title": "Cafeteria",
- "legacy": "https://qiscet.edu.in/qiscet/Facilities_Cafeteria.php",
- "summary": "Cafeteria is functioning in the campus adjacent to the Book Store for the benefit of students & staff. Spacious, airy & trendy canteen & bakery offers ample scope for students to break free from…",
- "blocks": [
-  {
-   "type": "image",
-   "src": "/images/images/cafeteria.jpg",
-   "alt": "canteen"
-  },
-  {
-   "type": "paragraph",
-   "text": "Cafeteria is functioning in the campus adjacent to the Book Store for the benefit of students & staff. Spacious, airy & trendy canteen & bakery offers ample scope for students to break free from their tough schedules and enjoy appetizing food in an extremely casual yet pleasant ambience."
-  }
- ]
+  "slug": "facilities/cafeteria",
+  "section": "facilities",
+  "sectionTitle": "Facilities",
+  "title": "Cafeteria",
+  "legacy": "https://qiscet.edu.in/qiscet/Facilities_Cafeteria.php",
+  "summary": "Cafeteria is functioning in the campus adjacent to the Book Store for the benefit of students & staff. Spacious, airy & trendy canteen & bakery offers ample scope for students to break free from…",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "/images/images/cafeteria.jpg",
+      "alt": "Cafeteria"
+    },
+    {
+      "type": "paragraph",
+      "text": "Cafeteria is functioning in the campus adjacent to the Book Store for the benefit of students & staff. Spacious, airy & trendy canteen & bakery offers ample scope for students to break free from their tough schedules and enjoy appetizing food in an extremely casual yet pleasant ambience."
+    }
+  ]
 }

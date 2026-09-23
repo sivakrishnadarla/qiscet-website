@@ -1,86 +1,86 @@
 {
- "slug": "facilities/mineral-water",
- "section": "facilities",
- "sectionTitle": "Facilities",
- "title": "Mineral Water (RO Plant)",
- "legacy": "https://qiscet.edu.in/qiscet/FACILITIES_minaralwater.php",
- "summary": "A well-equipped campus is essential for creating a conductive learning environment for students. The college is committed to providing all necessary facilities that contribute to a hassle-free and…",
- "blocks": [
-  {
-   "type": "heading",
-   "text": "Capacity of 2 Plants each 2000 Ltrs / Hour",
-   "level": 5
-  },
-  {
-   "type": "paragraph",
-   "text": "A well-equipped campus is essential for creating a conductive learning environment for students. The college is committed to providing all necessary facilities that contribute to a hassle-free and comfortable campus experience. One of the most fundamental needs of students is access to safe and clean drinking water, as hydration plays a crucial role in maintaining health and overall well- being. To meet this essential requirement, the college has taken significant steps to ensure the availability of high-quality drinking water."
-  },
-  {
-   "type": "paragraph",
-   "text": "Understanding the importance of clean water in daily life, the college has installed two Reverse Osmosis (RO) Plants to provide a continuous supply of purified mineral water. These state-of- the-art RO plants function as a reliable source of safe drinking water, ensuring that students, faculty, and staff have easy access to clean water at all times. This initiative is part of the college’s commitment to creating a healthy and supportive campus environment."
-  },
-  {
-   "type": "image",
-   "src": "/images/facilities/minaral_water/1.jpg",
-   "alt": "canteen"
-  },
-  {
-   "type": "heading",
-   "text": "Importance of Safe Drinking Water on Campus",
-   "level": 4
-  },
-  {
-   "type": "paragraph",
-   "text": "Water quality directly impacts the health of students and faculty members. Contaminated or untreated water can lead to various waterborne diseases, including diarrhea, cholera, and typhoid. To prevent such risks, the college has invested in advanced filtration systems through RO plants that remove impurities, harmful bacteria, and excessive minerals from the water supply. The two RO plants ensure that a sufficient quantity of purified drinking water is available throughout the campus, reducing dependency on external sources and eliminating concerns related to unsafe drinking water."
-  },
-  {
-   "type": "paragraph",
-   "text": "Students spend long hours on campus attending lectures, working on assignments, and participating in extracurricular activities. Dehydration can negatively impact concentration, cognitive abilities, and physical performance. With the installation of two RO plants, students no longer have to worry about carrying bottled water from home or purchasing expensive alternatives from outside vendors. The provision of clean and safe drinking water on campus allows students to focus entirely on their academic and personal growth."
-  },
-  {
-   "type": "image",
-   "src": "/images/facilities/minaral_water/2.jpg",
-   "alt": "canteen"
-  },
-  {
-   "type": "heading",
-   "text": "Features and Benefits of the RO Plants",
-   "level": 4
-  },
-  {
-   "type": "paragraph",
-   "text": "Reverse Osmosis (RO) technology is one of the most effective water purification methods. It works by forcing water through a semi-permeable membrane, filtering out contaminants, harmful chemicals, and dissolved solids. The RO plants installed in the college are designed to meet high standards of purification, ensuring that the water remains free from pollutants and retains essential minerals for good health."
-  },
-  {
-   "type": "image",
-   "src": "/images/facilities/minaral_water/3.jpg",
-   "alt": "canteen"
-  },
-  {
-   "type": "paragraph",
-   "text": "Some of the key benefits of having two RO plants on campus include:"
-  },
-  {
-   "type": "list",
-   "ordered": true,
-   "items": [
+  "slug": "facilities/mineral-water",
+  "section": "facilities",
+  "sectionTitle": "Facilities",
+  "title": "Mineral Water (RO Plant)",
+  "legacy": "https://qiscet.edu.in/qiscet/FACILITIES_minaralwater.php",
+  "summary": "A well-equipped campus is essential for creating a conductive learning environment for students. The college is committed to providing all necessary facilities that contribute to a hassle-free and…",
+  "blocks": [
     {
-     "text": "Continuous Water Supply – With two RO plants, there is no shortage of clean drinking water, even during peak usage hours."
+      "type": "heading",
+      "text": "Capacity of 2 Plants each 2000 Ltrs / Hour",
+      "level": 5
     },
     {
-     "text": "Improved Health and Hygiene – Safe drinking water reduces the risk of infections and illnesses caused by contaminated water."
+      "type": "paragraph",
+      "text": "A well-equipped campus is essential for creating a conductive learning environment for students. The college is committed to providing all necessary facilities that contribute to a hassle-free and comfortable campus experience. One of the most fundamental needs of students is access to safe and clean drinking water, as hydration plays a crucial role in maintaining health and overall well- being. To meet this essential requirement, the college has taken significant steps to ensure the availability of high-quality drinking water."
     },
     {
-     "text": "Convenience for Students – Easily accessible drinking water stations are placed across the campus, making it effortless for students to stay hydrated."
+      "type": "paragraph",
+      "text": "Understanding the importance of clean water in daily life, the college has installed two Reverse Osmosis (RO) Plants to provide a continuous supply of purified mineral water. These state-of- the-art RO plants function as a reliable source of safe drinking water, ensuring that students, faculty, and staff have easy access to clean water at all times. This initiative is part of the college’s commitment to creating a healthy and supportive campus environment."
     },
     {
-     "text": "Cost-Effective and Environmentally Friendly – The availability of purified drinking water reduces the need for plastic bottled water, promoting sustainability."
+      "type": "image",
+      "src": "/images/facilities/minaral_water/1.jpg",
+      "alt": "Mineral Water (RO Plant)"
+    },
+    {
+      "type": "heading",
+      "text": "Importance of Safe Drinking Water on Campus",
+      "level": 4
+    },
+    {
+      "type": "paragraph",
+      "text": "Water quality directly impacts the health of students and faculty members. Contaminated or untreated water can lead to various waterborne diseases, including diarrhea, cholera, and typhoid. To prevent such risks, the college has invested in advanced filtration systems through RO plants that remove impurities, harmful bacteria, and excessive minerals from the water supply. The two RO plants ensure that a sufficient quantity of purified drinking water is available throughout the campus, reducing dependency on external sources and eliminating concerns related to unsafe drinking water."
+    },
+    {
+      "type": "paragraph",
+      "text": "Students spend long hours on campus attending lectures, working on assignments, and participating in extracurricular activities. Dehydration can negatively impact concentration, cognitive abilities, and physical performance. With the installation of two RO plants, students no longer have to worry about carrying bottled water from home or purchasing expensive alternatives from outside vendors. The provision of clean and safe drinking water on campus allows students to focus entirely on their academic and personal growth."
+    },
+    {
+      "type": "image",
+      "src": "/images/facilities/minaral_water/2.jpg",
+      "alt": "Mineral Water (RO Plant)"
+    },
+    {
+      "type": "heading",
+      "text": "Features and Benefits of the RO Plants",
+      "level": 4
+    },
+    {
+      "type": "paragraph",
+      "text": "Reverse Osmosis (RO) technology is one of the most effective water purification methods. It works by forcing water through a semi-permeable membrane, filtering out contaminants, harmful chemicals, and dissolved solids. The RO plants installed in the college are designed to meet high standards of purification, ensuring that the water remains free from pollutants and retains essential minerals for good health."
+    },
+    {
+      "type": "image",
+      "src": "/images/facilities/minaral_water/3.jpg",
+      "alt": "Mineral Water (RO Plant)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Some of the key benefits of having two RO plants on campus include:"
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        {
+          "text": "Continuous Water Supply – With two RO plants, there is no shortage of clean drinking water, even during peak usage hours."
+        },
+        {
+          "text": "Improved Health and Hygiene – Safe drinking water reduces the risk of infections and illnesses caused by contaminated water."
+        },
+        {
+          "text": "Convenience for Students – Easily accessible drinking water stations are placed across the campus, making it effortless for students to stay hydrated."
+        },
+        {
+          "text": "Cost-Effective and Environmentally Friendly – The availability of purified drinking water reduces the need for plastic bottled water, promoting sustainability."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "By installing two RO plants, the college reinforces its commitment to student welfare and wellbeing. This initiative ensures that every student, faculty member, and visitor on campus has access to clean and safe drinking water, fostering a healthier academic environment."
     }
-   ]
-  },
-  {
-   "type": "paragraph",
-   "text": "By installing two RO plants, the college reinforces its commitment to student welfare and wellbeing. This initiative ensures that every student, faculty member, and visitor on campus has access to clean and safe drinking water, fostering a healthier academic environment."
-  }
- ]
+  ]
 }

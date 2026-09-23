@@ -28,9 +28,9 @@ export default function FloatingActions() {
         <button
           type="button"
           onClick={() => setDrawer(true)}
-          className="fixed right-0 top-1/2 z-40 hidden -translate-y-1/2 rotate-180 rounded-l-none rounded-r-xl bg-saffron-500 px-2.5 py-4 text-xs font-bold uppercase tracking-[0.2em] text-white shadow-lift [writing-mode:vertical-rl] hover:bg-saffron-600 md:block"
+          className="fixed right-0 top-1/2 z-40 hidden h-36 w-10 -translate-y-1/2 items-center justify-center rounded-l-xl rounded-r-none bg-saffron-500 text-[11px] font-bold uppercase tracking-[0.14em] text-white shadow-lift hover:bg-saffron-600 lg:flex"
         >
-          Enquire Now
+          <span className="-rotate-90 whitespace-nowrap">Enquire Now</span>
         </button>
       ) : null}
 
